@@ -1,0 +1,9 @@
+本试玩中文字体为字符子集，使用 SIL Open Font License 1.1。
+
+Birdfish Serif Demo：由 Source Han Serif 派生。Copyright © 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name Source.
+原始字体：https://github.com/adobe-fonts/source-han-serif
+
+Birdfish Rounded Demo：由 Resource Han Rounded 派生。Copyright © 2018–2019 Cyano Hao. Portions © 2014, 2015, 2018 Adobe.
+原作者：https://github.com/CyanoHao
+
+修改：仅保留试玩正文和界面所需字符，转换为 WOFF2，重命名派生字体。原始版权和许可元数据保留。字体按 SIL OFL 1.1 许可；完整许可见 LICENSE-FONTS-OFL-1.1.txt。

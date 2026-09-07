@@ -1,0 +1,45 @@
+.Title_main {
+  width: 100%; height: 100%; position: absolute; z-index: 13;
+  background-position: center; isolation: isolate;
+  &::before {
+    content: ""; position: absolute; inset: 0; pointer-events: none;
+    background: linear-gradient(90deg, rgba(10,27,35,.94), rgba(13,36,43,.72) 37%, rgba(13,36,43,.06) 79%);
+  }
+  &::after {
+    content: "想要变成鹰的鱼";
+    white-space: pre; position: absolute; top: 180px; left: 160px;
+    color: #f4e8cd; font-family: '思源宋体', 'Songti SC', serif;
+    font-size: 94px; font-weight: 500; letter-spacing: .12em; line-height: 1.8;
+    text-shadow: 0 3px 20px rgba(2,18,24,.4); pointer-events: none;
+  }
+}
+.Title_buttonList {
+  display: flex; flex-direction: column; align-items: flex-start;
+  position: absolute; top: 660px; left: 174px; width: 600px;
+  padding: 0; margin: 0; gap: 14px;
+  &::before { content: "雨落之前 · 序章"; position: absolute; left: 0; top: -225px; color: #d7d5c4; font-family: '思源宋体', serif; font-size: 34px; letter-spacing: .2em; white-space: nowrap; }
+}
+.Title_button {
+  position: relative; box-sizing: border-box; min-width: 480px;
+  cursor: pointer; padding: 16px 26px; margin: 0;
+  border: 1px solid transparent; border-left: 3px solid rgba(217,193,146,.6);
+  border-radius: 0; background: rgba(5,25,33,.22);
+  transform: none; text-shadow: none; overflow: visible;
+  transition: background .2s, border-color .2s, transform .2s;
+  &:hover { background: rgba(227,211,174,.13); border-color: rgba(235,212,165,.65); transform: translateX(8px); }
+}
+.Title_button_text {
+  display: inline-block; position: relative; font-family: '思源宋体', 'Songti SC', serif;
+  font-size: 44px; font-weight: 400; letter-spacing: .22em; line-height: 1.3;
+  color: transparent; white-space: nowrap;
+}
+.Title_button_text_outer {
+  position: absolute; left: 0; top: 0; color: #f4ead5;
+  background: none; -webkit-text-fill-color: #f4ead5; white-space: nowrap; z-index: 2;
+}
+.Title_button_text_inner { display: none; }
+.Title_button_disabled { opacity: .35; cursor: not-allowed !important; }
+.Title_backup_background {
+  position: absolute; inset: 0; z-index: 13;
+  background: linear-gradient(120deg, #102d38, #496367);
+}

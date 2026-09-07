@@ -1,0 +1,31 @@
+.TextBox_main {
+  z-index: 3; position: absolute; box-sizing: border-box;
+  left: 0; right: 0; bottom: 68px; min-height: 410px; max-height: 410px;
+  padding: 95px 165px 35px 165px;
+  display: flex; flex-direction: column; align-items: flex-start;
+  color: #f5f0e4; font-weight: 400; letter-spacing: .04em;
+}
+.TextBox_main_miniavatarOff { left: 0; }
+.TextBox_Background {
+  z-index: 2; background: linear-gradient(180deg, rgba(11,29,38,.80), rgba(9,25,34,.96));
+  border-top: 1px solid rgba(235,218,182,.5);
+}
+.TextBox_showName {
+  position: absolute; left: 164px; top: 27px; height: 52px;
+  font-size: 85%; line-height: 52px; padding: 0; min-width: 0; border: 0; z-index: 3;
+}
+.TextBox_ShowName_Background { background: none; border: 0; box-shadow: none; }
+.TextBox_textElement_start { position: relative; animation: TextDelayShow 260ms ease-out forwards; opacity: 0; }
+.TextBox_textElement_Settled { position: relative; opacity: 1; }
+@keyframes TextDelayShow { from { opacity: 0; } to { opacity: 1; } }
+.outer { position: absolute; left: 0; top: 0; color: #f5f0e4; white-space: nowrap; z-index: 2; background: none; }
+.inner { position: absolute; left: 0; top: 0; color: transparent; white-space: nowrap; z-index: 1; }
+.zhanwei { color: transparent; white-space: nowrap; }
+.text { overflow: hidden; }
+.nameContainer { position: relative; left: 0; top: 0; }
+.outerName { position: absolute; left: 0; top: 0; color: #ead7b3; white-space: nowrap; z-index: 2; }
+.innerName { color: transparent; white-space: nowrap; }
+.miniAvatarContainer { display: none; }
+.readText {}
+.readTextOuter { color: #e2dccf; }
+.readTextInner {}

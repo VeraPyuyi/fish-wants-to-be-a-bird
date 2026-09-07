@@ -1,0 +1,37 @@
+Audio Credits
+
+Music
+
+“Midsummer Sky” — Kevin MacLeod (incompetech.com)
+“Lightless Dawn” — Kevin MacLeod (incompetech.com)
+“Living Voyage” — Kevin MacLeod (incompetech.com)
+“Almost New” — Kevin MacLeod (incompetech.com)
+“Dark Walk” — Kevin MacLeod (incompetech.com)
+“At Rest” — Kevin MacLeod (incompetech.com)
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Source: https://incompetech.com/music/royalty-free/music.html
+
+All six music files were edited for cyclic looping, fades, level matching, and MP3 delivery.
+
+Sound effects
+
+The wooden-door sound used in this build is by Kenney (kenney.nl), released under CC0 1.0, and converted from OGG to PCM WAV.
+
+https://kenney.nl/assets/impact-sounds
+https://kenney.nl/assets/rpg-audio
+https://creativecommons.org/publicdomain/zero/1.0/
+
+“Keys on the table” by Areti18 (Freesound sound 394944), CC0 1.0.
+The public HQ preview was converted to PCM WAV, normalized to -4 dBFS, and endpoint-faded.
+https://freesound.org/people/Areti18/sounds/394944/
+
+The heavy wooden-door close used in the playable build is Kenney’s doorClose_1 from RPG Audio, normalized to -4 dBFS.
+
+“stapler.wav” by j1987 (Freesound sound 95566), CC0 1.0.
+This real manual-stapler recording is used as foley for a manual ticket punch; it is not an on-location ticket-punch recording. The public HQ preview was trimmed to one action and normalized to -6 dBFS.
+https://freesound.org/people/j1987/sounds/95566/
+
+This build includes only the three credited effects: keys on a table, a wooden-door close, and stapler foley for a ticket punch. Earlier procedural paper, zipper, suitcase-wheel, key and ticket-punch prototype files are not included.

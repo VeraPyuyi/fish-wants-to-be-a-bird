@@ -1,0 +1,11 @@
+Game_name:想要变成鹰的鱼;
+Max_line:3;
+Line_height:1.55;
+# r2 uses an independent key. Existing saves under fish_wants_to_be_a_bird_prologue_2026 stay intact.
+Game_key:fish_wants_to_be_an_eagle_r2_20260907;
+Title_img:bg_street.webp;
+Title_bgm:bgm_title.mp3;
+Enable_Appreciation:false;
+Enable_Continue:true;
+Enable_flowchart:false;
+Default_Language:zh_CN;

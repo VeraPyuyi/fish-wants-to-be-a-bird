@@ -1,0 +1,22 @@
+/* Local UI additions; engine code and approved images remain separate. */
+._main_rdjpk_1 {
+  bottom: 0; right: 0; left: 0; height: 66px;
+  padding: 0 50px; border-radius: 0; box-sizing: border-box;
+  justify-content: flex-end; background: rgba(9, 25, 34, .94);
+  border-top: 1px solid rgba(217, 202, 168, .18);
+}
+._button_text_rdjpk_23 { color: #e6dfce; text-shadow: none; }
+._singleButton_rdjpk_42:hover { background: rgba(223, 210, 178, .16); }
+._button_on_rdjpk_31 { background: rgba(209, 183, 136, .26); }
+#game-recovery {
+  position: fixed; z-index: 10000; right: 18px; top: 18px;
+  max-width: min(370px, calc(100vw - 60px)); box-sizing: border-box;
+  padding: 20px; background: #193744; color: #f5ead4;
+  border: 1px solid #a99773; box-shadow: 0 8px 25px #0005;
+  font: 15px/1.6 system-ui, sans-serif;
+}
+#game-recovery p { margin: 0 0 12px; }
+#game-recovery button {
+  font: inherit; cursor: pointer; color: #17313c; background: #ecdfc4;
+  border: 0; border-radius: 2px; padding: 7px 14px; margin-right: 8px;
+}
