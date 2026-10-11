@@ -1,0 +1,13 @@
+{
+  "source": "production/r4/continuity/before/index-R1tKotR6.js",
+  "output": "web/assets/index-r4-bgm-743786b1.js",
+  "before_sha256": "e49e15f0db25c95556b6b1eccad89d6e77a32e284cd4e4852fad7dc9a3019902",
+  "after_sha256": "8deb6a98f2b7a003a2046f5d2800adf277066e1f029aff8c87e42f75af0e2956",
+  "controller_sha256": "c78d5bf5b5ece9fe816f18441600e6100a21f7a63dc4d6b57a8d51a0b3829957",
+  "music_files_modified": false,
+  "patch_scope": "BGM hook/controller, stable audio element, versioned ESM references",
+  "chunks": {
+    "initRegister-r4-continuity01.js": "26711476ada2c8e26a2dcdef3cede5462112d2dbeb6e01cfa14e1443e77f6af5",
+    "index.es-r4-continuity01.js": "1f8715227652f73ab99e62cbf0ae55b5562f7a72be2648adf495ce0a4d6fda0c"
+  }
+}

@@ -10,6 +10,7 @@ from __future__ import annotations
 import re
 import sys
 import json
+import itertools
 from pathlib import Path
 
 
@@ -62,6 +63,53 @@ def asset_name(content: str) -> str:
     if not stripped or stripped.startswith("-"):
         return ""
     return stripped.split(None, 1)[0]
+
+
+def validate_prologue_routes(path: Path) -> list[str]:
+    """Walk this prologue's eight native routes, including conditional dialogue."""
+    lines = [statement(s) for s in path.read_text(encoding="utf-8").splitlines()]
+    labels = {s[6:]: i for i, s in enumerate(lines) if s.startswith("label:")}
+    errors = []
+    for route in itertools.product((1, 2), repeat=3):
+        variables, spoken = {}, []
+        index = choice = 0
+        for _ in range(2000):
+            if index >= len(lines):
+                errors.append(f"route {route}: fell off script before end")
+                break
+            text = lines[index]
+            index += 1
+            condition = re.search(r" -when=(\w+)==(\d+)$", text)
+            if condition:
+                if variables.get(condition[1]) != int(condition[2]):
+                    continue
+                text = text[:condition.start()]
+            if text == "end":
+                if choice != 3:
+                    errors.append(f"route {route}: reached end after only {choice} choices")
+                note = "「既然你们不认，那我走就是。」" if route[0] == 1 else "「无论如何，我都要离开这里。」"
+                other = "「无论如何，我都要离开这里。」" if route[0] == 1 else "「既然你们不认，那我走就是。」"
+                if note not in spoken or other in spoken:
+                    errors.append(f"route {route}: farewell note contradicts selected choice")
+                break
+            if text.startswith("setVar:"):
+                match = re.match(r"setVar:(\w+)=(\d+)", text)
+                if match:
+                    variables[match[1]] = int(match[2])
+            elif text.startswith("choose:"):
+                if choice >= 3:
+                    errors.append(f"route {route}: repeated or extra choice")
+                    break
+                target = text[7:].split("|")[route[choice] - 1].rsplit(":", 1)[1]
+                index = labels[target]
+                choice += 1
+            elif text.startswith("jumpLabel:"):
+                index = labels[text[10:]]
+            elif text.startswith("苏雨晴:"):
+                spoken.append(text[4:])
+        else:
+            errors.append(f"route {route}: possible jump loop")
+    return errors
 
 
 def main() -> int:
@@ -150,6 +198,8 @@ def main() -> int:
             if option_count != 2:
                 errors.append(f"{path}:{line_no}: demo choices must be binary, found {option_count} options")
 
+    if not errors:
+        errors.extend(validate_prologue_routes(SCENE_DIR / "start.txt"))
     if errors:
         print("WebGAL validation failed:")
         print("\n".join(f"- {error}" for error in errors))
@@ -157,7 +207,7 @@ def main() -> int:
     combinations = 2 ** len(choices)
     print(
         f"WebGAL validation passed: {len(scenes)} scene file(s), "
-        f"{len(choices)} binary choices, {combinations} choice paths, "
+        f"{len(choices)} binary choices, {combinations} routes reach end with matching farewell text, "
         f"{len(pending)} jump(s)/choice target(s)."
     )
     return 0
