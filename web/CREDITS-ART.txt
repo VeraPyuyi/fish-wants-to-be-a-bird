@@ -4,10 +4,47 @@
 本作品是非商业视觉小说序章试玩。原作文字及人物设定的权利归相应权利人所有。
 公开仓库不包含小说全文；引擎或工具的许可证不等于原作及图像素材的再授权。
 
-背景和人物：项目内 AI 图像生成与编辑，经用户逐张审核；离家纸条与钥匙特写使用已批准 v03 图像，出租车场景使用已批准 v05 坐姿图像，职业中介与面馆使用已批准 v02 图像。
-运行时使用14张已批准背景/CG原图、2套已批准透明人物图。
-cg_home.webp 与 bg_rental_room.webp 为同一已批准出租屋 v04 图像的无损别名。
-标题复用已批准城市街景；S08 商铺侧与 S12 旧巷侧复用已批准小城市傍晚街景。镜头取景由引擎完成，没有新增图像差分。
+r4-20261011：以下36张项目内AI插画均经用户逐张审核通过。运行图由获批PNG转换为WebP，主图不另行修绘。标题复用已批准出租屋背景，所有环境取景由引擎完成。原著剧情的动作可由文字和环境取景共同表达，静图并非连续动画。
+嵌糕店与同行街景的招牌文字使用经用户批准的字体修补版本。
+本轮不叠加旧版透明人物；苏雨晴已绘入相应场景。
+
+CG-S02-01 | 客厅·离家前的停顿 | cg_s02_livingroom_su_hesitant_v04
+CG-S02-01-E01 | 客厅·目光坚定 | cg_s02_livingroom_su_resolved_v03
+BG-HOME-02 | 苏家客厅·离家前 | bg_livingroom_v04
+CG-HOME-01 | 离家前·纸条与钥匙 | cg_letter_v04
+BG-HOME-01 | 苏雨晴的卧室·离家前的收拾 | bg_bedroom_v04
+BG-TRAVEL-01 | 前往城站·苏雨晴坐在出租车后座 | bg_taxi_v07
+CG-S04-01 | 杭州城站售票厅·窗口买票 | cg_s04_ticket_hall_su_at_window_v07
+CG-S04-02 | 杭州城站售票厅·向清洁阿姨问路 | cg_s04_ticket_hall_su_asking_cleaner_v04
+BG-RAIL-01 | 城站站台·准备上车 | bg_platform_v04
+CG-S06-01 | T136车厢·独自远行 | cg_s06_train_su_seated_v04
+CG-S06-02 | T136车厢·倚座入睡 | cg_s06_train_su_asleep_v03
+CG-S06-03 | T136车厢·初醒到站 | cg_s06_train_su_waking_v03
+CG-S07-01 | 小城站前·初抵陌生城市 | cg_s07_town_station_su_arrival_v04
+CG-S08-01 | 小吃店前·怯生询价 | cg_s08_food_stall_su_inquiry_v04
+CG-S08-02 | 小吃店前·第一口热嵌糕 | cg_s08_food_stall_su_first_bite_v05
+CG-S09-01 | 职业中介·寻找第一份工作 | cg_s09_job_office_su_inquiry_v03
+CG-S09-02 | 职业中介·空了的口袋 | cg_s09_job_office_su_empty_pocket_v03
+CG-S09-03 | 中介门边·翻找书包 | cg_s09_doorway_su_bag_search_v04
+CG-S09-04 | 中介门外·最后一点希望 | cg_s09_outside_su_suitcase_search_v03
+CG-S09-05 | 职业中介·红着眼睛求助 | cg_s09_job_office_su_red_eye_help_v03
+CG-S10-01 | 公路边废屋·抱包熬夜 | cg_s10_night_su_huddled_v03
+CG-S10-02 | 公路边废屋·蜷身入睡 | cg_s10_night_su_curled_asleep_v03
+CG-S10-03 | 公路边废屋·噩梦初醒 | cg_s10_night_su_nightmare_wake_v03
+CG-S11-03 | 白石路·失落的脚步 | cg_s11_street_su_sad_walk_v05
+CG-S11-01 | 白石路面馆·怯生问工 | cg_s11_noodle_shop_su_inquiry_v03
+CG-S11-02 | 白石路面馆·终于有了工作 | cg_s11_noodle_shop_su_hired_v03
+CG-S12-01 | 去租屋的路上·有人同行 | cg_s12_rental_walk_su_with_zhang_v05
+CG-S12-02 | 去租屋的路上·摘帽后的迟疑 | cg_s12_rental_walk_su_cap_off_hesitant_v03
+CG-S12-03 | 去租屋的路上·一声小晴 | cg_s12_rental_walk_su_reassured_v03
+CG-S12-04 | 农民房小院·初见房东 | cg_s12_rental_courtyard_su_meets_landlord_v04
+CG-S13-01 | 出租屋·第一次看房 | cg_s13_rental_room_first_view_v05
+CG-S13-02 | 出租屋·难以开口 | cg_s13_rental_room_su_shortfall_v05
+CG-S13-03 | 出租屋·谢谢你，张阿姨 | cg_s13_rental_room_su_grateful_v06
+BG-RENT-01 | 小城出租屋·第一次拥有自己的房间 | bg_rental_room_v05
+CG-S14-01 | 自己的小窝·木板床上的安心 | cg_s14_room_su_first_rest_v01
+CG-S14-02 | 自己的小窝·灯下翻看旧日记 | cg_s14_room_su_diary_v01
 
 完整逐图审核与制作记录保留在本地，不随公开试玩发布。
-WebGAL 引擎提供原生界面图标；本项目定制文字、布局和配色。
+WebGAL引擎提供原生界面图标；本项目定制文字、布局和配色。
+原创歌曲与群像片头尚未完成，不包含在本次试玩更新中。

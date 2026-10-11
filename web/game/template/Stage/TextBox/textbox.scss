@@ -29,3 +29,37 @@
 .readText {}
 .readTextOuter { color: #e2dccf; }
 .readTextInner {}
+
+/* S07 only; native applyStyle is stored with the stage and reset at S08. */
+.TextBox_station_main {
+  z-index: 3; position: absolute; box-sizing: border-box;
+  left: 0; right: 0; bottom: 68px; min-height: 320px; max-height: none; height: auto;
+  padding: 72px 165px 18px 165px;
+  display: flex; flex-direction: column; align-items: flex-start;
+  color: #f5f0e4; font-weight: 400; letter-spacing: .04em;
+}
+.TextBox_station_name {
+  position: absolute; left: 164px; top: 14px; height: 48px;
+  font-size: 85%; line-height: 48px; padding: 0; min-width: 0; border: 0; z-index: 3;
+}
+
+/* PV-S11-01 v02 only: left narration panel leaves source x≈850..1672 clear. */
+.TextBox_walk_main {
+  z-index: 3; position: absolute; box-sizing: border-box;
+  left: 54px; right: 1320px; bottom: 72px; height: auto; min-height: 0; max-height: none;
+  padding: 68px 64px 34px 64px;
+  display: flex; flex-direction: column; align-items: flex-start;
+  color: #f5f0e4; font-weight: 400; letter-spacing: .04em;
+  background: linear-gradient(180deg, rgba(11,29,38,.80), rgba(9,25,34,.96));
+  border-top: 1px solid rgba(235,218,182,.5);
+}
+.TextBox_walk_background {
+  display: none;
+}
+
+/* PV-S12-01 v01: narrow left narration panel keeps Su, her hands, case and feet clear. */
+.TextBox_s12_left { z-index:3; position:absolute; box-sizing:border-box; left:54px; right:1500px; bottom:72px; height:auto; min-height:0; max-height:none; padding:100px 48px 30px; display:flex; flex-direction:column; align-items:flex-start; color:#f5f0e4; background:linear-gradient(180deg,rgba(11,29,38,.80),rgba(9,25,34,.96)); border-top:1px solid rgba(235,218,182,.5); }
+.TextBox_s12_left_background { display:none; }
+.TextBox_s12_left_name { position:absolute; left:48px; top:22px; height:52px; font-size:85%; line-height:52px; padding:0; min-width:0; border:0; z-index:4; }
+
+.TextBox_s12_courtyard { z-index:3; position:absolute; box-sizing:border-box; left:54px; right:1580px; bottom:72px; height:auto; min-height:0; max-height:none; padding:100px 38px 30px; display:flex; flex-direction:column; align-items:flex-start; color:#f5f0e4; background:linear-gradient(180deg,rgba(11,29,38,.80),rgba(9,25,34,.96)); border-top:1px solid rgba(235,218,182,.5); }

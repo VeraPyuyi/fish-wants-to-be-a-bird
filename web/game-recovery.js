@@ -1,6 +1,18 @@
 /* Project-local resource failure notice. Retry is always an explicit player action. */
 (() => {
   let pending = false;
+  // Scene/config/template URLs are mutable; version them so returning players
+  // cannot combine a new scene with a cached old save key or textbox layout.
+  function versionedGameURL(value) {
+    try {
+      const url = new URL(value, location.href);
+      if (url.origin === location.origin && /\/game\/(?:config\.txt$|scene\/.*\.txt$|template\/|userStyleSheet\.css$)/.test(url.pathname)) {
+        url.searchParams.set('v', 'r4-20261011');
+        return url.href;
+      }
+    } catch {}
+    return value;
+  }
   function isGameAsset(value) {
     try {
       const url = new URL(value, location.href);
@@ -27,6 +39,7 @@
   }, true);
   const originalFetch = window.fetch;
   window.fetch = async function (...args) {
+    if (typeof args[0] === 'string' || args[0] instanceof URL) args[0] = versionedGameURL(args[0]);
     const url = args[0] instanceof Request ? args[0].url : args[0];
     try {
       const response = await originalFetch.apply(this, args);
@@ -40,6 +53,6 @@
   const open = XMLHttpRequest.prototype.open;
   XMLHttpRequest.prototype.open = function (method, url, ...rest) {
     this.addEventListener('load', () => { if (this.status >= 400 && isGameAsset(url)) showRecovery(); }, { once: true });
-    return open.call(this, method, url, ...rest);
+    return open.call(this, method, versionedGameURL(url), ...rest);
   };
 })();

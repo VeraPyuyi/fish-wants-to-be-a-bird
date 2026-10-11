@@ -27,6 +27,7 @@ ASSET_DIRS = {
 # as dialogue by WebGAL.
 COMMAND_RE = re.compile(r"^([^:\s]+):(.*)$")
 KNOWN_COMMANDS = {
+    "applyStyle",
     "bgm",
     "changeBg",
     "changeFigure",
@@ -77,6 +78,9 @@ def main() -> int:
     labels: dict[Path, set[str]] = {}
     pending: list[tuple[Path, int, str, str]] = []
     choices: list[tuple[Path, int, int]] = []
+    template_classes = set()
+    for stylesheet in (ROOT / "web/game/template").rglob("*.scss"):
+        template_classes.update(re.findall(r"\.([A-Za-z_][A-Za-z0-9_-]*)", stylesheet.read_text(encoding="utf-8")))
     for path in scenes:
         labels[path] = set()
         for line_no, raw in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
@@ -99,7 +103,12 @@ def main() -> int:
                 if command not in KNOWN_SPEAKERS:
                     errors.append(f"{path}:{line_no}: unknown command or speaker: {command}")
                 continue
-            if command in {"changeScene", "callScene"}:
+            if command == "applyStyle":
+                for mapping in content.strip().split(","):
+                    parts = mapping.split("->")
+                    if len(parts) != 2 or any(name not in template_classes for name in parts):
+                        errors.append(f"{path}:{line_no}: invalid or missing template style: {mapping!r}")
+            elif command in {"changeScene", "callScene"}:
                 target = content.strip()
                 pending.append((path, line_no, command, target))
             elif command == "jumpLabel":

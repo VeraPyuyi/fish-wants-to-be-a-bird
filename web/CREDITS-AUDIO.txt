@@ -35,3 +35,20 @@ This real manual-stapler recording is used as foley for a manual ticket punch; i
 https://freesound.org/people/j1987/sounds/95566/
 
 This build includes only the three credited effects: keys on a table, a wooden-door close, and stapler foley for a ticket punch. Earlier procedural paper, zipper, suitcase-wheel, key and ticket-punch prototype files are not included.
+
+S10 revised piano
+
+"Touching Moments One - Pulse" Kevin MacLeod (incompetech.com). Licensed under CC BY 4.0. Changes: leading silence removed, tempo at 93% with pitch preserved, gain, endpoint fades and encoding; movie timing and fades. Changes for v04: tail support and 80ms endpoint fade.
+ISRC: USUAN1100039
+https://creativecommons.org/licenses/by/4.0/
+Source: https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100039
+
+R3 title-to-S09 rescore review
+
+"Awaiting Return" Kevin MacLeod (incompetech.com). CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ . Complete composition retained; leading silence 1.299297s and quiet release 3.501837s trimmed; linear gain 4.62dB; 8ms/60ms endpoint smoothing; MP3 192kbps. Tempo and pitch unchanged.
+
+"Heartbreaking" Kevin MacLeod (incompetech.com). CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ . Complete composition retained; leading silence 1.372426s and quiet release 6.448005s trimmed; linear gain 8.56dB; 8ms/60ms endpoint smoothing; MP3 192kbps. Tempo and pitch unchanged.
+
+"Almost New" Kevin MacLeod (incompetech.com). CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ . Complete composition retained; leading silence 0.015737s and quiet release 3.703469s trimmed; linear gain 2.43dB; 8ms/60ms endpoint smoothing; MP3 192kbps. Tempo and pitch unchanged.
+
+"Friday Morning" Kevin MacLeod (incompetech.com). CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ . Complete composition retained; leading silence 0.057460s and quiet release 4.711837s trimmed; linear gain 6.78dB; 8ms/60ms endpoint smoothing; MP3 192kbps. Tempo and pitch unchanged.

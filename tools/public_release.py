@@ -3,7 +3,7 @@
 
 This tool is deliberately an allow-list exporter: it never copies the project
 root wholesale. It is safe to re-run because its output must be underneath
-production/technical/release_r2/ and is recreated on every export.
+production/technical/release_r4/ and is recreated on every export.
 """
 
 from __future__ import annotations
@@ -19,7 +19,9 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_OUTPUT = ROOT / "production" / "technical" / "release_r2" / "public-repo"
+RELEASE = "r4-20261011"
+SAVE_KEY = "fish_wants_to_be_an_eagle_r4_20261011"
+DEFAULT_OUTPUT = ROOT / "production" / "technical" / "release_r4" / "public-repo"
 TOP_LEVEL_FILES = ("README.md", "PUBLIC-RELEASE.md", "serve.py", "tools/engine_validate.py", "tools/public_release.py", ".github/workflows/pages.yml")
 REQUIRED_WEB_FILES = (
     "index.html",
@@ -48,7 +50,7 @@ def require_source() -> None:
 
 def safe_output(path: Path) -> Path:
     resolved = path.resolve()
-    release_root = (ROOT / "production" / "technical" / "release_r2").resolve()
+    release_root = (ROOT / "production" / "technical" / "release_r4").resolve()
     if resolved == release_root or release_root not in resolved.parents:
         fail(f"output must be below {release_root}")
     return resolved
@@ -67,11 +69,23 @@ def export(output: Path) -> list[Path]:
         shutil.rmtree(output)
     output.mkdir(parents=True)
 
+    # Keep historical production assets locally; publish only active media.
+    import re
+    scripts = "\n".join(p.read_text(encoding="utf-8") for p in (ROOT / "web/game/scene").rglob("*.txt"))
+    config = (ROOT / "web/game/config.txt").read_text(encoding="utf-8")
+    media = {"background": set(), "bgm": set(), "figure": set(), "vocal": set()}
+    for command, folder in [("changeBg", "background"), ("bgm", "bgm"), ("changeFigure", "figure"), ("playEffect", "vocal")]:
+        media[folder].update(re.findall(r"(?m)^" + command + r":([^;\s]+)", scripts))
+    for command, folder in [("Title_img", "background"), ("Title_bgm", "bgm")]:
+        media[folder].update(re.findall(r"(?m)^" + command + r":([^;\s]+)", config))
     copied: list[Path] = []
     for source in sorted((ROOT / "web").rglob("*")):
         relative = source.relative_to(ROOT)
         if not source.is_file():
             continue
+        if len(relative.parts) >= 4 and relative.parts[1] == "game" and relative.parts[2] in media:
+            if source.name not in media[relative.parts[2]]:
+                continue
         if any(part in FORBIDDEN_PARTS for part in relative.parts) or source.name in FORBIDDEN_NAMES or "全本" in source.name:
             fail(f"forbidden input encountered: {relative}")
         destination = output / relative
@@ -94,7 +108,7 @@ def manifest(output: Path, copied: list[Path]) -> None:
         digest = hashlib.sha256(source.read_bytes()).hexdigest()
         files.append({"path": relative.as_posix(), "sha256": digest, "bytes": source.stat().st_size})
     (output / "PUBLIC-MANIFEST.json").write_text(
-        json.dumps({"release": "r2-20260907", "files": files}, ensure_ascii=False, indent=2) + "\n",
+        json.dumps({"release": RELEASE, "files": files}, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
 
@@ -114,10 +128,10 @@ def verify(output: Path) -> None:
         if list(output.rglob(forbidden)):
             fail(f"forbidden content copied to public output: {forbidden}")
     config = (output / "web/game/config.txt").read_text(encoding="utf-8")
-    if "Game_key:fish_wants_to_be_an_eagle_r2_20260907;" not in config:
-        fail("r2 Game_key is missing")
+    if f"Game_key:{SAVE_KEY};" not in config:
+        fail("current Game_key is missing")
     index = (output / "web/index.html").read_text(encoding="utf-8")
-    if "想要变成鹰的鱼" not in index or "r2-20260907" not in index:
+    if "想要变成鹰的鱼" not in index or RELEASE not in index:
         fail("title or cache revision is missing from index.html")
     print(f"verified {output}")
 
@@ -141,7 +155,7 @@ def smoke(output: Path) -> None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Create the strict r2 public Pages export.")
+    parser = argparse.ArgumentParser(description="Create the strict current public Pages export.")
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
     parser.add_argument("--verify-only", action="store_true", help="validate an existing export without copying")
     parser.add_argument("--smoke", action="store_true", help="serve the exported web directory and request key Pages paths")

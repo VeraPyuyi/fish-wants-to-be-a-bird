@@ -20,3 +20,6 @@
   font: inherit; cursor: pointer; color: #17313c; background: #ecdfc4;
   border: 0; border-radius: 2px; padding: 7px 14px; margin-right: 8px;
 }
+
+/* Keep the scaled fixed-screen stage from focus-induced scrolling. */
+@supports (overflow: clip) { html, body { overflow: clip; } }
