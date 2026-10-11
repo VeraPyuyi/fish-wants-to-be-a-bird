@@ -1,5 +1,5 @@
 const CACHE_PREFIX = 'webgal-';
-const CACHE_NAME = 'webgal-build-assets-r4-20261011';
+const CACHE_NAME = 'webgal-build-assets-r4-20261011-taxi01';
 const LOG_PREFIX = '[WebGAL SW]';
 const HASHED_BUILD_ASSET_RE = /(^|\/)assets\/[^/?#]+-[A-Za-z0-9_-]{8,}\.(?:js|css|ttf|woff|woff2)$/;
 const loggedKeys = new Set();

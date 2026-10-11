@@ -73,12 +73,13 @@ playEffect:sfx_keys_on_wood_table.wav -volume=30;
 playEffect:sfx_door_heavy_close.wav -volume=32;
 :砰。;
 :那一声像把两个世界隔开了。;
-changeBg:bg_taxi_v07.webp;
-setTransform:{"position":{"x":0,"y":0},"scale":{"x":1,"y":1}} -target=bg-main -duration=0 -writeDefault -next;
+changeBg:bg_taxi_v07.webp -transform={"position":{"x":-2180,"y":850},"scale":{"x":3.2,"y":3.2}} -duration=0 -next;
 setTransform:{"position":{"x":-2180,"y":850},"scale":{"x":3.2,"y":3.2}} -target=bg-main -duration=0 -writeDefault -next;
 :苏雨晴沿着马路飞奔，只想离那里越远越好。|可她体力不支，跑了一小段便气喘吁吁。;
 changeFigure: -id=protagonist -next;
+:她最后看了那幢小区楼房一眼。|那不是留恋，而是恐惧。;
 :她抬手拦住一辆出租车。;
+:出租车在路边停下。|她拖着行李箱走过去，上了车。;
 jumpLabel:S03_TAXI_FLASHBACK;
 
 ; ===== S03_TAXI_FLASHBACK / 显式舞台起点：行驶中的出租车，雨前灰光 =====;

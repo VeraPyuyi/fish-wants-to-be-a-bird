@@ -1,5 +1,5 @@
 {
-  "release": "r4-20261011",
+  "release": "r4-20261011-taxi01",
   "files": [
     {
       "path": ".github/workflows/pages.yml",
@@ -13,8 +13,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "025b0bf2be6f20a031e4fad1fafea3abbe67c682fc25c7cb0ca92aabc978bcba",
-      "bytes": 1637
+      "sha256": "2429f0f77c511f587fc54b7d42919b9289c54a21b2d1c6f1dbd450eb74d0dd31",
+      "bytes": 1816
     },
     {
       "path": "serve.py",
@@ -28,8 +28,8 @@
     },
     {
       "path": "tools/public_release.py",
-      "sha256": "03963ffdb41a71b307262a113af9de137bf0fa236bc6cf47d4214eb66f5f13b3",
-      "bytes": 7269
+      "sha256": "18283d55e16c8fce10ac9e3096c9aa23ea2fa9fe7eba377cb345dc13b2327c57",
+      "bytes": 7276
     },
     {
       "path": "web/CREDITS-ART.txt",
@@ -58,18 +58,18 @@
     },
     {
       "path": "web/RELEASE.json",
-      "sha256": "9514b9fd4c2c7a43a74dbef08827dac2b50b96b5c133f23d10873b9d428690c7",
-      "bytes": 348
+      "sha256": "1d2b161fca5cdb4618d6877d9f60f8f5788f3a2b67f5e336eff1f9dbdf80eb5f",
+      "bytes": 352
     },
     {
       "path": "web/assets/birdfish-rounded-demo-r2.woff2",
-      "sha256": "940d21a1e96f8c07301065ab57df6dacf77f13a4af7d918bd7e595eddf196de2",
-      "bytes": 248212
+      "sha256": "d56b813b7e43dfe26fd8f0813adfdeb6abc95c127dc3f2f83ea8b9373c486116",
+      "bytes": 248960
     },
     {
       "path": "web/assets/birdfish-serif-demo-r2.woff2",
-      "sha256": "919a7e1996a27c415510c191992f6dfcc27c11ef5b4721346dce9c70664848ac",
-      "bytes": 264772
+      "sha256": "a4adb0782ba106071b780b2cfc4198cacb3f376f0492d1ce4baffe008a27369c",
+      "bytes": 265344
     },
     {
       "path": "web/assets/cherryBlossoms-DzBBkOW8.webp",
@@ -93,8 +93,8 @@
     },
     {
       "path": "web/assets/index-project-20260906.css",
-      "sha256": "aac10d95e242c38d7e053989868dc6f0493d44dff1ec66572ecdc3b5033e4eb3",
-      "bytes": 47811
+      "sha256": "30f73c003c405920466d7ec6383fe593476b15fa15ef92b82161258ef1279454",
+      "bytes": 47874
     },
     {
       "path": "web/assets/index.es-erQsk_Nn.js",
@@ -438,8 +438,8 @@
     },
     {
       "path": "web/game/scene/start.txt",
-      "sha256": "b512f1654785a699f98eb0d7859dfc4be73db8a395711c5f749b891b3f7c6014",
-      "bytes": 35604
+      "sha256": "6859443e0e8ddb3db1b9d57ed3d002226678e81396981065f14f2dbc03c11f25",
+      "bytes": 35733
     },
     {
       "path": "web/game/template/Stage/Choose/choose.scss",
@@ -488,8 +488,8 @@
     },
     {
       "path": "web/game-recovery.js",
-      "sha256": "5aceec3fb06f4ffcfa4df80a2c91b9386cf65e46e2a84122028d6e3755731f18",
-      "bytes": 2743
+      "sha256": "e898b1003e77a475dc69e6ab3bf94db55de3ef7a70a5a4532ee943c43dfdfb8e",
+      "bytes": 2750
     },
     {
       "path": "web/icons/apple-touch-icon.png",
@@ -523,13 +523,13 @@
     },
     {
       "path": "web/index.html",
-      "sha256": "f19063dcfce6018a872c442103c9e18d6703d4be87a690d170326fd3a15cc8c5",
-      "bytes": 17583
+      "sha256": "0215a40b7eb3018826522a1047843c941d9bafd66c93bde8c4fe35c95c4bdb14",
+      "bytes": 17611
     },
     {
       "path": "web/manifest.json",
-      "sha256": "11181d9ae3316f633ab8e53802e098267219372b0b2342a91585e381b9b6554e",
-      "bytes": 750
+      "sha256": "ed0adcb05fa8d2c92c5e8e09884421d69a0671b8cbfa0ab78486013503a95360",
+      "bytes": 757
     },
     {
       "path": "web/webgal-engine.json",
@@ -538,8 +538,8 @@
     },
     {
       "path": "web/webgal-serviceworker.js",
-      "sha256": "821e430ed196e3cca281b5dca96b55796deaaa3d6b59ffe359a67c95e2f276db",
-      "bytes": 1839
+      "sha256": "3a31fc43d15283db6a12a2fbdb4e908a522601beb134c9693592736e1fd24df0",
+      "bytes": 1846
     }
   ]
 }

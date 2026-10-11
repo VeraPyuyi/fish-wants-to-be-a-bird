@@ -19,7 +19,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-RELEASE = "r4-20261011"
+RELEASE = "r4-20261011-taxi01"
 SAVE_KEY = "fish_wants_to_be_an_eagle_r4_20261011"
 DEFAULT_OUTPUT = ROOT / "production" / "technical" / "release_r4" / "public-repo"
 TOP_LEVEL_FILES = ("README.md", "PUBLIC-RELEASE.md", "serve.py", "tools/engine_validate.py", "tools/public_release.py", ".github/workflows/pages.yml")
