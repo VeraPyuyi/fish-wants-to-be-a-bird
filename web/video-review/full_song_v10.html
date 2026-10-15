@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh-Hans">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>想要变成鹰的鱼 · 完整结尾视频 v10</title>
+<style>
+:root{color-scheme:dark;font-family:system-ui,-apple-system,sans-serif;background:#111c25;color:#efeadd}body{max-width:1280px;margin:32px auto;padding:0 22px 44px}h1{font-size:26px;font-weight:550;letter-spacing:.06em;margin-bottom:9px}p{color:#bdcad3;font-size:15px;line-height:1.8}.eyebrow{font-size:12px;letter-spacing:.16em;color:#c4b694}video{display:block;width:100%;height:auto;aspect-ratio:16/9;background:#080e14;border-radius:8px}button,input,a{font:inherit}button{cursor:pointer;color:#eee8da;background:#263e50;border:1px solid #526b7b;border-radius:7px;padding:10px 17px}button:hover{background:#365368}button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid #e2cba1;outline-offset:4px}a{color:#c6dcec;text-underline-offset:4px}.actions,.chapters{display:flex;gap:12px;align-items:center;flex-wrap:wrap}.actions{margin:18px 0}.chapters button{font-size:14px;padding:7px 13px;background:transparent}.volume{display:flex;gap:8px;align-items:center;font-size:14px}.volume input{width:120px}.note{font-size:13px;color:#9dafbb}.review{border-top:1px solid #344450;margin-top:28px;padding-top:14px}@media(max-width:600px){body{margin:18px auto;padding:0 12px 28px}h1{font-size:21px}}
+</style>
+<main>
+<div class="eyebrow">想要变成鹰的鱼 · 视频审核版</div>
+<h1>故事结尾 · 完整视频 v10</h1>
+<p>v10 · 约4分57秒 · 1080p<br>前奏环境 → 第一段演唱中的人物介绍 → 间奏群像 → 第二段演唱中的八个结局 → 尾奏全家福 → 4分47秒渐出至作品名，与音乐一同收尾。</p>
+<video id="film" controls playsinline preload="metadata" src="op_full_song_v10.mp4" aria-label="想要变成鹰的鱼完整结尾视频 v10"></video>
+<p class="note"><strong>剧透提醒：</strong>视频包含正文结局。末尾全家福为片外回忆合照，不表示正文结局后的现实团聚。</p>
+<div class="actions">
+<button id="toggle" type="button">播放</button><button id="replay" type="button">从头重播</button><button id="retry" type="button" hidden>重新加载</button>
+<label class="volume">音量 <input id="volume" type="range" min="0" max="1" step="0.01" value="1" aria-label="视频音量"></label>
+<button id="mute" type="button" aria-pressed="false">静音</button><a href="op_full_song_v10.mp4" download>下载浏览器 MP4（1080p）</a>
+</div>
+<p id="status" aria-live="polite">点击播放；也可以拖动时间轴，或选择下方段落。</p>
+<nav class="chapters" aria-label="按段落跳转">
+<button type="button" data-time="0">开场</button><button type="button" data-time="33.27">人物登场</button><button type="button" data-time="120.70">群像回忆</button><button type="button" data-time="157.83">八段结局</button><button type="button" data-time="275.70">全家福与尾声</button><button type="button" data-time="287.00">片尾淡出与作品名</button>
+</nav>
+<div class="review"><p>新版从4分47秒开始将全家福淡出到黑底片名，最后一个音落在“想要变成鹰的鱼”的标题画面上，歌曲自然收完即结束视频。前奏、人物介绍、间奏群像与八个结局沿用上一版的顺序。请重点确认人物出场、结局段与歌声的衔接；可以暂停、拖动时间轴、调节音量或从头重播。</p>
+<p class="note">采用获批完整场景图与淡化换场，无缩放、重复特写或细节裁切。音乐保留音高、速度与主体音量，完整保留自然尾声；片名在最后的音乐尾声中出现，后面没有额外的无声停留。现有视觉小说保持原样，本片尚未接入游戏；整片通过审核后才用于故事结尾。</p></div>
+<p class="note">音乐：《星星坠落时》 · 汪苏泷，音乐权利归原权利人。视频使用经逐张确认的 AI 插画，为《想要变成鹰的鱼》的结尾审核版。</p>
+</main>
+<script>
+let waitingTimer;
+const film=document.getElementById('film'),status=document.getElementById('status'),retry=document.getElementById('retry'),toggle=document.getElementById('toggle'),volume=document.getElementById('volume'),mute=document.getElementById('mute');
+function clearWaiting(){clearTimeout(waitingTimer);}
+function showError(message){clearWaiting();status.textContent=message;retry.hidden=false;}
+function metadata(){
+ if(film.readyState>=1&&!film.error)return Promise.resolve();
+ return new Promise((resolve,reject)=>{
+  const ok=()=>{clear();resolve();},bad=()=>{clear();reject(new Error('load'));};
+  const timer=setTimeout(bad,15000);
+  function clear(){clearTimeout(timer);film.removeEventListener('loadedmetadata',ok);film.removeEventListener('error',bad);}
+  film.addEventListener('loadedmetadata',ok);film.addEventListener('error',bad);film.load();
+ });
+}
+let operation=0;
+async function playAt(time){
+ const current=++operation;
+ try{await metadata();if(current!==operation)return;if(time!==undefined)film.currentTime=Math.min(time,Math.max(0,film.duration-.01));await film.play();}
+ catch(error){if(current!==operation)return;showError(error.name==='NotAllowedError'?'浏览器尚未允许播放，请点击播放器内的播放按钮。':'视频暂时无法载入，请重新加载，或下载查看。');}
+}
+toggle.addEventListener('click',()=>{if(film.paused)playAt();else{operation++;film.pause();}});
+document.getElementById('replay').addEventListener('click',()=>playAt(0));
+document.querySelectorAll('[data-time]').forEach(b=>b.addEventListener('click',()=>playAt(Number(b.dataset.time))));
+retry.addEventListener('click',()=>{operation++;film.pause();film.load();retry.hidden=true;status.textContent='正在重新加载，请点击播放。';});
+volume.addEventListener('input',()=>{film.volume=Number(volume.value);film.muted=false;});
+mute.addEventListener('click',()=>{film.muted=!film.muted;});
+film.addEventListener('volumechange',()=>{volume.value=film.volume;mute.textContent=film.muted?'取消静音':'静音';mute.setAttribute('aria-pressed',String(film.muted));});
+film.addEventListener('loadedmetadata',()=>{retry.hidden=true;status.textContent='视频已就绪。点击播放，或通过时间轴和段落按钮定位。';});
+film.addEventListener('playing',()=>{clearWaiting();toggle.textContent='暂停';retry.hidden=true;status.textContent='正在播放。可以暂停、拖动进度或调整音量。';});
+film.addEventListener('pause',()=>{clearWaiting();toggle.textContent='播放';if(!film.error&&!film.ended)status.textContent='已暂停，可以继续播放或调整位置。';});
+film.addEventListener('waiting',()=>{clearWaiting();if(!film.paused){status.textContent='正在载入画面…';waitingTimer=setTimeout(()=>showError('载入时间较长，可以重新加载或下载查看。'),15000);}});
+film.addEventListener('error',()=>{toggle.textContent='播放';showError('视频暂时无法载入，请重新加载，或下载查看。');});
+film.addEventListener('ended',()=>{clearWaiting();toggle.textContent='播放';status.textContent='视频已播放完毕，可以从头重播。';});
+</script>
+</html>
