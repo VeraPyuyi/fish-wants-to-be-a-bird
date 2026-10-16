@@ -1,0 +1,6 @@
+This WebGAL 4.6.4 runtime patch is provided under MPL-2.0.
+Run python3 web/engine-source/r4-ending-transition/prepare_patch.py to reproduce it.
+The input is the checksum-locked r4-save-audit runtime. Story and assets are unchanged.
+Fast, auto and wheel advance stop at the final text before v10. Click or a deliberate
+Enter/Space reading action enters the movie after a 900 ms full-frame fade to black.
+Existing save preservation, preloading, screen-tap skip and completion unlock remain.
