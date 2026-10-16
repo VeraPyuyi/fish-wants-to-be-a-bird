@@ -1,0 +1,16 @@
+WebGAL 4.6.4 modification, MPL-2.0.
+Run python3 prepare_patch.py to reproduce index-r4-cinematic-20261016.js from
+the SHA256-locked r4-fast-background runtime. Historical source patches remain.
+Run node test_cinematic.mjs for cache, player lifecycle and fullscreen tests.
+
+On entering gameplay the v10 movie downloads once at low fetch priority into a
+shared Blob URL. Ending and Load-menu replay reuse it. No controls, loading card,
+player frame or skip button are rendered. A screen click skips without unlocking;
+only natural completion unlocks replay. Minimal text recovers blocked autoplay or
+allows dismissal after failure. Skipping while the download is pending cancels
+the playback session, not the shared cache. Audio/modes remain isolated.
+
+Start/continue/load/replay user gestures request document fullscreen where
+supported. Rejected/unsupported requests leave the full-window game functional.
+Fullscreen toggle supports standard and WebKit variants; Escape remains available.
+Story, visual/audio media, v10 video bytes and save namespace are unchanged.
