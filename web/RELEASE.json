@@ -1,10 +1,12 @@
 {
-  "version": "r4-20261011-continuity01",
+  "version": "r4-20261016-skip01",
   "title": "想要变成鹰的鱼",
-  "date": "2026-10-11",
+  "date": "2026-10-16",
   "scenes": 14,
   "approved_stills": 36,
   "save_namespace": "fish_wants_to_be_an_eagle_r4_20261011",
   "opening_video_included": false,
-  "notes": "调整检票、登车、进店、房东出场和小屋整理的画面顺序；背景构图随切镜同步设置，音乐同曲连续、换曲平滑淡出淡入。配乐文件和存档空间保持不变。"
+  "notes": "调整检票、登车、进店、房东出场和小屋整理的画面顺序；背景构图随切镜同步设置，音乐同曲连续、换曲平滑淡出淡入。配乐文件和存档空间保持不变。 快进修复：默认及旧版设置一次性改为全部；已读模式按钮明确标注，保留之后手动选择的模式。",
+  "engine_patch": "r4-skip-20261016",
+  "previous_release": "r4-20261011-continuity01"
 }

@@ -1,0 +1,12 @@
+想要变成鹰的鱼 · 快进体验修复 · 2026-10-16
+
+WebGAL 4.6.4 的项目内修改，沿用 Mozilla Public License 2.0。
+完整许可证：../../LICENSE-WebGAL-MPL-2.0.txt
+
+默认快进模式改为“全部”。旧版设置仅迁移快进模式一次，其他设置、
+已读记录和存档空间保留；之后手动选回“已读”会持续保存。
+“已读”模式显示“快进（已读）”，并提供模式说明。
+
+重现：python3 web/engine-source/r4-skip/prepare_patch.py --web web
+检查：node web/engine-source/r4-skip/test_skip.mjs
+原始已发布 r4 BGM bundle 留在 assets，脚本会校验其 SHA-256。

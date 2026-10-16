@@ -1,0 +1,11 @@
+{
+  "source": "index-r4-bgm-743786b1.js",
+  "source_sha256": "8deb6a98f2b7a003a2046f5d2800adf277066e1f029aff8c87e42f75af0e2956",
+  "output": "index-r4-skip-20261016.js",
+  "output_sha256": "e45f01df0a8f52a7d562939abf4edd70d7570d648754ac79d0510a29ed5ac327",
+  "chunks": {
+    "initRegister-r4-skip-20261016.js": "dd9cb6c6dc0949730a3b14371c3b45e8dc16e5ba9430efe2d04517291806a19c",
+    "index.es-r4-skip-20261016.js": "d5b5adbb999082c5076522bd5b8ea5c4281c8ceb7e2d8d34f302ad53af8c7025"
+  },
+  "scope": "Skip mode default and one-time migration; mode-specific button labels. No gameplay script, art, audio or save namespace changes."
+}
