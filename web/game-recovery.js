@@ -7,7 +7,7 @@
     try {
       const url = new URL(value, location.href);
       if (url.origin === location.origin && /\/game\/(?:config\.txt$|scene\/.*\.txt$|template\/|userStyleSheet\.css$)/.test(url.pathname)) {
-        url.searchParams.set('v', 'r4-20261016-skip01');
+        url.searchParams.set('v', 'r4-20261016-background01');
         return url.href;
       }
     } catch {}
@@ -32,6 +32,7 @@
     close.onclick = () => panel.remove();
     panel.append(message, retry, close); document.body.append(panel);
   }
+  addEventListener('webgal-asset-error', showRecovery);
   document.addEventListener('DOMContentLoaded', () => { if (pending) showRecovery(); });
   addEventListener('error', event => {
     const target = event.target;

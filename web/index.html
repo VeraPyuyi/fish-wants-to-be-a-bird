@@ -137,9 +137,9 @@
       }
 
     </style>
-    <script src="./game-recovery.js?v=r4-20261016-skip01"></script>
-    <script type="module" crossorigin src="./assets/index-r4-skip-20261016.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-project-20260906.css?v=r4-20261016-skip01">
+    <script src="./game-recovery.js?v=r4-20261016-background01"></script>
+    <script type="module" crossorigin src="./assets/index-r4-background-20261016.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-project-20260906.css?v=r4-20261016-background01">
   </head>
   <body>
     <!-- 背景模糊 -->
@@ -328,7 +328,7 @@
         const isLocalPreview = localHostnames.includes(window.location.hostname) || window.location.protocol === 'file:';
         const isElectron = Boolean(window.electronFuncs) || /Electron/i.test(navigator.userAgent || '');
         const shouldBypassServiceWorker = isIOS || isLocalPreview || isElectron;
-        const webgalServiceWorkerUrl = new URL('./webgal-serviceworker.js?v=r4-20261016-skip01', window.location.href).href;
+        const webgalServiceWorkerUrl = new URL('./webgal-serviceworker.js?v=r4-20261016-background01', window.location.href).href;
         const bypassReloadKey = 'webgal-sw-bypass-reloaded';
         const isWebGALRegistration = (registration) => {
           const workers = [registration.active, registration.installing, registration.waiting];
@@ -379,7 +379,7 @@
         }
         clearBypassReloadMark();
         navigator.serviceWorker
-          .register('./webgal-serviceworker.js?v=r4-20261016-skip01')
+          .register('./webgal-serviceworker.js?v=r4-20261016-background01')
           .then((reg) => {
             console.log('Registration succeeded. Scope is ' + reg.scope);
           })

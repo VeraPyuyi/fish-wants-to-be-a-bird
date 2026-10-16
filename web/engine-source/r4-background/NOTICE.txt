@@ -1,0 +1,13 @@
+WebGAL 4.6.4 project modification — MPL-2.0
+
+This patch builds on r4-skip and retains the original engine license.
+Static PNG/JPEG/WebP backgrounds load before replacing the prior visible frame.
+Cached textures are drawn synchronously. Slow/failed loads preserve the prior
+frame and its transform; obsolete callbacks cannot replace newer scenes or saves.
+Figure and animated-background behavior, save keys and music remain unchanged.
+Five scripted empty-background bridges now hold the previous approved frame;
+dialogue, scene entry timing, command count and sentence indices remain unchanged.
+
+Reproduce: python3 web/engine-source/r4-background/prepare_patch.py --web web
+Check: node web/engine-source/r4-background/test_background.mjs
+The source bundle and patch manifest are hash pinned and retained for reproduction.

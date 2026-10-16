@@ -1,0 +1,10 @@
+{
+  "source": "index-r4-skip-20261016.js",
+  "source_sha256": "e45f01df0a8f52a7d562939abf4edd70d7570d648754ac79d0510a29ed5ac327",
+  "output": "index-r4-background-20261016.js",
+  "output_sha256": "9a6e8ea7ebafb1a714b208b4ebd0b6dd66a0f541121a57a5a652c2133e3f9a5e",
+  "chunks": {
+    "initRegister-r4-background-20261016.js": "9ae776c856f7c2e0c9ef6d79ab989059e35090f119ec5406715b313718bac708",
+    "index.es-r4-background-20261016.js": "05e027baf1120805e8b366247cbaccaa6dadf000c8d9c483ead7ef8fa6d5fa5d"
+  }
+}
