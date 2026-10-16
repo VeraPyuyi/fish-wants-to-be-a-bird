@@ -4,6 +4,7 @@ from functools import partial
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 import argparse
+import re
 import webbrowser
 import urllib.request
 
@@ -17,6 +18,34 @@ class GameHandler(SimpleHTTPRequestHandler):
         self.send_header('Cache-Control', 'no-cache')
         self.send_header('X-Content-Type-Options', 'nosniff')
         super().end_headers()
+
+    def send_head(self):
+        self.byte_range = None
+        file = Path(self.translate_path(self.path))
+        requested = self.headers.get('Range')
+        if not requested or not file.is_file(): return super().send_head()
+        match = re.fullmatch(r'bytes=(\d+)-(\d*)', requested)
+        size = file.stat().st_size
+        if not match:
+            self.send_error(416, 'Only one byte range is supported'); return None
+        start, end = int(match[1]), int(match[2]) if match[2] else size - 1
+        end = min(end, size - 1)
+        if start > end:
+            self.send_response(416); self.send_header('Content-Range', f'bytes */{size}'); self.send_header('Content-Length', '0'); self.end_headers(); return None
+        stream = file.open('rb'); stream.seek(start); self.byte_range = (start, end)
+        self.send_response(206); self.send_header('Content-Type', self.guess_type(str(file)))
+        self.send_header('Content-Length', str(end-start+1)); self.send_header('Content-Range', f'bytes {start}-{end}/{size}')
+        self.send_header('Accept-Ranges', 'bytes'); self.end_headers(); return stream
+    def copyfile(self, source, target):
+        if self.byte_range is None: return super().copyfile(source, target)
+        remaining = self.byte_range[1]-self.byte_range[0]+1
+        while remaining:
+            data = source.read(min(remaining, 64*1024))
+            if not data: break
+            try: target.write(data)
+            except (BrokenPipeError, ConnectionResetError): break
+            remaining -= len(data)
+
 
 def main():
     parser = argparse.ArgumentParser(description='启动本地视觉小说')

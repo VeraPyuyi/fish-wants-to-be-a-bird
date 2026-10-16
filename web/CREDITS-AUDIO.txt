@@ -52,3 +52,6 @@ R3 title-to-S09 rescore review
 "Almost New" Kevin MacLeod (incompetech.com). CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ . Complete composition retained; leading silence 0.015737s and quiet release 3.703469s trimmed; linear gain 2.43dB; 8ms/60ms endpoint smoothing; MP3 192kbps. Tempo and pitch unchanged.
 
 "Friday Morning" Kevin MacLeod (incompetech.com). CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ . Complete composition retained; leading silence 0.057460s and quiet release 4.711837s trimmed; linear gain 6.78dB; 8ms/60ms endpoint smoothing; MP3 192kbps. Tempo and pitch unchanged.
+
+Ending video v10
+Song: 星星坠落时 — 汪苏泷. The existing video-review/op_full_song_v10.mp4 is now reused at the game ending and by title-page replay. The recording is not covered by the engine’s MPL-2.0 or the CC licenses above.

@@ -1,0 +1,10 @@
+WebGAL 4.6.4 · ending-video integration, 2026-10-16. MPL-2.0.
+These modified runtime sources are provided under MPL-2.0, as is the existing engine.
+License: ../../LICENSE-WebGAL-MPL-2.0.txt.
+Run python3 prepare_patch.py to reproduce the versioned JS and lazy chunks from
+assets/index-r4-background-20261016.js (SHA-256 checked before patching).
+The native playVideo command and home-page replay share ending-player.mjs.
+Only a playVideo command immediately before end is appended to the story.
+No preceding scene command, text, image, choice or save namespace is changed.
+The approved v10 movie is reused in video-review/ and is fetched on demand.
+The video, song and artwork are separate creative assets, not MPL-licensed code.

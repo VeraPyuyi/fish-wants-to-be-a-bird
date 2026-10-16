@@ -525,4 +525,5 @@ setTransform:{"position":{"x":-1200,"y":-220},"scale":{"x":2.1,"y":2.1}} -target
 苏雨晴:从现在开始，这里就是我的家了。;
 :只属于她一个人的家。;
 :——Demo 完——;
+playVideo:../../video-review/op_full_song_v10.mp4;
 end;

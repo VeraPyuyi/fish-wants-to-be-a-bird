@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SCENE_DIR = ROOT / "web" / "game" / "scene"
 CONTRACT = ROOT / "production" / "narrative" / "scene_contract.json"
 ASSET_DIRS = {
+    "playVideo": ROOT / "web" / "game" / "video",
     "changeBg": ROOT / "web" / "game" / "background",
     "bgm": ROOT / "web" / "game" / "bgm",
     "playEffect": ROOT / "web" / "game" / "vocal",
@@ -39,6 +40,7 @@ KNOWN_COMMANDS = {
     "changeScene",
     "callScene",
     "playEffect",
+    "playVideo",
     "setTransform",
 }
 KNOWN_SPEAKERS = {
@@ -72,7 +74,7 @@ def validate_prologue_routes(path: Path) -> list[str]:
     errors = []
     for route in itertools.product((1, 2), repeat=3):
         variables, spoken = {}, []
-        index = choice = 0
+        index = choice = videos = 0
         for _ in range(2000):
             if index >= len(lines):
                 errors.append(f"route {route}: fell off script before end")
@@ -84,7 +86,11 @@ def validate_prologue_routes(path: Path) -> list[str]:
                 if variables.get(condition[1]) != int(condition[2]):
                     continue
                 text = text[:condition.start()]
+            if text.startswith("playVideo:"):
+                videos += 1
             if text == "end":
+                if videos != 1:
+                    errors.append(f"route {route}: expected exactly one ending video, got {videos}")
                 if choice != 3:
                     errors.append(f"route {route}: reached end after only {choice} choices")
                 note = "「既然你们不认，那我走就是。」" if route[0] == 1 else "「无论如何，我都要离开这里。」"
@@ -173,7 +179,7 @@ def main() -> int:
             elif command in ASSET_DIRS:
                 name = asset_name(content)
                 if name and name != "none":
-                    asset = ASSET_DIRS[command] / name
+                    asset = (ASSET_DIRS[command] / name).resolve()
                     if not asset.is_file():
                         errors.append(f"{path}:{line_no}: missing {command} asset: {asset}")
 
@@ -207,7 +213,7 @@ def main() -> int:
     combinations = 2 ** len(choices)
     print(
         f"WebGAL validation passed: {len(scenes)} scene file(s), "
-        f"{len(choices)} binary choices, {combinations} routes reach end with matching farewell text, "
+        f"{len(choices)} binary choices, {combinations} routes reach one video and end with matching farewell text, "
         f"{len(pending)} jump(s)/choice target(s)."
     )
     return 0
