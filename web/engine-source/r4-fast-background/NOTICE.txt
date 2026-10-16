@@ -1,0 +1,14 @@
+WebGAL 4.6.4 project modification — MPL-2.0
+
+Builds on r4-replay, retaining all existing licenses and source patches.
+Fast-forward cadence is 150 ms (previously 50 ms), as requested.
+Fast-forward now waits for the current static background to be drawable before
+advancing the next line. Previously rapid progression superseded pending image
+requests, leaving old backgrounds visible over subsequent dialogue.
+Normal manual input, cached images, choices, save slots, story/media and ending
+replay are unchanged. Failures and a bounded 15-second load wait release the gate;
+the prior complete background remains visible to avoid black flashes.
+
+Reproduce: python3 web/engine-source/r4-fast-background/prepare_patch.py
+Check: node web/engine-source/r4-fast-background/test_background.mjs
+       node web/engine-source/r4-fast-background/test_fast_forward.mjs
