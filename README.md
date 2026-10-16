@@ -79,4 +79,4 @@ python3 tools/engine_validate.py
 
 公开仓库不包含原著全文、内部制作记录和临时原料。引擎、字体、图像及音频的署名与适用许可见 [引擎许可](web/LICENSE-WebGAL-MPL-2.0.txt)、[字体署名](web/CREDITS-FONTS.txt)、[图像署名](web/CREDITS-ART.txt) 和 [音频署名](web/CREDITS-AUDIO.txt)。代码许可不代表原作或素材的再授权。
 
-宣传图：PROMO-01《去往有光的地方》，使用 AI 辅助绘制，沿用本项目已确认的人物形象。
+宣传图：PROMO-01《去往有光的地方》，使用 AI 辅助绘制，沿用本项目已确认的人物形象。 [生成 Prompt 与参考说明](web/promo/prompts/README.md)已公开，欢迎参考。
