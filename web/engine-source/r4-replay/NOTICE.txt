@@ -1,0 +1,10 @@
+WebGAL 4.6.4 · ending replay unlock, 2026-10-16. MPL-2.0.
+License: ../../LICENSE-WebGAL-MPL-2.0.txt.
+Run python3 prepare_patch.py to reproduce the versioned runtime and lazy chunks
+from the retained index-r4-background-20261016.js (SHA-256 checked).
+The native ending video unlocks replay only on the video's ended event.
+Skip, load error, autoplay rejection, refresh and start alone do not unlock it.
+Completion is stored separately from saves, by game key and movie version.
+Replay is in the load menu; exiting replay restores that menu and prior progress.
+No story commands, images, audio assets or save namespace changed in this update.
+Video/artwork/recording rights are separate from the MPL code license.
