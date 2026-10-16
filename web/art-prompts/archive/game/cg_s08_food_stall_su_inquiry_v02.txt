@@ -1,0 +1,21 @@
+Asset: CG-S08-01《小吃店前·怯生询价》v02
+Use case: identity-preserve. ONE precise haircut edit of an approved visual-novel scene.
+
+INPUT ROLES
+Image 1, cg_s08_food_stall_su_inquiry_v01: SOLE FULL-FRAME EDIT TARGET. Preserve its scene composition, Su's existing face/pose/hands, vendor, food and all surroundings.
+Image 2, su_travel_guarded_v04_alpha_v01: PRIMARY approved SHORT-HAIR UNDER CAP reference only. Transfer its close cropped sides and clean short nape to Su's right-facing side view in image 1. Do not import its frontal body pose, props, scale, expression or sprite rendering.
+Image 3, su_home_neutral_v09: fixed FACIAL IDENTITY reference only. Preserve the gentle oval teenage face and natural facial proportions in the target's side angle. Its old bob is obsolete; do not copy that hairstyle, frontal pose, standing proportions or checkerboard.
+Image 4, su_early_crewcut_reference_v02: secondary approved early cropped-hair reference only. Keep the cap and image 1's existing figure scale; do not import a visible star clip or standing pose.
+
+CHANGE ONLY THE VISIBLE LOWER HAIR
+Su is the petite girl at the LEFT end of the counter, wearing a navy cap and pale blue hoodie, pointing toward the wooden bucket. In image 1 her black bob forms a rounded, hanging mass behind the visible ear, down along the nape to the hoodie. REMOVE that lower bob completely, including the curled collar-level tips and long jaw-side strands. Replace it with close-to-head cropped short hair, ending around the upper ear and high nape as in image 2. Expose the lower ear and neck below/behind it, restoring the appropriate skin or existing background where hair was removed. No chin-length curtain, thick dark wedge behind the ear, or long bob tucked into the hood. Retain short natural fringe beneath the same cap; not bald or a different hair color.
+
+LOCK THE PERSON AND BOTH HANDS
+Keep her recognizable right-facing side face, eye shape/opening, upward gaze toward the vendor, reserved polite curiosity, tiny parted mouth, head size and cap position. Preserve the modest drawn-in shoulders, petite stature relative to the counter and adult customers, short arms and all body positioning. The free hand continues the SAME small pointing gesture toward the wooden bucket; the other hand remains naturally wrapped around the extended suitcase handle. Do not move either hand, add cap touching, alter fingers, stretch arms or introduce a new gesture. Keep the existing wrist/cuff relationships, shoes, navy backpack/straps, pale blue hoodie, off-white top, jeans and upright white suitcase with two cute cat stickers. Preserve wheel and foot ground contact and clear separation from the motorcycle and stool. The original-side single star clip stays naturally hidden beneath the cap; no visible clip on the hat or opposite side.
+
+LOCK THE FOOD-STALL SCENE
+Keep the same vendor's face, tied hair, plaid shirt, apron, warm matter-of-fact response and pose behind the counter. Preserve the two adult waiting customers, indoor diners and alley pedestrians in the same soft anime linework and shading. They do not crowd, touch or newly stare at Su.
+Preserve the wooden bucket and its current contents, stool, glass ingredient display, trays, metal pots, steam, counter, motorcycle, tree, shop façade, 大众小吃 and 嵌糕 signs, alley, wires, buildings and dusk lighting. This image remains the inquiry moment before food is handed to Su; do not add food in her hands, eating, money exchange, preparation gestures or opened luggage. Do not redesign the bucket contents or change the existing signs.
+Keep the exact full wide framing, perspective, ground plane, object locations, soft illustrated materials, coherent anime character style and established warm shop/late-afternoon ambient light. No new weather, sunset effects, extra decay, photorealistic redraw or new background.
+
+Output ONE complete illustration only, same aspect ratio and crop. No contact sheet, close-up, alternate pose, captions, UI, watermark, border or additional text. The removal of Su's old lower bob is the single intended change; preserve all existing hands and scene relationships.

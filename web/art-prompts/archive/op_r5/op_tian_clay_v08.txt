@@ -1,0 +1,10 @@
+Use case: identity-preserve.
+Edit the provided OP-TIAN-01 v07 into v08, "天语遥·掌心的软陶女武神".
+The user asks specifically: make the chin softer. This is a very localized contour correction.
+
+Change ONLY the lowest part of the face and the adjacent short jaw transitions:
+Round off the pointed tip of the chin into a small, gentle, shallow curve. Slightly soften the angular convergence of the jaw on both sides of the chin. Keep the same overall face width, face length, head size and angle. It should be visibly less sharp at the tip, not a puffy cheek or a much wider/shorter face.
+Keep the youthful, slender, subtly boyish facial structure and the restrained, slightly roguish closed-mouth half-smile. Preserve the exact eyes, eyebrow shapes, gaze, nose, cheeks, mouth position and expression from v07. Do not soften the eyes further or erase their focused quality. No new blush, makeup, facial hair or age change.
+
+ALL remaining pixels/content should stay as close as possible to the reference: hair and short dark single ponytail, petite body proportions, shoulders, neck, cream sweater, grey-blue trousers, hands, sculpting tool and contact, tiny armored cat-eared cat-tailed warrior with sword and no attached wings, the separate wings on the desk, furniture, lighting, rainy window, CRT computer, bookcase, mirror without a reflected person, bed, camera and crop.
+This is the same soft anime visual novel artwork, only the chin tip and its contour transitions are made a little rounder. Produce one full horizontal image with identical framing.

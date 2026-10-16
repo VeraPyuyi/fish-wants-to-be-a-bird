@@ -1,0 +1,25 @@
+Use case: identity-preserve.
+Asset: CG-S02-01-E01《客厅·目光坚定》v02.
+Generate ONE full-frame expression variant, based on the freshly approved short-haired scene.
+
+Image 1 cg_s02_livingroom_su_hesitant_v03.png is the SOLE WHOLE-SCENE EDIT TARGET. It determines the exact composition, face placement, short cropped hairstyle, stature, pose, lighting, props and room. Change ONLY the small girl's facial expression.
+Image 2 su_home_neutral_v09.png is the FIXED ORIGINAL FACE IDENTITY reference only: gentle teenage oval face, almond brown eyes, restrained iris size and natural lower-face/chin spacing. It is NOT a hairstyle, body-scale, pose or background reference. Do not bring back its old bob or checkerboard.
+Image 3 su_early_crewcut_reference_v02.png is the approved SHORT-HAIR identity cross-check only. Keep Image 1's already-approved cropped hair, exposed ears and nape, short fringe and original-side single star clip. Do not reshape the hair or rescale the girl.
+
+Story beat: Su Yuqing, fifteen, has paused by the entry door before leaving her home in 2004. Remembering last night's hurt, her hesitation becomes a firm decision to leave, with a trace of contained resentment. This is not joy or relief.
+
+Local facial edit:
+Let her brown eyes focus steadily ahead rather than droop in uncertainty. Very slightly raise the gaze through pupil/eyelid changes, with the same eye sizes and head angle.
+Bring the inner brows down/in just a little to suggest hurt determination, without a theatrical scowl or rage.
+Her small lips remain CLOSED in a gently firm neutral line. No smile, pout, teeth, crying or exaggerated anime emotion.
+Maintain the same recognizable gentle face, age, almond eye outline, nose, cheek shape, chin length and head size as Image 1 and the fixed identity reference. Do not make her baby-faced or suddenly adult.
+
+Keep everything outside that small face unchanged:
+Same black cropped hair, fringe clearly above eyebrows, exposed ears and nape; no bob strands at jaw/collar. The ONE small ivory star stays at the SCREEN-LEFT temple, her original anatomical RIGHT side; do not lose, mirror, double or enlarge it.
+Exact petite scale RELATIVE TO THE TALL WOODEN DOOR, same crown/head location, same shoulder/leg proportions, same shoes on the wooden floor. No camera move, crop, zoom, head turn, new posture or character rescaling.
+Same pale-blue open hoodie, ivory shirt, dark jeans, white shoes, dark backpack. One hand grasps the white rolling-case handle, other hand holds the shoulder strap. Preserve hand/finger geometry, suitcase handle, two cute cat stickers, wheels, bag straps and all contact shadows.
+Freeze the neat comfortable 2004 living room from Image 1: wooden door and hardware, wall hooks and hanger, cabinet and plants, beige sofa and blue cushions, coffee table, CRT television and console, floor air conditioner, framed painting, blue curtains, bright window and roofs outside, wooden dining table/chairs in foreground, wooden floor, ceiling light and molding.
+Maintain the same drawn, slightly anime visual-novel style, warm daylight and color balance. Do not add photoreal textures, objects, people, signage, subtitles or UI.
+
+The frames must be usable as same-shot expression cuts: preserve all background/body details and only edit brows, pupils/eyelids and closed mouth. Output ONE opaque full scene at the same 1672x941 composition as Image 1, no sheet, comparison panel, inset, watermark or border.
+

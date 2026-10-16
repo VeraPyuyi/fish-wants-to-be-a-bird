@@ -1,0 +1,10 @@
+Use case: identity-preserve
+Edit target: attached OP-R6-FAMILY-01 v11, complete eight-person courtyard portrait.
+The user requests TWO precise changes: (1) Tian Yuyao should have a sharper, more piercing gaze; (2) remove noise and fine mottled texture across the picture.
+
+TIAN = seated FRONT ROW FAR RIGHT, cream loose long-sleeved top, slate blue trousers, dark canvas sneakers, dark hair with low ponytail. Keep this character's current petite frail body and pale skin. Change ONLY her brows, eyelids and gaze: slightly lower and straighter eyebrows, a subtle inward tension, narrower clean almond eyes, focused dark irises looking toward the camera. She should look quietly sharp, guarded and stubborn despite physical weakness. Retain a soft rounded chin and current face identity. Do not make her cheerful, broad-eyed, muscular, older, angry shouting or sinister. Keep the mouth small, closed and subdued. Her illness and fatigue can remain, but the eyes have more resolve.
+
+IMAGE CLEANUP: remove fine grain, random specks and mottled scratch marks from wall, bench, paving stones, clothes, skin and foliage. Use clean coherent anime color shapes, legible leaf clusters, smooth cloth shading and crisp intentional contour lines. Preserve sunlight and soft leaf shadows, simplify noisy texture rather than blur the whole painting. Preserve precise eyes and faces; no plastic smoothing or sharpening halos.
+
+STRICTLY LOCK: Zhang's corrected shorter neck, lowered height and small face in the BACK ROW SECOND FROM LEFT; Fang's differentiated facial structure front-left; the other five faces too. Keep all eight people, face/head shapes, hair, clothes, body sizes, poses, hand and foot anatomy, bench contacts, relative height relationships, frame margins and courtyard layout exactly as this input. Do not reopen earlier corrections or raise Zhang.
+Only Tian's gaze and global surface cleanliness change. Return one complete same wide16:9 group portrait, no text or panels.

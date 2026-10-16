@@ -1,0 +1,14 @@
+Use case: identity-preserve.
+Asset: OP-R6-ENS-01《河边的五个人》v06. Single full 16:9 anime illustration.
+INPUT 1 = EDIT TARGET, approved daytime riverside fishing/play scene.
+INPUT 2 = COSTUME REFERENCE ONLY, first dusk grilled-fish scene. The user specifically wants to transfer the CLOTHES FROM IMAGE 2 INTO IMAGE 1, not the other way around.
+
+Change ONLY the four specified outfits in image 1. Preserve all five faces, hair, star clip, expressions, poses, hands, head/body proportions, exact relative sizes, camera, daylight, riverbank, container house, trees, cat, rod and continuous fishing line to its float. Keep Zhang's already matching pink/ivory outfit.
+Exact clothing replacements, matching image 2:
+1. LIN at front left holding the fishing rod: change lavender rolled-sleeve blouse and denim shorts to a simple IVORY short-sleeve blouse and PALE LAVENDER knee-length A-line skirt. Skirt drapes naturally over bent seated knees, maintain legs and white sneakers.
+2. HU standing behind Fang at centre-left: replace terracotta Polo and charcoal trousers with a simple ASH GREY round-neck T-shirt and DARK OLIVE relaxed long trousers, keep white sneakers. Same tall lean body, kind plain face and supporting hand on Fang's shoulder.
+3. FANG standing centre-left: replace cream blouse / sage skirt with muted BLUE-GREY short-sleeve button-up blouse and DARK NAVY knee-length A-line skirt. Retain the existing exact skirt hem length near the knees, natural short hair, smile, hands and feet.
+4. SU seated right with calves in water: replace the blue white-collar dress / yellow ribbon with PALE APRICOT cotton pinafore dress over a plain WHITE short-sleeved shirt, matching image 2. Keep modest knee-area hem and same seated body, hands on knees, short hair and ivory star clip. Her bare lower legs stay in the water; do not put socks or shoes onto submerged feet. The same outfit's shoes/socks may remain removed on shore.
+5. ZHANG centre-right crouching with the worm: KEEP dusty-pink short-sleeve round-neck top and ivory A-line skirt, preserve the worm, hands, expression and natural short hair.
+
+Faithful targeted wardrobe edit. No extra humans, no pose changes, no changed faces or physiques, no new wigs, no added food/fire/plates, no sunset. Preserve clean anime contours and colour areas; do not increase grass, rock or river grain. No global blur, no text, no border, no collage. ONE image.

@@ -1,0 +1,10 @@
+Use case: identity-preserve. Edit the first input image into OP-LIN-01 v04, one complete horizontal soft-anime visual novel scene.
+
+ONLY EDIT THE HAIR of Su Yuqing, the standing character in the pink-white dress on the RIGHT. The second image is the approved hairstyle reference. In the target her hair is too short and swept back, leaving her ear exposed. Correct it clearly, rather than making an almost invisible change:
+- Extend the layered side locks on both sides down to approximately chin / lower-jaw height.
+- Let these side locks hang naturally IN FRONT OF her ears, covering almost all of the visible ear. Do not tuck the hair behind her ear.
+- Extend the short nape slightly below the earlobes, still well above the shoulders and collar.
+- Form a soft, fluffy, near-chin layered short bob matching reference 2, with distinct tapered ends. Keep the top volume and dark hair color from the scene.
+Preserve the visible face exactly: same eye shape, brown eyes, face size, chin, expression and head angle. Preserve the ivory star clip in its existing position, and keep the bangs above the eyes. Only the hair contour around the cheeks, ears and nape should change.
+
+Everything else is locked: the entire seated woman on the LEFT, including her approved proportions, face, dark twin ponytails, loose white blouse and skirt; Su's body and pink dress; both people's poses, hands and contact with the picture; all framing, lighting and soft anime style. Keep the thin transparent protective sleeve and the exact handwritten "雨晴" title, sunset, rainbow, buildings and birds inside the drawing. Keep the real outdoors rainy and grey, and the lower-right pot blank without lettering. Preserve all furniture, tools, laundry and window details. Do not change the camera or crop the scene. No new people, objects, labels, UI, or additional text. Output one image with the same wide composition.

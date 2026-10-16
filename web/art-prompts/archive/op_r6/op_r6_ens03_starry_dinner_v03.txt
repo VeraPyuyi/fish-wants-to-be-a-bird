@@ -1,0 +1,18 @@
+Use case: identity-preserve.
+Asset OP-R6-ENS-03 "星空下的晚餐" v03. Edit IMAGE 1, keeping the complete 16:9 five-person nighttime table composition.
+
+INPUT ROLES:
+IMAGE 1 = exact scene target, retaining all actions, bodies, clothes and environment.
+IMAGE 2 = approved identity triptych. LEFT portrait is Zhang Sifan; CENTRE portrait is Fang Youyou. Use these two distinct adult faces only. Ignore the right portrait for this edit.
+IMAGE 3 = newest approved Hu Yuniu face, overriding any other Hu reference. Transfer face only, not red shirt/daylight.
+
+Carefully map identities in the TARGET: far left Lin with twin ponytails, second from left petite Su in pink dress, THIRD person is FANG in pale yellow shirt looking up with chin resting on hand, FOURTH is ZHANG in lavender rolled-sleeve shirt leaning her head on Fang's shoulder, laughing with CLOSED EYES and a V-sign, far right is HU in navy striped T-shirt resting his cheek on one hand.
+
+Correct only those THREE adult faces, visibly rather than token tweaks:
+- FANG (yellow shirt): bring the centre reference's compact adult face, relaxed horizontal eye shape, ordinary straight brows, clear but softly drawn bridge and rounded-square lower jaw. Maintain her upward gaze and quiet smile, same pose and chin-hand contact. Reduce the current doll-like rounded eyes and small-child face. Preserve gentle adult male-leaning facial structure, no harsh ageing.
+- ZHANG (lavender shirt): bring the left reference's slightly longer adult facial proportions, distinct nose/mouth and adult lower-face contour. Preserve her CLOSED laughing eyes, open joyful smile, head resting naturally on Fang's shoulder and V-sign. Keep her more expressive than Fang; do not turn them into the same person. Keep both short natural hairstyles and head/body scales.
+- HU (navy striped shirt): reconstruct from image 3 with broad rounded-square cheeks, a blunt rounded chin, relaxed small horizontal adult eyes, unshowy nose and ordinary warm, slightly awkward closed-mouth smile. No handsome tapered jaw or polished idol-like features. Keep neck, head size, hand-cheek contact and lean tall body intact.
+
+CLEANUP: remove fine speckled surface noise from hair, clothes, table wood, gravel, foliage and river. Use clear coherent colour/shadow planes and precise anime contours. Keep the recognizable larger stars and gentle blue night sky, but reduce dense faint star-dust grain; preserve warm window/lantern light and water reflections. Simplify tiny food glints without altering dishes, cucumbers, fish or hands. No blanket blur, no crispy sharpening, no photorealistic textures.
+
+LOCK everything else: Lin and Su's exact faces/hair/star clip, all five hairstyles and head positions, clothing, relative sizes, seated poses, hands, glass rims, supported plates, food, bottle, chopsticks, wooden table/chairs, house, trees, river, bridge lights and mountains. No costume swaps or wigs, no new person or cat, no added text, no crop or zoom. Only three face identities and deliberate texture cleanup; one finished full scene, not a portrait sheet.

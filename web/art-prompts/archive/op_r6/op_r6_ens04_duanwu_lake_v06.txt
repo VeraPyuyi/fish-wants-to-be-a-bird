@@ -1,0 +1,14 @@
+Make a localized edit to image 1, the sunny four-person lake illustration. ONLY change the face of ZHANG, the small distant person WAVING in the LEFT seat of the YELLOW CANOPY PEDAL BOAT at upper left. Her head occupies approximately x=230..310, y=193..276 in this 1672x941 image. She wears a navy sailor blouse, white collar, pale scarf and light grey skirt. Do not confuse her with the foreground paddler or the person touching water.
+
+REFERENCE 2: the taller blond-wigged adult on the RIGHT in the birthday scene is Zhang's earlier more masculine adult face reference. Transfer this facial identity/structure only, adapted to bright daylight. Do NOT transfer the wig, clothes, pose, candlelight or background.
+
+Required correction must be visually evident: replace the current round childlike waving face with a recognizable young-adult face based on reference 2. Use a moderately longer mid/lower face, straight defined brows, narrow half-open smiling eyes instead of the previous closed crescent eyes, a clearly drawn but natural nose bridge, and a slightly wider softly angular jaw/chin. Keep her joyful friendly smile and light natural skin, not an angry or stern look. Her expression is an adult laughing warmly while waving to friends. No large round eyes, tiny button nose, very round baby cheeks, pointed doll chin, heavy cosmetics, facial hair or deep wrinkles. Use clean confident linework at the small scale, so the brow-nose-jaw structure remains legible. Keep her existing head position, overall head size, short dark natural hair, raised waving arm and slender body. Do not enlarge her to make the correction visible.
+
+ALL OTHER AREAS ARE LOCKED:
+- Foreground Fang's just-approved adult masculine-featured face and rose-pink collared knee dress must stay exactly as image 1.
+- Foreground Su's face, star clip, short hair, small build, white/burgundy sailor outfit and water-touching fingers stay exactly.
+- Hu's plain friendly face, short hair, lean body, white/navy sports polo and navy trousers stay exactly.
+- Zhang's navy/white sailor blouse, pale scarf, light-grey skirt, seated pose and body unchanged.
+- No new outfits, hats, wigs, faces, characters or text.
+- Preserve all hands, paddle, boats, perspective, distances, sunlit lake and amusement park. Preserve clean anime surfaces without grain or detail accumulation.
+Return one full 16:9 lake image. Do not return a close-up, comparison sheet or collage. Apply the localized adult face correction, not an almost unchanged copy.

@@ -1,0 +1,17 @@
+Use case: identity-preserve.
+Asset: OP-R6-END-ZHANG-01 v03, Zhang Sifan's later-life farewell scene.
+INPUT 1 = exact edit target: three people at the welfare-home gate.
+INPUT 2 = approved three-face identity sheet; use ONLY THE LEFT PORTRAIT, Zhang Sifan in the pink shirt. The centre and right portraits are DIFFERENT people and must not be used.
+INPUT 3 = newly approved eight-person portrait v17; Zhang is BACK ROW SECOND FROM LEFT, pink shirt, short dark hair, waving. Use only that person's face to corroborate identity, not the other seven people, clothes, setting or gesture.
+
+Make ONE targeted correction: align the FACE of Zhang Sifan, the ADULT MAN AT THE RIGHT of input 1 wearing the light-blue short-sleeved shirt and black trousers, to the approved Zhang identity. In the target his eyes and cheeks look too round and childlike relative to the references. Preserve the recognizable gentle adult androgynous appearance while recovering the reference's more elongated adult eyes, relaxed straighter eyebrow shape, clear natural nose and slightly longer/defined cheek-to-jaw relationship. Keep his small warm closed smile, brown eyes, existing gaze direction and head angle. Use the LEFT identity-sheet face: open, bright and warm, distinct from Fang's more reserved narrower gaze. Do not exaggerate masculinity, add facial hair, age lines, a macho jaw, harsh expression, model glamour or a new character design.
+
+STRICT INVARIANTS:
+- The user has already approved Zhang's HEAD SIZE, head-to-shoulder balance, SHORT NECK and relative height. Do not enlarge or shrink the head, lengthen the neck, alter shoulders/chest, move the head, or change the stance. Adapt facial features within the existing head.
+- Keep his exact clean normal short hairstyle (the user explicitly requested this instead of the novel's flat-top), hair volume, hairline and ears. No flat-top, buzz cut, cap or wig.
+- Retain the light-blue shirt, dark trousers, belt, wedding ring, hand resting at the child's shoulder, relaxed other arm, all fingers, legs, shoes and body proportions.
+- Lock the WOMAN on the left, Dong Huohuo: her adult face, shoulder-length hair, ivory blouse, blue skirt, handbag, hands and slightly taller relative height must stay unchanged. Do not mistake her for Zhang.
+- Lock the CHILD in the middle, Lin Qingwu: exact face, young age appearance, short hair, bear-print shirt, dark skirt, cloth bag, white socks, sneakers, stance and scale.
+- Preserve the entire gate, walls, mural, sign lettering, buildings, trees, background people, warm light, shadows and framing exactly as in input 1. Do not add, remove or reword signs.
+- Keep the clean soft 2D anime style and smooth shading. No new grain, fragmented hair highlights, noisy skin, global smoothing blur, sharpening halos or realistic textures.
+Return ONE complete wide 16:9 frame at the highest supported landscape resolution, no panels or annotations.

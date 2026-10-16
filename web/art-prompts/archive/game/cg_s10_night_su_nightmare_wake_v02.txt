@@ -1,0 +1,26 @@
+Use case: identity-preserve
+Asset type: ONE full-frame visual-novel illustration revision.
+Production identifier CG-S10-03《公路边废屋·噩梦初醒》v02 (metadata only, no text in image).
+Primary request: shorten ONLY Su Yuqing's hair visible beneath her navy cap in IMAGE 1 to match the already-approved early cropped haircut. Preserve the existing waking performance and all composition.
+
+INPUTS / ROLES
+IMAGE 1 cg_s10_night_su_nightmare_wake_v01.png is the SOLE full-scene edit target. Preserve this exact scene, head direction, low seated pose, proportions, props, background, framing, light and expression.
+IMAGE 2 su_travel_guarded_v04_alpha_v01.png is supporting reference ONLY for short black hair following the skull around ears and nape beneath the cap. Do not transfer its frontal pose, expression, lighting, body scale or suitcase placement.
+IMAGE 3 su_home_neutral_v09.png is the fixed FACIAL IDENTITY reference ONLY: same soft narrow youthful oval face, restrained eyes, natural nose, small mouth and chin spacing. Its bob is obsolete: do NOT copy its longer hair, neutral frontal expression, standing body or height.
+IMAGE 4 su_early_crewcut_reference_v02.png is auxiliary reference ONLY for approved early cropped HAIR. Do not replace the scene face, body, costume or pose.
+
+LOCAL HAIR CORRECTION
+Su is the small seated figure near the wooden door in the left foreground. In image 1, the dark hair behind her near ear hangs toward the nape/hoodie as a bob-like lobe. Remove that long ear/nape lobe and collar-reaching tips. Leave close-cropped, natural black hair hugging the skull under the cap, with a clearer exposed ear edge and neck side, as in image 2 adapted to the EXISTING head angle.
+Do not leave a jaw-length or collar-length hair tail, add a ponytail, shave bare scalp, create a bald patch, change head size, enlarge ear, or alter neck length. Preserve navy cap body, brim and existing front fringe, all at the same location. Keep her recognizable downturned face. The star clip remains naturally hidden under the cap; do not add it to the hat or on the wrong side.
+
+PRESERVE APPROVED WAKING STATE
+Eyes remain OPEN with tired lowered gaze, brows quietly hurt and worried, small restrained mouth, and the same fine tear tracks on her cheeks. Do not remove the tears, make glowing/heavy tear streams, add sweat or turn her into smiling, angry, crying loudly, staring at camera or asleep.
+Keep her small teenager's compact body and short limbs relative to the full door. She remains seated LOW on the same FLAT CLOSED suitcase with knees bent and shoes supported by the ground. Preserve her exact torso tilt and inward shoulders. ONE hand stays gently resting over the upper chest just below the collarbone, touching existing fabric; the OTHER bent arm continues holding the ONE navy backpack against her abdomen and knees. Preserve all hand/finger/sleeve contacts. Do not grip her throat, move hand to face, stretch arms, duplicate hands, stand her or change to sleeping pose.
+Same pale-blue zip hoodie, off-white top, dark full-length trousers, white sneakers, navy cap. The single backpack stays closed and hugged in front, not additionally worn on her back.
+
+PRESERVE LUGGAGE / SET / STYLE
+Keep the same single flat closed off-white suitcase, accepted size and proportions, two partly occluded cat stickers on its upper broad face, corner guards, seams, handles and position under her. Do not stand it upright, resize, open, move or duplicate it.
+Preserve full original wide composition, wooden wall and roof, shut door and locked rusty padlock, moss, ground and contact shadows, road, empty bus stop, varied trees and wires, distant petrol station, car and small existing adults. The distant people remain occupied away from Su. No new figures, approaching passerby or gaze, dream imagery, food, wrapper, blanket, mat, pillow, stool, money, phone or other object.
+Keep the same deep blue-gray night, shared soft low-light values on her skin, clothes, bag and case, and restrained distant station light. No bright portrait fill, spotlight, halo, weather change, dawn or sky alteration. Preserve the actual existing tiny sky lights.
+Maintain the approved gently anime-stylized 2D visual-novel linework and muted painted shading; no photoreal pores, grain, glossy 3D or chibi redesign.
+Return exactly ONE finished complete landscape illustration at the original framing and dimensions. No crop, zoom, text, UI, watermark, border, inset or comparison sheet. Only the ear/nape hair is intended to change; preserve all other approved elements as closely as possible.

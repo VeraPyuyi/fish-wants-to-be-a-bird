@@ -1,0 +1,14 @@
+Use case: identity-preserve
+Asset: OP-TIAN-DUAL-02 v04, Tian Yuyao outside the cinema.
+Image 1 is cinema v03, the full-scene edit target. Image 2 is the approved facial design reference; use ONLY its eyebrows/eyes and boyish upper-face structure.
+
+User request: "A little more masculine-looking."
+The current masked face in image 1 still has a rounded, soft eye design. REDRAW THE VISIBLE EYEBROWS AND EYES to read a little more boyish, with an actual visible change:
+- straight brows with clearly defined natural thickness, about one step stronger than image 1, no delicate curved arch;
+- more horizontal narrow eye openings, reducing their current vertical roundness by about a fifth;
+- slightly smaller irises under clean straight upper eyelids, understated eyelashes, a calm focused sideways gaze to the left;
+- keep the softened boyish balance of reference 2, with pale skin and a quiet mildly sharp expression, not an angry scowl or deep brow furrow.
+Do not merely recolor the existing eye shape. Change its geometry subtly but clearly to the narrow-eyed approved character design.
+
+Limit the edit to the face area ABOVE THE MASK. Keep the mask fully covering nose, mouth and chin, head position/size, bangs, ponytail, shoulder width and petite body identical to image 1. Do not remove the mask or invent beard/stubble/shadows. Do not masculinize the body, change the costume or enlarge the figure.
+Preserve the approved compact proportions, hand pose, foot contact, gray high-neck calf-length dress, pale blue flat shoes, clean anime material rendering and all cinema/background content. Maintain the sunny palette, camera/framing, door/sign/poster placement, crowds, tree and bicycle. No extra texture, grain, blur, text or watermark. One full 16:9 scene, not a portrait or collage.

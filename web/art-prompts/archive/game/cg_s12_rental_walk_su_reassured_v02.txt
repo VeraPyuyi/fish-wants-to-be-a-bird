@@ -1,0 +1,18 @@
+Use case: identity-preserve
+Asset type: one full-frame 16:9 visual-novel scene revision.
+Edit image 1, the approved warm conversation after Su Yuqing removes her cap. Change only her hairstyle to match the approved cropped-hair version in image 2.
+
+Input roles:
+Image 1 is the complete edit target, especially both characters' small closed-mouth smiles.
+Image 2 is the preceding approved cap-off shot, used only for the full short haircut and the existing single cream star clip. Do not copy its hesitant mouth or the owner's surprised expression.
+Image 3 supplies the established facial identity only. Its older long hair and neutral frontal expression are not used.
+
+Su is the smaller fictional teenage girl on the left of the woman owner, in the center-right foreground. Replace her chin-length bob with the same softly textured short black crown, short fringe, cropped ear sides and clear nape as image 2. Keep her existing head size, face contour, eyes, nose, mouth, neck and lowered three-quarter head angle. Retain one small cream star hairclip at her anatomical right temple, visible on the viewer-left side in this shot, naturally attached to the short hair.
+
+Preserve image 1's emotional moment: Su has a tiny shy closed-lip smile, softened eyes and light cheek warmth while looking slightly downward. The owner looks toward her with a gentle closed-mouth smile, her earlier surprise relaxed. Their expressions should remain warm and restrained.
+
+Keep both people in exactly the same places and relative scale, with the same small walking steps and body positions. Su holds the single navy cap near its crown in one hand at her upper thigh, while the other hand continues gripping the extended suitcase handle. Preserve the cap shape and orientation, fingers, wrist, suitcase angle and contact relationships. Keep the closed cream case with two cat stickers, one worn navy backpack, pale-blue hoodie, off-white shirt, dark trousers and white sneakers. Keep the owner's short brown hair, brown cardigan, beige collar, blue-grey apron, dark trousers, black shoes and relaxed hands.
+
+Preserve the whole familiar street, shop lettering, buildings, trees, overhead wires, motorcycle, bicycle, diners, vendor and ordinary passersby with their existing placement and activity. Keep the same soft evening light, shadows and gently anime-painted style.
+
+Return one complete landscape illustration at the original framing, with only Su's haircut intentionally revised. No new gesture, head pat, added object, interface, caption, watermark or comparison panel.

@@ -1,0 +1,12 @@
+Use case: identity-preserve
+Edit target: the attached eight-person courtyard portrait, OP-R6-FAMILY-01 v07. Produce v08.
+The user wants ONLY Zhang Sifan and Fang Youyou to have more clearly distinct facial identities. In the current picture their faces look too alike. Make the distinction clearly readable in this full-scene view, not just a tiny eyebrow change.
+
+ZHANG SIFAN = standing in the BACK ROW, SECOND FROM LEFT, dusty rose collared blouse:
+Keep his established natural short hair and young-adult masculine-androgynous appearance. Give him a longer oval face, a somewhat longer straight nose, a defined but rounded chin, more open almond eyes, brows that gently rise toward the outer ends, and a slightly broader friendly closed smile. Expression outgoing, bright and relaxed. No pointed idol chin, no makeup, no beard.
+
+FANG YOUYOU = seated FRONT ROW, FAR LEFT, ivory blouse and sage skirt:
+Keep her established natural short hair and young-adult masculine-androgynous appearance. Make the face visibly shorter and a little broader through the lower cheeks, with a softly squared rounded jaw; not a round childlike face. Give her lower, flatter eyebrows, narrower horizontal eyes with calm upper eyelids, a shorter blunt straight nose, and a smaller nearly level closed smile. Expression composed, quiet and caring. Nose bridge and lower face retain adult masculine structure. No makeup or beard.
+These two must differ in face length, jaw silhouette, eye/brow arrangement, nose proportions and mouth width while still belonging to the same gentle anime art style. Do not produce the same face with two expressions. Keep each head the same overall scale relative to its body; adjust facial construction within it, not head position or neck angle.
+
+LOCK everything else to the input: the other SIX faces including Hu Yuniu in ochre polo and Mo Kong in blue shirt; all hairstyles, clothes, bodies, hands, feet, poses, group placement, headroom, shoe margins, bench, courtyard, perspective, palette and lighting. Absolutely preserve the clean denoised wall, crisp drawing and smooth fabrics achieved in v07. No grain, noisy leaves, mottled plaster, gritty texture, blur, extra objects, text, borders or panels. Output the same complete wide 16:9 family portrait; change only Zhang and Fang's faces as specified.

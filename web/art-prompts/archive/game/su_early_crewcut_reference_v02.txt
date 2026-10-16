@@ -1,0 +1,21 @@
+Use case: identity-preserve, precise-object-edit.
+Asset: CH-SU-HAIR-01 | 苏雨晴·离家初期短平头 | v02 — 身形更矮小.
+User request: “身高可以再矮一点”. Produce ONE revision of the current short-hair sample.
+
+Input Image 1: su_early_crewcut_reference_v01.png, the SOLE WHOLE-IMAGE EDIT TARGET. It controls the current short black haircut, star clip, outfit, neutral frontal standing pose, full-body framing and background.
+Input Image 2: su_home_neutral_v09.png, FIXED FACIAL IDENTITY reference only: preserve the established oval face, almond eyes, restrained brown irises, nose/mouth spacing, tapered lower face, gentle fifteen-year-old appearance and head size. Do not import its old bob haircut or taller body proportions.
+
+Make the body visibly a little shorter through natural anatomical proportion changes:
+- Shorten BOTH the thighs and the lower legs by approximately 8–9%, and the torso by about 3%. At the SAME actual head size, the intended overall standing height is about 5–6% less than Image 1. These are drawing-adjustment targets, not claimed original-novel height measurements.
+- Keep the feet on exactly the same bottom baseline and horizontal placement. The head, neck and shoulders will move downward as a result of the shorter legs and torso, leaving slightly more empty margin above the crown. Do not simply move or uniformly shrink the whole person.
+- Keep the head's physical size, facial proportions, neck length, shoulder width, slim build, hand size and shoe size unchanged. Match the small necessary arm-length adjustment to the shorter torso and thighs so elbows, wrists and hands rest naturally. Keep natural knee and hip positions.
+- Redraw clothing folds to accommodate the shorter limbs and torso; do not vertically squash fabric or the whole character. Keep the casual loose fit. A petite, naturally proportioned 15-year-old, never chibi, a toddler, stockier, or disproportionately big-headed.
+
+Strict invariants:
+Keep Image 1's exact current short black haircut silhouette, exposed ears, short fringe and hair volume. This round is a height-only revision; do not make a different haircut or restore long hair. Keep the single small ivory star clip at the same anatomical RIGHT side / viewer-LEFT in this frontal view, attached in the same existing area. No duplicate or replacement accessories.
+Keep the same gentle narrow oval face, restrained brown almond eyes, natural cheeks, lower-face/chin length, subtle neutral closed-mouth expression, skin tone and gaze. Do not enlarge the eyes, round the cheeks, shorten the chin or age her down.
+Preserve the mist-blue open zip hoodie, ivory crew-neck T-shirt, dark-indigo straight jeans and plain white low lace-up shoes. Keep the exact same garment construction, hoodie seams, pockets, zipper, cuffs, hem and colors. Both arms rest by her sides with visible hands.
+Keep the same established slightly anime visual-novel linework, clean soft shading and lighting. No more photorealism, new makeup, new props or new pose.
+
+Output:
+ONE full-body portrait image, 1024x1536 proportions, same canvas, framing and checkerboard preview background as Input Image 1. Keep head and shoes entirely visible. This is a single design-review sample, not a runtime transparency request. No labels, ruler, diagram, inset, side view, alternative figure, text or watermark.

@@ -1,0 +1,19 @@
+Use case: identity-preserve
+Asset type: one full-frame 16:9 visual-novel scene revision.
+Edit image 1, the approved scene of Su Yuqing walking beside the noodle-shop owner on the way to see a rental room. Change only Su's visible hair beneath her navy cap.
+
+Input roles:
+Image 1 is the complete edit target, including both people and the street.
+Image 2 is the approved cropped hair around the ear and nape beneath Su's travel cap.
+Image 3 supplies fixed facial identity only; its older long hairstyle and frontal pose are not used.
+Image 4 is the approved short haircut reference, not a new pose or costume.
+
+Su is the smaller fictional teenage girl to the left of the woman owner in the center-right of the picture. Replace the long black hair behind her ear and toward her hoodie collar with close-fitting short black hair, exposing the ear edge and nape naturally. Keep the navy cap, brim, forehead fringe, existing face outline, upward glance and head angle. Her usual hair accessory remains covered by the cap.
+
+Preserve the approved walking moment: the owner leads slightly on the right and turns kindly toward Su; Su takes a smaller step beside her and looks up with quiet, slightly hesitant attention. Keep their exact placement, relative heights, body proportions, faces and gestures. The owner retains her short brown hair, brown cardigan, beige collar, blue-grey apron, dark trousers and black shoes, with relaxed empty hands.
+
+Su keeps her pale-blue zip hoodie, off-white shirt, dark trousers, white sneakers and one worn navy backpack. Her outside hand grips the extended handle of the same closed cream suitcase with two cat stickers, rolling at her left rear; her other hand stays naturally lowered. Retain the hand-handle connection, suitcase angle, wheel contacts, feet and long shadows.
+
+Preserve the original street perspective, left snack shop and right convenience store, tiled buildings, varied trees, overhead wires, motorcycle, bicycle, diners, vendor and ordinary passersby. Keep every background person's existing activity and placement. Match the same soft evening light and gently anime-painted style across both main characters and the street.
+
+Return one complete image at the original framing. Preserve all approved details as closely as possible; only the ear-and-nape haircut is intentionally revised. No new gestures, removed cap, added objects, interface, captions, watermark or comparison panel.

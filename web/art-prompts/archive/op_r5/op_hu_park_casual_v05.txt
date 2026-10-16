@@ -1,0 +1,9 @@
+Use case: identity-preserve
+Edit target: supplied OP-HU-DUAL-01《胡玉牛·端午游乐园》v04. Make v05 as one 16:9 illustration.
+The user requests a softer face and a slightly slimmer physique for this same character, to become the consistent identity reference for both the park scene and a later indoor scene.
+
+Face refinement: keep Hu Yuniu recognizable, with the same short dark tousled hair, eye placement, gaze and calm warm expression. Gently round the transition from cheek to jaw and soften the chin corner; lighten the strong eyebrow edges, nose bridge shading and jaw contour. Give the eyes a relaxed gentler look without enlarging them dramatically. Reduce harsh facial shadows and keep any stubble very faint. Retain the same adult age and head size, not a childlike or entirely different face.
+
+Body refinement: modestly but visibly slim the shoulders, chest/waist, upper arms and forearms and the legs beneath the trousers from this input. Aim for a leaner, naturally fit tall build with some strength rather than a heavily muscular torso. Reduce the silhouette width roughly another 7–10 percent in the upper body and arms with coherent proportions. Keep natural shoulder and elbow anatomy and relax deep muscle contour lines. Do not simply shrink the whole person: his overall height, head location, foot contact points and distance from the railing must remain the same.
+
+Preserve the exact pose: one hand on the railing, other in pocket, relaxed standing position, same gaze direction. Preserve slate-blue sports T-shirt with cream shoulder stripes, dark track pants and grey-white shoes; adapt fabric folds to the slightly slimmer body. Keep all background composition, carousel, Ferris wheel, visitors, trees, paving, sunlight and cast shadows unchanged. Same clean soft anime illustration style. No new props, text, captions, logos, photographic textures, grain or split panels. Output only the revised complete image.

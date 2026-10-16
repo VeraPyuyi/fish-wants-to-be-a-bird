@@ -1,0 +1,7 @@
+Use case: identity-preserve
+Asset: OP-TIAN-DUAL-01 v05. Edit the supplied v04 illustration; output one complete 16:9 scene.
+Primary request: The previous facial adjustment was too subtle. Make Tian's face clearly a little more boyish/masculine, while preserving this same delicate petite character and the current soft rounded chin.
+
+Face-only changes: visibly straighter and moderately thicker natural brows, set a little closer to the eyes; slightly narrower, more horizontal eye shapes with less rounded irises and a focused sharp gaze; a clearer natural nose bridge and slightly less button-like nose tip; slightly broader lower-cheek/jaw structure without a pointed taper. Keep the face short, with a rounded chin end and softly joined jaw corners. A plain, clean delicate boyish face, not a glamorous model. Keep pale skin, restrained closed-mouth expression, and a little defiant character. No beard, stubble, harsh nose shading, square heavy jaw, adult aging lines or angry grimace.
+
+Lock all other elements: EXACT petite seated body size and silhouette relative to the table/chair; current head position, dark cap, low ponytail and hair length; dark overcoat, knit sweater and trousers; two hands pressing the leaflets. Do not enlarge the head or shoulders. Preserve table geometry, paper stacks, posters, canopy, anonymous pedestrians, stage, rain, camera, framing and cool lighting. Do not retouch or restyle the background. Clean anime linework and smooth colors; avoid added texture, grain or global blur. No new objects, readable text, captions or watermark.

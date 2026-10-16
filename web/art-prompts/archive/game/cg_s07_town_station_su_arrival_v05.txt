@@ -1,0 +1,23 @@
+Use case: compositing / identity-preserve.
+Asset: CG-S07-01《小城站前·初抵陌生城市》v05, station-location continuity revision.
+Output ONE finished 16:9 illustrated visual-novel scene.
+
+The user has explicitly SELECTED Image 1's station as the definitive location. Revise Su Yuqing's arrival scene to use THIS SAME station. Do not redesign the chosen station.
+
+Input roles:
+IMAGE 1 is the highest-priority BACKGROUND EDIT TARGET: retain its exact station, central facade with blue upper windows and round lower windows, entrance and “出站口” sign, framing, perspective, left old street, green bus, bicycle row, planters/railings, hills, right-foreground “副食品” shop, awning and merchandise, and tree positions. These landmarks MUST stay in the same places. REMOVE Fang, the grey-shirt person, her dark suitcase and phone from Image 1.
+IMAGE 2 provides Su Yuqing's arrival STAGING AND WARDROBE ONLY: the small navy-cap girl in light blue hoodie standing with one hand on her cap and the other holding the pale cute suitcase. Also supplies the overcast early-spring afternoon mood, wet paving, and ordinary motorcycle taxi / lodging tout street life. Do NOT import or revert to Image 2's different station framing and building layout.
+IMAGE 3 provides CLOSE CHARACTER IDENTITY reference: Su is on the RIGHT in the train. Preserve her recognizable soft small face, warm brown eyes, dark short pixie hair, navy cap and blue travel hoodie. Ignore train setting, seated posture, other passengers and surprised open-mouth expression.
+
+New protagonist within Image 1's existing space:
+Su has just arrived alone in early spring 2004, on a cold cloudy afternoon. She pauses unsure where to go. She is a petite approximately 149cm girl with narrow shoulders, short natural limbs, soft anime face, modest fully covered everyday clothing. Keep light periwinkle blue open zip hoodie, plain white T-shirt, navy straight trousers, white low-top sneakers, and ONE navy school backpack worn on her back. Her dark hair under the cap is SHORT as in references 2 and 3, not a chin-length bob; no visible extra star ornament on the cap.
+Place her in the centre-right part of the square, a little farther from the camera than Fang stood in Image 1. Show full body and both feet, character about 55–60 percent of frame height, distinctly smaller than Fang's large foreground figure. Match her size to the doors and bystanders at their distances. She is STANDING STILL rather than walking, feet naturally grounded.
+She looks slightly left across the unfamiliar plaza with a quiet uncertain expression, lips closed, not smiling, not terrified or crying.
+Her hand on screen-right gently presses the OUTSIDE side of the cap above the ear. Fingers touch cap fabric, wrist natural, arm short; ear/hair/neck stay anatomically separate, no hand passing through head. Other hand grips the extended handle of her pale ivory upright suitcase from references 2 and 3, with the same two small cute cat stickers, no added lettering. Suitcase compact, not giant, wheels contacting pavement; not Fang's navy suitcase. No phone.
+
+People and narrative:
+Retain natural station crowds from Image 1, with early-spring light jackets rather than all summer clothes; do not make the station deserted. Include a modest motorcycle-taxi rider with motorcycle at the LEFT edge of the square, and a middle-aged woman in a muted burgundy jacket farther to the RIGHT, gesturing lightly toward Su as a lodging caller, as in reference 2. Their adult faces and proportions must remain distinct from Su's. These figures should fit around the original architecture without obscuring key station landmarks or introducing new buildings. No second Su and no Fang remaining in this earlier story moment.
+
+Weather / rendering:
+Keep Image 1's exact geometry and store layout but change sunny late-spring lighting to cool soft overcast afternoon: pale grey-blue cloudy sky, diffuse gentle shadows, slightly damp grey paved ground with restrained reflections rather than mirror glare. Early-spring tree cover can be cooler green. No storm or active downpour; weather change must not move buildings or alter station window count.
+All elements in clean soft anime visual-novel style: fine controlled lines, clear gentle cel shading, smooth illustrated materials, low noise, no photorealistic textures, no granular skies or scratchy vegetation. Faces, hands and small objects clear. Do not transplant Image 2 as the background; use the station in Image 1. No collage, panel, subtitle, logo, border, title card or watermark. Preserve existing correctly readable environmental signs from Image 1; no new sign text.

@@ -1,0 +1,17 @@
+Use case: identity-preserve
+Asset: CG-S12-04 courtyard meeting, version 3.
+Edit image 1 into one complete landscape scene. Make a visibly closer-cropped haircut for the small girl, Su, standing to the left of the two adult women. Her current ear-length bob in image 1 is the part that must change.
+
+Use image 2 as the HAIRCUT reference: a short textured crown, short forehead fringe, closely cropped sides, fully exposed ear outlines and a clean, uncovered nape. Transfer that haircut onto Su's existing three-quarter head angle in image 1. Remove the thick curved curtain of hair behind the near ear, the side pieces reaching below the earlobe toward the jaw, and the long hair edging the hood collar. The resulting hair must sit close to the skull at both sides and behind the ears. The lower ear contours and the skin behind the jaw toward the neck must be visible; no hanging bob ends remain. Keep a softly textured short top, without a shaved scalp or a harsh skin fade.
+
+Preserve one small cream star hairclip on her existing anatomical right temple, viewer-left in this picture, attached to the cropped hair. Do not move or duplicate it.
+Use image 3 for established facial identity only. Its old long hair, front-facing neutral expression, body pose and checkerboard background are not references.
+
+This is a localized HAIR correction. Preserve Su's existing facial outline, eye size and gaze, nose, tiny closed-mouth smile, blush, head size and head angle from image 1. Do not redesign her face or age. Reveal only the ear/neck/background areas previously hidden by the removed hair. Preserve her exact standing body and small stature relative to the two women, all hands, clothes and props.
+
+In particular, keep the viewer-left hand gripping the suitcase handle, viewer-right hand holding the navy cap near its crown at the thigh, and the downward cap brim. Keep the closed cream case with its two cat stickers, both handle rails, wheels and ground contact; one navy backpack, pale-blue hoodie, off-white shirt, dark trousers and white shoes. Keep Zhang's loosely overlapped hands at her waist, kind smile, brown cardigan and blue-grey apron. Keep the landlord's full face, dark wavy hair, plum floral blouse, open cheerful mouth and small open-palm gesture.
+
+Everything outside Su's hair and the small areas it previously covered must retain image 1's composition: all three people and their positions and relative scale; their expressions and clothes; three seated neighbors and an empty fourth chair at the mahjong table; courtyard, left-side empty lane, gate, plants, bicycle, bins, laundry, buildings, doorway, lamps, evening light and shadows. Preserve the same gently anime-painted look and the left third as environment only.
+
+Return one full-frame illustration at image 1's framing and dimensions. No new action, different camera, extra person, new object, title, caption, interface, border, watermark or comparison panel.
+

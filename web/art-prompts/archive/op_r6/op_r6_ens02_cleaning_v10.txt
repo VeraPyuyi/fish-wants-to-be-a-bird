@@ -1,0 +1,17 @@
+Use case: identity-preserve, exact character-face replacement.
+Asset OP-R6-ENS-02 v10, same full house-cleaning scene.
+IMAGE 1 is the EXACT edit target (cleaning v09). IMAGE 2 is the primary APPROVED HU YUNIU FACE (the only person, seated on a sofa in a sailor outfit). IMAGE 3 is the same approved Hu in a white polo at the park, supporting identity. Import ONLY the identity of his face from images 2 and 3, not their bodies, outfits, poses, lighting or backgrounds.
+
+The user rejected the face alignment in image 1 as still insufficient. This time RECONSTRUCT Hu's facial features from the reference; do not merely polish or lightly soften the existing pretty face.
+
+Target = tall brick-red polo man near left-centre, both hands gripping the wooden chair. Make him clearly the SAME ORDINARY, KIND ADULT as the man in image 2, in the current head turn:
+- Replace the narrow V-shaped lower face with the reference's fuller, rounded-square cheeks, wider blunt chin and broad gentle jaw transition. Keep the outer HEAD SIZE and its centre unchanged; use the space within the existing head naturally.
+- Replace the glamorous slanted almond eyes with the reference's smaller, simple, relatively level adult eyes, less glossy and less stylized. His gaze remains in the existing direction.
+- Use the reference's straightforward, rather plain eyebrow shapes with natural thickness, NOT sharply tapered handsome-model eyebrows.
+- The nose has the reference's lower, gentler bridge and fuller round tip, NOT the tiny sharp anime-hero nose of the target.
+- Match the simple wide relaxed mouth and slightly awkward, reserved kind expression of image 2. No smirk, no broad toothy grin, no seductive eyes, no exaggerated dumb expression.
+- Preserve adult warmth, subtle light chin/jaw stubble only if visible in the references; no heavy beard, wrinkles, bruises or gritty facial dots.
+The change must be visible enough to restore the identity, yet remain a coherent soft-anime face under this room's lighting. Do not copy an unrotated face as a pasted mask: adapt the reference anatomy to the existing head direction.
+
+ONLY Hu's face may change. Keep his short dark hair silhouette, ear placement, head size, short natural neck, lean tall physique, shoulder width, torso, arms, hands, brick-red polo, dark trousers, chair grip, pose and shoes unchanged. Do NOT thicken his body. Retain all other four faces, expressions, hair and outfits exactly as image 1: Fang near left basin, Zhang at distant window, Su holding cat, Lin at bed. Five people and one black cat; all feet, shoe margins, relative heights, gestures, cleaning tools, bed pawprints and room layout stay unchanged.
+Preserve image 1's already cleaned floor, furniture, cloth, foliage, warm daylight and crisp smooth anime finish. Do not globally redraw, blur, add noise or sharpen. No costume substitution from references, no new objects, writing or watermark. Return the SAME complete landscape frame, not a portrait crop or comparison sheet.

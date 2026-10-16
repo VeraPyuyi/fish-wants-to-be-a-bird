@@ -1,0 +1,12 @@
+Use case: precise-object-edit, identity-preserve.
+Asset: OP-ZHANG-NW-01 v04, natural short hair counterpart for the same birthday shot.
+Image 1 is the EDIT TARGET and the approved master for the clean background, exact composition, colours, crisp outlines, lighting, both bodies, clothes and gestures.
+Image 2 is REFERENCE ONLY for the right adult character Zhang Sifan's approved natural dark short hairstyle and visible face/ear. Do not copy the noisier environment from image 2.
+
+Make just one local edit to IMAGE 1: replace the RIGHT taller adult character's shoulder-length golden wig with the same dark soft short layered hair from IMAGE 2. Match that hairstyle's length, softly tousled crown, normal short fringe, sideburns and silhouette precisely. Do not cut it shorter, do not make it a buzz cut or shaved scalp, and do not lengthen it. Preserve her approved soft adult face and closed-eye gentle wishing expression, head angle, head size, ears and warm candlelight.
+
+Where the golden hair previously covered her neck and collar, complete only the necessary small revealed area consistent with the matching black high-collar dress in image 2. Keep both clasped hands exactly in place. No lifting hands or removal action yet, no loose wig prop.
+
+Maintain IMAGE 1's newly approved clean anime drawing: orderly grass/leaf groups, recognizable white flowers, clean container-house boards and windows, clear table edges, calm shadow shapes, smooth night-blue gradients. Preserve existing stars, clouds, distant lights, mountain layers, lake reflections and candles. Do not return tiny random dots, scratches, painterly grain or noisy microdetail. Do not soften or blur the picture.
+The LEFT shorter Su Yuqing is untouched: black long ponytail wig visible over her shoulder, star hair clip, face, white/red outfit, hands, scale and location all unchanged.
+Return one full landscape frame with the same framing and aspect ratio. No text, watermark, borders, new people, or redesign of any other element.

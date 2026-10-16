@@ -1,0 +1,15 @@
+Use case: identity-preserve.
+Asset: OP-R6-ENS-02 《一起把旧屋擦亮》 v06. One 16:9 anime visual novel illustration.
+
+Image 1 is the EDIT TARGET: five friends cleaning their shared small house. Preserve this exact scene, composition, all five people and all existing gestures.
+Image 2 is the WARDROBE reference ONLY: the same people at the river. Transfer their individual new outfits into the house-cleaning scene. Do not transfer the riverside setting, gestures, size relationships, camera or props.
+
+CHANGE ONLY CLOTHES in image 1:
+1. Su Yuqing, petite foreground RIGHT holding the black cat: replace the pink dress with image 2's pale sky-blue short-sleeve dress, white round collar, narrow white hem and small pale-yellow neck ribbon. Keep image 1's white knee socks and white canvas shoes because she is still indoors, plus her ivory star hairclip and same short hair.
+2. Fang Youyou, foreground LEFT beside the blue wash basin, covering her nose with one hand and holding a cloth with the other: replace the sage T-shirt and dark trousers with the reference cream short-sleeve button blouse and sage-green modest knee-length A-line skirt; keep white shoes and the exact pose. This is the same mature gently androgynous short-haired person, not a new face.
+3. Hu Yuniu, tall lean person CENTER LEFT holding the wooden chair: replace the navy sports shirt with the muted terracotta/brick-red short-sleeve polo from image 2; keep charcoal trousers and white shoes. Preserve the plain kind face, faint stubble and approved lean build; no beautification, no additional muscles.
+4. Zhang Sifan, small in the BACKGROUND at the window cleaning glass: replace yellow T-shirt with image 2's pale-mint short-sleeve open collared overshirt over a white T-shirt. Keep charcoal cropped trousers and light shoes. Maintain her exact apparent size, depth, adult oval face, short natural hair and raised cleaning arm. DO NOT enlarge her or bring her forward.
+5. Lin Xichen, RIGHT by the bed leaning forward with both hands resting on the white sheet: replace white blouse/navy skirt with image 2's soft pale-lavender blouse with forearm-length rolled sleeves and relaxed blue denim shorts with a modest long cut. Shorts must comfortably cover her in this leaning position. Keep the existing body proportions, long natural black twin ponytails, face, pose and hands.
+
+STRICT INVARIANTS: do not move, rescale, reshape, age or change the five faces. Keep existing approved relative heights and perspective of image 1. Keep Su's whole shoes and visible floor margin below them. Keep cat and all cleaning tools, basin, cloths, chair, bed with pawprints, windows, curtains, floorboards, furniture, paintings and lighting exactly in their existing positions. No wigs or hairstyle changes. No extra people, limbs, props, hats, accessories or words.
+Retain crisp clean pastel anime line art, simple painted shading and smooth cloth surfaces. No added grain, photographic texture, noisy brush flecks or loss of sharpness. Only the new clothing should be visibly different. No text, captions, border, collage or watermark. Produce one single full scene at the same wide ratio.

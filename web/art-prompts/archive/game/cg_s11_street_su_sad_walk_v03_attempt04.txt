@@ -1,0 +1,19 @@
+Use case: identity-preserve
+Asset type: one 16:9 narrative illustration for a Chinese visual novel.
+Redesign the walking scene in image 1 as a cohesive anime illustration, using the same snack street and the established character references.
+
+Input roles:
+Image 1 is the scene to revise: its shops, road, period setting and sunset establish the location.
+Image 2 is Su Yuqing's approved travel costume, cap and close-cropped hair reference.
+Image 3 supplies facial identity only; use the short hairstyle from images 2 and 4.
+Image 4 supplies her short haircut and petite proportions.
+
+Scene: Baishi Road in a small Zhejiang city in 2004, early evening. After an unsuccessful day seeking work, the fictional teenage girl Su Yuqing walks slowly onward. Frame her full body in the center-right foreground, seen from a gentle three-quarter side angle as she moves toward the right. She keeps her head slightly lowered and her eyes open, with a subdued, tired expression. Her small, careful step conveys sore feet and disappointment.
+
+Redraw her naturally within the space. Retain her small stature relative to nearby shop doors and pedestrians. She wears the navy cap, pale-blue zip hoodie over an off-white T-shirt, dark trousers and white sneakers. Her black hair is closely cropped around the ears and nape, clearly ending above the hoodie collar. The cap naturally covers her usual hair accessory. Keep the soft oval face, brown eyes and restrained facial proportions of the references.
+
+One hand holds the extended handle of her closed cream suitcase with two cute cat stickers, rolling just behind her. The other arm hangs comfortably at her side. She wears one navy backpack. Draw clear, natural hand contact with the handle and grounded feet and suitcase wheels.
+
+Retain the recognizable snack shop on the left, convenience shop on the right, tiled low-rise buildings, varied leafy trees, overhead wires, bicycles, diners and ordinary passersby from image 1. Use clean anime linework, softly painted shapes and restrained warm evening colors across both character and scenery. Recompose the foreground and figure as needed for a convincing walking pose and readable short haircut. The result should feel like one hand-drawn scene with consistent perspective, soft shadows and light.
+
+Produce one complete landscape illustration. Keep the quiet emotional beat and familiar location. No game interface, captions, comparison panels or watermark.

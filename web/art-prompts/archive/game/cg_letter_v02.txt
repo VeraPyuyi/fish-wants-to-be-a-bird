@@ -1,0 +1,28 @@
+Use case: style-transfer.
+Asset: CG-HOME-01 | 纸条与钥匙 v02 · 轻度动漫化.
+Create exactly ONE revised 16:9 visual-novel still-life CG.
+
+INPUT ROLES:
+Image 1, cg_letter_v01, is the EDIT TARGET and the exact approved composition and object-identity reference.
+Image 2, bg_livingroom_v03, is ONLY the user's approved reference for the SAME living-room table's honey wood color, warm daytime light and anime-background drawing language. Do not bring its room furniture, plants, walls, television or window into this close-up.
+
+PRIMARY REQUEST:
+Repaint the SAME farewell note-and-key close-up as a polished, moderately anime-styled narrative-game illustration. This is the moment immediately after Su Yuqing leaves her home key on her farewell note in 2004. Preserve the original quiet composition and physical objects, while replacing photographic surface detail with purposeful colored lines, calm painted surfaces and grouped light/shadow.
+
+DRAWING:
+Use fine selective warm-brown outlines for the table edge and restrained grey outlines for the white paper, key and pen. Keep the small key as the main focus, with a clearly drawn head opening, continuous blade, plausible teeth and simple metal thickness. Give its silver metal two or three composed grey highlight/shadow shapes, not photoreal scratches, embossed microtexture or chrome glare.
+Keep the original transparent-smoky inexpensive ballpoint pen, but simplify its small reflections into clear painted shapes. The pen should remain subordinate to the key.
+Paint the honey-colored wood tabletop with a few readable long grain marks and gentle variations, greatly reducing the current dense grain and photographic varnish texture. Convert the broad right-side window reflection into soft, quiet painted light; avoid a blown-out white patch or mirror gloss. Match the warmth and clarity of the approved living room without turning the scene orange.
+The paper is thin matte off-white, with a subtle contact shadow and slight edge lift, no dense photographic paper-fiber texture. Retain clear focus for the key, mildly softened pen and farther table, with illustrated depth rather than a strong camera-bokeh effect.
+This should look like a deliberately drawn anime visual-novel CG, not a photograph, product catalog image, 3D render, flat vector icon, sketch or children's illustration.
+
+EXACT COMPOSITION AND OBJECT INVARIANTS:
+Preserve the same close oblique overhead camera and all main placements. Keep the table's curved/beveled near-right edge in the same framing.
+One single white note extends OUT OF FRAME at the left/upper-left. Only its BLANK LOWER/RIGHT MARGIN and edge are visible. The note's written portion is entirely outside the crop. NO words, numbers, scribbles, fake handwriting, printed lines or symbols on the visible paper. This is essential because the farewell text differs between two player choices, and this CG must serve both.
+One ordinary small silver residential key lies diagonally across the paper's right edge at the original middle-upper area, with its toothed blade pointing down-left and its head pointing up-right. Preserve its size, shape and head hole from Image 1. No keychain, logo, engraving, duplicate key or stylized oversized key.
+Keep the same single ballpoint pen resting above the paper, in the same orientation and position near the top of the frame. No extra stationery.
+Most of the lower quarter remains quiet tabletop for the dialogue box. Do not move the key, pen or narrative detail into this lower area.
+Keep the same clean, well-maintained table, comfortable family-home context and gentle warm daylight coming from the right. Background beyond the far edge remains only a small softly painted indistinct strip as in Image 1, no new room architecture.
+No live person, hand, shadow of a character, money, suitcase, phone, flowers, envelope, extra paper sheet, additional objects, damage, tears, stains, captions, UI or watermark.
+
+Output ONE complete 16:9 landscape illustration with the same full framing as Image 1. No crop, border, transparency or comparison panel.

@@ -1,0 +1,10 @@
+Use case: identity-preserve
+Edit target: supplied OP-HU-DUAL-02《胡玉牛·合租屋里的水手服》v02. Create v03 as ONE full 16:9 image.
+
+LOCAL FACE-ONLY REVISION. The user still finds Hu's face too finely sculpted and handsome. Make a clear, visible change toward an ordinary, plain adult face while preserving warmth and the character's identity.
+Facial shape: gently broaden and fill the cheek planes and mid-face; replace the tapered, elegantly sculpted lower face with a softly square, round-ended jaw and a broader rounded chin. Keep head size and adult age unchanged. Do not add obesity or dramatic aging.
+Eyes and brows: make the eyes quieter and a little smaller/narrower horizontally, with simple natural eyelids and little decorative shine. Use ordinary relaxed straight eyebrows with slightly irregular natural edges, rather than precisely styled or sharply angled brows.
+Nose and mouth: reduce the high, slender, pointed nose aesthetic; use a modest natural bridge and a softly rounded, somewhat broader nose tip. Keep lips plain and unglossed, with a small restrained closed-mouth smile. No beauty highlights or sharply carved face shadows. Facial expression remains gently nervous and hopeful, looking toward friends offscreen to the left.
+Keep naturally visible ears and only a very faint clean-shaven shadow; no strong beard, caricature, scowl, ugliness exaggeration or comic distortion. The goal is a familiar ordinary person with a soft expression, not an idol, model, handsome anime lead or different character.
+
+STRICTLY PRESERVE everything outside the face: short dark hair silhouette, body, neck, shoulder and arm widths, slim-but-fit seated physique, hands clasped on covered lap, together knees, opaque black tights, slippers on the floor, same sailor blouse/collar/scarf/skirt, sofa and all furniture, window, kitchen/bedroom openings, black-screen TV, table objects, lighting, camera angle and composition. Do not broaden the torso when broadening the face. Keep clean soft anime linework, no added grain or blur. No writing, captions, logos, new props or split panels.

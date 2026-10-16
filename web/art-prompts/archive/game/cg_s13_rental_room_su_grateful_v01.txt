@@ -1,0 +1,30 @@
+Asset: CG-S13-03《出租屋·谢谢你，张阿姨》v01
+Use case: identity-preserve / grateful facial expression variant in an existing visual-novel scene.
+Output exactly ONE full-frame landscape image, same dimensions, aspect ratio, camera and crop as the approved input. This is a precise expression/attention variant, not a new room scene or new poses.
+
+ONLY INPUT IMAGE: cg_s13_rental_room_su_shortfall_v01.png, the user-approved complete composition. Use it as the authoritative edit target for every object, body, face identity, silhouette, color and lighting. Keep the image registered to the input. Do not redraw or reframe the background, change furniture, shift people, resize heads, alter body scale or alter the floor shadows.
+
+Narrative moment:
+Zhang Ayi, the taller noodle-shop owner standing on the LEFT, has just offered to advance the missing three hundred yuan of rent. Su Yuqing, the very petite teenager in the MIDDLE, is listening to this offer and responding with heartfelt thanks. The landlord on the RIGHT is not the person making the offer. This frame is after the offer has been heard, before any actual signing, payment or key handover. The feeling is unexpected kindness, cautious relief and sincere gratitude. No money or transaction is drawn.
+
+The essential change is Su's attention and gratitude toward ZHANG ON THE LEFT:
+- Preserve Su's exact recognizable small face, age, chin-length black bob and ONE cream star clip. Keep her head center, height, neck attachment and body location fixed. Allow ONLY a SMALL natural turn of her head from the current right-facing view toward a more frontal three-quarter angle, just enough for her eyes to clearly look UP-LEFT toward Zhang's face. Do not rotate her head all the way into a left-facing profile or twist the neck backward. Do not mirror the entire head or duplicate/move the star clip to a new side.
+- Her gaze must read as directed toward Zhang on the LEFT, not toward the right-hand landlord and not toward the viewer. This is a response to the helper, with a tender two-way eyeline.
+- Relax the worried inner brows and tension around the eyelids. Let her eyes brighten naturally with gratitude without enlarged anime pupils, added tears or wet trails. A small warm slightly open smile should feel like a quiet, earnest 'thank you'; distinguish it clearly from the tense parted mouth of the input, but do not make her grin broadly or laugh.
+- Keep a faint natural warmth in her cheeks. Preserve fifteen-year-old proportions; do not make her a toddler, glamorous adult, cutesy chibi or different character. No bowed head, bowing body, sobbing, clasped praying hands, closed eyes or ecstatic celebration.
+
+Zhang Ayi on the LEFT:
+Keep her exact head silhouette, face shape, age, body, clothes and folded hands. Change only her restrained concerned expression into a gentle reassuring smile with a kind gaze DOWN toward Su, as if the offer was a practical act of help. Eyes remain open. The smile is modest and unshowy, not a proud triumphant grin, sentimental tears or a speaking mouth opened wide. No touch, reaching arm, shoulder pat, handbag, wallet or money.
+
+Landlord on the RIGHT:
+Keep the approved neutral listening face and exact head/body/palm pose. At most allow a very faint calm softening of the mouth, but she remains a quiet witness. Do not let her take over the reassuring role, become angry or mocking, nod conspicuously or hold an object. Keep her silhouette and face identity unchanged.
+
+Strict invariants everywhere else:
+- Same three people, same standing positions, physical proportions, clothing contours, shoulder/arm/hand angles, fingers, shoe positions and furniture occlusions. Su is only slightly shorter than the compact landlord; Zhang is taller. Do not lift Su, shorten her legs or change her height relative to the room.
+- Su's light-blue hoodie, off-white shirt, dark trousers, white shoes and navy backpack are identical. The hand on the IMAGE LEFT still grips the extended handle of the CLOSED pale suitcase with TWO cat stickers; the hand on the IMAGE RIGHT still holds ONE navy cap at its crown. Same cap size and shape, case stickers, wheels and floor contact. Do not change either grip, hand, arm, bag strap, luggage placement or outfit.
+- Zhang retains the brown cardigan, beige collar, blue-gray apron, dark trousers, black shoes and calmly folded hands. Landlord retains the short dark wavy hair, plum small-floral blouse, full build, dark trousers, black shoes and the same low open palm.
+- Preserve all walls, door frames, bathroom/sink, single window and its2004 building view, empty wooden desk/chair, inset small cupboard, BARE wooden plank bed, unlit bulb, dry concrete floor, dusk colors and existing cast/contact shadows. No change to room size, camera perspective, object edges or depth.
+- The room is not lived in yet: no mattress, bedding, books, diary, toys, personal belongings, clothes on the bed, contracts, writing tools, receipts, notes, banknotes, wallet or keys. No signing, payment or transfer gesture, no people leaving, no door closing, no one sitting or lying on the bed.
+- Keep the clean slightly anime visual-novel drawing, thin colored outlines, designed eyes and restrained cel shading. No photographic repaint, skin pores, glossy3D, makeup, blur, new grain, glow, saturation shifts or dramatic new lighting.
+
+No text, subtitles, title, name card, speech bubble, UI, watermark, extra panel, close-up inset, montage, additional image or motion overlay. Exactly one variant. Only Su's necessary small head/gaze adjustment and Su/Zhang facial expressions may change; a further correction or expression will require its own user review.

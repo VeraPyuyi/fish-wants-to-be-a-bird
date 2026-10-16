@@ -1,0 +1,16 @@
+Use case: precise-object-edit.
+Asset OP-R6-ENS-01 《河边的五个人》 v05.
+Edit exactly ONE garment: the sage-green skirt worn by FANG YOUYOU, the short-haired standing adult at the CENTER, in front of the tall terracotta-polo person.
+
+IMAGE 1 is the complete target scene. Everything in it must remain unchanged except that one skirt's lower length.
+IMAGE 2 is ONLY a reference for the CORRECT LONGER SAGE SKIRT on that SAME standing center person. Reproduce that skirt length and drape in image 1. Ignore every other clothing difference between the two references.
+
+The current skirt in image 1 ends at mid-thigh and is TOO SHORT. EXTEND its hem substantially DOWNWARD to cover the kneecaps, finishing just below the knees. Match the sage skirt silhouette from image 2: a modest knee-length A-line skirt, NOT a miniskirt and NOT an ankle/calf-length skirt.
+Keep its current waistband exactly where it is. Preserve the same sage colour and soft vertical folds. Add fabric over the exposed lower-thigh area rather than moving or lengthening her legs. In the 1672x941 full image, the current hem is around y=475; the corrected hem should be approximately y=540–550. The added length must be clearly visible, about 70 pixels downward, not a tiny adjustment. Her knees should no longer be visibly exposed above the hem. Preserve both lower legs and white shoes underneath.
+
+ABSOLUTE LOCKS:
+- Fang's cream short-sleeve blouse, face, natural short hair, leaning-back pose, hands, legs, shoes, body size and the supporting hand from Hu.
+- Zhang Sifan, crouching to the right, MUST KEEP the USER-APPROVED DUSTY-PINK SHORT-SLEEVE TOP and IVORY SKIRT from IMAGE 1. Do NOT copy Zhang's mint shirt or trousers from image 2. Keep her face, short hair, hands, earthworm, crouching pose and shoes.
+- Lin left in lavender blouse and denim shorts; tall Hu in terracotta polo; petite Su right in sky-blue dress and starclip. No changes to any face, hair, physique or pose.
+- The fishing rod, its continuous fine line, red-white float, cat, river, rocks, vegetation, house, all props, camera and lighting.
+Preserve crisp 2D anime line art and original colours; no added grain or blur. No text, extra objects, people, collage or watermark. Exactly one full scene. Only Fang's skirt hem is extended.

@@ -1,0 +1,16 @@
+Use case: style-transfer.
+Asset: BG-STREET-01 | 浙江城市街道 v05 · 轻度动漫化样张.
+Input image: bg_street_v04 is the sole EDIT TARGET and exact composition/layout reference.
+Primary request: this project currently looks too photorealistic. Repaint this SAME street as a slightly more anime-styled, hand-painted Chinese urban visual-novel background. The user mentioned the visual language of the Love Mystery / 恋爱绮谭 visual-novel series. Use clean drawing, designed color shapes, and softly painted depth; this must visibly read as an illustrated visual-novel background rather than a photograph or textured 3D render. Keep the emotional restraint and believable everyday space.
+
+RENDERING CHANGES:
+1. Reconstruct surfaces with calm painted base colors and two or three broad light/shadow families, softly blended only where helpful. Add selective fine, colored contour lines along structural edges (window frames, awnings, railings, trunks); avoid heavy black outlines around every object.
+2. Strongly remove the noisy swirling/embossed microtexture currently covering the road, paving stones, shop woodwork and wall surfaces. Use readable, deliberately drawn paving seams and restrained brushwork. Keep the buildings OLD through their shapes, enclosed balconies, fading and a FEW broad, softly painted rain marks, not through dense gritty photo textures. The weathered buildings must not become newly renovated.
+3. Paint foliage as overlapping, irregular light and shadow masses with selective leaf shapes at edges and focal clusters. Reduce leaf-by-leaf photographic sharpness. Preserve every tree's recently approved DIFFERENT height, crown width, asymmetric outline and branching; keep the same lush overall volume and the visible gaps between crowns. Do not turn the trees into repeated round green balls.
+4. Keep the foreground structures legible and let the distant street become softer and less contrasty using painted atmospheric perspective. Lift the murkiest shadows very slightly and separate muted cool-grey architecture from natural soft green foliage and restrained warm shop colors. Maintain the existing overcast daylight; no sunny sky, rainbow palette, dramatic color grading or new season.
+5. Maintain enough architectural and prop detail for a polished narrative game. This is a moderate shift toward anime illustration, not a flat vector cartoon, chibi world, watercolor sketch or simplified children's book.
+
+STRICT INVARIANTS:
+Exactly the same camera, perspective, street layout and framing. The old multi-storey apartments and enclosed balconies remain on the left, the same railings/gate, the same mature trees in their current ground positions, the asphalt road and broad sidewalk, and the same shops with tan/blue awnings, bicycles and bamboo steamers on the right. Preserve the original proportions and all main object placements. Maintain the empty lower foreground for characters/dialogue and clear road depth. The image must remain immediately recognizable as the approved street.
+No people, characters, luggage, UI, lettering, readable signs, logos or watermark. Do not add fantasy architecture or modern props. Do not copy any character, costume, scene composition or user interface from another game.
+Generate ONE full landscape illustration, same 16:9 framing.

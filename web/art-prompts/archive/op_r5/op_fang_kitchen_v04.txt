@@ -1,0 +1,22 @@
+Use case: precise-object-edit
+Asset: OP-FANG-01《方莜莜·合租屋的晚饭》v04.
+Edit Image 1 into ONE revised 16:9 kitchen illustration. The user has now APPROVED Fang's face in Image 1: do not redraw, soften or feminize that approved face.
+
+Reference roles:
+Image 1 = edit target, all character faces, poses, clothes, relative sizes, food and warm emotional scene.
+Image 2 = the APPROVED HAIRCUT ONLY for Su Yuqing, the smaller character on the RIGHT. Transfer the clear chin-near hair silhouette and length from this head study. Ignore Image 2's sailor clothes, lighting, pose, framing and head size. Su must keep Image 1's pink dress.
+
+Only three visible changes are required:
+
+1. Su's hair on the RIGHT: replace the current exposed-ear pixie silhouette with the soft chin-near short bob from Image 2. This must be an OBVIOUS extension of the side locks, not a tiny additional strand at the nape. Let substantial front-side locks on BOTH sides frame the cheeks and extend down to the same vertical level as her chin, the longest tips just below the lower jaw. The ears should now be mostly covered. Extend the back layers softly along the upper neck. Preserve her existing forehead bangs, dark hair color, crown volume and single ivory star clip. Keep her exact face, eyes, chin, expression, head position and pink-white collar unchanged underneath the new hair. Do not go as long as the shoulders, add a ponytail or change to sailor clothing.
+
+2. Fang's hair on the LEFT: shorten only the cheek-side and back lengths into neat, soft EAR-LEVEL fragmented short hair. The longest side tips should stop near the ear lobe rather than reaching the jaw. Trim off the locks trailing down the back of the neck and lower cheeks. Keep the crown and forehead fringe natural and soft. This hair must read clearly shorter than Su's new bob. Keep Fang's USER-APPROVED slightly structured brow, elongated eye shape, clear nose bridge and jaw completely unchanged. Preserve her gentle small smile, sage-grey shirt, head position, neck, body and working hands.
+
+3. Make the kitchen genuinely more modest, without damage or dirt:
+Keep the same kitchen layout, but replace the polished stone counter surface with an ordinary matte light-grey practical worktop; remove decorative grain and glossy reflections. Make the cabinet fronts plain off-white painted flat doors with simple small handles, not an expensive fitted wood suite. Retain the ordinary gas stove, basic range hood, white ceramic bowls and old-style compact refrigerator. Simplify the dish rack to a plain practical metal rack and the faucet to a basic ordinary tap. Keep the pale square tile wall; simplify its reflections and textures. Remove unnecessary staged decorative styling, while preserving useful food and cooking items. This is a tidy, lived-in Chinese rental kitchen in 2004, not a luxury apartment and not a ruined or deliberately impoverished room. Use clean anime shape design for all materials.
+
+Invariants:
+Fang's approved face must match Image 1 exactly, with no return to the rounder face of older versions. Su's face stays unchanged. Same four hands, same spatula and plates, same serving action, same clothes, same body proportions and roughly 10 cm height difference, same camera viewpoint. Do not change people to different ages or increase their size. Keep the warm evening light, subtle steam, cool evening window view and calm sense of belonging. No new characters or plot action.
+
+Visual finish:
+Delicate clean soft anime lines, clear gentle cel shading, coherent illustrated materials and lighting. Hair and kitchen changes need to be clearly visible at normal image size. Do not deliver a nearly unchanged version. No photo textures, 3D rendering, lettering, lyrics, logos, UI or watermark.

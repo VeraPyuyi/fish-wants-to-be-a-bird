@@ -1,0 +1,37 @@
+Asset: CG-S10-01《公路边废屋·抱包熬夜》v01
+Use case: compositing, identity-preserve
+Asset type: ONE full-frame 16:9 integrated-character visual-novel illustration.
+
+INPUT ROLES
+Image 1, bg_night_shelter_v01.png: APPROVED EDIT TARGET and definitive location/camera/light reference. Keep its night scene and add the protagonist naturally at the near wooden wall. Do not invent a new street or gas station.
+Image 2, cg_s06_train_su_waking_v01.png: supporting reference for Su Yuqing's recognizable anime face, petite body, cap, black bob, pale-blue travel clothes, navy backpack and white cat-sticker suitcase. Do not copy the surprised waking expression or train furniture.
+Image 3, cg_s04_ticket_hall_su_asking_cleaner_v02.png: supporting reference for her 149 cm standing proportions, short limbs, full travel costume and LARGE suitcase design relative to her body; do not copy this standing pose or indoor lighting.
+
+PRIMARY REQUEST
+Add exactly ONE Su Yuqing seated on the bare ground against the exterior wooden wall of the shed in Image 1. It is a cold spring night in 2004. She has failed to open the locked shed and has just sat down to rest, holding her backpack to keep warm. This is the first seated moment BEFORE eating the leftover rice cake and BEFORE she later curls up on the suitcase to sleep. The image must read as grounded, quiet, emotionally specific character acting, not a sprite pasted on a background.
+
+PLACEMENT AND GROUND CONTACT
+Place her at the near left wooden wall, just to the RIGHT of the existing closed door, with shoulder/upper back genuinely resting against timber. Use the existing lower wall corner and clear ground, not the road, door interior or empty bus stop. Her hips sit directly on the ground at the wall foot, knees drawn up close and bent naturally, feet tucked near her body and supported by the ground. Give her a compact seated silhouette, shoulders curled inward against the cold. Show convincing weight, natural hip/thigh/calf anatomy, clothing folds where body meets ground, and quiet contact shadows at the wall, hips, soles and luggage wheels. She is not crouching in midair, standing, sitting on a stool, kneeling, leaning against nothing or perched atop the case.
+
+Keep her visibly SMALL in relation to the full-height wooden door, as a petite 149 cm teenager sitting on the ground. Do not enlarge her into an adult build or stretch her legs or arms. Aim for a readable head/face in the middle-left area, above the bottom third reserved for the later text box; preserve the full wide frame, do not turn this into an oversized face close-up. The existing locked hasp and padlock must remain visible above/beside her, not hidden by her head or newly opened.
+
+POSE AND EXPRESSION
+Her navy backpack is held firmly upright against her chest and drawn-up knees, with both short bent forearms wrapped around it. Natural small hands grip the bag's upper sides or straps with clear separate fingers and relaxed but tired wrists. Her head dips slightly; her eyes look downward past the bag rather than making eye contact with the audience. She is awake, exhausted, cold and quietly discouraged, yet still holding herself together. Use lowered, tired upper eyelids, a small tension in the brows, gently pressed lips and restrained facial acting. No smile, theatrical glare, exaggerated sobbing, rage, blissful rest, open mouth, tears, beauty blush or cartoon emotion symbols. She has not yet reached the later dream-waking tears.
+
+Keep her identity, youthful face and chin-length black bob matching the approved references. Navy cap stays on, pale blue zip hoodie over off-white top, full-length dark straight jeans and ordinary white sneakers, fully clothed. Same slim/petite proportions, short arms and hands. No redesign, hair extension, makeup, adult proportions, extra layers or costume change.
+
+LUGGAGE CONTINUITY
+Put her ONE large rounded white hard-shell suitcase on its wheels immediately beside her in easy reach, slightly to her right. Keep the recognizable two cute cat stickers, rounded corner caps and carrying handles from the references. The pull handle is lowered/retracted while she rests. It is a large travel case, not a tiny handbag, giant trunk or mattress; preserve the believable reference scale. It stands upright for this specific early seated moment; do not try to depict the later side-lying sleep at the same time. The backpack remains hugged in front, not simultaneously worn on her back. No food, cups, wrappers or other added belongings in this moment.
+
+LIGHT AND SHARED ART STYLE
+Match the deep blue-gray night and soft faint illumination already in Image 1. Her face, clothing, cap, bag and case must share the scene's low ambient brightness and cool shadow colors; use only a restrained distant warm-white reflection on the road-facing edge from the EXISTING petrol-station lamps. The pale hoodie and white suitcase should look muted at night, not self-lit or bright daytime cutouts. Preserve readable facial planes with subtle ambient fill, no spotlight, heavy outline halo, glow, harsh rim light, flash or studio portrait lighting. Use the same refined 2D anime visual-novel linework and softly grouped colors as Su in the approved references, integrated with the scene. No photoreal skin, camera grain or glossy 3D.
+
+LOCK THE ENVIRONMENT
+Keep the original framing, perspective, roof, intact CLOSED door, rusted latch and LOCKED padlock, wood panels, moss, bare roadside shoulder, empty bus stop, two-lane road, overhead wires, varied trees and small petrol station exactly where they are. The existing distant adults remain small and occupied with their work/customer activity; do not move them nearer, turn them toward Su or add anyone else. Bus stop remains completely empty. No new person, rescue, stranger approaching her, threatening gaze, reaching hands or silhouette by the shed. Preserve the existing overcast night, not moonrise, sunrise, rain, puddles, fog or a different season. No change to the station's ordinary early-2000s car, pumps or lighting; no modern screens or advertising.
+
+EXCLUSIONS / OUTPUT
+No bench or stool under Su, blanket, mattress, cardboard bedding, sleeping bag, food, phone, suitcase opened as a bed, interior access, violence, injuries, dream imagery, textual captions, UI, border, watermark or readable added branding. Preserve all existing scene pixels as faithfully as possible outside the local character/luggage/contact-shadow region.
+Return exactly ONE complete landscape illustration in the same framing and aspect ratio as Image 1, no variants, comparison sheet, insets or additional frames.
+
+SOURCE AND SCOPE
+Original lines 303–305 establish the locked abandoned wooden shed and sitting down beside it; line 311 establishes moss; current S10 says she sits against the wooden wall and hugs the backpack while wind makes her shrink her shoulders. Later eating and side-lying sleep (original lines 313–325) are different moments and are deliberately not depicted in this picture. The precise right-of-door sitting position and suitcase placement are staging choices, not original textual measurements. This image will be submitted for individual user approval before runtime integration or another image is made.

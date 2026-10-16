@@ -1,0 +1,19 @@
+Use case: identity-preserve.
+Asset OP-R6-END-SU-01 v02, targeted revision of an existing anime ending illustration.
+Image 1 is the exact EDIT TARGET. Keep the two parallel beds, pillows, camera, lighting, hospital room and clasped-hand composition.
+
+Make the following character refinements clearly visible:
+
+SU YUQING, in the LEFT bed:
+She is an adult woman in her late twenties, petite and now weakened by illness. Preserve her recognizable brown eyes, small nose, gentle mouth, long dark hair and ivory star clip. Do NOT make her a child or return to a teenage face.
+- Make her overall visible frame slightly smaller relative to the unchanged pillow and bed, roughly one small step (about 8 percent in apparent body scale): narrower shoulders and torso, finer forearms and wrists, and a proportionately slightly smaller head. Keep natural adult head-to-body proportions. Her head rests a little lower into the same pillow.
+- Remove the pink cheek blush. Her face, neck and hands should have a consistent softly pale, subdued skin tone, not grey/blue or corpse-like. Slightly hollow the cheeks, soften eye highlights, lower tired eyelids and add only light under-eye fatigue. Keep her awake, looking toward Mo, with a faint effortful reassuring smile. No tears or exaggerated pain.
+- Her pale blue cotton hospital top is a little TOO LARGE for her small frame: gently dropped shoulder seams, roomy sleeves ending nearer her elbows, relaxed extra fabric at sides, soft simple folds. Keep the neckline modest and stable; do not reveal her chest or shoulder. The white blanket remains over her lower torso.
+- Her arms still reach the shared hand clasp comfortably; preserve clear anatomy and the contact point. Do not stretch her arms after reducing her body size.
+
+MO KONG, in the RIGHT bed:
+Preserve his recognizable eye shape, nose, dark hair and gentle adult masculine identity, but make him visibly more mature, approximately a man in his mid-thirties as a visual design. The current version reads too much like a youthful anime student.
+Use a slightly more settled adult jaw and lower-face structure, subtle under-eye and brow creases, modestly reduced eye size/gloss, a calm furrowed brow and a worried, steadfast gaze toward Su. Neaten the short hair silhouette and reduce its large spiky tufts. Keep him clean-shaven and naturally handsome, not aged or rugged. No deep wrinkles or grey hair. His body size, grey-blue hospital shirt, reclining pose and both hands remain essentially unchanged.
+
+Preserve both distinct mattresses, pillow geometry, the bed gap and believable hand clasp. Exactly two people, four arms; hands anatomically readable, no merged fingers. Preserve Su's long hair and star clip, Mo's face identity, blankets, curtains, cabinets, window and diffuse daylight. Continue the clean soft anime style with smooth cel-painted shadows and broad simple folds; do not add grain, photographic skin texture or detailed fabric fibers.
+The scene is a quiet preoperative moment while both are conscious. No procedure, injury, tubes, needles, death imagery, new text, symbols or additional people. Return the same whole opaque 16:9 landscape frame.

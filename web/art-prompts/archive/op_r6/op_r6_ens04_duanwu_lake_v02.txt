@@ -1,0 +1,23 @@
+Use case: identity-preserve.
+Asset: OP-R6-ENS-04《端午湖面》v02, single 16:9 clean anime illustration.
+
+INPUT 1 is the EDIT TARGET: four friends on two boats at a small amusement-park lake.
+INPUT 2 is the approved FANG identity and pink lace dress reference.
+INPUT 3 is the approved HU identity, lean tall body and sports outfit reference.
+INPUT 4 is a character identity reference ONLY: centre person in pink top is ZHANG; far-right petite person with star clip is SU. Do NOT import its meal, sunset, costumes, other person, cat or setting.
+
+Preserve the two-boat composition, camera, four people's positions and size relative to their boats, sunlight, small amusement-park setting, Ferris wheel and background visitors. Preserve the front orange two-seat kayak: Fang in front paddling with both hands, Su behind her lightly touching the water with her fingertips. Preserve the more distant yellow two-seat pedal boat: Zhang waving while seated beside Hu. Exactly these FOUR foreground/main characters; do not add Lin or the others.
+
+Correct identity:
+- Front paddler Fang must match INPUT 2's gently androgynous adult face, more elongated almond eyes, softly defined nose and jaw, natural short dark hair and gentle expression. Do not give her Su's round childlike face. Keep her shoulder/build proportions, pose and paddle grip.
+- Back-boat Zhang must match the adult natural-short-haired oval face of the CENTRE person in INPUT 4, retaining her cheerful wave and smile. Distinguish her face from petite Su. Do not enlarge her in the distant boat.
+- Hu must stay the plain kind-faced, tall lean adult from INPUT 3. Keep his blue-grey athletic short-sleeve top with light shoulder stripes and charcoal trousers, and natural short hair. No added muscles or fashion-model face.
+- Su keeps her small rounded face, brown eyes, ivory star hairclip and approved natural short dark hair, close to jaw at the sides. Keep her petite body, thoughtful gentle expression and natural water-touching hand.
+
+Clothing for this SPECIFIC festival outing is fixed by the novel and the already approved park images:
+Fang wears the SAME pink lace knee-length dress from INPUT 2.
+Su and Zhang wear matching white short-sleeve sailor tops with navy collars, soft blue neck ribbons, and neatly settled navy pleated skirts as in INPUT 1. Frame their seated laps naturally behind the boat edges, no lifted hems or exposed underwear. Su wears NO knee socks, thigh-high socks or tights on this hot day. Both keep the natural hairstyles already established here; no blonde wigs.
+Hu keeps the approved sports outfit. Do not transfer any of the later dinner or fishing clothes.
+
+Make the ENVIRONMENT clearer and more anime-like: replace hundreds of tiny lake sparkles with broad turquoise/blue painted bands and a few smooth highlights. Remove photographic scuff/scratch grain from the boat sides, keep clean shaded colour blocks. Simplify tree foliage into broad painted leaf masses while preserving varied trees, the promenade and small background visitors. Include a subtle stretch of golden sandy bank as appropriate to the small artificial lake, without moving the major composition. Retain believable shadows/contact/ripples around paddle and fingers.
+Crisp readable clean 2D anime linework, soft cel/painterly shading consistent with the approved characters. No film grain, texture noise, photoreal water, global blur, face drift, changed ages/heights, extra hands, text/logo/border/collage. Produce ONE full revised image.

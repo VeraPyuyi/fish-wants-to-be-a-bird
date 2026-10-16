@@ -48,7 +48,7 @@
 完成后提交 Pull Request，并关联章节认领 Issue，例如在描述中写 `Closes #123`。PR 中请附上：
 
 - 已完成的章节和场景范围，以及主要改编说明。
-- 新增或复用的素材清单；人物差分附上对应的已有参考图。
+- 新增或复用的素材清单；人物差分附上对应的已有参考图。AI 生成图片请同时附上生成／修订 Prompt、图片编号与版本。
 - 关键画面截图或短演示，以及本地游玩的检查结果。
 - 尚未完成的部分或需要维护者确认的问题。
 
@@ -72,6 +72,7 @@ python3 tools/engine_validate.py
 
 ## 工程与素材
 
+- `web/art-prompts/`：[全部图像生成与修订 Prompt](web/art-prompts/README.md)，含当前图片对照表、历史版本及参考说明。
 - `web/game/scene/`：WebGAL 原生场景脚本，现有序章入口为 `start.txt`。
 - `web/game/background/`、`web/game/figure/`：场景与人物素材。
 - `web/game/bgm/`、`web/game/vocal/`：音乐与音效。

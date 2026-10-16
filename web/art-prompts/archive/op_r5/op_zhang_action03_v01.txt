@@ -1,0 +1,14 @@
+Use case: precise-object-edit, identity-preserve.
+Asset: OP-ZHANG-ACT-03 v01, final motion keyframe: lowering the removed wig.
+The input is the approved preceding frame of the SAME birthday-night shot. Continue the gesture without changing the shot.
+
+Change ONLY the right adult Zhang Sifan's arms, hands, sleeve folds, and the position/orientation of the removed golden wig:
+She has gently LOWERED her arms. Both hands now hold the same golden wig lightly at waist height, slightly beside her body on the VIEWER'S RIGHT. Her elbows and shoulders are relaxed; one forearm can rest gently across the lower torso while the other bends down at her side. Keep wrists and grip natural, with two arms and two hands total.
+The wig is now below her face and beside the red skirt, with the golden locks hanging loosely down by gravity. Preserve its shoulder-length cut, colour and modest size. Its soft low-contrast fabric lining remains lightly folded and flexible, not a hard cap. Orient the opening naturally toward her hands, so the lining is only partly visible. It must read as one empty hairpiece she has removed, not a second head.
+Keep the wig separated from the cake, candles and tabletop, and keep the cake fully readable. Do not put the wig on the table.
+Remove the raised arms and the wig from above her head entirely, cleanly restoring the small exposed sky/background areas. No duplicate hands or floating old wig.
+
+Keep Zhang's exact dark natural short hairstyle, approved face, closed-eye gentle smile, head position, body proportions and standing place. Keep her black lace-trimmed blouse and red skirt design; only adapt folds to the lowered arms.
+Keep LEFT Su Yuqing completely unchanged: face, gaze, star clip, black long ponytail wig, white/red clothes, hands and stance.
+Lock framing, clean anime visual-novel rendering, overall light/colour, house, lake, mountains, stars, cloud pattern, grass and wildflowers, cake and table. Preserve crisp clean contours and calm colour shapes. No noisy texture, global softening, grain, new characters, props, text, border or watermark.
+Return one full landscape keyframe, not a multi-panel sequence.

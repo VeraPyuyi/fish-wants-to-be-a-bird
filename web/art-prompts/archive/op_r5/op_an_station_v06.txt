@@ -1,0 +1,13 @@
+Use case: identity-preserve.
+Create OP-AN-01 v06, "安念·人海中的第一次相见", by editing the supplied illustration.
+
+ONLY refine the FACE of Fang Youyou, the slim person on the RIGHT holding the backpack. The user wants v05 to be a little softer, while keeping the more clearly boyish facial structure achieved in that version.
+
+Make a balanced half-step softer:
+- Slightly reduce eyebrow darkness and thickness, particularly the dense inner ends, while retaining a fairly straight natural shape.
+- Ease the dark line or shading along the nose bridge and nose side, without shrinking the nose structure back to a tiny button nose.
+- Gently round the cheek-to-jaw transitions and soften the chin contour, retaining the underlying adult jaw and the same face proportions.
+- Keep alert almond-shaped brown eyes, the quiet warm small smile, and gaze toward An Nian. The expression is friendly, a little shy, neither stern nor sleepy.
+A modest visible softening of line strength and contour, not a return to a very round, large-eyed childlike face. Preserve the same adult character's recognizable identity; no beard, age lines or added makeup.
+
+Everything else remains locked: Fang's chin-length black hair, head angle/size, neck, slender body, grey-blue long sleeves, dark trousers, backpack, hands and stance. An Nian on the left remains identical in face, round build, clothing, raised hand and expression. Both figures' relative height and ground positions, station building, crowd, signs, vehicles, trees, paving, warm daylight, shadows, palette and camera crop all remain unchanged. Same soft anime visual novel rendering, no text, no new objects or people. One full horizontal illustration.

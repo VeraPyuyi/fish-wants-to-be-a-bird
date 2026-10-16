@@ -1,0 +1,21 @@
+Use case: identity-preserve
+Asset: OP-ZHANG-01《张思凡·草地上的二十岁生日》v03.
+Edit the supplied approved v02 starry-night birthday illustration. Produce ONE image, keeping the same landscape composition and dimensions.
+
+Only revise the FACE of Zhang Sifan: the taller woman with the golden-blonde shoulder-length wig, standing on the RIGHT of the pair, with closed eyes and clasped hands. Do not change Su Yuqing on the left.
+
+The user's specific character-design direction:
+Zhang is a trans woman, and this character should retain feminine styling and a gentle expression while showing a little more masculine facial structure than the current very soft face. The change must be discernible, but not exaggerated. Her individual design is a somewhat rounded oval face and a slightly more prominent nose; do not give her another character's face.
+
+Facial changes:
+- Retain the gently rounded oval overall shape, but modestly lengthen the middle/lower face and make the lower jaw a little more substantial.
+- Give the chin a slightly broader rounded end rather than the tiny pointed shape.
+- Make the natural brows a little straighter and clearer, softly relaxed above CLOSED eyelids.
+- Give the nose a more legible bridge and a gently fuller, slightly more prominent rounded tip, consistent with her individual features. Use delicate anime linework and restrained candlelit shadow, not a realistic large nose.
+- Keep the eyes softly CLOSED during her birthday wish, the same slight downward head angle, relaxed mouth and quiet, small bittersweet smile.
+- Keep her looking twenty, gentle and feminine-androgynous. Do not make her elderly, rugged, angry, boyish, or comically masculine. No facial hair, harsh deep creases or oversized angular jaw.
+
+Keep absolutely unchanged:
+The golden wig and all its strands, black-and-red gothic dress, hands, body, height and proportions. All of Su's face, long black ponytail wig, ivory star clip, miko-inspired clothes, gesture and body. The starry sky, lake, distant lights, grass, dark container home, outdoor table, cake and candles. Preserve the carefully approved wide framing and negative space, warm circle of candlelight inside cool night, and the sense of quiet companionship. No camera zoom, pose change, new characters, new objects, hairstyle changes or additional facial changes to Su.
+
+Match the existing clean soft anime visual-novel rendering. The modified face must inherit the same warm candlelight and soft edge shading without an obvious replacement seam. No text, song lyrics, labels, logos or watermark.

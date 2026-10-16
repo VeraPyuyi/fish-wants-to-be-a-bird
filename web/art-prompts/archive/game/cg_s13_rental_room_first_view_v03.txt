@@ -1,0 +1,19 @@
+Use case: identity-preserve
+Asset: CG-S13-01《出租屋·第一次看房》v03. ONE full 16:9 anime visual novel illustration.
+
+INPUT1 is the FIXED original facial-identity reference for Su Yuqing, the petite teenage character.
+INPUT2 is the ONLY full-scene EDIT TARGET: the first viewing of the small rental room. Output this full room composition.
+INPUT3 is the USER-APPROVED later gratitude scene. Use ONLY the central girl's improved eye/iris/jaw proportions and age impression as a same-scene continuity check. Do NOT copy the gratitude head turn, eye direction, open smile, accessory projection, adults or room rendering from INPUT3.
+
+Refine ONLY the central girl's facial drawing in INPUT2 so she is recognizably the same person as INPUT1 and INPUT3. Compared to INPUT2, her current round/tall eyes, oversized irises and short soft lower face still need a clear correction:
+- Use the fixed reference's horizontally shaped almond eyes, calmer upper lids and restrained brown iris size. Reduce the excessively tall eye opening and iris dominance enough to match the approved face in INPUT3. Keep natural white areas and the same eye spacing, adapted to this right-facing three-quarter angle.
+- Bring the cheeks and jaw back to a slender soft oval, with the naturally tapered lower face, discernible soft chin and nose-mouth-chin spacing of INPUT1. Allow a little more length below the mouth, but no sharp adult V-jaw or mature face.
+- Keep the small, satisfied CLOSED-LIP smile and attentive, gently hopeful expression of INPUT2: she has just seen a possible home. No exaggerated surprise, round-eyed child face, shy tears or gratitude grin.
+- She remains the same fifteen-year-old as the approved reference, with a petite body. Face identity should match across expressions, without increasing head size or making her older.
+
+CRITICAL DIRECTION: preserve INPUT2's head angle and gaze toward the LANDLORD AT SCREEN-RIGHT. Do not turn her toward Zhang at screen-left, do not look up-left as in INPUT3, and do not look at the viewer. Keep the neck/shoulder attachment unchanged.
+Keep the chin-length black bob, fringe, hairline and the ONE original cream star hair clip in its existing INPUT2 position on the screen-left temple hair, above the visible ear. This fixed anatomical side is naturally visible at this right-facing angle. Do not move the clip to the distant edge just because it appears there in INPUT3; do not hide, mirror or duplicate it.
+
+Render the corrected face in INPUT2's warm, clean drawn anime style and sunset illumination, with natural simplified shading and no photoreal skin or pasted portrait. Input1 controls identity, not its portrait lighting, neutral mouth, full-body pose or checker background.
+
+Freeze all of INPUT2 outside the face: head scale/silhouette and bob length, petite body and exact relative heights to the women/doors, stance, arms, hands, legs, clothes, backpack, cap in the screen-right hand, suitcase handle in screen-left hand, cute two-cat white case and wheels. Preserve BOTH adults completely, including their faces, expressions, outfits, gestures, body positions and shadows. Preserve the room, bathroom, window and outside buildings, empty table/chair, inset cupboard, bare wooden bed, lamp, camera, crop, colors and light. No added objects, dialogue, text, watermark, checkerboard, side-by-side comparison or separate portrait. One complete first-view scene, changing only Su's facial proportions while retaining its original calm rightward expression.

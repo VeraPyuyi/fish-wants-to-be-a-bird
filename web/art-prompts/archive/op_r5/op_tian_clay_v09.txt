@@ -1,0 +1,9 @@
+Use case: identity-preserve.
+Edit this image into OP-TIAN-01 v09, "天语遥·掌心的软陶女武神".
+The user requests a visibly rounder chin and a slightly fairer complexion. The previous chin revision was too subtle. Make these two changes clearly visible while preserving the same character, facial attitude, petite body and scene.
+
+1. CHIN: Replace the sharp lowest chin tip with a clearly rounded small U-shaped arc. Relax the short lower-jaw transitions on both sides into that rounded arc; the bottom of the face should no longer end in a point or V. Slightly soften the lower facial taper, only as necessary to form a rounded youthful chin. Preserve the cheekbones, overall head size, angle, face identity, straight eyebrows, narrow sharp eyes, nose and the tiny one-sided closed-mouth smile. Do not enlarge eyes or cheeks, and do not make a baby face. Keep a slender, subtly boyish facial structure and restrained roguish self-confidence.
+
+2. COMPLEXION: Lighten the character's skin moderately and consistently across face, ears, neck and both hands/wrists, making it a little fairer and less orange/tan. Preserve natural warm lamp illumination, cool reflected light and dimensional shadows. Skin remains living ivory with subtle warmth, not chalk-white or overexposed. Only skin changes brightness, not the whole image.
+
+STRICTLY PRESERVE all other features: head and body positions, short dark single ponytail, petite shoulders and figure, cream loose sweater, grey-blue trousers, sculpting hands and tool contact. Retain the small armored warrior with sword, cat ears and curled cat tail and no attached wings; the separate wings on the table, desk objects, chair, rainy window, lamp, CRT computer, bookshelves, empty mirror and bed stay in place. Identical framing, camera and soft anime visual novel style. One horizontal image; no captions, UI, new objects or people.

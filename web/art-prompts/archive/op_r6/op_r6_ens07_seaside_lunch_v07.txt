@@ -1,0 +1,12 @@
+Use case: precise-object-edit, anime illustration cleanup.
+Asset OP-R6-ENS-07 海边的临时午餐 v07. Clean up ONLY the fine granular and mottled textures of the provided image. Retain the exact full wide composition.
+
+Make this a crisp, clean anime visual novel image with smooth coherent colors. Simplify noisy sea foam into deliberate clean flowing white edges and a few large translucent turquoise wave bands. Reduce tiny sparkling flecks and dense pebble texture on the sand, rocks, coast and distant houses. Clean stray mottled specks on hair, clothes, cat fur, grill and fish while preserving their characteristic shapes. Keep important fishing line, rod, reel, tongs, stove supports, fish, sea touching the seated person's toes, and readable hands. Keep sunlight, shadows and bright cheerful palette. Do not apply blanket blur or plastic over-smoothing.
+
+LOCK all five established identities, faces, adult jaw/eyebrow features, expressions, hair lengths, proportions, positions and poses. From screen left to right:
+1 adult Mo with tousled short dark hair, mature profile, blue overshirt, gray T-shirt and beige trousers, holding a fishing rod;
+2 adult Zhang with natural short dark hair, teal short-sleeve blouse and ivory skirt, holding tongs by the grill, preserve the approved slightly masculine adult face and gentle smile;
+3 petite Su, dark short hair, star hair clip, ivory T-shirt and lavender pinafore, barefoot with feet in the shallow seawater, cheerful open smile;
+4 Lin with dark twin tails, apricot shirt and denim knee shorts, kneeling with hands together;
+5 adult Fang, shoulder-length black WIG, cream blouse and terracotta pleated skirt, one hand adjusting wig; retain the approved slightly masculine adult facial structure and calm smile.
+ONE black cat at the stove, no additional people or animals. Preserve costume variety and all existing items, footwear, framing and scene era. Do not add faces, change hairstyles, make faces more childlike, redraw hands or alter the right edge crop. No labels, no text, no watermark. Output the full 16:9 image.

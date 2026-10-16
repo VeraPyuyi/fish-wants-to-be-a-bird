@@ -1,0 +1,10 @@
+Use case: identity-preserve.
+Edit this exact illustration into OP-AN-01 v09, "安念·人海中的第一次相见".
+
+Make ONE tiny local correction ONLY: restore faint freshly-shaved stubble on AN NIAN, the round-faced man on the LEFT wearing a black T-shirt.
+Add a light cool blue-grey beard shadow and a few very short fine dark hair marks along his chin and lower jaw, with the faintest hint near the upper lip. It should read as someone who shaved recently but still has visible stubble, not a full beard or moustache, not dirt or a scar. Keep the effect subtle yet actually visible on his lower face at the full-scene view. Do not darken the entire face or alter the smile.
+
+Everything else is LOCKED. Especially the face of FANG YOUYOU on the RIGHT holding the backpack is now explicitly USER APPROVED: preserve that face's precise expression, softness, features, proportions, hair and colors. Do not redraw or beautify it.
+Keep An Nian's facial shape, eyes, nose, mouth, hair, age, body, clothing, pose, waving hand and relative height identical apart from the stubble marks.
+Preserve the whole station scene, both figures' positions and scale, hands, backpack, clothing folds, legs, shoes, building, crowd, signs, vehicles, trees, paving, lighting, shading, detail level, camera and crop.
+No general smoothing or global re-rendering. Do not change the art style. Same soft anime visual novel illustration. Return one full horizontal scene with only An Nian's subtle stubble restored.

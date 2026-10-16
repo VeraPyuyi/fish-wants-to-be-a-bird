@@ -1,0 +1,17 @@
+Use case: identity-preserve.
+Asset: OP-R6-ENS-02 v09, "一起把旧屋擦亮", five friends cleaning their shared home.
+INPUT 1 = exact approved edit target, cleaning scene v07.
+INPUT 2 = approved Hu Yuniu identity reference ONLY, the adult man in white/navy polo at the amusement park. Do not import that outfit, scenery, body pose or lighting.
+
+Two precise goals:
+A. Restore HU YUNIU's established ordinary adult face. In input 1 he is the TALL MAN IN TERRACOTTA/BRICK-RED POLO moving the wooden chair, left of centre. His current slim pointed face is overly handsome/generic. Match the same man in input 2: a slightly broader rounded-square lower face, naturally shaped fuller nose rather than a tiny sharp idol nose, straightforward eyebrows and simple gentle adult eyes; modest reserved, slightly awkward warmth, not a glamorous confident grin. Use only subtle clean indication of faint stubble if needed to match the reference, not scattered grain. Keep his current head size, angle, short tousled hairstyle, neck length, shoulders, tall LEAN body, brick-red polo, dark trousers, hands on the chair and complete shoes EXACTLY. Do not make him bulky or taller.
+B. Clean the whole frame's high-frequency microtexture into a crisp polished softly shaded 2D anime illustration. Simplify noisy wood-floor grain and fragmented reflections into broad warm planes and a few coherent floor joints. Simplify tiny wicker weave, towel fuzz, rug micro-patterns and dense exterior foliage glints into readable grouped shapes; preserve their basic pattern, material and object identity. Make hair locks and clothing shadow planes clean and continuous without random mottling. Keep useful fabric folds, furniture edges and all structural details. No global blur, plastic shading, film/paper grain, watercolor flecks or sharpening halos.
+
+LOCK THE OTHER FOUR PEOPLE:
+Fang is foreground LEFT at the basin, natural short dark hair, hand/cloth near nose, ivory short-sleeve blouse, sage-green knee-area A-line skirt, white shoes. Keep face, hands, costume and pose.
+Zhang is SMALL at the REAR WINDOW, mint short-sleeve top and navy knee-length skirt, natural short hair, one raised arm wiping glass. Keep adult identity, exact apparent scale, head/neck proportion and pose. Do not enlarge the distant person or add a wig.
+Su is foreground RIGHT OF CENTRE holding the black cat, sky-blue dress with white collar and yellow ribbon, white knee socks, white shoes, short dark hair and star clip. Her approved face, petite body/head proportions, smile, cat-holding arms and cloth drape remain unchanged. Do not resize her.
+Lin is far RIGHT leaning at the bed, black twin ponytails, lavender blouse and denim shorts. Lock face, body proportions and both hands braced on the mattress.
+
+Preserve FIVE people and ONE black cat, cat face/body/tail, all hand contacts and fingers, clothing, relative heights and perspective, sofa, windows/curtains, chair, bed, basin, bottles, table, shelves, fridge and all props. Preserve the visible CAT PAWPRINTS on the bed as intentional story details, not noise. Keep the full shoe margins and floor below Su, original camera framing, sunlight direction, palette and airy bright room. Do not change layouts, outfits, hair/wigs or faces other than Hu. Do not add writing, labels, watermark or extra people.
+One full wide 16:9 illustration at highest supported landscape resolution, no comparison panels.

@@ -1,0 +1,22 @@
+Use case: identity-preserve
+Asset: OP-HU-01《胡玉牛·雨天厨房里的面点》v02.
+The supplied v01 illustration is the EDIT TARGET. Produce ONE image with the same landscape composition.
+The user approved retaining this two-character composition and specifically requested these THREE corrections.
+
+1. Hu Yuniu's face: the broad-shouldered adult in the foreground on the LEFT.
+Make the face more square and substantial to match the character's description: widen the middle and lower face, give the jaw a broader gently squared contour with a rounded but less pointed chin, and enlarge the ears a modest amount. This is a sturdy, broad-faced adult, not a slim-faced handsome model. Keep the short dark hair, light clean-shaven beard shadow, downcast eyes, and gentle focused small smile. No aggressive expression, exaggerated chin or comic caricature. Preserve the existing soft anime style; do not add photorealistic facial texture.
+
+2. Su Yuqing's hair: the petite person in pale blue on the RIGHT.
+Keep her EXACT face, star clip, head size, bangs and identity. Lengthen the dark side locks on BOTH sides so they cover MOST of the ear contours, with ends near the lower earlobes; lengthen the nape a little to form a soft rounded short haircut. Currently too much ear is visible. The revised silhouette must visibly cover the ears more than the reference. This is ear-length short hair, NOT a chin-length bob and NOT long hair.
+Keep the single ivory star hair clip in its current position and preserve her gentle attentive expression, shirt, hands, stature and body.
+
+3. Food: correct the closed-top round buns into Chinese JIAOZI dumplings.
+Change the piece being made between Hu's hands into a SMALL HALF-MOON/CRESCENT dumpling: elongated curved body, tapered ends, and a pleated seam running along its upper curved edge. It is NOT a round spherical bun with a gathered point on top.
+Change ALL the CLOSED-TOP round pouch-shaped pieces on the foreground plate into the SAME half-moon dumplings with numerous fine edge pleats. The folded wrappers form recognizable slim crescent silhouettes, not round bao or soup dumplings. Keep normal small food scale.
+Keep the separate OPEN-TOP small shumai with visible filling on that plate as shumai; do not turn them into dumplings. The two food shapes must be clearly distinct.
+Adjust only the fingertips as necessary to pinch the dumpling's curved edge naturally. Preserve anatomically clear five-finger hands, flour, wrists and overall hand positions; no crossed or fused fingers.
+
+KEEP unchanged:
+Two-person positions, relative height and shoulder-width contrast, body poses, Hu's clothing and Su's pale-blue short-sleeve shirt/dark trousers, Su's face and gaze, the worktop, board, rolling pin, bowls, dough, steamer, stove, cabinets, rain-streaked window, camera framing and warm indoor/cool rainy afternoon light.
+No extra people, text, labels, logos, watermark or other changes.
+Soft anime visual-novel illustration throughout, no photorealism.

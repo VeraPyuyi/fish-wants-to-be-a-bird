@@ -1,0 +1,17 @@
+Use case: identity-preserve
+Asset type: one 16:9 Chinese visual-novel scene revision.
+Edit image 1, the approved scene of Su Yuqing asking for work in a small noodle shop. Change only her visible hairstyle beneath the navy cap; preserve the complete scene composition.
+
+Input roles:
+Image 1 is the complete edit target.
+Image 2 is the approved close-cropped hair beneath the travel cap.
+Image 3 is the fixed facial identity reference only; its older long hairstyle is not used.
+Image 4 is the approved cropped haircut reference.
+
+Su Yuqing is the fictional teenage girl standing just inside the doorway, to the left of the woman owner. Replace the long black hair behind her ear and along her nape with close-fitting short black hair, ending above the collar and showing the ear edge and neck naturally. Keep her cap, brim, forehead fringe, existing head angle and face intact. Her usual hair accessory remains naturally covered by the cap.
+
+Preserve her petite stature relative to the woman and doorway, exact position, body proportions, upward attentive gaze and quiet hesitant expression. Keep the pale-blue hoodie, off-white shirt, dark trousers, white sneakers, one worn navy backpack and the closed cream suitcase with two cat stickers. One hand continues holding the extended suitcase handle; the other remains relaxed beside her hoodie. Retain the existing finger, wrist, handle, shoe and wheel relationships.
+
+Keep the woman owner's kind listening expression, stance, brown cardigan, blue-grey apron and cloth held in front. Preserve the man preparing vegetables in the rear kitchen, the four diners, two people walking outside, tables, benches, counter, bowls, door and recruitment paper. They keep their existing positions and activities.
+
+Keep the same wide camera, floor perspective, warm evening sunlight and cohesive softly painted anime style across people and room. Return one complete full-frame image at the original framing. No added text, interface, watermark or comparison panel. The intended change is only Su's ear-and-nape hair; all other approved visual details remain as closely matched as possible.

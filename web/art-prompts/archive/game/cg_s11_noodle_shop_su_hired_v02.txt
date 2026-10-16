@@ -1,0 +1,17 @@
+Use case: identity-preserve
+Asset type: one same-shot 16:9 visual-novel illustration revision.
+Edit image 1, the approved moment when Su Yuqing is relieved to have found her first job at the noodle shop. Change only the visible hair beneath her navy cap.
+
+Input roles:
+Image 1 is the complete edit target, including the approved small open-mouth smile and full scene.
+Image 2 is the approved short-hair version of the preceding inquiry shot, supplied only to match the cropped ear-and-nape hair in exactly this setting. Retain image 1's happy expression.
+Image 3 supplies the established facial identity only; its older long hairstyle and neutral expression are not used.
+Image 4 is the approved cropped-hair reference beneath the travel cap.
+
+Su is the fictional teenage girl standing inside the doorway to the left of the woman owner. Replace her long black hair behind the near ear and toward the hoodie collar with the short, close-fitting shape in image 2, revealing the ear edge and nape naturally. Keep her cap body, brim, front fringe, face silhouette, head angle and neck position. Her usual hair accessory remains naturally covered by the cap.
+
+Preserve image 1's restrained, slightly parted smile, bright open eyes directed at the owner, gentle cheek warmth and quiet sense of relief. Keep the same petite stature relative to the owner and doorway, exact body position, shoulders, arms, hands and feet. One hand holds the extended suitcase handle and the other rests naturally beside her hoodie. Retain the pale-blue hoodie, off-white shirt, dark trousers, white sneakers, one worn navy backpack and the closed cream suitcase with two cat stickers; keep the handle grip, wheels and ground contact.
+
+Keep the owner smiling gently with her cloth held in front, the rear cook looking down while preparing vegetables, four diners eating and two passersby outside. Preserve every person's position, all furniture, recruitment paper, crockery, floor perspective and warm evening light. Use the same softly painted anime style throughout.
+
+Return one complete image at the original wide framing, without zooming or changing the composition. Preserve all approved details as closely as possible while matching the preceding shot's short haircut. No interface, captions, watermark or comparison panels.

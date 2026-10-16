@@ -1,0 +1,23 @@
+Use case: identity-preserve
+Asset type: ONE revised full-frame 16:9 visual-novel illustration.
+Production identifier CG-S10-01《公路边废屋·抱包熬夜》v02, metadata only; do not draw titles or labels.
+Primary request: edit ONLY Su Yuqing's hair visible below her cap in IMAGE 1 to the already-approved early cropped haircut. This is a minimal hair continuity revision of an approved scene, not a new composition.
+
+INPUT ROLES
+IMAGE 1 cg_s10_night_su_huddled_v01.png is the SOLE full-scene edit target. Keep its exact wide framing, night exposure, background, pose, scale, costume, props and performance.
+IMAGE 2 su_travel_guarded_v04_alpha_v01.png is supporting reference ONLY for close-cropped black hair at ears and nape under the navy cap. Do not transfer frontal pose, lighting, body proportions, luggage arrangement or isolated background.
+IMAGE 3 su_home_neutral_v09.png is supporting FACIAL IDENTITY ONLY: soft narrow youthful oval face, restrained almond brown eyes, small natural nose/mouth/chin spacing. Its bob is obsolete; do NOT copy its long hair, neutral expression, standing posture or body height.
+IMAGE 4 su_early_crewcut_reference_v02.png is an auxiliary reference ONLY for the approved early short haircut, not a replacement face, body or pose.
+
+PRECISE CHANGE
+Su sits in the lower-left part of IMAGE 1, beside the closed wooden door. Remove the black locks hanging behind her near ear toward the back of her neck and hoodie. Replace these with close-fitting short hair around the ear and nape, exposing a natural ear edge and neck side without changing the head angle or size. No bob lobe, dangling tail at the collar, ponytail, fluffy shoulder-level hair, bald patch or shaved scalp. Match image 2's modest short cap hair from the existing downward-looking scene angle. Keep her cap shape, brim, front fringe and head position unchanged. Her star hair clip remains naturally hidden by the cap; do not add it on the cap or on an exposed wrong side.
+
+LOCK THE APPROVED ACTING AND BODY
+Preserve her small teen stature relative to the wooden door, short bent arms, folded legs and compact silhouette. She is SEATED ON BARE GROUND, back and shoulder against the wall, knees drawn up, BOTH forearms wrapped across the ONE navy backpack held against chest and knees. Preserve the existing visible hands resting around the bag, wrists, sleeves, shoulder hunch, grounded hips and white shoes. No hand inside bag or hand reaching outward. She is awake with lowered tired eyes, gently pressed lips and a discouraged but composed expression, not asleep, smiling, crying, screaming, looking at camera or raising a fist. Keep the same face, pale blue zip hoodie, off-white shirt, dark trousers and sneakers. Do not add a second worn backpack.
+The ONE closed white hard-shell suitcase remains UPRIGHT on its wheels at her side, with the same two cute cat stickers, corners and handles; pull handle stays retracted. Do not move or enlarge the case, lay her on it, open it or add food, wrappers or loose belongings.
+
+LOCK ENVIRONMENT AND LIGHT
+Keep the full locked door and rusty padlock visible, wood wall, roof, moss, bare roadside ground, empty bus stop, road, varied trees, overhead wires, small distant petrol station and existing distant adults/car in their original positions. Distant adults continue their ordinary activity, never approaching or staring. Preserve the exact existing sky and night stage; no new weather, moon, stars or dawn. Preserve deep blue-gray low ambient light shared by skin, cap, hoodie, backpack and muted white suitcase. No local spotlight, luminous face, hard rim light, flash or bright daytime pasted-on person. Maintain subtle original contact shadows against the wall and ground.
+Preserve the approved anime-leaning 2D Chinese visual-novel illustration language, soft grouped colors and restrained linework. No photoreal pores, camera grain, glossy 3D or chibi redesign.
+No added person, blanket, stool, bedding, fire, food, phone, accessible shed interior, tears, injury, text, UI, watermark, comparison panel or inset.
+Return exactly ONE full image at the original wide framing and dimensions. Change only the ear/nape haircut, preserving all other elements as closely as possible.

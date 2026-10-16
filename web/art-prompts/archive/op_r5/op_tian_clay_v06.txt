@@ -1,0 +1,15 @@
+Use case: identity-preserve.
+Edit this image into OP-TIAN-01 v06, "天语遥·掌心的软陶女武神". The user says the face still needs a stronger boyish / masculine impression. The previous edit changed mainly the smile; THIS TIME actually redraw the FACIAL STRUCTURE a little more clearly.
+
+Only the face should change. Within the same head size, angle and hairstyle:
+- Give the lower jaw a visibly firmer, slightly broader contour with cleaner straighter planes from the cheeks toward the chin.
+- Replace the narrow pointed chin with a subtly wider, less tapered chin. Keep it proportionate and youthful, not a massive square jaw.
+- Define the nose bridge and nose tip more clearly in SHAPE, rather than merely adding shadow.
+- Use somewhat thicker straight eyebrows and narrower, angular eye contours with understated lashes. Keep the sharp eyes looking down at the sculpture.
+- Make the cheeks less round and softly inflated, with little to no blush.
+The face should read distinctly more like the facial structure of a slim, refined young adult man, while remaining this same 18-year-old character and retaining the short ponytail. No aging, beard, stubble, deep wrinkles or bulky features.
+
+Keep the restrained, slightly rakish attitude from this input: a tiny one-sided closed-mouth half-smile and a confident, incisive gaze. No broad grin, sneering caricature or rage. The change should be clearly visible when compared with the input, not just another mouth-corner adjustment.
+
+STRICTLY PRESERVE the current petite body scale and proportions, shoulder width, neck, hair, head position, cream sweater, grey-blue trousers, both hands, tool grip, and sculpting action. Do not make the body taller or broader to suggest masculinity.
+The room, camera, crop, lighting, rain window, computer, shelves, mirror, desk, chair and every object remain fixed. Keep the small tabletop armored warrior with sword, cat ears and curved cat tail, no attached wings, and the separate wings on the desk. Same soft anime rendering, no extra people, props, accessories, captions or UI. Return one full horizontal image at the same framing.

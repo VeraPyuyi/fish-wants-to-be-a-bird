@@ -1,0 +1,14 @@
+Use case: identity-preserve
+Asset: OP-TIAN-FACE-01 v04, Tian Yuyao close-up facial study.
+Edit the supplied v03 close-up. User feedback: "It still needs to be a little softer." Make another clearly visible but controlled softening of the FACE. Keep the same person, head angle and framing.
+
+Soften these features:
+- Gently fill and round the cheeks, and smooth the lower jaw into a shorter round-ended chin. Reduce remaining angular bony edges.
+- Make the inner brow ends less dense and less sharply squared, and ease their downward tension. Keep natural straight brows with enough thickness to retain the boyish appearance.
+- Round the nose tip slightly and soften the nostril/bridge edges and nearby shadow. Keep the natural identifiable nose structure.
+- Relax the mouth corners into a softer calm closed-mouth expression, without adding a grin.
+- Use lighter, smoother transitions in the jaw and neck shadows.
+
+Keep the narrow, observant eyes and their leftward focus, pale skin, short face, and gentle boyish character. Do not enlarge the eyes, add long lashes/blush/makeup or turn the nose into a tiny dot. This is a softer facial contour and expression, not a different identity.
+
+Preserve the cap, side bangs and low ponytail exactly; preserve dark overcoat, gray sweater, shoulder proportions, camera position, cool rainy canopy background and light. Do not change anything outside the facial/neck shading areas. Clean anime contours and smooth painted colors; no extra grain, blur, sharpened texture, captions or watermark. Output one coherent revised head-and-shoulders close-up.

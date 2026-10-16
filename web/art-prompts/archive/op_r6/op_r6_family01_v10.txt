@@ -1,0 +1,7 @@
+Use case: identity-preserve
+Edit target: the attached OP-R6-FAMILY-01 v09 eight-person courtyard portrait.
+Primary request in Chinese: 后排第二位脸小一点。Only Zhang Sifan needs a slightly smaller face.
+ZHANG is the standing person SECOND FROM LEFT IN THE BACK ROW, dusty rose collared blouse, navy skirt. Make his face contour modestly smaller, about 5–7% smaller relative to his shoulders, with a natural proportional hair/head outline and neck attachment. Keep the face slightly longer-oval than Fang's, and preserve Zhang's specific current eyes, nose, brows and warm closed smile. Do not change age or expression, and do not turn the face into a tiny face inside an oversized hair mass. It is a small adjustment, not a new character redesign. Keep neck length, head tilt, shoulder width and body/pose unchanged.
+Everything else is LOCKED: all other SEVEN people including the newly more petite Tian seated front-right, all other faces, body sizes, hairstyles, clothing, hands, feet, row arrangement, bench, courtyard, headroom, floor margin, warm light and the clean denoised illustration finish.
+Do not change Fang (seated front-left). Keep the distinction between Fang's shorter, broader calm face and Zhang's longer more open face.
+Output the same complete 16:9 image. No noise, speckles, additional skin texture, blur, text, collage or labels. Change only the targeted Zhang face/head scale slightly.

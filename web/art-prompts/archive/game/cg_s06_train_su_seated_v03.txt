@@ -1,0 +1,17 @@
+Asset: CG-S06-01《T136车厢·独自远行》v03
+Use case: identity-preserve. One precise hair-only edit to an approved visual-novel scene.
+
+INPUT ROLES
+Image 1, cg_s06_train_su_seated_v02: the sole full-frame EDIT TARGET. Preserve its scene, seated people, camera and Su's existing face and pose.
+Image 2, su_travel_guarded_v04_alpha_v01: PRIMARY HAIR REFERENCE, showing the approved cropped short hair under her navy cap, exposed ears and clean neck. Transfer only this haircut, adapted to her side-view angle in image 1. Do not transfer the standing pose or background.
+Image 3, su_home_neutral_v09: fixed facial IDENTITY reference only: gentle oval teenage face, restrained almond brown eyes, natural nose/mouth/chin spacing. Its old bob hairstyle is obsolete and MUST NOT be copied. Do not face-swap a frontal portrait into this scene.
+Image 4, su_early_crewcut_reference_v02: secondary early cropped-hair reference only, confirming close short sides. Keep the cap on in the edited scene; do not copy the visible clip or standing body.
+
+CHANGE ONLY SU'S VISIBLE HAIR BELOW HER CAP
+Su is the petite girl seated on the RIGHT, chin resting on one hand, gazing screen-left toward the window. In image 1 a thick black bob hangs BEHIND her visible ear down onto the side of her neck and nearly to the blue hoodie. REMOVE that entire long hanging section and its curled lower tips. Replace it with very short, close-to-head cropped hair which ends around the upper ear and high nape, matching image 2. Clearly expose the lower ear, the neck behind/below the ear, and the gap above the hoodie. Restore the appropriate neck skin or blue seat background wherever the removed bob had covered it. Do not merely thin, tuck back, darken, or hide the old long section. No chin-length curtain of hair and no dark strip down to the hoodie. Keep a natural small amount of short black fringe beneath the cap; this is cropped hair, not baldness.
+
+LOCK THE APPROVED SCENE
+Keep the cap's position, shape and navy color; preserve Su's side-face geometry, age, eyes, contemplative expression and gaze, chin-on-hand contact, petite seated proportions, both hands, pale blue hoodie, off-white top, jeans and sneakers. Preserve the navy backpack on her lap and upright white double-cat-sticker suitcase by her feet. Her original-side single star clip remains naturally occluded by the cap; do not put a new clip on the hat or visible ear.
+Preserve the two supporting adults on the LEFT exactly in their approved soft anime drawing style: the woman reading the newspaper and the man peeling an egg over his paper bag. Keep their faces, ages, hands, actions and scale. Preserve the blue bench seats and curtains, racks and bags, folding table, large window, cloudy sky, rural fields and hills, perspective, crop, muted daylight, palette and line weight. Retain the complete original wide composition, approximately 16:9 at the target's aspect ratio.
+
+Output ONE finished full-frame illustration only. No panels, alternate views, close-up, text, subtitle, UI, watermark, borders or extra people. No photorealistic redraw, no face change, no body enlargement, no costume change. The visible removal of Su's lower bob behind the ear and at the nape is the single intended change.

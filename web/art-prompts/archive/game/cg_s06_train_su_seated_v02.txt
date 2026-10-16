@@ -1,0 +1,17 @@
+Asset: CG-S06-01《T136车厢·独自远行》v02
+Use case: style-transfer, tightly localized character rendering correction.
+Input image 1: cg_s06_train_su_seated_v01.png, the EDIT TARGET. The petite girl on the RIGHT, Su Yuqing, is also the definitive STYLE REFERENCE within this same image.
+
+User request: The passengers on the two sides look as though they were drawn in different styles. Redraw the two ordinary adults on the LEFT in the same soft anime visual-novel drawing style as Su Yuqing on the RIGHT. Produce exactly one revised full-frame 16:9 illustration, no sheet or alternate image.
+
+CHANGE ONLY THE LEFT TWO ADULTS' RENDERING
+Keep their existing age range, sex, identities, hairstyles, clothes, body scale, seated positions, gaze directions and activities: the tied-back-haired woman nearer the viewer reads her newspaper; the short-haired man beside the window quietly peels his tea egg over the brown paper bag. Both are ordinary middle-aged Chinese passengers, not new young main characters.
+
+Use Su Yuqing's character-design language consistently on these adults: clean fine brown-black contours with similar line weight, simple readable anime facial shapes, gently shaped eyelids and visible but restrained irises, simplified nose and mouth marks, soft painted hair groups, smooth skin color planes and coherent two-to-three-tone soft/cel shading. Remove the left faces' harsh realistic cheekbone modeling, deep under-eye creases, dense forehead/nasolabial wrinkles, patchy dark skin shadows and sculpted realistic noses. Show age through adult head proportions, slightly smaller adult eyes, jaw shapes and only a few subtle age lines, rather than aging them through gritty rendering. Do not turn either adult into a child or give them Su's face. They should unmistakably belong to the same anime character ensemble as Su.
+
+Carry the same simplified drawing treatment into their necks, hands and clothing: clear anatomically correct fingers, soft skin planes, fewer deliberate broad fabric folds instead of densely etched creases. Preserve all held objects and actions. Match the diffuse overcast illumination already falling on Su, while respecting the adults' existing position relative to the window. Do not brighten them like spotlit portraits; they remain supporting figures.
+
+LOCK ALL OTHER CONTENT
+Keep Su Yuqing herself unchanged: exact face, 149 cm petite seated proportions, chin-length black bob, navy cap, pale blue hoodie, off-white top, dark jeans, white sneakers, thoughtful chin-on-hand pose, navy backpack on lap, and right-side placement. Keep the white suitcase upright beside her feet with its handle retracted and two cat stickers. Keep every carriage element, empty space, camera angle, perspective, table, blue seats/curtains, rack, countryside and gray cloudy sky unchanged. Preserve the landscape crop and original object geometry. No change of weather, lighting scheme, scenery or palette. No new person, gesture, interaction or close-up.
+
+This is a deliberate anime character redraw of the LEFT pair, not an overall blur or a photo filter. No photoreal faces, glossy skin, 3D rendering, heavy grain, excessive wrinkles, enlarged childlike heads, smiles added, text, UI, subtitles, watermark or borders. The result must look like a single coherent illustrated scene while retaining the established composition.

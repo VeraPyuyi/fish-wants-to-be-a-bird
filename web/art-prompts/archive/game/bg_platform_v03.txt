@@ -1,0 +1,31 @@
+Use case: precise-object-edit.
+Asset: BG-RAIL-01 | 旧式列车站台 v03 · 旅客与送行人群.
+Generate exactly ONE revised populated visual-novel background.
+
+EDIT TARGET:
+The attached bg_platform_v02 is the existing scene to edit. Preserve its camera, layout, train, canopy, lighting, colors and moderate anime painted rendering. The user's specific correction is: ALL public scenes outside home need visible ordinary people, not empty scenery. Add people directly into this image now.
+
+PRIMARY CHANGE — MAKE THIS A LIVED-IN DEPARTURE PLATFORM:
+Add roughly 12–15 clearly visible, naturally dispersed people across foreground/middle/distance. This should look like an operating railway platform with travelers boarding and relatives saying goodbye, with moderate everyday activity, not a crush crowd or a deserted background with only tiny silhouettes.
+Include several readable near/middle-ground people with distinct clothing, bags and gestures. Keep the original open door and platform depth identifiable. Do not line everyone up uniformly, repeat faces or poses, or put all people far away.
+
+CROWD COMPOSITION:
+- In the nearer left/center portion of the platform, place two adult relatives saying goodbye: a middle-aged man holding a worn canvas travel bag and an adult woman in a muted burgundy cardigan or simple jacket, partly turned toward each other. Their heads, gestures and clothing are clearly readable, not just shadow blobs. Keep the left pillars, plants and track perspective recognizable.
+- At the open carriage door on the right, a railway attendant in a plain dark-navy uniform jacket and modest peaked cap stands slightly beside the entrance, gesturing travelers aboard. No detailed emblems or readable text. One adult traveler is naturally stepping up using the rail, and another adult waits behind with a modest dark suitcase. Preserve visible parts of the doorframe, steps and warm interior; do not wall them off with people.
+- In the middle distance, scatter varied activity: an adult accompanying a fully clothed child; an older traveler carrying a woven or canvas bag; a younger adult walking with a plain backpack; a relative raising a hand in farewell. Some figures face sideways or three-quarter toward the camera, some face the train, some walk away. Keep personal space and uneven grouping.
+- Near the distant luggage trolley and canopy columns, include a few appropriately smaller travelers walking or waiting. Distant people can be simplified, but they are additional depth cues, not substitutes for the visible foreground/midground people.
+
+FIGURE DESIGN AND PERIOD:
+These are ordinary Chinese travelers in a Zhejiang station in 2004, mixed adult ages, builds and heights, plus at most one child with a parent. Use everyday modest early-2000s clothing: plain jackets, cardigans, shirts, straight trousers and simple coats, in muted navy, tan, grey, dusty green and restrained burgundy.
+Use a mix of canvas duffels, woven shopping/travel sacks, practical older hand cases and plain small rolling cases. Avoid identical luggage, airport-fashion ensembles, smartphones, wireless earbuds, trendy branded athleisure and modern devices.
+Do not add Su Yuqing or any existing named main character. These are unrelated background travelers with distinct ordinary faces; do not imitate the protagonist's pale-blue jacket, petite bob-and-cap identity, or white Hello Kitty suitcase.
+Draw people in the same anime visual-novel style as the environment: fine colored outlines, simplified clean features, coherent light/shadow shapes. No photoreal pasted people, portrait cutouts, faceless grey mannequins, giant-eyed chibis or exaggerated expressions.
+Every person has natural limb anatomy, complete clothing and plausible interaction with their bag, companion or handrail. Feet contact the platform or boarding steps at the correct perspective. Add soft contact shadows consistent with the cool overcast light. No floating feet, fused bodies, duplicated limbs, clipped faces or oversized foreground heads.
+
+PRESERVE THE BASE SCENE:
+Keep the same older dark-green conventional coach with cream stripe, window positions, curved roof, open door, warm interior and attached steps on the right.
+Keep the existing concrete canopy, round columns, trees/plant bed and railing on the left, grey platform paving, distant tracks/signals/low buildings/hills and the small luggage trolley. Do not redesign, reposition, repaint the whole architecture or turn it into a modern high-speed station.
+Keep the same grey daytime and cool platform with warm carriage light. No new sunny weather, night lighting, rain streaks or dramatic color grade.
+People may naturally occupy parts of the walking space. Keep key faces and gestures above the lower quarter where practical; lower legs and bags may overlap the eventual dialogue area. Do NOT clear away all near people merely to leave a large empty textbox region.
+No readable lettering, destination names, logos, adverts, UI, watermark, title or caption. No new trains or unrelated props.
+ONE complete 16:9 landscape illustration, same full framing as the input, no border, crop, transparency or comparison panel.

@@ -1,0 +1,14 @@
+Use case: identity-preserve
+Asset: OP-TIAN-DUAL-01 v06, visual-novel opening illustration.
+Edit the supplied v05 image. Deliver ONE complete 16:9 scene. The user has rejected several nearly unchanged facial revisions: this version needs an OBVIOUSLY MORE MASCULINE-LOOKING FACE, visible even at normal whole-scene viewing size. Reconstruct the facial features themselves, not merely darken their outlines.
+
+Target: Tian, the small seated figure in the dark cap at right. Keep this same character, pale skin, hairstyle, sharply attentive eyes and defiant composure. Redraw the face using a clearly boyish anime facial structure:
+- Brows appreciably thicker, straighter, lower-set and natural, with a clear brow-to-eye relationship.
+- Eyes narrower and more horizontal, irises visibly smaller, minimal eyelashes; intent watchful gaze to the left.
+- Nose distinctly less tiny/doll-like: a clearer bridge, broader root and a more substantial natural tip, rendered with clean simple anime lines.
+- Cheekbones less softly rounded; lower cheeks and jaw visibly broader and less tapered. A broader blunt-rounded chin rather than the small tapered chin in v05. Keep the face relatively short and the chin edge smooth, not a long angular adult face.
+- Mouth plain and relaxed, lips not glossy or pouty, expression quietly sharp rather than angry.
+
+The character should now read as a petite person with a distinctly masculine face, without changing identity or build. This is a deliberate visible facial correction, not a tiny cosmetic pass. Keep clean-shaven skin; no beard, stubble, wrinkles, bulky muscles, heavy shading or photorealistic face.
+
+Strictly preserve EVERYTHING outside the face: exact v05 head size and cap position, body size, narrow shoulders, low ponytail, pale skin tone, seated pose, thick loose coat, sweater, trousers, hands touching publicity leaflets, chair and tables. Keep scene camera, geometry, people, posters, canopy, rain, stage, lighting and colors. Do not make the head or body bigger to create masculinity. Do not turn the character into a different person. No added text, captions, objects or watermark. Preserve existing clean anime rendering, no extra noise or sharpening.

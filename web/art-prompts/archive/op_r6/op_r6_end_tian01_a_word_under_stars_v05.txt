@@ -1,0 +1,16 @@
+Use case: identity-preserve.
+Asset: OP-R6-END-TIAN-01 v05, a clean anime illustration for the Tian Yuyao ending scene in a private visual-novel ending video.
+Input image 1 is the exact approved v04 edit target, not merely inspiration.
+
+Primary request: Carefully clean and redraw only the noisy microtexture in this illustration. Make the image visibly cleaner and clearer with crisp, coherent 2D anime linework and smooth controlled colour shapes. Highest supported landscape resolution, same wide 16:9 framing.
+
+Locked composition and identity: Preserve precisely both people's faces, facial proportions, eye shapes, age appearance, hairstyles, relative body sizes, clothing, expressions, positions and gestures. Tian is the small, frail, pale, short-dark-haired person seated in the wheelchair, with tired narrow boyish eyes, a quiet withdrawn expression, loose cream short-sleeved shirt, blue-grey skirt, white socks and pale shoes. Xia Guiyue is the youthful ponytailed girl crouching on the right, with a hopeful gentle expression, pale yellow modest dress with white rounded collar and small blue ribbon, white ankle socks and canvas sneakers. Do not mature her face or make her taller. Preserve their exact hand contact and wrist anatomy. Keep the entire wheelchair, footrests, shoes, both people's feet and hands complete.
+
+Cleanup scope:
+- Replace scribbled stone/paving grit, dense tiny cracks and countless high-frequency scratches with broad clean stone planes, a few coherent joints, and soft readable shadows.
+- Simplify tiny grass strands and noisy leaf speckles into deliberate anime foliage clusters; retain overall trees and shrub silhouettes.
+- Clean hair speckles and smeared strand highlights into the same hairstyle built from clear, smooth locks. Preserve face details.
+- Remove noisy tiny cloth flecks and unnecessary crumpled creases, retaining folds that explain the existing poses, drape and garment shapes.
+- Clean the stair wall and step surfaces while preserving architecture, bench, railings, perspective and distances.
+
+Keep the approved sparse stars, crescent moon, distant lights, water, mountains and warm lamp against cool night lighting. Preserve the current mood and palette. This is a brief quiet response, not a recovery scene: Tian must remain weak and reserved. Do not add smiles to Tian or alter the hand action. No camera shift, crop, face redesign, added people, objects, costume changes, text, watermark, photorealistic textures, blur filter, plastic skin or sharpening halos. Preserve all meaningful details while removing random noise.

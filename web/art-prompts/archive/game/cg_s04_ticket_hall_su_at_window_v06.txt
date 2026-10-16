@@ -1,0 +1,20 @@
+Use case: style-transfer.
+Asset: CG-S04-01《杭州城站售票厅·窗口买票》v06. Produce ONE full 1672x941 landscape visual-novel illustration.
+
+INPUT ROLES:
+Image 1 cg_s04_ticket_hall_su_at_window_v05.png is the whole-scene EDIT TARGET: lock its wide camera, physical layout, character locations, heights and story actions.
+Image 2 su_soft_anime_style_v02.png is the USER-CHOSEN NEW FACE/HAIR/RENDERING reference. Its gentle small face, warm brown anime eyes, clean fine contours, smooth pastel colors and subtle cel shading replace the older realistic appearance. Adapt its recognizable face to the small side profile in the target; do not import the front-facing pose, smile, or white background.
+
+SU AT LEFT WINDOW:
+She remains at the LEFTMOST ticket counter, facing and looking at the seated female clerk through the glass, not in the middle of the hall or turned toward the viewer. Keep her original petite teenage stature relative to the counter and standing adults, exact head and foot positions, limb lengths and body silhouette. Fifteen, slight-built, not a chibi or young child.
+Match the new reference's soft facial identity and brown eyes as visible in profile. Quiet hesitant neutral expression, closed small mouth, no grin.
+Keep the SAME navy cap and brim in place. Under the cap use the reference's soft short pixie fringe, short side hair and clear nape, not the old near-shaved crewcut or a chin bob. The single original-side star stays naturally hidden beneath the cap; do not add a star to the cap or opposite side.
+Same pale-blue hoodie, ivory top, dark trousers, white shoes and ONE navy backpack. One hand rests on the counter and the other grips the black suitcase handle naturally. Keep the single white rolling suitcase with two cute cat stickers, pale corners, double handle rods, hardware and wheels, unchanged size and floor contact. No duplicated bags or extra hands.
+
+ALL PEOPLE AND BACKGROUND SHARE THE NEW SOFT ANIME MEDIUM:
+Redraw the adult female clerk behind glass, middle-aged cleaning woman at RIGHT holding a broom, adult queue, child in queue and distant passers-by in fine gentle anime linework and clean shaded color planes. Preserve each person's action, placement, clothing and age/body differences. Adults remain adults, the cleaner clearly middle-aged; do not give every person Su's face or large juvenile proportions. The cleaner is not yet conversing with Su: she remains farther right, both hands on broom, broom resting on floor. Preserve the existing waiting crowd distribution and distinct silhouettes, no duplicate Su, no missing foreground participant.
+Keep all glass partitions, circular speaking openings, dark countertop, blue lower walls, timetables, metal queue rails, tiled floor, ceiling beams/fans/fluorescent lights and distant windows in place. Ordinary maintained 2004 Chinese railway ticket hall, no modern ticket vending kiosks, smartphones or new LED signage.
+Reduce dense noisy marble/cloth/wall textures and shiny photo-like floor reflections; make them clear simple illustrated surfaces with soft grounded shadows and restrained reflected light. All people and architecture use the same drawing language, no realistic background with pasted cartoon girl. Preserve cool diffuse daytime blue/cream palette and a restrained slightly unfamiliar atmosphere; no dramatic bright sunbeams or fantasy glow.
+
+Timetable content stays small indistinct printed blocks, not new readable invented captions. Do not add text, logos, UI, watermark, inset, borders, closeup or comparison panel.
+Preserve the existing full-frame composition; restyle the whole scene coherently without changing narrative staging. Exactly one opaque landscape image.

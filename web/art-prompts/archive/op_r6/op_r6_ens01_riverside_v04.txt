@@ -1,0 +1,15 @@
+Use case: identity-preserve.
+Asset OP-R6-ENS-01 《河边的五个人》 v04. Edit the provided river illustration, one full 16:9 scene.
+
+Primary request: change Zhang Sifan's outfit to a different, soft feminine summer casual outfit while preserving her identity. Also correct the mistakenly over-shortened skirt of Fang Youyou.
+
+1. ZHANG SIFAN is the short-haired adult CROUCHING IN THE MIDDLE-RIGHT, holding an earthworm up toward the standing person. Replace the mint blouse / large white collar / navy skirt with:
+- a plain soft dusty-pink short-sleeve cotton blouse, modest simple round neckline, gently gathered short sleeves, no large contrasting collar, no tie, no floral print;
+- an ivory/cream knee-length A-line cotton skirt with a simple waistband and soft folds.
+The skirt should drape comfortably over her bent thighs and knees in her existing crouching pose. Keep exactly the same leg and foot positions, pale canvas shoes, hands, arm angles, earthworm and trowel interaction.
+This is the SAME adult face and short natural dark hair; do not make her younger, change facial features or body proportions, add makeup, long hair or a wig. Natural, cheerful, everyday femininity, clothing only.
+
+2. FANG YOUYOU is the short-haired adult STANDING CENTER in front of the terracotta-shirt person, leaning back surprised. The current sage-green skirt is wrongly too short. EXTEND THE SAME SKIRT DOWN TO THE KNEES, without moving any body part. Retain the current waistline, colour and A-line shape. In the 1672x941 target, the current hem is near y=445; extend it to approximately y=515–525, reaching the knee area, covering substantially more of the thighs. It must NOT become a long calf/ankle skirt. Preserve her cream blouse, face, pose, legs and white shoes.
+
+LOCK ALL OTHER CONTENT to the target: Su on the stool in the blue dress and starclip, Lin fishing in lavender blouse and denim shorts, Hu in terracotta polo, all five faces, natural hair, heights and poses, small black cat, fishing rod with its one continuous line and single red-white float, chairs, stool, plants, rocks, river, house, lighting and framing. Do not change Hu's lean body, Su's petite scale or any hand anatomy. No new people, accessories, objects, text, border or watermark.
+Keep crisp clean soft-colour anime artwork and smooth cotton shading. No new grain, speckle, photographic texture or all-over blur. Render exactly ONE edited full scene.

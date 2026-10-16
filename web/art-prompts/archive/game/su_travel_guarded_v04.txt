@@ -1,0 +1,30 @@
+Use case: identity-preserve, precise-object-edit.
+Asset: CH-SU-02《苏雨晴·戴帽出行》v04 — early-story cropped-hair update.
+Produce exactly ONE edited full-body travel sprite with the entire suitcase, on genuine transparency.
+
+Input roles:
+Image 1 su_travel_guarded_v03_alpha_v01.png is the SOLE EDIT TARGET. Preserve its exact existing full-body composition, compact arms and hands, pose, character scale, face, cap, clothing, backpack and cute white suitcase. Its background is already real transparency. The black preview is not a black background to paint.
+Image 2 su_home_neutral_v09.png is the FIXED ORIGINAL FACE IDENTITY cross-check only: same teenage gentle oval face, restrained almond-shaped brown eyes, iris size, cheek shape and lower-face/chin length. Do not import its old bob, taller body, neutral pose or checkerboard.
+Image 3 su_early_crewcut_reference_v02.png is the APPROVED CROPPED BLACK HAIR reference, adapted UNDER the existing cap. Do not import its head pose, body stance, visible clip position or checkerboard.
+
+Change ONLY the HAIR visible below the cap in Image 1:
+The source story says her hair has just been clipper-cut short (平头), and she pulls a baseball cap low to conceal it.
+Remove the long black bob curtains beside the cheeks, behind both ears and along the jaw/neck. There must be no long curved hair ends near her jaw, hood or neck.
+Keep just small, naturally cropped black side hair close to the temples, with the ears and nape naturally exposed. Reconstruct only small skin/hood/transparent regions directly uncovered when the bob ends are removed.
+Shorten the visible frontal fringe to a few short black tips well above the eyebrows and mostly tucked under the brim. Keep the cap seated at the SAME height and angle; do not lift it to show a big new hair tuft.
+She still has dark short hair underneath, not a bald or gray-shaved head. Do not expose a high/spiky crown above the cap.
+Her single star accessory stays UNDER the cap as in the already-approved travel design; it is naturally occluded in this shot. Do NOT put a star on the cap, duplicate one at an ear or move it to the opposite side.
+
+Preserve the character:
+Same reserved, slightly guarded gaze and small CLOSED neutral mouth; not smiling, angry, tearful or newly confident. Same skull size, head angle, recognizable fifteen-year-old face and age. Do not round/enlarge the eyes or shrink the chin.
+Same approved petite body at the exact original position and full-canvas scale. Do not make her taller, lengthen the legs/torso/arms or shrink everything uniformly. Preserve her short arms, small hands, comfortable elbow bends and natural five-finger grips.
+Same plain dark navy baseball cap, pale mist-blue open hooded jacket, ivory T-shirt, dark indigo straight jeans and white low-top sneakers. Keep backpack and both straps.
+One hand at screen-left wraps around the suitcase's black horizontal grip; the other hand holds the backpack strap near the chest. Freeze all handle rods, finger contacts, sleeve folds, shoes and the relative floor baseline.
+Keep the same LARGE bright-white rounded suitcase at screen-left, double-rod handle, pale ivory corner pieces, two recognizable cute cat stickers with bows and their small pink hearts, hardware and all wheels. No external plush toy or extra luggage.
+Keep clean softly shaded anime visual-novel linework; no photoreal face, shiny 3D plastic or added fabric pattern.
+
+Output:
+ONE full-body isolated sprite, 1024x1536 portrait composition matching Image 1, head, cap, shoes, case and all wheels fully inside the original margins.
+Preserve TRUE alpha transparency everywhere outside the character and case, including space between handle rods and body. No painted checkerboard, white/black/colored background, floor, cast shadow, room, text, labels, inset, comparison panel, watermark or extra pose.
+Do not modify any non-hair element except tiny regions newly exposed by the shorter haircut.
+

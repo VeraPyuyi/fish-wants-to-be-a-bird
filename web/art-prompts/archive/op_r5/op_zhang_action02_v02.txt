@@ -1,0 +1,10 @@
+Use case: precise-object-edit.
+Asset: OP-ZHANG-ACT-02 v02. One small local repair to the lifted wig's inner lining.
+The input image is the EDIT TARGET. The user has accepted the composition and removal gesture. Preserve them.
+
+Edit ONLY the small dark oval inner cap visible INSIDE the golden wig held above the right character's head, plus the narrow transition at its rim. It currently looks like a rigid brown helmet with thick edging and regular segmented panels.
+Replace that hard inner shell with soft, thin, flexible wig-cap cloth/mesh: muted low-contrast warm grey-brown, a few gentle irregular fabric folds, delicate elastic edging, subtle fine fabric shading. Let the lining softly sag between the existing hand grips. Remove the rigid geometric grid, thick bands, hard bowl-like volume and strong dark contrast. It should read as an empty lightweight fabric cap beneath hair, not a helmet, thick hat, skin, face or head. Keep the cap opening readable but visually quiet. Do not create dense mesh dots or noisy microscopic texture.
+
+Keep the wig's outer golden hair, shape, length, position and hanging strands exactly as in the input. Keep both hands and their grips, fingers, wrists, arm angles, sleeves and body pose unchanged. Do not shift the wig or enlarge it.
+Preserve both faces, Zhang's approved dark short hair and closed-eye smile, Su's long black ponytail wig and star clip, clothes, every other prop, full-frame composition, camera, candlelight and clean anime background. Do not repaint grass, stars, house or sky.
+No global retouch, new grain, blur, sharpening, text, labels or watermark. Return a single same-framing landscape image with only the wig-lining repair.

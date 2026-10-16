@@ -1,0 +1,19 @@
+Use case: identity-preserve.
+Asset: OP-R6-ENS-05《暮色里的烤鱼火堆》v02, a 16:9 anime ensemble illustration for a visual novel ending movie.
+
+IMAGE 1 is the EDIT TARGET: the five friends eating grilled fish at dusk.
+IMAGE 2 is the approved riverside picture, used ONLY as the exact wardrobe and character reference.
+User continuity rule: riverside play/fishing and the subsequent grilled-fish meal share the SAME outfits. House cleaning is a separate costume group.
+
+Edit the first image while preserving its five faces, natural hairstyles, body sizes, seated poses, camera, stools/chair, fire, twilight lighting and scene layout.
+Match these costumes from image 2, adapted naturally to the seated poses:
+- Far-left LIN: pale lavender button-up blouse with sleeves rolled to elbows and blue denim shorts; bare lower legs and the same white sneakers. Replace the ivory blouse and lavender skirt.
+- Left-middle HU: muted terracotta/brick-red short-sleeved Polo with collar and charcoal long trousers, white sneakers. Replace grey T-shirt and olive trousers.
+- Centre ZHANG: KEEP the current dusty-pink short-sleeved top and ivory knee-length A-line skirt; this already matches image 2.
+- Right-middle FANG: ivory short-sleeved button-up blouse and sage-grey-green knee-length A-line skirt, white shoes. Replace blue-grey blouse and navy skirt. Knee coverage and natural folds while seated.
+- Far-right SU: pale sky-blue short-sleeved dress with white rounded collar and small pale-yellow ribbon, white shoes and white knee socks, as her outfit before she removed shoes/socks to put her feet in the river. Replace the apron/pinafore outfit. Keep exactly her short dark hair, star clip, petite build and subdued expression.
+
+CRITICAL OBJECT REPAIR: DELETE the unsupported white plate floating in front of centre Zhang's chest/waist. Restore uninterrupted pink shirt / ivory skirt underneath it. Both of her existing hands must remain holding the cooked fish head near her mouth. Do NOT add a third hand, extra arm, or any replacement floating plate. Keep all other characters' properly supported plates and hands.
+
+Clean up the texture locally: simplify river sparkles into restrained painted bands, grass into broader leaf shapes, and speckled rocks into clean cel-shaded masses. Preserve crisp face/hair/clothing contours and firelight. No global blur, film grain, stippling, photographic bark or new tiny decorations. Maintain warm dusk anime visual style.
+No new people, no changes of age/height/face/body, no wigs, no reposing, no text, no border or collage. Produce ONE revised full scene.

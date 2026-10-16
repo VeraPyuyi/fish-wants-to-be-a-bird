@@ -2,7 +2,7 @@
 
 公开仓库仅由 `tools/public_release.py` 生成。导出白名单是：
 
-- `web/` 的运行时文件；
+- `web/` 的运行时文件、获准公开的宣传图，以及 `web/art-prompts/` 中的图像 Prompt 与索引；
 - `README.md`、本文件；
 - 本地启动器 `serve.py`，资源检查 `tools/engine_validate.py` 与导出工具 `tools/public_release.py`；
 - `.github/workflows/pages.yml`。

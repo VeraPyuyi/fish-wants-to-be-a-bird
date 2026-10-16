@@ -1,0 +1,11 @@
+Use case: precise-object-edit.
+Asset: BG-HOME-02《苏家客厅·离家前》v04 — clean room background for the soft anime visual novel.
+Input Image 1 cg_s02_livingroom_su_hesitant_v04.png is the sole whole-frame EDIT TARGET and user-approved style/layout/light anchor.
+
+Produce ONE same-shot empty-room variant by removing ONLY the girl at the left door, her worn backpack, the white rolling suitcase she holds including its extended handle, wheels, cat decorations, and the removed objects' contact shadows. Reconstruct the small areas of wooden door, doorframe, beige wall, skirting and wooden floor that they hid, following the visible surrounding lines and perspective. Preserve the existing door handle, lock, panel geometry and frame; no residual body shape, shoes, backpack straps, case handle, silhouette or object shadow. The room should simply look momentarily unoccupied while she is elsewhere in the home.
+
+ALL ELSE MUST STAY:
+Same 1672x941 wide landscape full-frame camera, exact room layout, soft clean anime linework and warm palette, sunlight direction, brightness, shadows, and existing glossy tabletop highlight. Do not redesign, improve, restyle, recolor, crop or zoom the room. Keep the wooden entrance door closed; left shoe cabinet and plant, coat hooks and hanger, beige sofa with blue cushions, small side furniture, CRT TV and media player on wooden cabinet, coffee table, framed seascape, floor standing period air conditioner, right window with blue curtains and outdoor architecture, foreground dining table and chairs, ceiling trim and light. Keep all major edges and furniture in the same locations so cutting between this and the approved character scene feels like the same room.
+A clean, attractive, comfortably furnished family home in Hangzhou in 2004; retain the already-approved stylized rendering rather than making it photorealistic.
+No person or other added object. Do not add paper, keys, money or notes; those have a separate closeup. No phone, modern screen, lettering, logo, UI, watermark or reference inset.
+ONE opaque full-room image only.

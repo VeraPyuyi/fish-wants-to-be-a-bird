@@ -1,0 +1,14 @@
+Use case: precise-object-edit / style cleanup.
+Asset OP-R6-ENS-04《端午湖面》v07. Edit the supplied approved v06 full wide illustration. The task is selective visual denoising and clearer anime surfaces; NOT new design or new composition.
+
+Reduce the excessively dense tiny white highlights and fractured mottled reflection speckles across the blue lake. Make the water calmer and cleaner using broader coherent cyan/blue color shapes and a moderate number of purposeful ripple lines. Retain convincing sunlight, boat reflections, gentle wakes and readable small circular contact ripples around Su's fingertips and the oar blade. Remove approximately half the scattered tiny sparkle fragments so the four figures stand out, without flattening the water to a featureless field.
+
+Simplify overly busy leaf speckles on distant trees into readable layered foliage masses. Reduce microtexture on the two boat hulls, wood paddle and clothing while preserving important seams, lace outlines, folds and contact shadows. Keep buildings, ferris wheel, carousel, canopy and background visitors clearly readable and in exactly their existing places. Clean crisp 2D anime contours and smooth color areas; no photographic grain, no global blur or plastic smearing.
+
+STRICTLY LOCK all FOUR characters exactly as supplied:
+- foreground middle Fang in pink short-sleeve lace-collar button dress: keep the approved adult face, straighter brows, narrow eyes, clear nose and lower jaw, natural short dark hair, both hands gripping paddle, size and pose;
+- foreground right Su, petite with short dark hair and star clip, white sailor top with wine-red collar and dark skirt: keep her approved face, proportions, lean, boat-rim hand and fingers touching water;
+- distant left Zhang, navy sailor top with white scarf and light-grey skirt, natural short dark hair: retain her adult face, half-open narrow eyes, nose/jaw, warm waving smile and raised open hand; do not make this distant face rounder or younger;
+- distant left boat Hu, plain adult face and short brown hair, white sports polo with navy trim and dark trousers: retain face, lean-tall build, seated pose and hands.
+
+Preserve the exact front orange/white rowboat and back yellow/blue pedalboat, perspective, spacing, person-to-boat scale, every hand, foot, paddle and its orientation, canopy posts, clothing colors and silhouettes, framing and lighting. Do not add wigs, change costumes, retouch facial structure, remove fingers, add objects or text, or resize people. Return the entire same 16:9 illustration, cleaner and less speckled.

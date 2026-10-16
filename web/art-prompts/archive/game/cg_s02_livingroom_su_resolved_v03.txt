@@ -1,0 +1,12 @@
+Use case: identity-preserve.
+Asset: CG-S02-01-E01《客厅·目光坚定》v03. ONE expression variant of the approved soft anime living-room scene.
+
+Image 1 cg_s02_livingroom_su_hesitant_v04.png is the SOLE whole-image edit target, now approved by the user. Preserve the entire image, camera, background, palette, lighting, all furniture, suitcase, body, hands, hair silhouette and screen placement.
+Image 2 su_soft_anime_style_v02.png is the canonical facial identity and soft anime style cross-check ONLY. Do not transfer its studio background, smiling mouth, pose or different body scale.
+
+CHANGE ONLY SU YUQING'S FACIAL EXPRESSION:
+The girl beside the entry door has remembered the previous night's hurt. Her hesitation gives way to quiet resolve to leave home. Keep her exact soft young face, brown eye design/iris size, head position and face angle. Make the brows slightly more focused, the eyes steadier and the small closed mouth firmly neutral. A subtle resolute look that clearly differs from the hesitant base. No smile, no snarling, no exaggerated anger, no tears, no older/narrower realistic face, no chibi. She still looks like the SAME petite teenage girl from the approved scene and reference.
+
+Freeze all else, especially the exact crown position and fluffy short hairstyle, single ivory star on screen-left temple, visible ear and neck, exact head/body proportions and door-relative height. Keep the pale blue hoodie, white shirt, dark trousers, white shoes, dark backpack and white cat-decorated suitcase. Do not shift her shoes, case wheels, hands on suitcase handle/backpack strap, door, window, sofa, TV, floor air conditioner or tables.
+Preserve the base frame's clean drawn linework, soft anime cel shading, warm sunlight and its existing table reflections; do not relight, restyle, zoom, crop or improve the room.
+Return ONE full 1672x941 opaque landscape frame with no added text, marks, borders, UI, inset or closeup. This is a same-shot facial expression difference, not a new pose or new room image.

@@ -1,0 +1,9 @@
+Use case: identity-preserve
+Asset: OP-TIAN-DUAL-02 v07, Tian Yuyao outside the cinema.
+Edit this full-scene v06 illustration. The user asks: "A little more petite."
+
+Make the ENTIRE existing main person approximately 5 percent smaller in both height and width relative to the unchanged cinema environment. Keep the midpoint of the shoe soles at the same ground position: the crown and shoulders should move slightly DOWN, rather than lifting the feet or relocating the person farther into the scene. At the original 1672x941 framing this means roughly 25–30 pixels lower at the crown. Scale head, torso, arms, hands, dress, legs and shoes proportionately; preserve the same head-to-body ratio, pose and identity. Reconstruct the small newly exposed portions of wall/poster background naturally and retain a convincing contact shadow.
+The adjustment should be small but visible when compared with the nearby door frames, poster and bicycle. Do not enlarge the head, make a childlike/chibi body, alter apparent age, shorten only the legs or distort anatomy.
+
+Preserve the user-approved softened eyebrows and eyes above the white mask, pale skin, leftward gaze, dark low ponytail, mask/ear loops, gray high-neck calf-length dress, hands gently held in front and pale blue flat shoes. Keep clothing proportions and folds coherent as the person becomes slightly smaller.
+All environment content and camera MUST remain unchanged: cinema façade and signs, crowd, posters, bicycle, trees, shadows, sunlight, original wide 16:9 framing and clean anime style. No zoom-out of the whole picture. No new objects, grain, blur, captions or watermark. Output one complete cinema scene.

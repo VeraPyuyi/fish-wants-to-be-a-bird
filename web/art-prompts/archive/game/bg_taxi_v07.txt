@@ -1,0 +1,20 @@
+Use case: style-transfer.
+Asset: BG-TRAVEL-01《前往城站·苏雨晴坐在出租车后座》v07.
+ONE full 16:9 soft anime visual-novel scene.
+
+INPUT ROLES:
+Image 1 bg_taxi_v06.png is the WHOLE-SCENE EDIT TARGET. Keep its camera/framing, car geometry, petite seated scale, exact gestures, navy cap, lap backpack, quiet windowward gaze and exterior people/period buildings.
+Image 2 su_soft_anime_style_v02.png is the USER-SELECTED NEW CANONICAL FACE, HAIR AND DRAWING STYLE. Its soft small face, warm rounded brown anime eyes, understated nose/mouth, fine clean colored lines, light clean color planes and gentle cel-shading replace the older more realistic facial rendering. Adapt the identity to the existing three-quarter windowward angle. Do NOT copy its frontal standing pose, cheerful smile or off-white sheet background.
+
+SU YUQING:
+The same petite fifteen-year-old, quietly withdrawn after leaving home. Keep exact seated head/body scale relative to the bench and window; do not enlarge the head, extend arms or turn her into a younger child. Refine her face to the new reference while keeping her gaze directed out the right-hand window and her small mouth closed and neutral, faintly hurt and thoughtful, not happy or posing for camera.
+Her navy baseball cap stays on at the same angle. Below it, adapt the new reference's soft short pixie fringe and short side/nape hair to the existing hat occlusion. No old shaved crewcut, no chin bob or neck-length hair. The crown is under the cap. The original-side single star clip remains concealed by the cap in this shot, as already approved; do not paste a star onto the hat or invent a visible duplicate.
+One hand stays gently holding the cap brim, fingers naturally contacting it; the other holds the front of the SINGLE navy backpack resting on her lap. Retain correct wrists, sleeves, bag handle/seams/zips and overlapping hands. Same pale-blue zip hoodie, ivory shirt and dark trousers. Body is seated on the rear bench with natural weight/contact and lower-body crop as in image 1. No suitcase or standing sprite in this shot.
+
+UNIFY ENTIRE IMAGE IN THE NEW ANIME STYLE:
+Car interior, character, outdoor adults and street all share clean fine linework, simplified materials, restrained clear color shapes and soft shading. Reduce the old dense mottled upholstery texture, busy jacket microfolds, bark granularity and photographic building weathering. Keep dark-blue bench/headrest, window frames, rear-window heater lines, door handle and manual window crank. Keep the car recognizably an ordinary 2004 taxi, no screens or modern gadgets.
+Outside retain ONE adult cyclist and TWO adult pedestrians in their existing positions, varied leafy trees, shrubs, utility wires and ordinary maintained-but-aged Hangzhou buildings. Make the adults anime-drawn in the same medium but retain adult facial/body proportions and distinct appearances; never give them Su's youthful face. No empty street, duplicated people, extra focal characters or abandoned-city deterioration.
+Preserve the source's subdued cool-gray daylight and quiet emotional tone, with enough light to read her face. Do not import bright sunshine, pastel fantasy glow, sunset, smiling expressions or dramatic lighting. Integrated window illumination, soft seat/arm/bag contact shadows; no sticker-like figure.
+
+Keep existing composition and prop relationships; change the drawing language and canonical facial/hair design as above. No crop/zoom, new pose, text, logos, caption, UI, border or inset.
+Output exactly ONE opaque 1672x941 full landscape illustration.

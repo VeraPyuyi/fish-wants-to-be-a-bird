@@ -1,0 +1,7 @@
+Edit the supplied illustration locally. Asset OP-ZHANG-ACT-02 v03.
+The ONLY edit area is the lining inside the golden wig held above the taller character's head (the small brown oval near x=65%, y=31% of the full picture).
+
+Completely redraw the old lining. Remove every segmented panel, intersecting seam, thick horizontal band, rigid rim and helmet-like dome inside that area. Replace it with thin, lightweight, soft taupe-grey lace fabric that is loosely gathered and gently sags inward. Use a few asymmetric folds in the fabric and an extremely thin, irregular elastic edge. The material must visibly look floppy and fabric-like, with no rigid shell. Make its centre a muted medium-light taupe in the candlelit palette, not the current dark brown hole. Suggest fine mesh very sparingly with smooth shading; do not draw a regular grid or add grain. The repair must clearly change the material and structure, not merely lighten the old helmet panels. The wig is empty, with no skin or face inside.
+
+Keep the outer golden strands and entire wig silhouette exactly as shown. Do not change the hand positions, grip, fingers, arm pose, dark short hairstyle, either person's face, expression, clothes, body proportions or position. Preserve the complete clean anime scene, stars, clouds, flowers, grass groups, lake, cabin, cake, table, colour and lighting. Do not soften the rest of the image or introduce texture noise. No other edits, new objects, labels or text.
+Output one complete landscape illustration with the same framing.

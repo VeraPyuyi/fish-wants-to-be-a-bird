@@ -1,0 +1,7 @@
+Edit the SECOND reference image: retain the entire wide dinner illustration and replace ONLY the small raised hand beside the laughing person in the lavender shirt.
+
+The FIRST reference image is the approved replacement hand. Copy its palm and five-finger arrangement WITHOUT MIRRORING, scaled down to match the hand in the dinner scene. Specifically the thumb emerges from the RIGHT edge of the palm and points LEFT across the two folded fingers. The two folded fingers belong on the LEFT edge of the palm. The longer raised finger is on the LEFT, the shorter raised finger is on the RIGHT. This screen-space orientation is essential.
+
+In the dinner image, the hand to replace is near 67% across and 43% down, above the lavender sleeve, immediately left of the glass bottle. Remove the existing incorrectly mirrored palm entirely. Join the approved replacement to the same wrist, adjusting only the wrist junction. Keep the hand proportional to the face and forearm, the fingers spread in a relaxed V. Palm still faces the viewer.
+
+Leave the laughing face, head tilt, hairstyle, sleeves, forearm position, the other four people, all other hands, the table and the complete background unchanged. Preserve the clean soft anime style and warm light. Output the entire SECOND image in its original wide 16:9 composition, with no inset or crop.

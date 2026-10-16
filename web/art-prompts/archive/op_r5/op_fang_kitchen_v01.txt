@@ -1,0 +1,30 @@
+Use case: illustration-story
+Asset: OP-FANG-01《方莜莜·合租屋的晚饭》v01. Create ONE polished landscape visual-novel opening illustration, 16:9, ideally 1920×1080. No text.
+
+Reference roles:
+Image 1 is the APPROVED identity, chin-near summer haircut, single ivory star clip and pink-white dress reference for Su Yuqing, who is a supporting character in this picture. Preserve that particular haircut, face and outfit.
+Image 2 is the canonical soft-anime rendering and Su facial reference ONLY. Do not use its earlier shorter hair or blue hoodie for this later summer scene.
+The new main character Fang Youyou must have her own face, not a duplicate of Su. Both should share the same drawing language.
+
+Story and emotional intent:
+An ordinary evening in late summer / early autumn 2004, in the shared rented home in a small coastal Zhejiang town. Fang has come home from work and is preparing dinner; Su helps. This is a quiet moment of care and belonging after difficult days: someone is making a meal, someone is staying to help. Let the warm light and small curl of steam express reassurance and everyday companionship. It is intimate domestic storytelling, not a posed kitchen advertisement or a cheerful group portrait. Other housemates are outside the camera view; depict ONLY these two.
+
+Main character Fang Youyou:
+A gentle feminine young person, approximately 160 cm, softly oval face, graceful everyday bearing, dark neat short layered hair reaching around the ears. Hair is appreciably shorter than Su's chin-near side locks; no ponytail, no hair accessory. Give Fang a distinct, slightly longer oval facial structure, gentle almond-shaped anime eyes and subtle brows; her soft approachable expression is focused on serving the food. Do not give her Su's oversized youthful eyes, tiny round face or star clip. Do not give her Zhang Sifan's tall build, blonde wig or gothic costume.
+Fang wears a simple muted sage-grey short-sleeved crew-neck shirt, comfortable ordinary fit and dark casual trousers, without logos, apron or decorative accessories. Her posture is relaxed and capable. She is the main visual focus.
+
+Supporting character Su Yuqing:
+The same petite teenage character as Image 1, approximately 150 cm, only about 10 cm shorter than Fang, natural proportions and the same ground plane. Preserve her brown eyes, soft face, chin-near dark side locks with a slightly longer nape, ivory star clip on the same side, pale pink short-sleeved dress with white round collar, white sleeve cuffs and white hem. If socks are visible use the approved white knee socks. No long wig or sailor outfit in this summer scene. She stands slightly to Fang's side, offering a clean empty plate with both hands and watching Fang with a small, trusting smile. She is helping, not posing for the viewer.
+
+Action and anatomy:
+Fang stands at a modest kitchen counter, gently transferring a small portion of cooked vegetables with a plain serving spatula onto a white plate resting securely on the worktop. One hand holds the spatula, the other supports the plate edge; the cookware rests on the stove behind/alongside the plate. Su holds the next empty plate ready nearby, with both hands clearly separate from Fang's arms. Keep the two plates and each wrist unambiguous, no intersecting hands, no floating utensils, no extra fingers, no hands over open flame. Show a very small amount of steam, not smoke. The meal is ordinary and modest, not a feast.
+
+Environment and composition:
+A small clean practical Chinese rental kitchen appropriate to 2004: simple pale tiles, modest cabinets, ordinary gas stove, a chopping board and a few useful ceramic bowls. Worn gently from use but cared for. No luxury island, sleek modern smart appliances or large commercial kitchen. A modest window can carry faint cool evening light while a practical warm interior light gathers around the faces and hands. Background objects and textures are simplified and low contrast.
+Eye-level medium-wide view from about hips or knees upward, arranged to read both faces and the food preparation clearly. Fang is foreground center-left, Su on the right slightly behind but at a comparable depth; don't exaggerate perspective or their small height difference. Keep Fang's face and hands as the focal point. Leave a calm background area away from the faces for later name text, but do not render text. Counter geometry and character scale must agree.
+
+Style and light:
+The same delicate soft Japanese anime visual-novel art as the references: clean fine outlines, clear color areas, restrained gentle cel shading, warm cream and muted sage with Su's pale pink accents. Draw faces, hands, kitchen and food with one coherent illustrated treatment. Avoid photo-like tiles, wood grain, pores, ray-traced reflections or 3D rendering. Warm domestic light with subtle cool evening fill; normal readable values, no overexposed glowing skin. Kind, calm expressions, no broad comedy smiles.
+
+Constraints:
+Only Fang and Su in frame. Maintain their separate identities, hairstyle periods, small relative height difference and approved Su outfit. No added plot event, no hugging, no text or lyrics, no captions, UI, logos or watermark. Ordinary fully clothed domestic scene. Food, wardrobe color, utensils and kitchen arrangement are restrained design details supporting the source's dinner-preparation event.

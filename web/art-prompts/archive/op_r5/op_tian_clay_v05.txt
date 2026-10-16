@@ -1,0 +1,15 @@
+Use case: identity-preserve.
+Edit the supplied OP-TIAN-01 v04 image into v05, "天语遥·掌心的软陶女武神".
+ONLY refine the character's FACE AND EXPRESSION. The user's direction is: a little more boyish in face shape, with a slight rakish, mischievous edge ("有点痞味"), while remaining the same youthful, refined 18-year-old character.
+
+Make a small but clearly visible adjustment:
+- Give the lower face a subtly straighter, firmer jaw and a fractionally broader chin, reducing the delicate V-shaped taper. Keep the face slim, not broad or rugged.
+- Make the brows a little straighter and cleaner, and define the nose bridge slightly through delicate anime lines rather than heavy shadows.
+- Keep the sharp, alert eyes directed down at the sculpture, with a confident, slightly defiant look. Add a very slight natural brow asymmetry, not an angry scowl.
+- Give ONE corner of the closed mouth a tiny upward lift, suggesting a restrained, knowing half-smile and a hint of playful attitude. No broad grin, exposed teeth, sneer, or exaggerated villain expression.
+Keep the character recognizable and youthful: no beard, stubble, wrinkles, hardened older-man face, heavy makeup, or body changes.
+
+Everything else is fixed to this input: the already petite overall stature and head size relative to the furniture, shoulder and torso proportions, head angle, small dark single ponytail, hairline, cream loose sweater and grey-blue trousers. Keep both hands and the sculpting action exactly as they are. Do NOT shrink the figure again, enlarge the neck or shoulders, or change the pose.
+Keep the full room, desk and chair, soft anime rendering, rain window, warm desk lamp, old desktop computer, mirror and shelves unchanged.
+The tabletop warrior sculpture remains unchanged: cat ears, curved cat tail, sword, armor, no attached wings, and the detached wings on the desk.
+No added accessories or props to signal attitude: no cigarettes, earrings, tattoos or new costume details. No new people, text, UI, camera movement or crop. Return one complete horizontal image in the same composition.

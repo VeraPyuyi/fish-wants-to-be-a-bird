@@ -1,0 +1,14 @@
+Use case: style-transfer.
+Asset: CG-HOME-01《离家前·纸条与钥匙》v04. ONE restrained object closeup for a soft anime visual novel.
+Image 1 cg_letter_v03.png is the WHOLE-FRAME EDIT TARGET, preserving the exact close camera, composition, perspective, object shapes, scale, number and placement.
+Image 2 bg_livingroom_v04.png is the newly USER-APPROVED room drawing/light/material reference only. Match its clear gentle anime contours, clean color areas, warm honey wood and daylight. Do not copy the room, furniture layout, window or any extra object into the closeup.
+
+Restyle Image 1 into a clean soft Japanese anime visual-novel illustration harmonious with Image 2. Keep the same wooden tabletop and gently rounded table edge, one white paper partly cropped off the left edge, one ordinary single silver residential key overlapping the paper's right edge with blade directed down-left, and one dark translucent ballpoint pen across the upper area. Preserve the key's standard hole, teeth and metal shape, the pen's functional proportions, the paper corners and the object's small contact shadows.
+
+STYLE CHANGE:
+Reduce the dense fine wood-grain noise to a few sparse low-contrast hand-drawn lines over smooth broad honey-colored planes. Make the paper an even soft ivory plane with delicate warm shading, no paper fibers or noise. Keep thin warm-gray outlines and two/three quiet shading bands on key and pen, gentle broad highlights instead of realistic refraction, tiny scratches or sharp mirror shine. Preserve the source's light direction but use the softly drawn clarity of the approved room. Keep the tabletop and small upper-right surroundings visibly illustrated, not photographic depth-of-field, 3D product render or grainy painting. Warm still daylight, a quiet pause at departure; no decorative sparkle, magical glow or melodrama.
+
+CONSTRAINTS:
+Keep image 1 framing and object layout; no zoom, pan, wider view, inset or extra shot. Do not add a person, hand, bag, suitcase, extra key, keyring, envelope or other prop.
+The visible paper remains BLANK as in the already-approved image: the written portion is outside this crop, and the note is conveyed by game dialogue. Do not invent handwriting, labels, characters, watermark or UI.
+Output exactly ONE opaque 1672x941 landscape full image.

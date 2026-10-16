@@ -1,0 +1,16 @@
+Use case: identity-preserve.
+Edit this scene into OP-AN-01 v08, "安念·人海中的第一次相见".
+The user has repeatedly asked for FANG YOUYOU, the person on the RIGHT holding a backpack, to have a softer face. The last two changes were too subtle. This time soften Fang's face clearly enough to be visible in the complete image.
+
+Change only Fang's face:
+- Reduce the density and darkness of the eyebrows, especially at the inner ends. Use finer, softly edged brows with a gentle natural slope, not heavy horizontal bars or a strong brow ridge.
+- Soften the eye surroundings and upper eyelid line while keeping attentive brown eyes looking left. The gaze should be calm and warm, not hard, tired or sleepy. Do not simply enlarge the eyes.
+- Make nose bridge and side-of-nose lines significantly subtler, using smooth low-contrast shading. Keep a believable adult nose without a sharply outlined ridge.
+- Add a little smooth fullness to the cheek-to-jaw transition; replace the straight angular lower-jaw corners with gentle continuous curves.
+- Round the chin softly and make the lower face less angular. Preserve an adult oval face, not a baby face, pointed V-shape or a large square jaw.
+- Keep a small warm closed-mouth smile, relaxed and quietly happy at meeting An Nian.
+
+The result should be a noticeably gentler, graceful adult face with only a light hint of the previous bone structure. Allow the facial contours and eyebrow strength to change sufficiently; do not preserve the previous sharpness merely to keep it 'masculine'. Preserve recognizable identity, age, head size and head angle, but prioritize the user's repeated request for softening. No exaggerated blush, makeup, beard, wrinkles or expression change into laughter.
+
+ABSOLUTELY retain everything outside Fang's face as closely as possible: chin-length black hair, neck, slender body, grey-blue long-sleeve top, dark pants, backpack, both hands and pose. An Nian on the LEFT and the entire station scene must stay as supplied, including body/face proportions, existing facial detail, clothing, waving gesture, background people, cars/tricycle, station signs, building, trees, pavement, sunlight, shadows, relative heights and framing.
+No global smoothing, no blur, no additional objects or text. Same soft anime visual novel style. One complete horizontal illustration.

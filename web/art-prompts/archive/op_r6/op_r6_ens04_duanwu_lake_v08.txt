@@ -1,0 +1,14 @@
+Use case: identity-preserve, two tiny local face restorations.
+Asset OP-R6-ENS-04《端午湖面》v08, full wide 2D anime illustration.
+
+IMAGE 1 is the edit target with USER-APPROVED clean water and environment. Retain it everywhere except the TWO DISTANT FACES in the left yellow canopy pedalboat.
+IMAGE 2 is the earlier USER-APPROVED version of exactly the same composition. Use ONLY those two faces as the restoration reference; do not bring back its noisier water.
+
+Restore the two faces in IMAGE 1 to their EXACT earlier appearance in IMAGE 2:
+1. Zhang, back-left boat left passenger, short dark hair, navy sailor top, raised waving hand. Face centre approx x270 y240 (16% across,25% down). In IMAGE 1 the eyes curved nearly closed and mouth expanded, making her younger/rounder. Restore IMAGE 2's less-curved HALF-OPEN narrower eyes with pupils visible, adult cheek-to-jaw contour, distinct small nose and smaller open smiling mouth. Keep the happy friendly expression, original head tilt, short natural hair silhouette and exact head scale. Do NOT close the eyes again or redraw a generic childlike smiling face.
+2. Hu, back-left boat right passenger, short tousled brown hair, white/navy polo. Face centre approx x475 y230 (28% across,24% down). Restore IMAGE 2's less-rounded, clear adult jaw and chin, existing plain nose, brow and calm eyes. Keep his gentle side glance toward Zhang and modest closed smile. Do not beautify, infantilize, add a beard, narrow his body or turn his face toward camera.
+
+This is RESTORATION to supplied known faces, not a new character redesign. Preserve original small perspective size, cranial shape, neck/collar connections, lighting and hair. Do not move heads, shoulders, bodies, legs, hands or boats.
+
+Keep FOREGROUND Fang in pink lace dress and petite Su in white/wine-red sailor clothes EXACTLY as IMAGE 1, including faces, hair, eyes, all fingers, paddle grip, boat-rim hand and water-touching hand. Keep all four approved distinct costumes, proportions, short hair, Su star clip and no wigs.
+Lock IMAGE 1's clean broad lake reflections, reduced white speckles, wakes, oar/fingertip circles, tree masses, visitors, amusement park, ferris wheel, canopy, boat colors and positions. No new texture/noise. Entire same 16:9 framing, no portrait crop, enlargement, inset, labels or text. Only the two small rear faces should visibly change.

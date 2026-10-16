@@ -1,0 +1,30 @@
+Use case: style-transfer.
+Asset: BG-TRAVEL-01 | 出租车后座 v02 · 轻度动漫化.
+Produce exactly ONE revised visual-novel background.
+
+INPUT ROLES:
+Image 1, bg_taxi, is the EDIT TARGET and approved exact camera, car interior layout, period objects and outside street reference.
+Image 2, bg_street_v05, is ONLY the approved drawing-language reference: selective fine colored lines, composed painted light/shadow groups and restrained surface detail. Do not substitute its street layout or place any of its foreground objects inside the car.
+
+PRIMARY REQUEST:
+Repaint the SAME empty back-seat view inside an older taxi in Hangzhou, 2004, with moderately stronger anime visual-novel drawing. The camera looks across the rear seat toward the right rear door and window, with part of the rear windshield visible on the left. Preserve this view. The moment is quiet travel after leaving home, looking at old residential buildings and trees passing outside.
+
+RENDERING:
+Replace photographic fabric grain, embossed swirling patterns, plastic microtexture and camera-like glare with deliberate painted forms. Retain the recognizable muted blue-grey upholstery and its subtle small-scale pattern, but suggest it sparsely with quiet drawing, not a dense detailed weave.
+Draw fine dark-blue/grey structural contours around the headrest, seams, belt edges, door trim, window divider, latch and manual crank. Use clear base color plus a few soft coherent shadow areas; the car should have believable volume, not flat vector shading.
+Lift the darkest interior shadow values modestly so the door latch, window crank, belt and upholstery can be read comfortably. Keep the interior darker than the exterior and preserve the subdued cool-grey mood; no black crushed door panels, dramatic color grade, orange cast or bright sunbeams.
+Keep the exterior buildings and trees as softly drawn passing forms with a gentle horizontal movement suggestion. The close tree trunks may be more blurred than distant buildings. Do not make the outside tack-sharp, but do not smear it into abstract stripes. Paint foliage in irregular grouped color masses. Window reflection stays soft enough to see through.
+Keep the scene visibly illustrated and consistent with the approved style, not a photograph, 3D render, sketch, watercolor wash, heavy-outline cartoon or childlike picture book.
+
+STRICT INVARIANTS:
+Exactly preserve Image 1's camera, crop, composition and perspective.
+The rear headrest and backrest remain large on the left in the same blue-grey fabric, with their same shape and stitching. Preserve the safety belt and its simple metal tongue, the upper belt mounting and its relation to the seat.
+Keep the right rear door occupying the lower-right area, with its plain rectangular recessed latch, the black manual window crank and its knob, the armrest, window lock pin and the existing glass frame/divider.
+The manual crank's axle, arm and rounded grip must remain connected and mechanically plausible. Do not replace it with electric-window buttons. Preserve connected handles and trim rather than inventing extra hardware.
+Retain the partial rear windshield at upper left and its thin defroster lines. No dashboard, steering wheel, front-seat view or altered car architecture.
+Keep the same older ordinary multi-storey residential blocks with enclosed balconies and air-conditioner boxes, and the irregular roadside plane-tree trunks and foliage outside, in their current relative arrangement. This is a restrained illustrated view of a 2004 Zhejiang street, not an exact branded car-model or architectural reconstruction.
+Maintain diffuse grey daytime outside. Do not add blue-sky sunlight, rain streaks, raindrops, nighttime neon, new season, modern towers, readable street signs or modern vehicles.
+The lower quarter remains a calm part of the car interior for the game's dialogue overlay. No new focal object there.
+No occupants, people, hands, faces, silhouettes or human reflections; no luggage, backpack, plush toy or character pasted into the seat. The scene's character performance will be handled separately.
+No touchscreens, smartphones, LCD displays, cameras, LED strips, QR codes, new logos, readable text, UI, watermark, extra panel or frame.
+Generate ONE complete landscape image with the same 16:9 full framing as Image 1. No crop or transparency.

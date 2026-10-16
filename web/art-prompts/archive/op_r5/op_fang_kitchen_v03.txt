@@ -1,0 +1,20 @@
+Use case: identity-preserve
+Asset: OP-FANG-01《方莜莜·合租屋的晚饭》v03.
+EDIT the provided v02 kitchen illustration. ONE finished image, same 16:9 dimensions and framing.
+
+This is a narrowly targeted FACE revision of Fang Youyou, the taller character on the LEFT wearing a sage-grey T-shirt. The user requests more visibly masculine facial structure for this particular trans woman character, while preserving her gentle feminine presentation and warm personality. The previous edit was too subtle.
+
+Change ONLY Fang's face, using the same soft anime style:
+- Make her face modestly longer through the middle and lower face, with less round cheek fullness.
+- Broaden the lower jaw slightly and make its corners discernible but softly drawn. Use a more substantial rounded chin rather than a tiny pointed chin.
+- Use straighter, somewhat fuller natural eyebrows and a slightly more structured brow line, still relaxed.
+- Make the eyes more horizontally almond-shaped and less vertically large, with a smaller visible iris proportion than Su's eyes.
+- Draw a clearer, slightly longer nose bridge and a small but readable nose tip using delicate anime linework and restrained shading.
+- Keep the same age impression, quiet concentration, small kind smile and downward gaze at the food. She should remain attractive, tender and recognizably feminine-androgynous rather than become stern or caricatured.
+These changes need to be clearly noticeable at normal viewing size compared with v02, especially the brow, nose and jaw. Do not merely shorten hair or add one faint shadow as the entire change.
+
+Preserve exactly:
+Fang's head position, body size, height, posture, clothing, hair for this pass, both arms and the serving action. Preserve Su Yuqing on the RIGHT without any changes to her face, hair, star clip, pink dress, body, hands or plate. Preserve kitchen, light, food, steam, plates, utensils, background, colors and composition. The hair and kitchen corrections will be separate later revisions.
+
+Avoid:
+No beard, mustache, skin roughness, deep wrinkles, oversized square jaw, heavy scowl, bodybuilder muscles, exaggerated neck anatomy, age change, photorealism or a change to male clothing/presentation. No text, labels, lyrics or watermark. Use clear but gentle shape design, not stereotypes or grotesque features.

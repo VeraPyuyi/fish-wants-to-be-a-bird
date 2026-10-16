@@ -1,0 +1,15 @@
+Use case: identity-preserve.
+Edit the supplied scene into OP-AN-01 v05, "安念·人海中的第一次相见".
+
+The user says FANG YOUYOU'S FACE still needs a stronger boyish / masculine impression. Fang is the slim person on the RIGHT holding a black backpack. The previous revision was too subtle. Make a clearly noticeable but tasteful facial STRUCTURE correction, not another near-identical pass or a shadow-only adjustment.
+
+ONLY redraw Fang's face inside its existing head silhouette:
+1. Eyebrows become somewhat thicker and visibly straighter, with a clean natural shape and relaxed inner ends. Keep the gaze friendly, not stern.
+2. Give the nose a clearer, more substantial bridge and slightly more defined tip, proportional to a slender young adult face. Avoid the tiny button-like anime nose.
+3. Reduce the soft roundness of the lower cheeks. Make the jaw transitions visibly cleaner and slightly broader at the lower sides. The chin should be less finely tapered and a touch wider with a rounded end, not a V-shaped point, and not a heavy square jaw.
+4. Eye outlines should be more horizontal and gently angular, with less decorative lash emphasis. Keep natural open, alert brown eyes looking toward An Nian; do not create sleepy half-closed eyes.
+The combined face should have the recognizable bone structure of a refined, slightly boyish young adult: delicate but clearly more masculine than the input. Preserve Fang's shy warmth, small gentle smile, youthful adult age and identity. Do not add beard, stubble, wrinkles, muscular bulk, a scowl or dramatic makeup.
+
+Absolute invariants:
+No changes to Fang's chin-length black hair, head size or orientation, neck, body proportions, grey-blue long sleeves, dark pants, backpack, hands, stance or height. An Nian on the LEFT must remain unchanged in face, body, clothes and waving gesture. Preserve both characters' positions, height difference, foot contact, distance, the entire railway-station exterior, all background people, bags, signs, tricycle/taxi, trees, paving, lighting, shadows, palette and camera framing.
+Maintain the same soft anime visual-novel style and coherent facial lighting. Output a single complete horizontal illustration, no new text, UI or people.

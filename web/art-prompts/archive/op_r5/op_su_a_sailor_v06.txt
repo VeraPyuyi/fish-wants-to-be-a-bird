@@ -1,0 +1,3 @@
+Use case: precise-object-edit.
+Edit the supplied full-body anime character illustration. Change only the white socks to solid black socks, retaining exactly their current above-knee length, shape and smooth opaque cotton texture. Use soft matte shading consistent with the illustration, without glossy highlights or added decorations.
+Keep everything else unchanged: the character's face, expression, hairstyle, ivory star clip, body proportions, hands and standing pose; the white-and-navy sailor outfit, blue scarf, skirt length and white sneakers; the ivory background, contact shadow, framing, linework and lighting. This is one alternate clothing-color study for a visual novel. One image only, no text, panels or added objects.

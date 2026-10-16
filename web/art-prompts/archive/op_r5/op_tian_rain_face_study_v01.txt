@@ -1,0 +1,16 @@
+Use case: identity-preserve
+Asset: OP-TIAN-FACE-01 v01, a close-up facial design study for Tian Yuyao in the rainy donation-booth shot.
+The input is the existing full scene. Create ONE head-and-shoulders CLOSE-UP of the seated character at right, framed from cap top to upper chest, with the same three-quarter head angle facing left. This is a revised face study; do not reproduce the full scene, do not include the tables or unrelated pedestrians. Background is simply softly painted blue-gray rain canopy and distant rainy plaza colors.
+
+Primary goal: REDESIGN THE FACIAL STRUCTURE to be clearly and unmistakably more masculine-looking than the input. The last full-scene iterations scarcely changed the face. A stronger visible facial redesign is authorized. Keep the dark cap, loose side bangs, low dark ponytail, pale skin, thick dark coat, gray sweater and small slender shoulder frame.
+
+Specific face design:
+* straight natural brows with visibly thicker body, set lower over the eyes;
+* narrow horizontal single-lidded eyes, smaller irises and a sharp sideways watchful gaze, no long decorative eyelashes;
+* a clearly drawn natural nose with a stronger bridge, fuller/broader tip and visible understated nostril shape — not a tiny button nose or a mere dot;
+* flatter cheek planes and broader cheekbone/lower-jaw structure, reducing the triangular taper of the previous face;
+* a broader short chin with a rounded end, softly joined jaw corners: strong bone structure but not a pointed chin, not a long face;
+* a plain slightly wider mouth, relaxed unsmiling lips and faintly defiant composure.
+Overall: a visibly boyish, clean-shaven and unglamorous anime face, while retaining Tian's pale delicate appearance. Keep the head relatively short and the chin rounded; do not confuse soft chin edges with the former narrow doll-like lower face. Preserve clear character recognition through hair, eyes, cap and expression rather than freezing the old facial geometry.
+
+Clean soft anime illustration with crisp intentional lines, matte cel-painted colors, subtle cool diffused daylight. No photographic skin, heavy dramatic face shadows, wrinkles, stubble, makeup, blush, eye sparkle, grain, noise, typography, collage or watermark. A single coherent close-up, sufficiently large to judge the facial proportions.

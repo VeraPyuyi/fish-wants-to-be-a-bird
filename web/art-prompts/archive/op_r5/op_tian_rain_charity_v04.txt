@@ -1,0 +1,7 @@
+Use case: identity-preserve
+Asset: OP-TIAN-DUAL-01 v04, a single complete 16:9 visual-novel illustration.
+Edit the supplied v03 rainy donation-booth scene. Make ONLY a subtle facial refinement to Tian, the petite seated character wearing a dark cap and coat.
+
+User direction: "A tiny bit more masculine." Use slightly straighter and slightly more substantial eyebrows, a subtly clearer small nose bridge, a little less soft fullness immediately around the cheekbones and a restrained plain mouth line. Keep the change SMALL and gentle, preserving Tian's delicate boyish appearance, pale skin, keen narrow eyes and focused mildly defiant gaze. Preserve the short face and softly rounded chin; do NOT create a long angular face, square jaw, pointed chin, heavy nose, beard or stubble. No beauty-model idealization or exaggerated macho expression.
+
+Strict invariants: exact current petite body scale relative to table and chair, head position, hair and low ponytail, cap, skin tone, pose, fingers on papers, clothing, camera and framing. Preserve all furniture, posters, paper stacks, canopy, background people, stage, buildings, rain and lighting. Do not change the smile into anger, do not widen shoulders or make the figure taller, do not add grain or sharpen texture. All nonfacial elements stay as close to the input as possible. No captions, additional text, new objects or watermark.

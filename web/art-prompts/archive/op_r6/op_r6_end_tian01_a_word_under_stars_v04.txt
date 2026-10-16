@@ -1,0 +1,16 @@
+Use case: identity-preserve.
+Asset: OP-R6-END-TIAN-01 v04, a localized costume revision for an anime visual-novel ending frame.
+Input image 1 is the exact EDIT TARGET.
+
+Change ONLY the clothing of Xia Guiyue, the youthful companion crouching at the RIGHT and gently holding Tian's hand. Replace her yellow T-shirt and blue jeans with a cute, youthful everyday SUMMER DRESS suited to a secondary-school student in the 2000s:
+- pale butter-yellow opaque cotton fabric;
+- a small white rounded Peter Pan collar, tiny simple pale-blue ribbon at the neckline;
+- modest short sleeves with a little soft gathering, not large costume puffs;
+- relaxed bodice and natural waist, a gently flared A-line skirt of below-knee length when standing;
+- skirt fabric drapes naturally OVER both bent knees in her existing crouch, with a few broad soft folds, full comfortable coverage and no visible underwear;
+- plain white ankle socks and the existing simple flat white canvas sneakers.
+The dress should feel fresh, friendly and quietly cute, not formal, bridal or elaborate cosplay. No heavy lace, shiny satin, excessive ruffles, large bows, tight fit or branding. Do not add a bag or other props.
+
+Strictly preserve Xia's v03 youthful rounded face, eye shape, gentle hopeful smile, short-looking neck, slim shoulder proportions, dark single ponytail, body size and position. Keep her crouching stance, hands and their contact with Tian exactly where they are, with coherent anatomy. Fit the new dress around the existing pose; do not change the pose to show the outfit.
+
+LOCK Tian, the seated character, completely: same tired face, boyish brows, short hair, cream blouse, blue-grey skirt, hands, socks/shoes, posture and wheelchair. Preserve ALL park background, platform/stairs, bench, water, moon, sparse stars, light, foliage, camera and composition. Only Xia's outfit changes. Retain clean soft anime lines, smooth cloth shading and the same gentle night light; avoid any new grain. No new people, text or watermark. Return the complete opaque 16:9 landscape image, not a close-up.

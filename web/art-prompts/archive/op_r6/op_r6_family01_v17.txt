@@ -1,0 +1,19 @@
+Use case: identity-preserve.
+Asset: OP-R6-FAMILY-01 v17, the final eight-person memory portrait for an anime visual-novel ending video.
+Input image 1 is the EXACT APPROVED EDIT TARGET, family portrait v16. This is a CLEANUP/CLARITY pass only. All eight faces, their individuality and body proportions are already carefully approved. Do not redesign any person.
+
+Primary request: Make this exact full illustration cleaner and crisper by removing random granular speckles, smudged tiny patches and overly busy texture. Restore coherent clean linework, smooth anime colour fields and a few deliberate highlights. It should remain a warm hand-drawn visual-novel illustration, not plastic 3D, a photograph or a flat vector poster.
+
+Precise cleanup:
+1. All eight heads of hair: preserve every hairstyle silhouette and the directions of the main locks, but consolidate blotchy angular specks, scratchy highlights and tiny dirty grey flecks into smooth broad locks with controlled clean highlights. Do not erase meaningful hairlines or facial hair.
+2. Clothing: preserve each outfit, its colour and cut, and necessary folds around joints and drape. Remove random grain and tiny mottled fragments. Use clear large shading shapes instead of a dense patchwork.
+3. Faces and skin: preserve the EXACT eye shapes, eyebrow shapes, nose/mouth shapes, facial contours and expressions. Remove only accidental specks or smeared patches. Keep Mo's deliberate faint chin stubble and his clean closed lip line; no white bar or object near his mouth.
+4. Courtyard walls, door, windows and bench: keep all architecture and positions, simplify scattered surface marks, stucco grit, noisy reflections and excessive wood grain into clean planes with readable edges.
+5. Trees, ivy and pots: retain placement and natural layered silhouettes, group foliage into cleaner leaf clusters with selected readable leaves, remove the dense random flecks.
+6. Ground and dappled sunshine: preserve the paving grid and gentle warm tree shadows, simplify hundreds of fragmented bright/dark dots into larger coherent soft-edged light patches. No global blur.
+
+Strict person locks, left to right:
+BACK ROW: An Nian at far left in black T-shirt, shy smile with hand touching back of neck and other hand on bench; Zhang Sifan second in pink shirt and dark skirt, short natural hair, compact head/short neck and lower standing height, cheerful open smile and raised waving hand; Mo Kong third in blue overshirt, mature gentle face, faint intentional stubble, CLOSED smile, one hand on bench; Hu Yuniu at far right in mustard polo, tallest slender frame, ordinary slightly reserved face and hands behind him.
+FRONT ROW: Fang Youyou far left in white blouse and muted green skirt, distinct adult face from Zhang and restrained warm smile; Su Yuqing second in pink-white dress, petite body, upright head, short near-jaw hair and starclip; Lin Xichen third in blue blouse and white skirt, twin ponytails, tilted head and fingertip at cheek; Tian Yuyao at right in white blouse and blue trousers, very petite frail build, guarded narrow eyes, opposite head tilt and arm-holding gesture.
+
+Preserve the exact faces, differences between Zhang and Fang, Mo versus Hu, all hand and finger poses, relative sizes/heights, neck lengths, head angles, seated/standing placement, all feet, shoes, headroom and lower-frame margin. Exactly eight people. No face beautification, age changes, wardrobe changes, wigs, new accessories, pose changes, text or watermark. Preserve current 16:9 full framing and colour palette, no crop or zoom. Highest supported landscape resolution with clean genuine drawn edges, no sharpening halos or invented texture.

@@ -1,0 +1,11 @@
+Use case: identity-preserve.
+Asset: OP-R6-END-TIAN-01 v02, a 16:9 anime narrative illustration.
+Input image 1 is the exact EDIT TARGET.
+
+Revise ONLY XIA GUIYUE, the companion crouching on the RIGHT of the wheelchair. She should read clearly as an adolescent HIGH-SCHOOL GIRL with a youthful, lively disposition, instead of an adult office worker. This is an ordinary fully clothed scene of supporting a friend.
+
+Facial age and expression: make Xia's face slightly shorter and softer, with gently rounded cheeks, a smaller rounded chin, subtle small nose, lighter delicate eyebrows and fresh clear curved eyes. Preserve recognizable dark hair and the single ponytail; make its silhouette a little lighter and more buoyant, with a plain hair tie. Reduce mature cheek/neck shading. Show a small spontaneous hopeful smile and slightly lifted brows, attentive bright eyes as she looks at Tian; youthful warmth with a trace of worry, not exuberant laughter. No makeup and no glamour styling.
+Proportions: slightly lighter adolescent shoulders and arms, natural teenage proportions and normal head size, not chibi or an elementary-school child. Keep her stable crouch and gentle hand-holding pose. Ensure hands, wrists and fingers stay anatomically connected and the contact with Tian's hand remains clear.
+Clothes: replace Xia's mature sage button-up blouse, charcoal tailored trousers and low-heeled shoes with a modest loose pale butter-yellow crew-neck short-sleeved T-shirt, plain soft-blue straight-leg jeans and simple flat white canvas sneakers. Ordinary 2000s student casualwear, no logos. Fully covered torso and legs; no fitted glamour silhouette, no added accessories.
+
+LOCK EVERYTHING ELSE: Tian Yuyao seated on the LEFT of Xia must stay exactly as she is: her face, fatigued expression, boyish eyebrows, dark short hair, body size, cream blouse, blue-grey skirt, sock-covered feet, shoes and posture. Keep the manual wheelchair and wheel/footrest geometry; preserve the joined-hand location. Preserve the entire park, platform, steps, bench, water, moon, sparse stars, lamp, foliage, lighting, camera, framing and character placement. Do not modify the background in this revision. Retain clean soft anime rendering with smooth skin and clothes. Do not add text, logos, watermark, other people or extra limbs. Return the complete opaque 16:9 frame, not a crop.

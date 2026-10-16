@@ -1,0 +1,17 @@
+Use case: identity-preserve.
+Make OP-AN-01 v03 by editing image 1. Correct ONLY FANG YOUYOU'S FACE, the person on the RIGHT holding the backpack. The user says her face still does not align with the approved identity.
+
+Image 1 = current station scene, the target.
+Image 2 = exact approved Fang facial identity: the LEFT person in the kitchen, wearing grey-green T-shirt. The younger girl on the RIGHT of image 2 is NOT Fang and must not influence this edit.
+
+Rebuild the right station character's facial proportions to match the LEFT kitchen person's face, adapted naturally to the existing head angle and daylight:
+- Use the same adult, gently elongated oval face, with less puffiness in the cheeks and a clear but graceful jaw taper.
+- Restore the fairly straight, moderately defined eyebrows of the kitchen reference, not thin curved doll eyebrows.
+- Use the same brown almond-shaped eyes and characteristic upper eyelid shape. The previous edit simply made the eyes half-closed, which is not a substitute for identity matching. Eyes should be naturally attentive toward An Nian, with a calm, warm expression rather than drowsy.
+- Match the kitchen person's slender but clearly drawn nose bridge, nose length and subtle tip; keep enough definition to distinguish this adult face from a tiny childlike anime nose.
+- Match the reference's mouth-to-nose spacing and subtle smile. Preserve youthful adult warmth and the approved gently androgynous facial bone structure, without adding harsh aging, facial hair, heavy makeup or exaggerated angular masculinity.
+The reference face should be recognizably the same person, not merely another generic short-haired girl. This is a face identity correction, not a gender-identity change.
+
+Keep Fang's current chin-length black hairstyle from IMAGE 1 completely intact. Do not copy the kitchen's shorter hair, pose, clothes, scenery, or the other character's star clip. Keep the existing head size, head angle, body, grey-blue long sleeves, dark trousers, backpack, hands, stance, location and eye-line.
+
+Everything else is locked to image 1, especially An Nian's current face/build/clothes/raised hand and relative height, both people's foot placement, the entire station crowd, background building, vehicles, trees, lighting, shadows and framing. The viewer should see only the right character's face corrected. Use the same soft anime visual novel style, clean delicate lines and gentle shading. No text or extra people. One horizontal full-scene illustration.

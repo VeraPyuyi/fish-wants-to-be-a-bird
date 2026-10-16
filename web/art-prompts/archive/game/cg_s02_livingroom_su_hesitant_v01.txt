@@ -1,0 +1,26 @@
+Use case: compositing / identity-preserve.
+Asset: CG-S02-01 | 客厅·离家前的停顿 v01. Create exactly ONE complete 16:9 illustrated visual-novel scene.
+
+INPUT ROLES:
+Image 1 (bg_livingroom.webp) is the EDIT TARGET. Preserve this exact approved 2004 Hangzhou living room, full landscape camera, architecture, furnishings, colors and lighting.
+Image 2 (su_home_neutral.png) is the APPROVED CHARACTER IDENTITY reference: Su Yuqing's face, petite adolescent proportions, short black bob, small star hairclip, pale blue open zip hoodie, white inner shirt, dark blue straight jeans, white canvas shoes. Preserve this character identity and clothing, but draw her in a new natural in-scene pose.
+Image 3 (su_travel_guarded.png) is ONLY the backpack and suitcase reference. Use its navy school backpack and bright white rolling suitcase with the same small cute cat stickers and compact handle grip. Do not bring its cap into the indoor scene. Use Image 2's uncovered hair and star clip.
+
+STORY MOMENT:
+A fifteen-year-old girl, 149 cm tall, has packed and entered the living room alone before leaving home. She pauses for a moment, holding the suitcase handle, with restrained hesitation gradually becoming resolve. It is an ordinary contemporary-for-2004, tidy and comfortably maintained home. No other people are present. Do not depict a confrontation, injuries, or a new event.
+
+COMPOSITION AND PHYSICAL INTEGRATION:
+Place her in the EXISTING clear wood-floor passage in the left-center, between the closed entrance door and the side of the sofa, slightly in front of the doorway depth. Keep the camera exactly as Image 1; do not crop, enlarge or remodel the room.
+She is a small figure belonging to the room, not a huge foreground portrait. Her full standing height should occupy roughly 53–57 percent of the image height, with her feet around the lower-left-center floor and her head well below the top of the door. Her petite body must read plausibly against the approximately two-meter door and ordinary sofa.
+Draw a quiet three-quarter pose, body angled toward the exit but face turned slightly back into the room, her gaze lowered toward the interior, NOT looking directly at the viewer. Both feet bear weight on the floor, one very slightly ahead, with small grounded contact shadows; no floating. The white suitcase stands alongside her, all wheels touching the SAME floor plane, with a sensible short telescoping handle at her relaxed hand height. Backpack sits naturally against her back; other hand loosely holds one strap near her chest. Short, naturally proportioned arms and small hands. Correct five-finger grip, no stretched arms.
+Neither girl nor suitcase is on, in front of as a sticker over, or intersecting the foreground dining tabletop. Keep the dining table and chairs at right intact and clearly separate. Respect all overlap and distance cues of the original room. Allow furniture to occlude objects only where perspective actually demands it.
+
+LIGHT AND DRAWING:
+Match the room's diffuse warm daylight from the RIGHT window: gentle warm light on the girl's right-facing surfaces, softer cool/warm reflected shade on the opposite side, subtle floor bounce and coherent soft cast shadows. The girl, backpack, and suitcase must share the room's same painted illumination, edge softness, and depth.
+Make the result a coherent anime visual-novel illustration: fine colored linework, clean drawn facial features, simplified hair clumps, restrained two-to-three-tone cel/painterly shading, broad material colors. No photographic skin, visible pores, photographic denim texture, thick black cutout outline, white halo, 3D-rendered plastic, or independently lit studio sprite.
+Expression: quiet hesitation held inward, slightly tightened brows, lips lightly closed, eyes emotionally readable; not cheerful, not theatrically crying. Keep her recognizable as the approved petite girl, not an older adult, not a chibi.
+
+INVARIANTS:
+Keep the original door, shoe cabinet, plants, sofa, blue cushions, CRT television, TV cabinet, old standing air conditioner, framed landscape, window curtains, wooden dining table and chairs in exactly their approved locations. Preserve the comfortable, tidy room and the outside buildings. Do not age or impoverish the home. Do not add modern electronics. No scattered destruction, papers, keys or writing on the table yet; the later paper-and-keys close-up is a separate approved image.
+One girl only. One suitcase and one backpack only. No cap. Fully clothed ordinary attire. No captions, names, logos, watermarks, UI, borders, comparison panels or extra pictures.
+Output ONE full opaque 16:9 landscape scene, intended master approximately 1920×1080.

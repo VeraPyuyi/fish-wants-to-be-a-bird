@@ -1,0 +1,15 @@
+Use case: identity-preserve
+Edit target: attached eight-person courtyard group portrait OP-R6-FAMILY-01 v10.
+Primary correction: ZHANG SIFAN, BACK ROW SECOND FROM LEFT, dusty-rose collared blouse and navy skirt, has an unnaturally long exposed neck and appears too tall. Correct the anatomy and relative height while preserving the accepted small face and differentiated identity.
+
+SOURCE HEIGHT RELATIONSHIPS: Zhang is about 170 cm, Fang (front far left) about160, Lin (front centre-right) about160, Tian (front far right)161, Su (small pink dress) roughly150; Hu (back far right ochre shirt) nearly190. An (back far left black shirt) is only slightly taller than Fang, and leans forward here. Mo (back centre-right blue shirt) has no fixed measured height in the reference. These are physical proportions, NOT equal screen head heights: front row sits on one bench, back row stands slightly behind. Preserve the current staging and natural perspective.
+
+TARGETED REPAIR TO ZHANG:
+- Clearly shorten the visible neck, roughly a third of the current exposed length. Bring the head/chin closer to the shoulders with a natural adult cervical connection, collarbones and shirt collar. Not a stretched narrow neck, not a head floating above the blouse, not a turtle-neck hiding it.
+- Lower the top of Zhang's head modestly, approximately 20–30 pixels in this 941px-high composition, giving an appropriate170cm body compared with near190cm Hu. Shorten the overall vertical silhouette slightly through natural neck/torso anatomy while keeping shoulders relaxed and uncompressed.
+- DO NOT shrink the face/head further. Keep v10 facial identity, face size, hairstyle, eyes and smile; preserve the differences from Fang. No age change.
+- Keep the rose blouse/navy skirt, body width, and position behind the gap between Fang and Su. Adjust the collar and upper torso only as needed for natural anatomy; hands must still meet the backrest naturally.
+- Preserve Zhang's adult stature, taller than the seated Fang/ Su if both were standing. Do not make Zhang tiny or childlike. Hu remains unambiguously the tallest; do not make An taller by accident.
+
+LOCK other seven characters' faces, body proportions, hairstyles, clothes, poses and positions. Tian retains the latest petite frail seated appearance; no face redesign elsewhere. Keep all front-row hips resting naturally at the same bench level, existing feet/ground contacts, overlap order, courtyard depth, eight-person count, camera framing, headroom and floor margins.
+Retain the clean denoised anime finish from this image: crisp facial contours, smooth wall and cloth colors, simplified foliage. No new grain, noise, blur, letters, labels or extra objects. Output one full16:9 group portrait, not a diagram or comparison.

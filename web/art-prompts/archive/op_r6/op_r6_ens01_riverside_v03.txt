@@ -1,0 +1,20 @@
+Use case: identity-preserve.
+Asset OP-R6-ENS-01 《河边的五个人》 v03. A single 16:9 anime visual-novel illustration.
+
+Image 1 is the EDIT TARGET: the five people at the river.
+Image 2 is the USER-APPROVED COSTUME reference from the house-cleaning scene. Use it ONLY to synchronize Zhang Sifan's blouse and skirt and Fang Youyou's skirt length. Do not transfer the indoor background, camera, standing poses or distant scaling.
+
+EXACT EDITS:
+1. ZHANG SIFAN is the short-haired adult CROUCHING IN THE MIDDLE-RIGHT of image 1, holding up a small earthworm toward Fang. Change her mint overshirt + white T-shirt + dark cropped trousers to the approved costume worn by the WINDOW-CLEANING person in image 2: a soft pale-mint short-sleeve blouse with a white rounded collar, tucked into a DARK NAVY KNEE-LENGTH A-LINE SKIRT. Remove the open overshirt/inner T-shirt layering and remove the trousers. The skirt must drape naturally over her bent thighs and knees in the existing crouched pose, with ordinary comfortable coverage; show its gathered waistband and soft folds, not two trouser legs. Keep her light canvas shoes and exact foot positions. Preserve her adult face, short natural hair, gaze, cheerful expression, arm lengths, raised hand, earthworm and hand beside the trowel. DO NOT change her age, face, body or crouching gesture.
+2. FANG YOUYOU is the standing adult in front of Hu in image 1, leaning back surprised. Keep the cream short-sleeve blouse and sage-green A-line skirt. Adjust only the hem to the KNEE-AREA LENGTH of her skirt in image 2 (slightly shorter than image 1), keeping the same fabric, waistband and colour. Preserve face, short natural hair, pose, hands, size and white shoes.
+
+ALL OTHER ELEMENTS LOCKED to image 1:
+- Lin seated at left with black twin ponytails, lavender blouse and denim shorts, holding the one fishing rod.
+- Hu tall and lean in terracotta polo and dark trousers, steadying Fang.
+- Petite Su at right on the wooden stool, sky-blue dress, white collar, pale-yellow ribbon, star hairclip, short dark hair, legs in the river.
+- All five faces, natural hairstyles, body shapes, relative sizes and expressions. No wigs or added accessories.
+- Existing small black cat, fishing chair, stool, trowel, house corner, tree, rocks, river and daylight.
+- The one continuous fishing line from the rod tip to the front red-white float, including its current position and curvature. Do NOT create a second rod, disconnected line or duplicate float.
+- Exact wide framing and clear footwear where visible.
+
+Keep crisp, clean, softly coloured 2D anime lines and shading with no additional grain or photorealism. Do not add texture, blur the whole image, redraw the cast, change the environment or add new people/objects. Exactly one full-frame revised scene; no text, watermark, collage, inset or borders.

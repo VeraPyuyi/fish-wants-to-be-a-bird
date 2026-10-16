@@ -1,0 +1,19 @@
+Use case: identity-preserve
+Asset: OP-HU-01《胡玉牛·雨天厨房里的面点》v06.
+Create ONE edited image from the supplied v05 kitchen scene, same framing.
+
+The user has again said Hu Yuniu is still too bulky. Make the tall adult on the LEFT noticeably LEANER this time. Do not merely adjust shadows or produce a barely visible change.
+Redraw the body silhouette as a tall, lean ordinary adult:
+- Bring the shoulders inward and soften their slope. Reduce shoulder/chest width by roughly another 15%.
+- Narrow the sides of the torso and waist visibly; the T-shirt hangs softly over a lean frame, without a broad muscular chest or barrel-shaped back.
+- Make both upper arms and forearms about 18–20% thinner than the input, with slimmer wrists and smooth unmuscular contours. Hands remain functional adult hands, naturally proportioned to the slimmer wrists.
+- Slightly slim cheek and lower-jaw fullness while retaining recognizable facial features, short dark hair, ears, faint beard shadow and the gentle, attentive smile.
+The requested result is clearly tall and lean, still taller than Su. Keep a healthy, natural adult appearance, not emaciated or adolescent.
+
+Preserve height and head position; do NOT scale down the whole person. Preserve the slight forward lean, looking-down gaze, elbow/hand placement and dumpling-making action. Adjust shirt sleeves, exposed arms and nearby revealed background to fit the new silhouette naturally. Keep the shirt's blue-grey color and trousers.
+
+Everything else stays unchanged:
+Su Yuqing on the RIGHT: face, brown eyes, ivory star clip, ear-covering short hair, pale-blue collared shirt, trousers, petite body, gaze and pose.
+The half-moon dumpling between Hu's hands keeps its elongated crescent body and curved pleated seam. Keep natural fingers and the same supported/pinched hand gesture. Do not revert to a round bun.
+The foreground plate's crescent dumplings and small open-top shumai, board, flour, dough, rolling pin, bowls, metal steamer, stove, cabinetry, rain-streaked window and all kitchen props remain unchanged.
+Same soft anime visual-novel rendering and warm indoor light against cool rainy afternoon. No zoom, crop, camera change, new people, objects, text or watermark.

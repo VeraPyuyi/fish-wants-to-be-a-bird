@@ -1,0 +1,9 @@
+Use case: identity-preserve
+Asset: OP-TIAN-DUAL-02 v05, Tian Yuyao outside the cinema, a full 16:9 visual-novel illustration.
+Image 1 is the cinema v04 scene to EDIT. Image 2 is the approved identity reference. The user still finds the visible face insufficiently boyish and requests a more noticeable masculine presentation.
+
+Redraw only the small visible upper face above the white mask, with a CLEARER change than the last revision:
+Give this same character stronger straight natural eyebrows with less tapered ends, somewhat lower over narrow horizontally elongated eyes. Make the upper eyelids straighter, the eye openings distinctly shallower rather than rounded, and the irises smaller with understated highlights. Remove decorative eyelash flare and rounded cute-eye styling. Add a subtle, clean indication of the brow plane and nose root between the eyes, entirely ABOVE the unchanged mask. Keep skin pale and the expression quietly alert, with a focused sideways gaze toward the cinema on the left. Read as a slender, boyish androgynous young person in the same outfit, with restrained sharpness, not an angry scowl, older rugged man, or deep-shadowed face.
+The approved reference anchors identity, but the user now explicitly wants the cinema upper face a step more boyish than image 1. Make this actual structural redraw visible, not a mere tint change.
+
+STRICT INVARIANTS: Keep the white mask fully covering the same nose/mouth/chin area; never lower or remove it. Keep head size and angle, hair shape/ponytail, petite body proportions, dress, sleeves, hands, legs, shoes and foot contact. No beard or stubble. No enlarged or broad-shouldered body. Preserve the cinema building, signs, posters, crowd, bicycle, tree, sunlight, composition and clean anime color planes. Do not add grain, blur, new objects, captions or watermark. Output the complete unchanged scene with this localized facial refinement, not a closeup, crop or collage.

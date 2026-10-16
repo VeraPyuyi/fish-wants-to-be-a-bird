@@ -1,0 +1,15 @@
+Edit reference image 1, the four-person sunny amusement-park lake scene. Output one complete 16:9 illustration with the exact same composition, camera, boats, character placement, scale, poses and NEW approved clothes. This is a character-identity correction, confined to the FACES of Fang and Zhang, not a redesign of the image.
+
+Identity map:
+- FANG is the foreground adult paddler in the rose-pink collared shirt-dress at centre. Her approved facial identity is the sole adult in reference 2 (pink lace dress at the amusement park).
+- ZHANG is the small distant adult waving from the LEFT seat of the yellow-canopy pedal boat at upper left, wearing the white sailor blouse with burgundy collar. Her approved identity is the capped adult in reference 3 and the taller short-haired adult on the RIGHT of reference 4 (birthday scene).
+- SU is the small star-hairclip character at foreground right touching the water. Leave her face and body unchanged.
+- HU is the adult wearing a white/navy polo in the other seat of the distant pedal boat. Leave his face and body unchanged.
+
+FANG face: carefully match reference 2's recognizable adult face. Reduce the currently oversized round eyes into gentle narrower almond-shaped eyes, with calmer upper eyelids and straight soft eyebrows. Give the lower face a subtly longer adult oval and a lightly defined but soft nose and jaw, avoiding the current round childlike face. Preserve a kind small smile and feminine-androgynous softness. Keep her existing short natural hair, head angle, head size, warm brown eyes and daylight lighting. The change should be clearly perceptible in the full image, without turning her harsh, muscular or older than a young adult.
+
+ZHANG face: match the adult oval facial proportions and softly defined nose/lower face of references 3 and 4, instead of a small round child face. Keep the current cheerful closed-eye smile, waving pose and short natural hair. Retain her distant scale; do not enlarge her head or body. Preserve gentle feminine softness, not an exaggerated hard jaw or heavy eyebrows.
+
+LOCK ALL APPROVED CLOTHES from reference 1: Su and Zhang cream-white short-sleeve sailor blouses with burgundy collars/ribbons, charcoal-grey pleated skirts; Fang rose-pink rounded-collar short-sleeve shirt-dress with front buttons, sash and restrained lace; Hu white athletic polo with navy trim and navy trousers. Do not import any clothes, hats, wigs, lighting or backgrounds from the identity references. Su has no long hosiery and no wig.
+
+Keep all hands, paddle grips, water-touching fingers, body proportions, boat geometry, seating, relative heights and distances unchanged. Keep warm cheerful summer daytime and the exact existing amusement park environment. Maintain crisp clean anime linework, smooth flat shaded colour areas and no new grain, gritty texture, smudging, photoreal skin or excessive details. Return the entire lake composition, not a portrait, crop, collage or character sheet. No added text.

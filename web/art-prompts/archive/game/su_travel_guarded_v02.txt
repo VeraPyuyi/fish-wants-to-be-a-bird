@@ -1,0 +1,22 @@
+Use case: identity-preserve, precise-object-edit.
+Asset: CH-SU-02 | 苏雨晴·离家出行立绘 v02 · 矮小身形与轻动漫画风.
+Generate exactly ONE travel character sprite.
+
+REFERENCE ROLES, in priority order:
+IMAGE 1, su_home_neutral_v09_alpha_v01, is the PRIMARY CHARACTER EDIT TARGET. This is the user's most recently approved face, SHORT PETITE BODY PROPORTIONS, clothing, hair and slightly anime rendering. These take precedence over Image 2.
+IMAGE 2, su_travel_guarded_v01_alpha_v01, is ONLY a reference for the existing TRAVEL ACCESSORIES, LUGGAGE DESIGN and HAND POSE. Do not copy its taller, more elongated body proportions or its more realistic rendering.
+
+EDIT IMAGE 1 into the standing travel pose from Image 2:
+Add the same plain dark charcoal/navy baseball cap, worn low enough to cover the ivory star hair clip. The chin-length black bob and some bangs remain visible under the cap. Do not show an extra star clip on top of the hat.
+Add the same dark navy school backpack, worn with both straps over the shoulders. Her left hand (viewer-right) lightly holds that shoulder strap. Her right hand (viewer-left) rests around the extended black grip of the suitcase handle, with a plausible finger wrap.
+Place the same LARGE bright white hard-sided wheeled suitcase beside her on viewer-left, fully visible: light shell, dark rounded corner protectors, metal side latches, two simple Hello Kitty stickers in the same general positions, two straight telescoping handle rods connected correctly to the grip. The small cat toy stays packed inside and is not visible. Match the approved luggage, not a new design. The case should remain noticeably large relative to this short girl.
+
+CRITICAL SHORT-PROPORTION LOCK:
+Keep the actual head size, face identity, head-to-body proportions, short legs and compact torso of Image 1. Do NOT elongate her legs or waist to match Image 2, to clear the luggage or to fill the frame. Keep the shoes on the same approximate baseline as Image 1 and the same natural in-world stature around 149 cm. The cap adds a little height above the existing hair naturally; the body itself does not grow. Fit the luggage and handle around her approved anatomy. Adjust arm angles for the referenced pose while keeping natural arm lengths and hand size. No chibi proportions, no enlarged head or eyes, no high heels.
+She remains the same 15-year-old person with a quiet reserved expression, dark brown eyes, chin-length inward-curving black hair and the same face shape.
+
+PRESERVE THE OUTFIT AND STYLE OF IMAGE 1:
+Pale mist-blue open zip-front hooded casual jacket, ivory crew-neck T-shirt, dark-indigo straight-leg jeans and ordinary white low-top lace-up shoes. Same loose fit, hood, cuffs, pockets and zipper structure; backpack straps may naturally cover parts of it. Keep the clean slightly anime colored linework, grouped hair shapes, restrained skin shading and simplified clothing surfaces. Render the cap, backpack and suitcase with the SAME clean drawing/color language. No photorealistic weave, pores or grain; no change of outfit or expression.
+
+OUTPUT:
+One complete isolated figure WITH the complete suitcase and all wheels, feet and cap within the portrait canvas, approximately the 1024x1536 proportions of the references. Comfortable margins, camera eye-level, same front-facing character angle. Genuine transparent background with actual alpha and clean antialiased edges. No painted checkerboard, white/grey/black rectangle, environment, floor or cast shadow, no second figure or pose, no labels, text, scale chart, UI or watermark.

@@ -1,0 +1,22 @@
+Use case: identity-preserve
+Asset: CG-S12-04, courtyard meeting, version 2.
+Output: exactly one complete landscape 16:9 visual-novel illustration at image 1's existing framing.
+
+Edit image 1. Change only Su Yuqing's hair to the approved short haircut in image 2.
+
+Reference roles:
+Image 1 is the full approved courtyard edit target: three standing people, their facial expressions, bodies, hands, clothes, luggage, the mahjong group, architecture and evening light.
+Image 2 supplies only Su's approved short black haircut and the single cream star clip. Do not transfer its walking pose, street background, or either person's facial expression.
+Image 3 supplies Su's established facial identity only. Its older long hair, frontal neutral pose and checkerboard backdrop are excluded.
+
+Su is the petite teenage girl to the left of the two adult women, standing in the center of image 1. Remove the chin-length bob and long pieces behind her ears. Give her the same softly textured short crown, short fringe, closely cropped ear sides and clear nape as image 2. Retain one small cream star hairclip attached at her anatomical right temple, visible on the viewer-left side. Preserve her existing face contour, eye size, nose, mouth, head size and three-quarter head angle. Keep her quiet attentive expression, slight blush and tiny closed-lip smile directed toward the conversation. The haircut must not change her age impression or make her taller.
+
+Preserve exactly image 1's standing positions and relative heights: Su clearly shorter than both women at comparable depth, Zhang in the middle, landlord on the right. Su's viewer-right hand continues holding the single navy cap near its crown in front of her upper thigh, its brim pointing downward. Her viewer-left hand remains around the extended suitcase handle. Keep the fingers, wrists, cap shape, suitcase handle rails, closed cream case with two cat stickers, wheels and floor contacts. Keep the same single worn navy backpack, pale blue hoodie, off-white shirt, dark trousers and white sneakers.
+
+Zhang retains her short brown hair, kind face and small smile, brown cardigan, beige collared shirt, blue-grey apron, dark trousers and black shoes. Her hands stay loosely overlapped at her waist, facing the landlord.
+The landlord keeps her approved full face, short wavy dark hair, solid adult build, open cheerful conversational expression, muted plum floral blouse, dark trousers and black flats. Her modest open-palm gesture at waist level stays the same. Neither adult touches Su.
+
+Keep the whole familiar courtyard intact: all three seated adult neighbors at the one mahjong table, the empty fourth chair, tea and tile shapes, open green metal gate, potted plants, laundry, tiled houses, wires, lamps, stairs visible beyond the door, and the distant lane with bicycle and bins. Preserve the empty environment area across the left third without adding people there, so it remains available for the earlier arrival narration. Retain the same perspective, soft evening light, contact shadows and slightly anime-painted rendering.
+
+Return one full-frame scene with only Su's haircut intentionally revised. No new gestures, added props, extra people, room furnishings, captions, interface, watermark, border or comparison panel.
+

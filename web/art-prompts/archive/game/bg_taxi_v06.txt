@@ -1,0 +1,16 @@
+Use case: identity-preserve
+Asset: BG-TRAVEL-01, Su in the taxi rear seat, version 6.
+Edit image 1 into one complete landscape scene at exactly its existing framing. Change only the visible hair beneath Su's navy cap to the approved cropped haircut.
+
+Image 1 is the complete edit target: the girl seated by the window, her quiet three-quarter face, raised cap-brim hand, other hand holding the bag on her lap, the rear seat, car door and all street details.
+Image 2 shows the approved close-cropped hair visible beneath her cap. Use only its hair length and clean ear/neck outline, not its front-facing standing pose, cap shape, body, luggage or expression.
+Image 3 supplies established facial identity only. Its old long hair, frontal neutral expression and backdrop must not be transferred.
+
+Remove the thick bob pieces behind the near ear and along the jaw and nape in image 1. Keep only a short fringe under the brim, short close-fitting temple hair and cropped hair behind the ear. The ear outline and skin between the back of the jaw and the neck should be clearly visible; no long ends may hang toward the hoodie collar. The top remains covered by the SAME navy cap, in the same position and angle. The small established star clip stays concealed under that cap, as in the original shot; do not add a visible star or any new accessory.
+
+Preserve Su's exact face outline, eye size and gaze toward the window, nose, small restrained mouth, head size and three-quarter angle. Keep the same age impression, petite seated body, shoulder width and arm lengths. Preserve the raised hand and every existing contact with the cap brim, as well as the other hand resting against the front of the single navy backpack on her lap. Keep both wrists, fingers, sleeves, bag shape, handle, seams and zippers, her pale-blue zip hoodie, off-white inner shirt and dark trousers. Keep her lower body cropped by the frame as it is now. Do not introduce a suitcase into this shot.
+
+Preserve the whole car interior: dark blue rear bench, headrest, seat pattern, window frames, rear windshield lines, door handle and manual window crank, all perspective lines and light. Preserve the exact window view with one adult cyclist and two adult pedestrians, uneven leafy trees, hedges, utility wires and ordinary 2004 Hangzhou buildings. Keep the current grey daylight and softly drawn anime visual-novel style.
+
+Only the hair and the tiny ear/neck/background areas uncovered by removing the old bob should be redrawn. Return one full illustration, not a detail crop or comparison sheet. No new gesture, character, furniture, caption, interface, watermark, border, background redesign, facial redesign or change of camera.
+

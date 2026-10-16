@@ -1,0 +1,9 @@
+Use case: identity-preserve
+Asset: OP-TIAN-DUAL-02 v08, Tian Yuyao outside the cinema — clean high-definition revision.
+Edit the attached v07 wide scene. The user says the image now has noise and needs higher clarity.
+Perform a careful clean anime restoration/redraw at high definition, aiming for 1920x1080 output if available. Preserve the complete 16:9 composition.
+
+Remove fine random grain, speckles, rough smeared texture, cloudy pixel noise and scratchy artifacts from the wall panels, dress, shadowed entrances, sky, pavement and foliage. Rebuild these as clean, controlled anime color planes with smooth gradients and coherent soft cel shading. Clarify intentional outlines and real structural details: the character's eyebrows/eyes above the mask, hair masses, mask edges, hands, dress silhouette, shoe contact, door frames, bicycle wheels and recognizable pedestrians.
+Retain the actual architectural seams, cloth folds and tree-shadow shapes but do NOT add photographic microtexture, rough fabric grain, skin pores, new leaf speckles, oversharpened halos or artificial gritty detail. Use grouped foliage shapes rather than thousands of tiny noisy marks. No global blur, no waxy loss of face details, and no fake sharpen-filter look. The result should read as crisp polished anime visual-novel background art.
+
+LOCK geometry and identity: use exactly v07's smaller petite figure, same head/shoulder height and width, same foot positions, same softened approved brows/eyes, mask, hairstyle, pose, gray dress and light-blue shoes. Do not enlarge the person, shift objects or camera, crop or zoom. Preserve cinema signs, posters, crowd, tree, bicycle, sunlight direction and palette. Do not redraw text into new words. No captions or watermark. One complete clean wide scene, not a comparison or portrait.

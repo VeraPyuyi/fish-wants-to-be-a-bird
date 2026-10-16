@@ -1,0 +1,13 @@
+Use case: precise-object-edit.
+Asset: BG-STREET-01 | 浙江城市街道·通用背景 v04, one reusable visual-novel background.
+Input image: attached bg_street_v03 is the sole EDIT TARGET.
+Primary request: the street trees currently look too alike. Give each existing tree a distinct, naturally irregular silhouette and growth pattern, while keeping the street lush.
+
+Edit ONLY the existing trees' above-ground branching and foliage:
+- Break the repeated round, similarly trimmed crowns in the left-hand row. Make neighboring trees noticeably different in height, width, crown starting height, branch direction and foliage density: one wider with spreading lateral branches, a neighboring one narrower and taller, another with a lower uneven crown and a few small openings. Vary them irregularly, not as a repeating alternating pattern.
+- Give the prominent center-right tree a naturally asymmetric crown: one side extending outward more than the other, distinct overlapping branch masses, an uneven top edge, a few small sky gaps. Avoid a smooth oval or spherical topiary outline. Preserve the clear trunk and comfortable pedestrian clearance.
+- Keep the near-left tree a broad, mature, frame-overhanging tree; distinguish the distant trees with varied peaks and silhouettes, while obeying perspective. Allow subtle differences in the existing muted leaf greens, without making every tree a different conspicuous species or season.
+Trees should feel individually grown over years, not copies of one asset, nursery balls, symmetrically pruned landscaping, or repeated broccoli-shaped crowns. They remain healthy and leafy overall. Retain the current approximate total greenery; vary density locally rather than making the whole scene sparse. Keep existing trunk bases and tree pits at the same positions and keep the original number of trees.
+
+INVARIANTS: Preserve exactly the same street composition, camera and perspective; old grey-white apartment buildings, weathering and enclosed balconies; fences and gate; right-hand shops, awnings, bicycles and steamers; asphalt road, clear sidewalk and empty foreground; overcast soft lighting, color mood and semi-realistic visual-novel rendering. Keep identifiable portions of old buildings, shopfronts and the road's depth visible through and below the canopy. No new scene, no extra props, no people, no added writing, no flowers, no change to season or architecture.
+Produce exactly ONE edited landscape image with the same aspect ratio and framing.

@@ -1,0 +1,24 @@
+Use case: illustration-story
+Asset: OP-ZHANG-01 v01, one landscape visual-novel opening illustration, 16:9, ideally 1920×1080. Create ONE finished image with no lettering.
+
+Reference roles:
+Image 1 is the approved Su Yuqing costume and identity reference (red-and-white miko-inspired dress and long black low ponytail wig). Preserve her recognizable face, brown anime eyes, single ivory star hair clip, costume cut and colors. It is not a pose or background reference.
+Image 2 is the canonical soft-anime rendering and Su facial-identity reference. For this birthday event use Image 1's long ponytail wig, NOT Image 2's short hairstyle or blue hoodie. Do not give the other character Su's face.
+
+Scene:
+A quiet early-spring night in 2004 in a coastal Zhejiang town, on the grass outside a modest converted shipping-container home. Only TWO people are present, celebrating an intimate twentieth birthday. A small ordinary wooden table outdoors holds a modest round cream birthday cake, with small cream flowers, a tiny cream mouse decoration and a chocolate outer edge. Exactly TWENTY slim lit birthday candles, visibly separated in two staggered shallow arcs of ten, with small distinct warm flames. No numeral-shaped candles. Behind them, the low raised container home has muted wood-tone painted metal siding, simple dark glass doors/windows and discreet supports; a small lake is dimly visible farther away. The house stays a secondary low-contrast background, not a luxury cottage.
+
+Main character Zhang Sifan:
+A tall 20-year-old young adult woman, approximately 170 cm, with a golden-blonde shoulder-length wig, an oval slightly rounded face and a gently prominent nose. Give her a distinct, mature young-adult facial structure, natural shoulders and proportions; not Su's childlike face and not a caricature. She wears a modest gothic-style dress: a black fitted long-sleeved bodice, small lace trim at the neckline and cuffs, red skirt, dark tights. Render ordinary opaque clothing with restrained decorative detail. She is standing comfortably by the cake, eyes softly closed, a small peaceful smile, hands gently clasped while making her birthday wish. This is an affectionate, grounded everyday moment.
+
+Su Yuqing:
+Standing nearby at the same depth and on the same ground, noticeably shorter, approximately 149–150 cm, petite teenage proportions consistent with the references, not a tiny child or chibi. She wears the approved white-and-pale-pink wide attached-sleeve blouse with red skirt and narrow black hem, long black low ponytail wig falling over one shoulder, and single ivory star clip. If visible, retain the approved white knee socks and flat white shoes. She looks toward Zhang with a warm gentle expression, mouth slightly open as she quietly sings the birthday song. Her hands rest naturally together in front, clear simple anatomy. Keep her a supporting presence; Zhang is the main subject.
+
+Composition and light:
+Eye-level medium-wide two-person shot, framed about knee-up, enough environment to place them in the grass. Zhang on image right, Su on image left, their roughly 20 cm height difference legible without distorting perspective. The table and cake sit low in the composition between them; tabletop, wrists and bodies have correct occlusion and no intersections. Warm candlelight softly illuminates both faces, hands and clothing from below, with subtle cool blue night ambient fill sufficient for readable anime faces. Preserve the feeling of actual night; no daylight, harsh theatrical spotlight, glowing windows, lit lanterns or string lights. Leave a calm dark area away from their faces for later name typography, but do not render any text now.
+
+Style:
+Match the references' soft Japanese anime visual-novel illustration: delicate clean linework, simple attractive shape design, clear cel-color areas with gentle shading, expressive but restrained faces. Render the environment in the SAME illustrated language, simplified grass and metal/wood textures, no photographic detail, skin pores or 3D effects. Cohesive light and grounded shadows integrate people into the scene. Warm, quiet companionship.
+
+Constraints:
+Only these two characters. No extra guests, no suggestive posing, no body emphasis, no tears or tragic reveal, no birthday banners, no modern phones, no labels, no UI, no watermark. Preserve Su's approved facial identity and ponytail wig. Zhang's taller adult build must remain clearly distinct. Candle flames and hand anatomy must be clean.

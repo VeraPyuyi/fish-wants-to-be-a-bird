@@ -1,0 +1,16 @@
+Use case: identity-preserve / style-transfer
+Asset: OP-TIAN-DUAL-02 v02, "天语遥·电影院外赴约".
+Edit the supplied v01 full scene. Produce ONE complete 16:9 image in the SAME composition.
+
+The user approves the composition and asks for two changes: make Tian more petite, and make materials more anime-like.
+
+1. PETITE FIGURE / PROPORTIONS:
+The masked person in the gray dress at right currently looks too tall and elongated. Make this SAME person visibly shorter and more compact — about 12–15 percent shorter overall while keeping the two shoe contact points in approximately the same place on the pavement. Lower the head/shoulder line accordingly; do not move the figure deeper into the scene or alter the cinema to fake the size change.
+Shorten the long torso, upper arms/forearms, and legs in a balanced natural way. Keep narrow shoulders and slim limbs, but avoid the elongated fashion-model silhouette. Keep the head proportional to a normal petite anime figure, not an oversized chibi head. The hands should rest naturally together in front of the lower waist, not hang excessively low, with relaxed correct fingers. Preserve the character's age and identity.
+Retain the simple high collar, three-quarter sleeves and light-gray dress. The skirt still ends below the knees, around mid-calf relative to the NEW shorter anatomy; do not turn it into a short skirt. Keep the white face mask, small low dark ponytail, side bangs, narrow eyes and leftward gaze. Keep pale powder-blue flat lace-up shoes, grounded with appropriate soft shadows. Do not add socks, accessories, bags or makeup.
+
+2. CLEAN ANIME MATERIALS:
+Redraw material shading into organized matte painted shapes rather than realistic high-frequency texture. Remove the fine diamond/crosshatch fabric pattern from the dress: use plain light-gray cloth with a few clear soft folds. Remove grain and speckled stone texture from wall bases, tiles and paving, retaining structural tile divisions. Simplify glass highlights, tree bark, foliage and bicycle details into crisp intentional anime lines and restrained flat/soft color planes. Keep irregular tree silhouettes and varied shadows, but group tiny leaf marks into larger readable masses. Do not blur the image or erase the scene — redraw with clean controlled edges, clear objects and no photographic microtexture.
+
+LOCK EVERYTHING ELSE:
+Same camera, perspective, entrance, facade, door positions, ticket window, posters, bicycle, background people, tree, sky, sunny light, colors and character position right of center. Preserve facial identity and mask coverage. The correct signs remain exactly "电影院" and "售票处". Poster layout remains generic and unchanged; do not invent recognizable film characters or titles. Preserve natural scale/depth relationships. No added people, new props, modern devices, text overlays, borders or watermark. One cohesive clean soft anime visual-novel illustration.

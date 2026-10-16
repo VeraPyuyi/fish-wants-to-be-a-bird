@@ -1,0 +1,18 @@
+Edit image 1 into OP-R6-FAMILY-01《曾经相遇的我们》v03. This is an identity-correction pass on THREE faces in the eight-person portrait. The last revision changed too little. Redraw the three specified faces substantially rather than lightly altering existing lines.
+
+Image roles:
+1 = target full family portrait. Keep the other five people, clothes, poses, bodies, bench and background unchanged.
+2 = approved Hu Yuniu identity, solo man wearing white/navy polo in park.
+3 = approved Fang Youyou identity, solo person in pink dress in park.
+4 = approved seaside group: Zhang is SECOND FROM LEFT in teal blouse; Fang is FAR RIGHT in white blouse, coral skirt and shoulder-length wig. These are face references only.
+
+A. ZHANG SIFAN — standing in BACK ROW, SECOND FROM LEFT, dusty-rose blouse:
+Replace the current pretty round adolescent-girl face with a clearly adult, gently masculine young face, recognisably the SAME adult as teal-blouse Zhang in image4. Moderately lengthen the mid-face and nose-to-chin proportion, flatten the full round cheeks, use straighter lower brows, narrower horizontally shaped eyes and a more definite nose bridge and softly squared jaw. Reduce large round irises and doll-like blush. Retain a warm restrained closed smile, not stern, not elderly, no beard. Young masculine facial structure must read at full-scene size, while her feminine blouse and skirt remain exactly unchanged. Keep natural short hair and reasonable existing head-to-shoulder scale. Do not copy Su's face.
+
+B. FANG YOUYOU — seated FRONT ROW FAR LEFT, ivory blouse and sage skirt:
+Use the actual face of image3, corroborated by far-right Fang in image4. More evidently masculine adult facial proportions than image1: slender level eyes, flatter upper lids, straight brows set closer to eyes, pronounced but modest straight nose, less cheek roundness, wider defined jaw before a rounded chin. Different face from Zhang: slightly narrower/longer eyes, quieter calm expression and softer mouth. Preserve friendly warmth without returning to a round teenage-girl face. No facial hair. Keep her target natural short ear-covering hair; do not import the seaside wig, hat, accessories or pink park dress.
+
+C. HU YUNIU — standing BACK ROW FAR RIGHT, ochre polo:
+Use image2 as the literal identity anchor. Match that ordinary pleasant face instead of inventing a fashionable handsome man. His current lower face is too long and V-shaped. Make cheeks/jaw visibly wider and squarer-rounded, shorten the chin, make the nose less sharp and less high, use the modest gently flat eyebrows and small calm eyes of image2, restore the slightly prominent rounded ears. A thin pale stubble tint may remain. Turn head gently toward viewer-left to approximate image2's natural three-quarter facial angle while looking warmly toward the camera; no neck twisting. No angular model jaw, pointed chin, glossy idol eyes or ornamental eyelashes. Keep the tall lean body, original ochre polo and relaxed pose; do NOT bulk up shoulders or arms.
+
+Priority is identity correction, not retouching makeup or only adding darker eyebrows. These three changed faces must be visibly distinguishable from the previous candidate and from one another, but stay in the same soft clean anime style. Do NOT masculinize or edit Su, Lin, Tian, An or Mo. All eight people must remain. Do not change hair/wig status, body sizes, head sizes, clothing, hands, lighting, perspective, seating or scene. No framing changes this pass. Preserve crisp eyes and clean lines with large smooth shaded areas; no grain, speckles, gritty shading, new texture or text. Output one complete 16:9 illustration, not a collage or comparison sheet.

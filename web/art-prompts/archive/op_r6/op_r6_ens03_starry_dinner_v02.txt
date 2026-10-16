@@ -1,0 +1,16 @@
+Use case: identity-preserve.
+Asset OP-R6-ENS-03《星空下的晚餐》v02, single 16:9 anime image.
+
+INPUT IMAGE is the edit target: five friends around an outdoor supper table under stars. Preserve its five faces, hair, individual body proportions, camera, seated positions, expressions, hands, food, table, house, stars and overall composition. The USER requires a NEW outfit set for this following-night supper, distinct from the prior river-play/grilled-fish set.
+
+Replace all five costumes as follows, from LEFT to RIGHT:
+1. LIN, twin ponytails at far left: pale SKY BLUE lightweight button-up shirt, modest and completely opaque, sleeves loosely rolled to just below elbows; DARK BLUE DENIM SHORTS with a natural relaxed fit. Replace her ivory shirt and lavender skirt. Keep the same seated adult proportions and cucumber-eating action. Existing visible lower legs and white shoes stay.
+2. SU, smallest person second from left with star hairclip: a soft PALE PINK short-sleeve knee-length cotton dress with a small WHITE rounded collar, simple seams and small buttons. No pinafore straps and no separate white T-shirt. Keep white ankle socks/canvas shoes and her current cucumber/listening pose. Same petite face, short hair and star clip.
+3. FANG, centre, gazing upward: soft PALE YELLOW short-sleeve blouse with a small collar, and a DARK COCOA-BROWN knee-length A-line skirt. Replace the blue-grey/navy outfit. Maintain softly androgynous adult face and natural short hair, thoughtful gaze and her existing hand supporting her chin.
+4. ZHANG, leaning her shoulder against Fang: light LAVENDER thin button-up shirt with sleeves casually rolled to elbows, worn open over a plain WHITE round-neck T-shirt, with a PALE GREIGE knee-length A-line skirt. Replace the dusty-pink top/ivory skirt. Keep adult face, cheerful conversation expression, leaning pose and gesturing hand. Different individual from Su.
+5. HU, far right: NAVY BLUE short-sleeved T-shirt with a few thin WHITE horizontal stripes, KHAKI relaxed long trousers. Replace grey shirt/olive trousers. Keep same plain kind face, tall lean body, thoughtful expression and small cup in hand.
+
+Story wardrobe basis: Su is in a skirt/dress that day, Lin changes into a lightweight shirt, and Zhang rolls her sleeves. Exact colours and other clothes are user-authorized design additions appropriate to a 2004 summer outing. No new wigs, headwear or accessories.
+
+Preserve the relaxed late-supper scene and food (fried cicadas, small cucumbers), ordinary water glasses and two adults' small cups. Keep alcohol bottle at Zhang/Hu end only. All hands/plates must stay physically connected and supported.
+Lightly simplify the wood grain on the table, tiny vegetation speckles and grainy sky texture, keeping a clear starry sky, warm household light and clean 2D anime contours. No global blur or washed-out facial features. No new people, no pose changes, no distorted proportions, no text/logo/border/collage. ONE image.

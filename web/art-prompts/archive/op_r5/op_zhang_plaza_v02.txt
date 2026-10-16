@@ -1,0 +1,11 @@
+Use case: precise-object-edit / background-only style simplification.
+Asset: OP-ZHANG-DUAL-01《张思凡·中央广场初遇》v02, a single landscape 16:9 visual novel illustration.
+Edit target: the supplied plaza illustration v01.
+
+User direction: 背景再动漫化、减少细碎纹理。
+
+Change ONLY the BACKGROUND rendering into a cleaner, more deliberately illustrated 2D anime visual-novel environment. Preserve the entire central character exactly: face shape, open eyes, gentle anxious expression, soft dark short hair, pale yellow cap, pale shirt, tied dark jacket, trousers, hands, posture, proportions, position, lighting and colors. Do not redraw, beautify, masculinize or modify the character. Preserve perspective, building silhouettes and proportions, the old pine position, clock tower, jewelry shop, commercial plaza, pedestrians and shadows.
+
+Make the background visibly simpler: turn pine needles and distant tree leaves into a restrained number of large coherent silhouette clusters and two-or-three-tone cel-shaded masses; remove the thousands of tiny light flecks. Simplify tree bark into broad clean flowing forms with only a few essential contour lines, not rough photographic bark or densely cracked texture. Make the tiled pavement and stone tree planter smooth flat illustrated surfaces with sparse clean perspective seams; remove speckle, roughness, granular texture and tiny cracks. Simplify jewelry display details and reflections into clear restrained illustrated shapes. Simplify building surfaces and window reflections, preserve a readable 2004 commercial neighborhood. Keep naturally varied trees and the few pedestrians, but reduce microdetail.
+
+Use crisp controlled thin drawn contours, clean flat/cel-shaded colors and a few soft lighting gradients. Preserve sunny morning illumination and the composition with character on the right and quiet space on the left for later editor-added captions. The environment should match the softness and abstraction level of the anime character. Reduce visual noise by redraw and simplification, NOT by Gaussian blur, oily smearing, loss of structural edges, oversharpening or erasing the background. No film grain, textured paper, watercolor flecks, photographic materials, dust sparkles or bokeh. No new text, captions, logos, objects, characters, panel borders or watermark. Keep the same 16:9 framing.

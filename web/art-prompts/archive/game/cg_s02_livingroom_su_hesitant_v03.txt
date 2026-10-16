@@ -1,0 +1,21 @@
+Use case: identity-preserve, precise-object-edit.
+Asset: CG-S02-01《客厅·离家前的停顿》v03.
+Produce ONE full-scene hair-only revision.
+
+Image 1 cg_s02_livingroom_su_hesitant_v02.png is the SOLE WHOLE-IMAGE EDIT TARGET. Return this entire living room with the same camera, character position and quiet hesitant mood.
+Image 2 su_early_crewcut_reference_v02.png is the USER-APPROVED HAIR reference: short black cropped hair, short textured crown, short fringe well above the eyebrows, ears and nape exposed. Use the haircut only, adapted to the small character's existing scene angle and daylight.
+Image 3 su_home_neutral_v09.png is the FIXED FACIAL IDENTITY only: the same gentle teenage oval face, almond brown eyes, restrained irises and lower-face/chin spacing. Do not import its old bob, frontal pose or checkerboard.
+
+Change only Su Yuqing's hair in Image 1, the petite girl standing beside the closed entry door:
+Replace the whole black bob with the cropped short hairstyle in Image 2. Remove the side/rear hair curtain around the jaw and collar; no bob ends behind the ears or touching the neck/hood. Show the visible ear outlines and natural exposed nape. Keep short black hair on the head, softly textured and closely cropped, not a bald or gray-shaved scalp.
+Shorten the front fringe so it remains clearly above the brows, as in Image 2. Preserve the same skull/head size and location while reducing the excess hair volume. Do not enlarge her head or make the top a high spiky hairstyle.
+Keep the ONE small ivory star clip on her original anatomical right side, visible at the SCREEN-LEFT temple. Place it against the remaining short hair with the same visual size and recognizable star; do not remove, mirror, duplicate or float it.
+
+Preserve all the rest of the character:
+Same slight three-quarter pause, lowered quiet gaze, restrained hesitant expression and neutral small mouth. She is leaving home and pausing, not smiling, excited, crying or already relieved. Keep the face recognizable as the fixed fifteen-year-old, with no rounder doll eyes or shorter childlike chin.
+Maintain the exact approved petite standing scale and height RELATIVE TO THE ENTRY DOOR. Keep both shoes and suitcase wheels in their current floor-contact positions. Do not move her toward the camera, change body proportions, shrink her further, raise her crown by enlarging hair, or alter the door dimensions.
+Same pale-blue open hoodie, ivory shirt, dark jeans, white shoes and dark backpack. One hand holds the white rolling case handle at screen-left; the other touches the backpack strap. Preserve fingers, handle, backpack straps, suitcase size and its two existing cute cat illustrations, all wheel contacts and soft shadows. No cap or new prop.
+
+Freeze the entire well-kept 2004 family living room: door/lintel/handle and hardware, wall hooks and hanger, cabinet and plants, wooden floor, beige sofa and blue cushions, coffee table, CRT TV and cabinet, floor-standing air conditioner, framed seascape, ceiling molding/lamp, blue curtains/window/exterior roofs, foreground dining table and chairs. Keep warm daylight from the right and the existing drawn anime linework/shading. Repair only tiny background/skin areas directly exposed by removing the old hair.
+No changed furniture or period details, photoreal skin, added character, text, UI, watermark, split layout, inset, checkerboard, closeup or crop.
+ONE opaque 1672x941 full 16:9 composition matching Image 1. Only the central girl's short HAIR is revised.

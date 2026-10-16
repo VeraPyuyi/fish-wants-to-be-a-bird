@@ -1,0 +1,18 @@
+Use case: identity-preserve, precise-object-edit.
+Asset: CH-SU-HAIR-01 | 苏雨晴·离家初期短平头 | v01.
+Purpose: ONE source-faithful hairstyle correction sample for individual user approval, not a new emotion or scene.
+
+Input Image 1 is the SOLE EDIT TARGET and the fixed facial/body identity reference: su_home_neutral_v09.png. Preserve its quiet neutral expression, frontal standing pose, petite teenage body, exact face and outfit. Edit ONLY the hairstyle and its necessary local silhouette and shadow.
+
+Required hair correction:
+The original novel states that Su Yuqing, age 15, has just had her ear-length hair cut off with electric clippers into a very short 平头 (short crew cut / short all-over clipper cut). During the departure and first rental-room scenes it is still this same cut.
+Replace the entire chin-length black bob in the reference with a visibly very short black crew cut. The low compact crown follows the skull gently, rendered with short directional hair texture and soft clean anime shading. Both ears are fully exposed. Side hair and the nape are closely cropped, without a curtain behind either ear, without jaw-length strands, and without a hanging rear bob. Forehead is largely exposed, with only a very short subtle irregular hairline/fringe well above the eyebrows. Avoid a long-topped pixie haircut, swooping long fringe, bangs touching eyebrows, or bob mass left behind the ears.
+This is short black HAIR, not a bald head, not gray shaved scalp, not a sharp square military box haircut. Do not invent an exact numeric haircut length. Keep the youthful gentle feminine facial features exactly as in the reference. Changing hair does not change gender identity, age, eyes, face shape or body proportions.
+Retain ONE small ivory star hair clip on her anatomical RIGHT upper temple, which is viewer-LEFT in this frontal image. Keep it visibly attached to the short hair at the upper side/crown edge in a plausible position, without adding longer strands solely to hold it. This clip is a previously approved visual adaptation. Do not duplicate it, put it on the opposite side, make it a headband, or float it on bare skin.
+
+Strict invariants:
+Same narrow gentle oval face, natural cheeks, smooth tapered jaw and existing visible lower-face/chin length; same brown almond-shaped eyes, restrained iris proportions, eye spacing, eyebrows, nose, lips and subtle reserved expression. Do not enlarge eyes or round the face. Same head size, skull scale and position (apart from removed hair volume), neck length, short stature, shoulders, torso, legs, arms, hands and shoes. Preserve the same slim short teenage proportions, not chibi or a younger child.
+Same mist-blue open zip hoodie, ivory crew-neck T-shirt, dark-indigo straight jeans and plain white lace-up low shoes; same fabric construction, folds, pose and feet baseline. Keep the existing slightly anime visual-novel colored linework and clean shading. No photorealistic skin, no new makeup or exaggerated features. No hat, backpack, luggage or additional props.
+
+Output:
+Exactly ONE full-body character on a portrait canvas matching the reference's 1024x1536 proportions, same framing, scale and margins. Genuine transparent background with alpha; no painted checkerboard, room, scenery or cast shadow. No labels, lettering, ruler, alternative view, inset, extra character or watermark. Do not generate multiple options.

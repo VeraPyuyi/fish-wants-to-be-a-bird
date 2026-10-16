@@ -1,0 +1,11 @@
+Use case: precise-object-edit
+Asset type: OP-R6-END-SU-01 v09, full hospital scene for the ending video.
+Input image 1 is the exact edit target.
+
+Edit ONLY Su Yuqing's small LEFT hand beneath Mo Kong's larger hand, plus the short wrist transition needed to connect it to her forearm. The contact stays in the SAME place on Su's white blanket. Keep Mo's current right arm, hand, fingers, thumb, size and reaching pose unchanged.
+
+Anatomical correction: Su's left forearm now descends almost vertically from the blue sleeve near the center-left of the picture. Her smaller hand must follow THAT forearm, not the old diagonal hand orientation. Redraw the short visible wrist and palm as one continuous structure: forearm downward -> gently narrowed wrist -> small palm -> relaxed fingertips directed toward the BOTTOM of the picture. Her palm faces up under his hand. The little visible fingertips softly extend toward the foreground rather than curling sideways into a little fist. The hidden palm can remain hidden, but it must make anatomical sense behind the occluding larger hand.
+Use a natural adult LEFT hand; her thumb belongs on the RIGHT side of her upturned palm when her fingers point down. Let it rest beside the palm, mostly occluded if necessary. The visible small fingers should be slender and softly relaxed, with different lengths and one gentle bend, NOT rows of knuckle loops or detached oval finger ends. Do not force all fingers to show. Keep the smaller hand proportionate to Su's slim forearm and petite adult body. Clearly separate her pale skin outline from his warmer hand.
+This is a quiet tender hold, not gripping tightly. The contact is supported by the blanket. Avoid an abrupt bend, wrist broken at a right angle, fused fingers, extra thumbs, duplicated hands or floating fingertips.
+
+Strictly preserve everything else: Mo's entire reaching arm and correctly oriented right hand, both free hands, both faces, body proportions, hairstyle, star clip, expressions, clothes, bed positions, pillows, curtains, daylight and full-frame composition. Only minimal local blanket shading may change around Su's repaired small hand. Keep the same clean anime style, crisp restrained contours, soft smooth shadows and low-noise finish. No close-up, labels, text or watermark; return the full wide scene.

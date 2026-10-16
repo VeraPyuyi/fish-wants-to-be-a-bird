@@ -1,0 +1,26 @@
+Asset: CG-S06-03《T136车厢·初醒到站》v01
+Use case: identity-preserve
+Asset type: ONE full-frame visual novel waking pose/expression variant, matching an approved train CG.
+
+INPUTS
+Image 1, cg_s06_train_su_asleep_v01.png: EDIT TARGET. Preserve this entire train composition and make a localized edit to Su, the petite girl seated at the RIGHT. This image governs her current lap, hands, legs, luggage and position.
+Image 2, cg_s06_train_su_seated_v02.png: supporting identity/style reference ONLY for her recognizable open-eye design and face proportions. Its chin-on-hand contemplative pose is NOT appropriate after waking; do not copy that gesture or alert contemplative expression.
+
+PRIMARY REQUEST
+Make the immediate next moment after someone OUTSIDE THE FRAME has told her the train has arrived. She has just woken from exhausted sleep and raises her head, still groggy, beginning to understand the reminder. The old movie incorrectly reused a fully awake chin-on-hand thinking pose. Correct that visible acting problem with ONE restrained, natural waking image. Do not make a sheet, a sequence, a split panel, a montage, alternate crops, or multiple pictures.
+
+POSE AND EXPRESSION — CHANGE ONLY SU
+Keep her hips on the exact same right seat and her petite scale unchanged. Her head comes forward off the backrest into a natural upright position, chin slightly lowered from the sleeping tilt. Her upper torso comes only a little away from the backrest, with relaxed shoulders and a slight attentive forward lean, as if she is orienting herself before standing; she is still sitting securely, not already standing or reaching to leave. Turn her face slightly toward the off-screen aisle in the foreground, a gentle three-quarter turn from the sleeping profile, with eyes directed just off-camera toward the passage, never staring into the viewer or addressing the two left passengers.
+
+Her eyes have just opened halfway to two-thirds, upper lids still a little heavy, gaze softly focusing with mild uncertainty. Brows rise just slightly in dawning recognition; lips part a little for a sleepy "唔……到了？". Convey drowsiness and a small, ordinary surprise, not fear, panic, sadness, blank detachment, a bright smile or an energetic wide-eyed stare. Keep both eyes aligned naturally with the head angle and preserve the same face, small jaw, short nose and youthful anime proportions. No exaggerated mouth, facial icons, blush, sweat drop, tears, or drool.
+
+Both SHORT, naturally bent forearms and small hands remain down around the navy backpack on her lap. One hand gently closes around the backpack's top handle and the other steadies its upper front/side, a modest reflex of waking while guarding belongings. Keep hands visibly separate with anatomically clear fingers and natural wrists. Neither hand touches her chin, cheek, temple, cap or eye; no rubbing-eye gesture, stretching, yawning, waving or pointing. Backpack stays upright on her lap in the SAME location and size, no extra bags or extra handles. Keep her knees, legs, shoes and the white suitcase beside her feet where they are in Image 1.
+
+LOCKED IDENTITY AND ART STYLE
+Same Su Yuqing: fully clothed 15-year-old girl, petite 149 cm standing-height design expressed through exactly the existing small seated scale, short limbs, chin-length black bob, navy cap kept on securely, pale blue zip hoodie over an off-white top, dark straight jeans, white sneakers. No hair length, costume, age, body size, breast, hat or face redesign. Use the approved clean, fine 2D anime linework and soft, simplified face and fabric shading. All characters stay in that coherent visual novel anime style; no photoreal skin, 3D rendering or detailed realistic adult face styling.
+
+LOCKED SCENE AND FRAMING
+Preserve Image 1's full landscape canvas, camera location, framing, perspective, seats and curtains, table, window, overhead racks, floor, luggage, and countryside outside. Keep the SAME overcast gray afternoon daylight and existing soft shadows; no new sunbeams, time-of-day shift, orange grade, focus blur or darkening. Preserve both left adults, their faces, clothing, reading and egg-peeling actions, positions and proportions unchanged. They remain ordinary background passengers, not the caller. Add NO other person, hands, silhouette, dialogue balloon, signage, subtitles, UI, watermark or border. Preserve the existing two cute cat stickers on the white suitcase and the handle position. Do not zoom or crop the scene.
+
+SOURCE AND USE
+The original source at line 159 describes her raising her head in confusion after the off-screen reminder (line 157), then realizing passengers are getting off. The current script line is "苏雨晴:唔……到了？;". This image will begin at that reply and later support a tighter right-side view of her gathering herself. The caller remains unidentified and outside the frame. The full-frame left passengers will be excluded by the later approved camera crop; do not redraw the carriage to invent a new event.

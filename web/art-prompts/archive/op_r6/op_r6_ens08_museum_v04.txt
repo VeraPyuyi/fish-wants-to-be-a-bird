@@ -1,0 +1,13 @@
+Make a very small softening adjustment to ONLY TWO FACES in this museum illustration:
+ZHANG is far left, dusty-rose blouse and charcoal skirt; FANG is second from left, ivory blouse and sage pinafore.
+
+The user likes the stronger adult masculine facial structure but asks for it to be slightly softer. Keep the current straight brow shape, narrow almond eyes, nose proportions, adult face length and recognizable masculine bone structure. Do NOT return to round juvenile faces or large cute eyes.
+
+Change only this:
+- Lighten the thickest eyebrow strokes and the inner-brow dark shading a little, keeping the eyebrows straight.
+- Gently soften nose-bridge/nostril shadow edges and reduce their contrast; keep the nose shape and clear bridge.
+- Round the sharpest corners where the lower cheek meets the jaw and at the chin tip, without shortening the face or inflating cheeks.
+- Keep the modest closed-mouth smile, subtly warm and relaxed, with a less severe brow expression.
+The change should be small, approximately halfway back from the current hard-edged contours toward a gentle young-adult face. Maintain the two different facial identities.
+
+Preserve all other pixels/content as closely as possible: each hairstyle and hair length, head size and neck proportions, skin colour, body, outfit, poses, hands, bags, other THREE people, museum sign/buildings, visitors, paving, foliage, lighting and composition. No zoom/crop/rearrangement. No clothing change. Do not fix the procession in this face-only pass. Keep crisp clean 2D anime linework and avoid added texture or blur. Deliver one full 16:9 illustration, not a facial reference sheet or collage.

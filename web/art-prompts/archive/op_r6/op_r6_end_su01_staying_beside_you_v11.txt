@@ -1,0 +1,15 @@
+Use case: precise-object-edit
+Asset type: OP-R6-END-SU-01 v11, clean high-definition anime hospital illustration.
+Input image 1 is the exact image to clean and redraw faithfully. This is a FINISH/CLARITY revision only. Preserve the head-stroking gesture, all anatomy, character identities, faces, expressions, proportions, hair shapes, clothing, beds, lighting, framing and every object's position.
+
+Make the whole illustration markedly CLEANER and CRISPER, like a polished visual-novel key visual freshly finished from clean line art. Aim for a 2560 x 1440 landscape output with genuinely redrawn clean edges, not sharpening halos or invented microtexture.
+
+SPECIFIC CLEANUP:
+- White blankets and pillows: remove the numerous little irregular triangular patches and granular/mottled tonal fragments. Retain the major fabric folds but redraw them using a SMALL number of broad elegant shadow shapes with smooth gentle transitions. Large areas of white bedding should read as pristine continuous surfaces, not crumpled-paper texture or camouflage facets.
+- Blue patient shirts: remove watercolor blotches, pixel-like flecks and crisscross surface texture. Use clear solid base colors and restrained cel shading, with only meaningful fold lines at shoulder, elbow, collar and under the blanket.
+- Green curtain and hospital furniture: smooth flat clean color areas and simple coherent edges; no speckling, grit, smudges or dithering.
+- Faces, skin and hands: clean precise contours, uniform softly shaded skin, preserve delicate eyes and mouth. Do not add pores, grain or heavy shadows.
+- Hair: retain the exact hairstyle and identifiable locks but consolidate scratchy fragments into clean flowing strands with a few broad controlled highlights. Preserve the star clip clearly.
+
+This should look visibly less painterly and less fragmented, while retaining the same warm soft anime character style. No film grain, paper texture, watercolor texture, canvas texture, random noise, repeated tiny highlights, oversharpening halos, glow bloom, blur, plastic 3D shading or photorealism. Do not alter colors globally or wash out the faces.
+The man keeps his right hand gently on the woman's crown, his elbow bent, and his other hand on his own blanket. Her two hands rest separately on her blanket. No handholding and no new pose. No new props, text, watermark or panel. Return one faithful full wide frame.

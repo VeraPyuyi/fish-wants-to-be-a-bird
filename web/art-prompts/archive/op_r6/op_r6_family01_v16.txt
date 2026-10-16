@@ -1,0 +1,17 @@
+Use case: identity-preserve / facial identity correction
+OUTPUT: OP-R6-FAMILY-01 v16, the same full eight-person courtyard portrait.
+IMAGE1 is the sole EDIT TARGET (family portrait v15).
+IMAGE2 is the APPROVED ORIGINAL MO KONG IDENTITY: the adult man lying on the grass, on the right side of the two-person scene.
+IMAGE3 is APPROVED MO KONG in a second view: the man at FAR LEFT in the blue overshirt holding a fishing rod.
+Use images2 and3 for MO'S FACE ONLY; their other characters, environment, clothing and poses must NOT enter image1.
+
+TARGET MO in IMAGE1 = BACK ROW THIRD FROM LEFT, blue open shirt over an ivory tee, directly behind Lin's twin ponytails. He needs to look recognizably like the SAME ADULT MAN in the approved references, with the same calm, slightly weathered but gentle personality:
+- Match the longer natural adult face with a firmer jaw/chin connection and slightly fuller lower face from image2, rather than the current tapered youthful face.
+- Reconstruct the low straightforward eyebrows, relaxed narrow adult eyes, distinct straight nose bridge and nose tip according to images2/3, adapted coherently to his current near-front head angle.
+- Match the mature yet calm gaze and ordinary natural facial proportions. Do not make him elderly, heavily wrinkled, overly muscular or fashion-model polished.
+- Keep a very faint, clean intentional indication of stubble confined to chin/jaw as in image2. Do not scatter random dots on cheeks or hair. No thick beard or mustache.
+- Keep the current relaxed CLOSED smile: one thin natural lip contour, no exposed teeth and absolutely no pale rectangular stripe, white corner flecks, blue mark, object or dirt around his mouth.
+- Preserve recognizable tousled dark hair silhouette, current head SIZE and neck length, blue overshirt, body, hand-on-bench / other-hand-in-pocket posture and placement. Only facial structure and tiny identity details change.
+
+LOCK ALL OTHER SEVEN PEOPLE EXACTLY to image1. Especially keep: differentiated Zhang/Fang faces; Zhang's wave, lower height and short neck; An's neck-touch; Hu's reserved face/stance; Su's upright head; Lin's cheek-touch with leftward tilt; Tian's opposite head tilt, sharp guarded eyes and petite frail body.
+Keep all eight outfits, hands, feet, positions, body sizes, relative heights, bench and courtyard, warm light, headroom and shoe margins. Preserve clean smooth hair and denoised anime surfaces. No new grain, speckles, gritty beard texture, global blur, props, text, borders, panels or added people. Return only the same full16:9 family portrait.

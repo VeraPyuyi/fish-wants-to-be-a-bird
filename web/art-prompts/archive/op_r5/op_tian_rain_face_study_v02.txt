@@ -1,0 +1,12 @@
+Use case: identity-preserve
+Asset: OP-TIAN-FACE-01 v02, facial design study for Tian Yuyao in a rainy charity-booth scene.
+Edit the provided close-up v01. Keep the same head-and-shoulders framing, head angle, cap, dark hair and low ponytail, clothes, light, background and character identity.
+
+User feedback: "The direction is right; soften it a little."
+Make a SMALL but visible softening of the FACE ONLY, retaining the now-established distinctly boyish facial structure:
+- Lighten the darkest brow-root, eye-socket and nose-side shading. Keep straight substantial brows and keen narrow single-lidded eyes, with slightly gentler transitions.
+- Round and smooth the cheek-to-jaw connection; slightly shorten the lower face and round the chin end. Preserve a broad enough lower face and clearly drawn natural nose.
+- Relax the tight mouth corners very slightly into a calm closed-mouth expression, without adding a smile, blush or glossy lips.
+- Keep the gaze sharp and observant and the eyebrows straight. The change should feel like the same person with softer facial contours, not a redesign into a different face.
+
+Preserve pale skin and clear nose/brow/jaw structure. Do not return to oversized round eyes, tiny button nose or triangular doll-like chin. Do not add beard, wrinkles, makeup, warm flush or glamour. Do not enlarge the head or shoulders. Preserve all nonfacial elements and current perspective. Clean anime lines and smooth restrained shading; do not introduce grain, sharpen texture, blur the face, or add text/watermarks. Deliver a single coherent revised close-up.

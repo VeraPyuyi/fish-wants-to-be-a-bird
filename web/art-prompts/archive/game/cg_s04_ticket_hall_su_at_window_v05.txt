@@ -1,0 +1,31 @@
+Use case: identity-preserve, precise-object-edit.
+Asset: CG-S04-01《杭州城站售票厅·窗口买票》v05.
+Create ONE full-scene revision. The only requested change is Su Yuqing's visible hair UNDER her baseball cap.
+
+Input roles:
+Image 1 cg_s04_ticket_hall_su_at_window_v04.png is the SOLE WHOLE-SCENE EDIT TARGET. Return this exact full ticket-hall shot. The girl to edit is at the LEFT ticket window, facing the female clerk, one hand at the counter and one on her white suitcase.
+Image 2 su_travel_guarded_v04_alpha_v01.png is the freshly USER-APPROVED CAPPED SHORT-HAIR reference. Use the cropped hair under the cap, with exposed ear and nape, adapted to Image 1's side/back view. Do not import its frontal pose, body scale, suitcase placement or transparency.
+Image 3 su_home_neutral_v09.png is the FIXED ORIGINAL FACIAL IDENTITY only: gentle teenage oval face, restrained almond brown eyes, small nose/mouth and natural chin. Its old bob hair, frontal pose, body and checkerboard are NOT applicable.
+Image 4 su_early_crewcut_reference_v02.png is the approved overall short black cropped haircut cross-check only. The cap remains on in this scene; do not expose the crown or the star clip.
+
+Localized change:
+In Image 1, Su's current hair hangs in thick bob ends behind her visible ear and down to the hood. Remove these long side/back strands; give her closely cropped dark hair around the temple/ear and a clean, naturally exposed short nape as in the approved references.
+Leave only a few short black fringe tips above the eyebrow, mostly hidden by the original brim. The novel describes a just-clipped crew cut concealed by her cap, not a chin-length bob.
+Preserve the cap's exact height, brim shape, angle and placement. The small navy cap does not grow, lift or move. The original-side star accessory remains hidden UNDER the cap, following the approved travel design; do not place a star on the cap or on a newly exposed ear.
+Reconstruct only the tiny skin, hood or background areas genuinely uncovered by removing long hair. Preserve the head size, skull position and side-facing angle. No bald gray scalp, high spiky tuft or long wisps below the ear.
+
+Freeze character identity and staging:
+Keep the same small, fifteen-year-old Su with quiet, hesitant eyes looking toward the ticket clerk through the glass. Same side-profile eye, nose, cheek and chin proportions, closed restrained mouth, head angle and body pose. Do not turn her toward the viewer, enlarge her eyes, make her younger, or change her emotion.
+Her approved petite height relative to the counter and adult travelers is locked. Keep shoes on the identical floor contacts; do not lengthen her limbs or rescale her body.
+Keep the light-blue hooded jacket, ivory top, dark jeans, white shoes and dark school backpack with its exact straps and pockets.
+The near hand still wraps over the suitcase's black grip; the other hand still rests on the countertop. Keep every finger/handle contact, the double rods and the whole large white suitcase with two cute cat stickers, pale corners, hardware, wheel positions and contact shadows.
+
+Freeze ALL other people and the hall:
+The female ticket clerk behind the glass stays unchanged in face, hair, navy uniform, hands and seated position. Keep the right-side middle-aged cleaning woman exactly as approved, including her low bun, calm face, blue workwear, both hands holding the broom and broom head resting on the floor. She is a background figure at this beat, not yet talking to Su.
+Keep all queued travelers, the child, bags and distant passers-by in their original number, positions, poses, faces and clothes. No duplicate Su, no extra person, no missing bystander.
+Keep windows, glass partitions and their circular speaking holes, dark counter, blue lower walls, paper timetables and existing indistinct writing, stainless queue rails, tile floor, ceiling beams/fans/fluorescent lights and distant daylit windows exactly in place.
+Maintain the current cohesive slightly anime visual-novel linework and simplified soft shading, cool diffuse station daylight and muted blue/cream palette. No more photoreal textures or new modernization/aging.
+
+Output ONE opaque full frame in the same 1672x941, 16:9 composition as Image 1. No camera move, crop, zoom, new signage/text, UI, frame, inset, comparison panel, expression sheet, watermark or transparent background.
+Only Su's small visible hair area is revised; preserve the rest as closely as possible.
+

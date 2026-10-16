@@ -1,0 +1,15 @@
+Use case: precise-object-edit, identity-preserve.
+Asset: OP-ZHANG-01 v09, birthday night illustration, deliberate clean high-definition revision.
+Input image 1 is the EDIT TARGET and only composition/identity reference.
+The user finds the current image noisy, muddy and insufficiently crisp. Make a clearly visible improvement to cleanliness and readable drawing, not a barely noticeable denoise pass.
+
+Keep the exact wide 16:9 composition, camera, scale, poses and soft anime visual-novel style. Preserve both faces and identities: right adult Zhang Sifan with shoulder-length golden wig, eyes closed, soft smile, clasped hands and black/red dress; left shorter Su Yuqing with black long ponytail wig over her shoulder, star hair clip and white/red outfit. Keep their faces, hands, hair silhouettes and clothing design unchanged.
+
+Repaint the unwanted speckled/painterly surface texture into clean, coherent anime linework and calm contiguous colour/shadow shapes:
+- Grass and shrubs: fewer, clearly designed groups of leaves and grass blades. Remove the swarm of random tiny bright dots, scratchy strokes and tangled high-frequency scribbles. Retain a modest number of recognizable white wildflowers, with clean petals. Do not turn all vegetation into a flat or blurred patch.
+- Container house, wooden table, background trees: clean straight structure, broad controlled colour planes, restrained material detail. Remove blotches, coarse grain, dirty scratch patterns and muddy edges.
+- Clothes, skin and hair: crisp readable contours and orderly folds/locks, smooth cel-like shading. Remove granular texture and scratch marks without softening the eyes, mouth, fingers, seams or clean hair lines.
+- Sky and distant lake: smooth blue gradients and clear mountain layers. Preserve stars, actual distant lamps, their water reflections and candle flames as purposeful lights. No extra stars, sparkles or bokeh.
+
+Output a polished, clean 3840x2160 landscape master if supported, retaining the full frame. High resolution should have resolved intentional lines, not invented noisy microdetail or aggressive sharpening. No global Gaussian blur, no smeared faces, no haloes, no film grain, no oil-paint texture, no paper texture, no photorealistic restyling. Same candlelit mood and night palette. Do not change gestures, add people, remove the long ponytail, add text, captions, borders or watermarks.
+Return exactly one revised illustration.

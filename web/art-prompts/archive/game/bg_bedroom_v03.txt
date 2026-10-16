@@ -1,0 +1,27 @@
+Use case: style-transfer.
+Asset: BG-HOME-01 | 苏家卧室 v03 · 轻度动漫化.
+Generate exactly ONE revised landscape visual-novel background.
+
+INPUT ROLES:
+Image 1, bg_bedroom_v02, is the EDIT TARGET and the approved room layout, furnishings, staging and lighting reference.
+Image 2, bg_street_v05, is ONLY a drawing-language reference already approved by the user: selective colored outlines, composed painted color areas, restrained details, softer illustrated depth. Do not bring its street, buildings, trees, textures or outdoor lighting into the bedroom.
+
+PRIMARY REQUEST:
+Repaint this SAME comfortable, tidy bedroom with a modestly stronger anime visual-novel illustration style. It must visibly read as an artist-drawn narrative-game background rather than an interior photograph or photorealistic 3D render. Keep believable perspective and the carefully furnished, financially comfortable 2004 Hangzhou family home. The user explicitly does not want a shabby or poor bedroom.
+
+RENDERING:
+Use fine selective warm-brown, grey-blue and muted colored linework to define furniture joints, book silhouettes, window frames, curtain folds, bed edges and toys. Compose surfaces with clear base colors and two or three broad light/shadow families, with gentle soft gradients where needed. Reduce dense wood-grain microtexture, photoreal cloth wrinkles, individual teddy-bear hairs, plaster grain and photographic small-object noise. Retain tasteful details where they identify a familiar beloved object, but draw the plush toys as soft, deliberately designed shapes with grouped shadows.
+Keep the blue curtains and ivory sheer curtains light and airy, with a few gracefully drawn folds and softly painted translucency, not intricate photographic fiber detail. Draw the outside residential glimpse as quiet, softer painted shapes through the window.
+Let the near furniture edges be clearer than the distant view. Keep subtle warm wood and ivory walls balanced with pale-blue bedding and cool overcast window light. The whole image should be comfortably readable, with soft shadows and no crushed dark corners. This is a moderate anime-background revision, not a flat vector cartoon, childish picture book, sketch, watercolor wash or glossy hyperreal interior.
+
+STRICT COMPOSITION AND SETTING INVARIANTS:
+Keep the exact same landscape camera, room perspective, framing and furniture positions: doorway/door edge at far left; matching wood study desk and wooden chair at left; tall orderly bookcase behind; broad central window with blue curtains and white sheers; matching wood bed to the right, pale-blue/ivory bedding and its currently slightly rumpled cover; narrow wardrobe edge at far right.
+Retain the same desk lamp, pen holders, small tabletop clock, books and framed photographs as quiet, simplified drawn objects. Keep the two existing wall pictures as indistinct painterly images, no new text.
+Retain the large cherished brown teddy bear with a small muted pink bow sitting on the right bed, and the existing group of small plush toys beside it. Keep the floor's small book stack and little cat plush in their current positions near the bed: this is the early packing moment before that cat is put into the case. No extra toys or clutter.
+Keep the open LARGE white suitcase on the floor in the lower-right foreground with its folded clothes and the same open-lid angle, size and position. One small continuity correction is permitted: make its dark heavy corner protectors lighter ivory/pale-blush and its shell corners a little more rounded, matching the newly approved cute bright-white travel suitcase. Keep the shell overwhelmingly WHITE and its hardware understated. The exterior sticker-bearing panel is not facing the camera here: do not put large cartoon stickers or writing on the fabric lining and do not add another suitcase.
+Retain clean maintained ivory walls, intact matching wooden furniture, smooth clean honey-toned flooring, good soft bedding and the same feeling of everyday financial comfort. This is an ordinary tasteful early-2000s home, not a luxury hotel, palace or newly built modern showroom.
+Preserve diffuse grey-day daytime lighting and the small warm pool from the desk lamp. No harsh sunbeams, night lighting, dramatic orange sunset or change of season.
+Keep the usable open floor area at center-left and a calm lower quarter for character and dialogue placement; do not add any new focal object there.
+
+No live people, characters, readable text, new decorative slogans, UI, title lettering, watermark, extra frames or comparison panels. No smartphone, laptop, LED strips or contemporary gadgets. Do not copy any character or scene from another game.
+Output ONE complete 16:9 landscape background, same full framing as Image 1, no crop, no border, no transparency.

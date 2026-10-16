@@ -1,0 +1,22 @@
+Use case: identity-preserve
+Asset type: ONE revised illustration for the visual novel 想要变成鹰的鱼.
+Production identifier CG-S09-05《职业中介·红着眼睛求助》v02 (metadata only, do not draw it).
+Primary request: edit only Su Yuqing's hair below her navy cap in IMAGE 1 to match the approved early cropped haircut. Preserve this already-approved entire scene, performance and camera.
+
+Inputs and strict roles:
+IMAGE 1 cg_s09_job_office_su_red_eye_help_v01 is the SOLE full-scene edit target. Retain its wide framing, positions, head angles, face and body sizes, furniture, props, adults, street, lighting and colors.
+IMAGE 2 su_travel_guarded_v04_alpha_v01 is a reference ONLY for close-cropped hair visible below the cap. Do not transfer its frontal pose, isolated background, body scale or bag arrangement.
+IMAGE 3 su_home_neutral_v09 is the fixed FACIAL IDENTITY reference ONLY: the same soft narrow oval youthful face, restrained brown almond eyes, natural nose, mouth and chin spacing. Its longer bob is obsolete: do NOT copy that hair, neutral expression, frontal pose or taller body.
+IMAGE 4 su_early_crewcut_reference_v02 is an auxiliary cropped-HAIR reference ONLY, not a replacement face, body, costume or pose.
+
+Precise local hair edit:
+In image 1 Su stands small at the LEFT side of the proprietor's desk, in right-facing three-quarter profile. Remove the conspicuous dark long locks behind her near ear that currently fan downward to her nape and hoodie collar. Give her short, close-fitting black hair at the ear and back of neck, exposing the ear contour and neck side naturally. No bob tail, neck-length bunch, dangling tufts or new ponytail. Use image 2's cropped cap hair as the model, adapted to the EXISTING scene angle. Retain her existing navy cap, brim, front fringe, head silhouette and head location; shorten the side/back hair without making the cap or head smaller or changing her height. Do not turn her face toward camera. Her single star clip remains naturally hidden by the cap; do not add a clip on the hat or exposed wrong side.
+
+Preserve all approved performance:
+Su's small, slim teen stature and short arms, light blue zip hoodie, off-white shirt, dark trousers, white shoes. Preserve her slightly hunched shoulders, lifted distressed brows, subtle red/wet eyes and faint residual tear moisture, parted mouth quietly asking for help and gaze toward the seated proprietor. Do not change into a smile, blank neutral face, anger, exaggerated weeping, or face-wiping. Her existing free hand stays gently curled at chest level in hesitant appeal, the other stays naturally around the extended suitcase grip. Keep fingers/wrist contact and the same arm lengths.
+The ONE off-white suitcase remains CLOSED upright on wheels, with the same TWO cute cat stickers, corner guards and extended handle; the ONE navy backpack is CLOSED and WORN on her shoulders. Do not reopen luggage or add clothing, money, wallet, phone or identity papers.
+The proprietor retains his existing seated/crossed-leg posture, looking toward Su with a displeased expression, both hands supporting the lowered opened newspaper at the desk. No raised hand, table slam, standing, yelling pose, pointing or contact with Su.
+Preserve all SIX ordinary indoor jobseekers in their exact clothing and positions and the ordinary exterior passerby. Keep them reading notices or waiting, not a staring crowd. Do not isolate or enlarge any man's face.
+
+Keep the same anime-leaning Chinese visual-novel illustration style, clean gentle linework and restrained painted shading. Preserve the 2004 employment-agency setting, cream/blue walls, pinned notices, fan, fluorescent light, shelf, desk, tea mug, paper, floor, doorway and contact shadows. No photorealism, glossy 3D, chibi, added text, labels, UI, borders or watermark.
+Deliver one full image with the original wide composition and dimensions. The only intended change is Su's side/back haircut; keep everything else as close to image 1 as possible.

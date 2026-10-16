@@ -1,0 +1,14 @@
+Use case: identity-preserve.
+Edit the supplied illustration into OP-TIAN-01 v02, "天语遥·掌心的软陶女武神". Produce one complete horizontal image with the same composition.
+
+The user's requested adjustment is: make Tian Yuyao look a little more like a young man while preserving her established character identity and quiet, refined appearance. Make this a clear but moderate FACE DESIGN correction to the single person at the desk:
+- Slightly straighter, a little fuller eyebrows, keeping the focused expression gentle rather than angry.
+- Slightly narrower, less rounded eye openings and less conspicuous lash emphasis. Keep the downward gaze on the figurine.
+- A more defined but softly drawn nose bridge and tip.
+- Slightly less rounded cheeks, a subtly firmer and marginally wider jaw/chin contour. Keep a slender, youthful 18-year-old face; no rugged older-man features, beard, stubble or deep wrinkles.
+- Reduce the rosy cheek blush a little.
+The result should have a distinctly boyish, softly androgynous face within the existing anime style, not just an imperceptible change. Do not turn the character into a different person or a caricature. Use subtle line and shape changes rather than heavy dark facial shadows.
+
+PRESERVE: dark small single ponytail and loose face-framing hair, hair length and color, exact head angle, quiet concentrated mood; narrow shoulders, slender body, loose cream long-sleeved sweater, grey-blue trousers; seated posture, both hands and their grip on the tool and sculpture. Preserve the complete scene, desk, chair, rain window, lighting, computer, bookshelf and mirror. The mirror still contains no second person.
+
+The little clay figure must remain untouched: small tabletop armored warrior, visible sword, two cat ears and one curved cat tail, NO wings attached; the separate clay wings remain on the desk. Keep all props in place and the same soft anime rendering. Do not zoom, crop, change camera, relight, add text, add people or alter the room. Return a single image with the original approximately 16:9 framing.

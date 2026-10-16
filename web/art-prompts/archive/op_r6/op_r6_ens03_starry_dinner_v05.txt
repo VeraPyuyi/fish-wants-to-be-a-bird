@@ -1,0 +1,12 @@
+Use case: identity-preserve / precise local face edit.
+Asset: OP-R6-ENS-03《星空下的晚餐》v05, full wide anime dinner scene.
+
+IMAGE 1 is the exact edit target. Preserve this full image's original camera, framing, clean background, all five bodies, costumes, objects, lighting, scale and poses. IMAGE 2 is the USER-APPROVED LAUGHING FACE of Zhang Sifan, solely the facial identity/expression reference.
+
+Change ONLY Zhang's face in IMAGE 1. Zhang is the FOURTH person from the left: lavender open shirt over white, pale skirt, eyes closed in a broad laugh, leaning her head toward the shoulder of the yellow-shirt person immediately to her left, with a raised V-sign hand. Face centre is approximately 56% across, 36% down. The YELLOW-shirt person is Fang and must NOT be altered.
+
+Replace Zhang's currently round/childlike facial design with the clearly recognizable face of IMAGE 2: adult longer oval cheeks, gently defined chin and lower jaw, mature brow placement, the same clearly drawn nose bridge/tip/underside and nose-to-mouth proportions, joyful closed eyelids and natural broad open laughing mouth. The identity transfer must be visibly substantial, not just stronger outlines on the old round face. Keep gentle adult character and slight masculine bone structure exactly as in the approved close portrait. Preserve expressive happy warmth.
+
+Fit this approved face into the EXISTING SMALL HEAD SIZE and original left-leaning head angle and lighting. Do not enlarge the head, extend the neck, change body proportions or replace the whole shoulders with those of the closeup. Keep the original short hair outer silhouette; retain realistic jaw-to-neck attachment and shoulder proximity. Match the warm left lamp light and cooler night fill. Preserve all fingers and the V-sign.
+
+LOCK everything else: yellow-shirt Fang's mature face, navy-striped Hu's plain face, small pink-dress Su and blue-shirt twin-tail Lin, all their body sizes, original outfits, hair and gestures; table, food, glasses, bottle, chopsticks; house, river, bridge, trees, stars. Keep original 16:9 composition. No extra figures or captions. Retain clean soft 2D anime line art, coherent smooth color areas. No noise, speckling, photorealistic textures or collage seams. Output the entire wide dinner scene, never a crop, portrait, or split comparison.

@@ -1,0 +1,15 @@
+Use case: precise-object-edit
+Asset type: OP-R6-END-SU-01 v10, full anime hospital illustration for the private story-ending video.
+Input image 1: edit target and identity/composition reference.
+
+Replace the handholding completely with a gentle head-stroking gesture AND restore a clean, crisp, low-noise anime finish throughout this same image.
+
+NEW ACTION:
+Mo Kong, the adult man reclining in the RIGHT bed, lifts his inner RIGHT arm and gently ruffles the hair on top of Su Yuqing's head. His palm rests lightly on her crown, with a few relaxed fingers following her hair and the thumb correctly connected; do not cover her eyes, face or white star clip. It is a tender, reassuring touch, without pushing down on her head.
+Make a natural connected arm from shoulder through a softly bent elbow to wrist and hand. His upper torso/shoulder may lean slightly toward her to reach comfortably. Do not elongate the arm unnaturally or make a straight rigid rod; visible elbow articulation and plausible adult upper-arm/forearm lengths are essential. His other hand stays on his own blanket.
+Su, the petite adult woman in the LEFT bed, keeps her face and weak gentle expression as she looks toward him. Her two hands now rest separately and naturally on her own blanket near her waist. Remove ALL remnants of the previous joined hands and the long arm reaching across the lower blankets. Restore continuous clean blanket folds in the vacated contact area. No handholding anywhere.
+
+CLEANUP:
+Redraw noisy surface details into clean digital anime art. Remove granular speckles, mottled paint patches, fuzzy edge residue and tiny repeated texture from hospital shirts, white sheets, pillows, skin and background curtain. Use graceful sharp contour lines and broad smoothly graded/cel-shaded folds. Hair should have clean grouped strands, not noisy scratch lines. Preserve clear eye and face details and natural fabric form; do not blur or smear the picture. Retain a few well-placed folds and soft daylight shadows, avoiding fragmented patchwork shading. The entire image should look freshly and cleanly drawn, not repeatedly filtered.
+
+Preserve the established character identities, faces, hair lengths, white star clip, current body scale difference, clothing colors, two adjacent beds, pillows, curtain, window, daylight, restrained emotional tone and wide camera composition. Only adapt Mo upper-body/arm pose as needed for a believable head stroke and reposition Su resting hands. Keep her face fully readable. Soft polished Japanese anime illustration; no photorealistic skin or textile texture, no film grain, no paper grain, no noise, no text, no labels, no watermark. Full landscape frame, high clarity.

@@ -1,0 +1,24 @@
+Use case: identity-preserve
+Asset: OP-FANG-01《方莜莜·合租屋的晚饭》v02. Create ONE revised landscape 16:9 anime illustration.
+
+Inputs:
+Image 1 is the kitchen illustration to EDIT. Preserve its composition, character positions, heights, cooking action, serving hands, plates, clothes, warm light, cool evening window and reassuring mood.
+Image 2 is Su Yuqing's approved summer face, chin-near HAIRCUT and pink-white costume reference. It applies ONLY to the smaller character on image right.
+
+Main requested change — Fang Youyou on the LEFT:
+Keep her gentle, feminine and approachable presentation. For this specific fictional character, the user requests a small amount of androgynous facial structure. Give her a slightly longer soft oval face, a gently more defined lower jaw and chin, straighter natural brows, a subtly clearer nose bridge, and a little less vertically round eyes. These are modest changes, not a severe transformation. She should look calm and tender while concentrating on the food, with a restrained small smile. Make her face noticeably distinct from Su's small soft face.
+Keep the rendering fully soft anime; define the nose and jaw through economical lines and gentle shading, not realism. Do not give her a heavy square jaw, deep brow ridge, rugged features, wrinkles, beard, mustache, exaggerated neck anatomy or a stern expression. Keep her familiar natural shoulders and slight frame at approximately 160 cm. Do not make her tall or muscular.
+
+Hair correction:
+Fang LEFT: shorten the side and back layers to neat EAR-LEVEL dark fragmented short hair. Remove the long locks hanging beside the lower cheeks and down the back of the neck. Keep soft irregular bangs, some visible ear contour and a tidy nape. Her hair should clearly be shorter than Su's summer haircut.
+Su RIGHT: match Image 2's approved haircut closely. Extend the side locks around the cheeks toward the lower jaw, with the longest front-side tips nearly at the chin, and a slightly longer nape. Keep a fluffy natural short shape and fragmented bangs. Do not retain Image 1's ear-level pixie shape. Preserve her exact recognizable face, brown eyes, single ivory star clip in the same place, gentle expression and pink-white dress. No ponytail, no wig. Do not masculinize or redesign Su in this edit.
+
+Kitchen adjustment:
+Preserve the layout and positions of stove, counter, refrigerator and window, but simplify their finish into a modest, clean 2004 small-town Chinese rental kitchen: plain pale square tiles, an ordinary gas stove, a basic metal extractor hood, simple flat cabinet doors with small practical handles, unpolished practical worktop, plain single-lever tap and straightforward metal rack. Reduce the premium cabinetry, designer hardware and polished stone appearance. It should remain tidy and cared for, never shabby or ruined. Simplify photographic-looking texture and reflections into the same clean illustrated style as the characters. Preserve the practical warm light and cool evening outside; no added props or people.
+
+Invariants:
+Same two people and same domestic scene. Fang wears the same muted sage-grey short-sleeved T-shirt and dark trousers; Su wears the same pink dress with white collar/cuffs. Fang still serves cooked vegetables onto the plate at the worktop while Su offers the next empty plate with both hands. Preserve sound anatomy, all four arms/hands, utensil grips and the original unambiguous plate positions. Keep Fang only about 10 cm taller than Su, accounting for their small depth difference. Do not enlarge either character. Keep subtle steam and quiet warmth.
+
+Style:
+Delicate soft anime linework, clear shaded color planes, modest highlights, gentle warm/cool lighting shared by people and environment. Restrained facial expression, no caricature, no photoreal skin. Maintain the visual-novel art style rather than turning the image into a photo.
+No text, no lyrics, no captions, logos or watermark. One image only.

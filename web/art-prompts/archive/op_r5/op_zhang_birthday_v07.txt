@@ -1,0 +1,16 @@
+Use case: identity-preserve
+Asset: OP-ZHANG-01《张思凡·草地上的二十岁生日》v07, visual novel opening illustration.
+Make ONE edited image.
+Image 1: v06, the scene to edit.
+Image 2: v02, reference for the desired soft, gentle face rendering.
+
+Change ONLY the face of Zhang Sifan, the taller twenty-year-old woman on the RIGHT with shoulder-length golden hair, closed eyes and clasped hands. The user has repeatedly said the face in image 1 is still too hard and wants it softer. Make a CLEAR, readily visible change this time rather than another barely visible adjustment.
+
+Bring her facial gentleness close to image 2:
+Use a smoothly rounded oval face, fuller soft cheeks and a rounded chin. Remove the angular jaw corners and the long sharp nose-shadow line. Draw the nose in the soft anime manner of image 2, with a small rounded tip and very light shading. Give her fine, low-contrast eyebrows following a relaxed nearly straight line, without a strong brow ridge, pronounced frown or heavy angular brows. Use soft curved closed eyelids and a gentle small smile. Her face should look warm and tender while making her birthday wish.
+Retain only restrained individuality: an oval face slightly longer and a nose subtly more defined than the petite dark-haired character's. Do not reintroduce a rugged jaw, heavily structured brow or large shaded nose. Keep Zhang an adult young woman; do not make her face identical to Su's or turn her into a child.
+
+Keep the head size, tilt and position exactly as image 1, blending the new gentle facial contours naturally beneath the same golden wig and warm candlelight. Keep the wig, clothing, body, hands and pose unchanged.
+Keep ALL of the shorter dark-haired character on the LEFT unchanged, including face, star clip, ponytail wig, red-and-white outfit and height.
+Preserve image 1's entire starry-night landscape, lake, distant lights, container house, grass, cake table, candle arrangement, cool/warm lighting balance and wide framing. No zoom, no crop, no new objects, no additional characters, no words, no watermark.
+Match the existing soft anime visual-novel style.

@@ -1,0 +1,22 @@
+Use case: identity-preserve, style-transfer.
+Asset: CH-SU-01 | 苏雨晴·离家前基础立绘 v08 · 轻度动漫化.
+Create exactly ONE full-body character sprite by editing the FIRST attached image.
+
+INPUT ROLES:
+Image 1 (su_home_neutral_v07_alpha_v01): the sole CHARACTER EDIT TARGET. Preserve this particular person's identity, silhouette, body proportions, hairstyle, outfit, stance and framing.
+Image 2 (bg_street_v05): approved BACKGROUND PAINTING STYLE REFERENCE ONLY, to show the project's slightly more anime-drawn color language. Do not put the street or any background objects into the output. The result is one isolated character, NOT a character-and-scene composite.
+
+CHARACTER INVARIANTS:
+Su Yuqing is a short, petite 15-year-old Chinese girl, about 149 cm in-world, with the exact natural proportions of Image 1. Keep the same head-to-body ratio, shoulder width, face shape and jaw; do not make her taller, longer-legged or chibi, and do not make her eyes or head disproportionately larger.
+Keep the chin-length, softly inward-curving black bob and bangs, the same hair length, parting and silhouette. Preserve the small ivory star hair clip at the same side and position (viewer-left). Preserve dark-brown eyes and a quiet, reserved neutral expression.
+Keep the same clean outfit: a loose pale mist-blue zip-front hooded casual jacket worn open, an ivory/white crew-neck T-shirt, dark-indigo straight-leg jeans, and ordinary plain white low-top lace-up shoes. Same hood, zipper placement, pockets and cuff/hem structure. Modest everyday fit, no change to clothing design, no new accessories, no makeup or jewelry. Keep both arms naturally down and hands visible, the same standing posture, feet positions and full-body crop with margins.
+No cap, backpack, luggage or extra prop in this INDOOR base sprite.
+
+REQUESTED RENDERING CHANGE:
+Make the character visibly one step more anime-styled and cleanly hand-drawn, to fit a polished Chinese urban visual novel. Use delicate, confident colored linework: dark grey/brown contour lines, thinner facial and garment interior lines. Simplify nose and mouth rendering while preserving her recognizable face and restrained expression.
+Group hair into clearly designed larger locks, with one or two broad restrained highlight shapes; remove the numerous photorealistic strands, glossy streaks and microscopic hair texture. Maintain black hair, not a new color.
+Use clean local colors with two or three main shadow/light families for skin and clothes, with narrow soft transitions where needed. Remove photographic pores, fabric weave, denim grain and dense micro-wrinkles. Keep the main folds that explain the same loose jacket and straight jeans. Preserve depth with designed cel-like shadows and a little soft reflected light, not a plastic 3D surface. The character should be a little crisper than a painted visual-novel background.
+Keep the muted mist-blue/ivory/indigo palette, healthy natural skin and gentle neutral lighting. The effect is moderate anime illustration, not a different face or costume, not super-deformed cartoon, not hyperrealism, and not a fashion makeover.
+
+OUTPUT:
+ONE isolated, complete head-to-shoes sprite, portrait canvas matching Image 1's 1024x1536 proportions. Retain comfortable top/bottom margins and centered placement. Genuine transparent background with an actual alpha channel, preserving antialiased edges: no painted checkerboard, no white/grey/black rectangle, no environment, no floor, no cast shadow, no text, no labels, no UI, no watermark, no character sheet or alternate poses.

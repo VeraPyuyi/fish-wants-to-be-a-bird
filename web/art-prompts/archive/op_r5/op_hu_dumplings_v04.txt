@@ -1,0 +1,23 @@
+Use case: identity-preserve
+Asset: OP-HU-01《胡玉牛·雨天厨房里的面点》v04.
+Edit the supplied kitchen illustration into ONE image. Preserve the two-character arrangement and the room.
+
+PRIMARY CHANGE — make Hu Yuniu a LITTLE LESS BURLY.
+The user finds the adult on the left too bulky and his face too heavy. Moderately slim him while keeping him tall and recognizably the same kind person:
+- Narrow the cheeks and lower jaw a little; use a soft square-oval face, not the very wide blocky face in the input, and not a sharp V-shaped chin.
+- Reduce shoulder span and chest bulk by about 10–15%, with a naturally looser T-shirt drape.
+- Reduce the thickness of upper arms and forearms by about 15%; smooth out exaggerated muscular contours. Keep capable ordinary adult arms and work-worn hands, not bodybuilding proportions.
+- Keep his height, head position, short dark hair, light beard shadow, dark brows and quiet gentle expression looking down at the food. He should remain clearly taller and broader than Su, but feel like a tall solidly built ordinary adult rather than a very muscular giant.
+Allow the shirt/body outline to be redrawn for these reductions; do not just change shadows. Maintain the existing scene's perspective and natural anatomy.
+
+SECOND CHANGE — genuinely redraw Su Yuqing's side hair to cover her ears.
+She is the petite figure at the right in the pale-blue shirt. Her face, brown eyes, bangs, ivory star hair clip, head position and body are invariant, but her SIDE HAIR IS NOT: it must change.
+Replace the short tucked-behind-ear side hair with fuller downward-hanging dark locks that lie IN FRONT OF the ears. Cover almost the entire visible ear on the viewer-right side, leaving at most a small lower-ear sliver. Extend both side locks to earlobe level and add a little soft nape length. This is still ear-length short hair, well ABOVE THE CHIN, not a long bob.
+The new ear-covering silhouette must be visibly different; do not reproduce the exposed ear from the input.
+
+THIRD CHANGE — a recognizable half-moon dumpling in Hu's hands.
+Redraw the food and adjust fingertips as necessary. One hand supports a small elongated crescent JIAOZI from BELOW, the other pinches along the top curved edge. Show its long curved pleated seam SIDE-ON, with a visible tapered end on each side. Width about twice its height. No round gathered pouch, no top knot, no bun shape. This is the same kind of half-moon dumpling as those already on the plate. Keep realistic small scale and natural fingers.
+Leave the plate's half-moon dumplings and open-top shumai unchanged.
+
+Preserve everything else: the characters' positions and head-height relationship, Su's identity, face, expression, body, clothes and star clip; Hu's shirt color, trousers, gentle attention; counter, board, bowls, rolling pin, dough, steamer, stove, rain window, cabinet layout and lighting.
+Soft clean anime visual-novel style, gentle warm indoor light against cool rainy afternoon. No photorealism, no text, labels, logos, new characters, crop, zoom or new objects.

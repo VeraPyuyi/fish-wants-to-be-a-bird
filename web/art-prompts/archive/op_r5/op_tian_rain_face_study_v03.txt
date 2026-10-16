@@ -1,0 +1,14 @@
+Use case: identity-preserve
+Asset: OP-TIAN-FACE-01 v03, Tian Yuyao facial confirmation study.
+Edit the supplied v02 close-up. The user says it STILL NEEDS TO BE SOFTER. Make a visible, moderate softening of the face while retaining the established boyish features, narrow watchful eyes and pale complexion.
+
+Facial changes:
+1. Shorten the lower face a little and give the cheeks a gentler, slightly fuller curve. Replace the sharp jaw-to-chin angle with a smooth rounded connection and a short rounded chin; keep a natural, not tiny, chin width.
+2. Reduce the density and edge hardness of the eyebrows slightly. Keep their natural straight shape and direction; do not arch them or make them thin feminine brows.
+3. Soften the nose-tip outline, nose-side shading and brow-root shadow. Keep a clearly defined natural bridge and recognizable nose, but remove the stern sculpted effect.
+4. Relax the closed mouth and tense mouth corners into a calm, softer neutral expression. Keep the intent slightly defiant sideways gaze; do not change into a large smile or scowl.
+5. Reduce the harshness of neck and jaw shadows without changing the slender neck shape.
+
+The result should be recognizably the same petite character with a gentle boyish face — less mature and hard-edged than v02, still with clear brow/nose structure. No oversized round eyes, decorative lashes, blushing cheeks, makeup or tiny button nose. No beard or wrinkles.
+
+Preserve head angle and size, camera framing, pale skin tone, exact cap and hair arrangement, dark low ponytail, dark coat and gray sweater, blue-gray canopy and rainy background. Change no scene objects. Keep clean anime linework and smooth painted shading. No added noise, grain, global blur, text, new props or watermark. One coherent revised close-up.

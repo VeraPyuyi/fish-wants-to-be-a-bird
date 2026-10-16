@@ -1,0 +1,22 @@
+Asset: CG-S12-03《去租屋的路上·一声小晴》v01
+Use case: identity-preserve / precise facial-expression edit
+Output: exactly ONE 16:9 visual-novel scene variant of the attached approved image.
+
+SOLE EDIT TARGET: cg_s12_rental_walk_su_cap_off_hesitant_v01.png. Treat this as a tightly localized change to the two existing facial expressions. Do not create a new scene or recompose anything. Keep the original camera, framing, character sizes and positions, head shapes and angles, all body poses, clothes, limbs, hands, held objects, street and lighting. Make the non-face portions as close to the original as possible.
+
+Story moment: Su has removed her navy cap and explained herself. The kindly noodle-shop owner moves on from brief surprise, compliments her, asks her name and gently calls her Xiaoqing. Su is relieved by the ordinary kindness, still shy about her name. This image serves the gentle name-exchange conversation, before they reach the rental-house alley.
+
+CHANGE ONLY THESE FACIAL EXPRESSIONS:
+• Zhang Ayi, the middle-aged woman on the right: change the small surprised open mouth to a relaxed, warm, modest CLOSED-MOUTH smile; soften the eyebrows and eyelids into an attentive, friendly look toward Su. Her face must remain the SAME short-haired early-forties woman, with no younger-face redesign, exaggerated grin, teeth, wink or closed eyes. Kind, matter-of-fact acceptance, not dramatic pity or surprise.
+• Su, the petite teen on the left: retain the current slightly lowered head and shy gaze direction, but soften the tense brows and eyes. Change the hesitant slightly parted lips to a tiny CLOSED-LIP smile, just a gently lifted mouth corner. Keep a restrained natural blush. She is quietly reassured and a little bashful, not suddenly exuberant. Keep her EXACT eye shape, face silhouette, youthful head size, approved chin-length black bob and ONE small pale star hair clip. Do not turn her face to a new angle, enlarge the eyes, add tears, close her eyes, or make her look at the camera.
+
+ALL OTHER CONTENT IS LOCKED:
+• Su remains short and small beside Zhang, in the exact same approved screen positions, relative height, narrow-shouldered body and walking stance. No growth, elongated arms, adult-model proportions, new pose or new clothing.
+• Her screen-left hand remains on the suitcase crossbar at the same position; her formerly free screen-right hand still grips the SAME SINGLE navy cap near its upper crown at her lower abdomen/hip. Preserve the complete hat's bill, size, shape and orientation. Do not put a hat back on her head, change hands, alter her grip, loosen/drop the cap, or add a second hat.
+• Keep the light-blue hoodie, off-white shirt, dark-blue trousers, white sneakers, ONE navy backpack, closed off-white wheeled suitcase, two cute cat stickers, telescoping rods, hands, fingers, feet, all visible wheels and shadows as they are.
+• Zhang's short dark-brown hair, brown cardigan, beige collar, blue-gray apron, dark trousers, black shoes, both arms/hands and entire body pose remain unchanged. NO touching Su: no head pat, shoulder pat, reaching hand, holding hands or arranging her clothes. These are brief source actions omitted in the existing condensed game script; this static variant only changes their expressions.
+• Keep the exact background camera and road perspective, original left 大众小吃 sign and food stall, right 便民商店, all buildings, trees, wires, parked motorcycle/bicycle, customers and ordinary passersby. Do not remove or add background people, invent an alley or apartment, change the time, or repaint materials. No landlord, mahjong, courtyard, lease or keys yet.
+
+Style: preserve this same coherent, slightly anime two-dimensional visual-novel illustration. Both characters retain matching linework and soft shading. Keep dusk illumination and colors; avoid photographic skin, 3D gloss, added grain, strong blur, new light effects or global texture/style changes. Preserve the girl's existing face and hair instead of regenerating her as a new character.
+
+No textboxes, dialogue text, nameplates, captions, border, collage, logo or watermark. Preserve only the existing in-scene shop signs. One image only; the user must approve it before any further variant.

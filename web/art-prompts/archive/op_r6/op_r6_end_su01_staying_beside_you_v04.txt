@@ -1,0 +1,12 @@
+Use case: precise-object-edit.
+Asset OP-R6-END-SU-01 v04. Localized repair of the two clasped hands.
+Image 1 is the exact EDIT TARGET. The user's complaint is the confusing hand anatomy at the LOWER CENTER between the beds. REPLACE that local hand shape with a newly drawn, simple, anatomically readable gentle hold. Do not reuse the existing oversized knotted hand outlines.
+
+HAND ARRANGEMENT:
+The petite woman's inner forearm comes diagonally from the LEFT bed. Continue that forearm smoothly into ONE slim wrist and ONE small relaxed hand, scaled consistently with her other hand resting on the blanket. Her small hand is palm-down, fingers softly together and lightly curved.
+The man's inner forearm comes diagonally from the RIGHT bed. Continue it smoothly into ONE wrist and ONE slightly larger hand, palm turned upward underneath hers. His palm supports her hand; his thumb rests gently over the side/back of her hand near its base. His other fingers curve quietly underneath and may be partly hidden by her palm. This is a gentle supportive clasp, NOT a handshake grip and NOT woven/interlaced fingers.
+Clearly show the two wrists entering from opposite sides. Distinguish their skin tones slightly: her hand softly pale, his a little warmer. Maintain anatomically sensible thumbs, knuckles and joints, five digits per hand with natural occlusion; do not force all ten fingers to be separately visible. No duplicate thumb, merged fingers, disconnected palm, extra wrist, bent-back finger or fist-shaped lump.
+The combined hands should look modestly sized, not a giant ball between them. The reach from both elbows must be comfortable; make only small local forearm corrections needed for continuity. Preserve the overall clasp location between the beds, above the blanket edge.
+
+LOCK the rest of the illustration: both faces, expressions, Su's current petite body scale, long dark hair and star clip, Mo's head and body size, patient tops, their two FREE hands on the blankets, pillows, bed geometry, curtains, window and lighting. Do not change heads or body proportions in this pass. No added medical equipment, objects, text or watermark.
+Use the same clean soft anime linework and simple shading; draw readable smooth hand silhouettes rather than hyperreal skin detail. Return the SAME complete opaque 16:9 landscape image, not a crop or isolated hand sheet.

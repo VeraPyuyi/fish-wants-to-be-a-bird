@@ -1,0 +1,14 @@
+Use case: text-localization.
+Asset type: Existing Chinese visual-novel full scene CG, CG-S12-01 v03《去租屋的路上·有人同行》招牌文字校正.
+Input 1 is the complete EDIT TARGET. Input 2 is a fixed facial-identity reference ONLY for checking that Su's existing identity is not altered. Do not copy its old bob, frontal pose, background or visible clip into the scene.
+
+Make ONE very small correction in image 1: correct the TOP red Chinese character on the narrow vertical cream shop sign immediately to the RIGHT of the large horizontal “大众小吃” sign. This small vertical sign is near x=46% of image width and y=45% of image height, mounted on the shop's right door pillar.
+The vertical sign must read EXACTLY, top to bottom:
+嵌
+糕
+
+The target of this edit is the first glyph “嵌” (Unicode U+5D4C). Render the standard, accurately structured Chinese character, with 山 as the TOP component and 甘 on the LOWER LEFT plus 欠 on the LOWER RIGHT. “山” is ABOVE the lower components, not a left-side radical. Keep the lower character “糕” unchanged. Draw the corrected glyph as clear, ordinary dark brick-red sign lettering, matching the existing lower glyph's scale, ink color, weight and age. Retain the exact sign's small rectangular size, placement, perspective and cream backing. Do not replace it with any similar-looking character, garbled strokes or invented lettering.
+
+STRICT LOCAL EDIT: change only that erroneous top red character and the minimal background immediately under its strokes. Preserve the ENTIRE remaining image as faithfully as possible. Do not repaint or redesign the right-hand people or any faces. Su's current approved small stature, short visible hair beneath the navy cap, upward gaze, facial features, blue hoodie, off-white shirt, dark trousers, single backpack, free lowered hand and suitcase-handle grip must stay exactly as in image 1. Her single hair clip stays hidden by the cap. The taller woman's face, gaze, apron, brown cardigan, hands and walking pose remain unchanged. Keep the closed cream rolling suitcase, two cute cat stickers, wheels, shoes and contacts in their original places. Keep all background diners, vendors, pedestrians, bicycles, trees, buildings, wires, warm dusk light and anime illustration finish unchanged.
+Do not change the other words “大众小吃” or “便民商店”, any door numbers or any other sign. Do not add text, subtitles, labels, borders, watermarks, characters or objects.
+Output the corrected COMPLETE scene in the same original 1672×941 landscape composition; no cropped sign-only output, no enlargement of the sign, no layout or camera changes.

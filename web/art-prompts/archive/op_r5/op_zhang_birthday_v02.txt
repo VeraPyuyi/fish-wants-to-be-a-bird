@@ -1,0 +1,22 @@
+Use case: identity-preserve
+Asset: OP-ZHANG-01《张思凡·草地上的二十岁生日》v02. Produce ONE revised 16:9 landscape visual-novel illustration.
+
+Edit target: the supplied birthday picture (v01). Keep these same two recognizable characters, their relative height, hair, clothing colors, outdoor birthday event and soft anime drawing style. This revision is specifically about poetic composition and a quieter emotional reading: loneliness beneath a starry sky, with a small circle of companionship.
+
+Change the camera and emotional emphasis:
+Pull the camera back moderately, placing the two people and small cake table together in the lower center-right. Let the upper roughly 40–45% of the frame breathe as a deep blue night sky with a few delicate, naturally scattered stars and soft sparse clouds. The sky should feel spacious and quiet, not a dense magical galaxy. Keep both faces readable and large enough for a character-introduction video. Maintain natural perspective and grounded contact, not tiny figures pasted into scenery.
+The lake and a few very distant residential lights form a low horizontal background on the left. Those lights feel far away. Keep the converted container home low, dark and secondary toward the right; simplify it to the same modest raised rectangular home with glass doors/windows and painted metal walls. Do not enlarge it into an upscale chalet.
+A small warm circle of light from the cake gathers the two people within a much larger cool, quiet space. This is the emotional visual metaphor: a person who was lonely has someone staying beside her.
+
+Character continuity and acting:
+Zhang Sifan remains the distinctly taller 20-year-old woman, approximately 170 cm, with the same recognizable oval adult face and golden-blonde shoulder-length wig. Retain her black long-sleeved gothic bodice, restrained lace edging, red skirt and dark tights. Reduce the billowing volume of the sleeve body toward the source's closer-fitting sleeves, while keeping the costume recognizable. Her eyes are softly closed for the birthday wish, head gently bowed, smile reduced to a tiny restrained, bittersweet expression. Suggest loneliness easing in another person's company, without tears, theatrical anguish or an exaggerated frown. Her clasped wishing hands stay anatomically clean.
+Su Yuqing remains the same petite approximately 149–150 cm teenage character, with exactly the same small soft face, brown anime eyes, ivory star hair clip, long black ponytail WIG over one shoulder, white-and-pink attached wide sleeves and red skirt with narrow black hem. Preserve her approved costume and youth-appropriate proportions. She stands close by on the same ground plane and looks toward Zhang with quiet care. Her mouth is only slightly open as she softly sings, not a broad cheerful grin. Keep her hands simply resting together. Do not add touching, embracing or a new story action. Preserve the clear height difference.
+
+Birthday details:
+Retain an ordinary small wooden outdoor table and the modest cream cake with cream mouse/flowers and chocolate edge. There should be exactly twenty small slender lit candles, separate where possible, not a large bonfire. The candlelight is the primary warm face light; give subtle cool night fill for legibility, never flat daylight. No other prominent lamps. The cake and table are context, not a big foreground product photograph.
+
+Drawing and mood:
+Match the same polished soft Japanese anime illustration: thin clean lines, gently simplified forms, clear shaded color planes, restrained warm/cool palette. Simplify the grass, water and building textures to match the characters. No photoreal surfaces, cinematic lens flares or excessive bloom. The scene should read as tender, slightly sad, spacious and hopeful rather than a cheerful birthday poster. Leave usable quiet sky for later typography, but render no typography now.
+
+Invariants and avoid:
+Only these two characters. Preserve their face designs, wigs, Su's single star clip, main costume colors and event period (early spring 2004). Do not turn Su back into short natural hair. No new people, no fantasy objects, no symbolic falling stars, no city skyline, no dramatic tears, no text, no song lyrics, no labels, no logos, no watermark. Keep hands and furniture overlap correct.

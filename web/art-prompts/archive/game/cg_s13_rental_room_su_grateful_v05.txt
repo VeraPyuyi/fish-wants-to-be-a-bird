@@ -1,0 +1,20 @@
+Use case: identity-preserve, precise-object-edit.
+Asset: CG-S13-03《出租屋·谢谢你，张阿姨》v05.
+ONE hair-only revision of the central teenage character in the complete rental-room illustration.
+
+Image 1 is the SOLE WHOLE-SCENE EDIT TARGET: cg_s13_rental_room_su_grateful_v04.png. Keep this entire gratitude composition and all faces, expressions, poses, body sizes, people, objects, framing and light. The central petite girl looks UP-LEFT toward Zhang in the brown cardigan and blue apron, with a small warm relieved smile.
+Image 2 is the APPROVED HAIRCUT REFERENCE: su_early_crewcut_reference_v02.png. Use its short black crop, short fringe, exposed ears and very short side/nape hair. Adapt the haircut to the girl's existing leftward three-quarter head angle in Image 1. Do not import the frontal pose or checkerboard.
+Image 3 is the FIXED FACIAL IDENTITY reference only: su_home_neutral_v09.png. Preserve the recognizable gentle oval face, narrow almond brown eyes, restrained irises and natural lower-face/chin spacing already present in the target. Its old bob is NOT a hair reference.
+
+Required visual change, CENTRAL GIRL ONLY:
+Completely replace the chin-length bob in Image 1 with the cropped black hairstyle in Image 2. Remove the entire hanging curtain of hair behind the near ear, along the jaw, and over the nape/hood. The side hair ends around the upper rim of the visible ear; the ear and the skin behind/below it must read clearly. The nape is short and exposed: absolutely no curled-in bob ends touching her neck, jawline, collar or hood.
+Keep a softly textured close short crown and a very short uneven fringe well above the eyebrows, following Image 2. Do not preserve a rounded bob shell, long bangs or a sweeping pixie fringe. This is a short crop with visible black hair, not a bald head. Keep skull size and head position unchanged; reduction of the old hair mass is intentional. Reconstruct only the small newly exposed skin/background areas behind the removed hair, with the existing sunset shading.
+
+Keep ONE small cream star hair clip on its ORIGINAL anatomical right side, the FAR SIDE near the SCREEN-LEFT edge of her head in this leftward gaze. Keep it readable, slightly inset against the remaining short hair rather than floating outside the silhouette. Do not move it to the near screen-right ear, do not mirror, duplicate or hide it. A tiny adjustment within the same hair area for contact is allowed; do not change the face angle to relocate it.
+
+Strict preservation:
+Keep the central girl's exact grateful facial expression, the existing small parted smile, restrained almond eyes/irises, eyebrow shape, youthful oval face and gaze at the taller LEFT woman. No looking at the viewer/right landlord, no eye enlargement, doll cheeks, face shortening, new tears or wide grin. She remains the same petite fifteen-year-old. Do not redraw the body to be taller, shorter or more childlike.
+Preserve her mist-blue hoodie, ivory shirt, dark jeans, white shoes, backpack straps, current short-arm proportions and stance. Screen-left hand stays on the white suitcase grip; screen-right hand holds the navy cap. Freeze hands, suitcase handle/body/two existing cute cat illustrations/wheels, cap, backpack and foot contacts.
+Preserve both adult women completely, including faces, hair, gaze, smiles, clothes, gestures and scale. Preserve the bathroom doorway/sink/mirror, window and exterior buildings, cupboard, empty table/chair, bare wooden bed and boards, wall lamp, floor shadows and warm sunset. Repair only pixels directly exposed by removing Su's old hair.
+
+Same clean drawn anime visual-novel linework and soft warm shading. No photoreal skin or texture, no new object, text, UI, watermark, collage, inset, comparison or checkerboard. Output ONE full scene with the same 1672x941 framing/aspect as Image 1. The requested edit is Su's cropped HAIR, not an expression or scene redesign.

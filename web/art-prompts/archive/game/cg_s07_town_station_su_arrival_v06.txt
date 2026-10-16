@@ -1,0 +1,17 @@
+Use case: precise-object-edit / identity-preserve.
+Asset: CG-S07-01《小城站前·初抵陌生城市》v06.
+Edit the supplied v05 image into ONE revised 16:9 illustration.
+
+The user's requested change is ONLY Su Yuqing's overall scale, especially compared to the older woman on the RIGHT. Su is currently too large. Keep this exact station scene and all other people's sizes unchanged.
+
+Make Su — the navy-cap girl in the pale blue hoodie near centre-right — clearly smaller and more petite relative to the older woman:
+- Reduce Su's whole figure to about 80–83 percent of its current height and width, retaining her existing normal head-to-body proportions. This is an overall scale correction, not a new face, big-head chibi redraw or shortening only her legs.
+- Keep her shoes on the same nearby foreground ground area; do not merely move the large figure downward or farther into the station. Preserve her slightly closer position to camera than the older woman, but her cap top should now sit a little LOWER on screen than the older woman's head, instead of much higher. This gives an understandable small stature even with the depth difference.
+- For orientation only, in the 1672x941 reference Su spans roughly y300 to y865. Aim approximately y400–410 to y865 after resizing; the older woman stays around y380–810. This is a composition guide, not an exact physical height measurement. The key is a visibly smaller Su and an unchanged adult woman.
+- Scale Su's navy backpack, ivory cat-sticker suitcase, pull handle, both arms, cap and hands coherently with her. Keep the suitcase a normal compact travel case. Move the reduced case a little closer to Su as needed so her left hand still naturally grips the handle.
+- Rebuild the small newly uncovered pieces of pavement/background cleanly. Update the soft contact shadows and restrained wet-ground reflections beneath her shoes and suitcase so she and the case remain firmly on the same ground, with no floating feet or stretched reflection.
+
+Strict invariants:
+Preserve Su's recognizable face, eye shape, short dark hair under the cap, calm uncertain leftward gaze, closed lips, blue hoodie/white T-shirt/navy trousers/light sneakers, navy backpack and the two existing cute cat suitcase stickers. Right hand continues touching the OUTSIDE side panel of her cap above the ear; ear, hair, neck and fingers remain separate. Preserve the exact standing gesture; no phone.
+Do NOT enlarge, shrink, reposition or redraw the older woman in the burgundy jacket, the taxi rider or any other bystander. Keep the entire approved station layout, camera, windows, round windows, “出站口” sign, right “副食品” shop and awning, left street, bus, bicycle row, planters, tree and mountain positions unchanged. Same overcast sky, cool diffuse afternoon light and wet square.
+Clean soft anime rendering, consistent linework, clear anatomy, low noise and no new texture. No zoom, canvas crop, new characters, new text, UI, watermark, collage or border. Make the requested relative size change clearly visible while preserving all identities and the scene.

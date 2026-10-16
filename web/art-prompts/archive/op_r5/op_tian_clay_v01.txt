@@ -1,0 +1,24 @@
+Use case: illustration-story.
+Create ONE finished 16:9 horizontal visual novel illustration, target 1920x1080, for OP-TIAN-01 v01, "天语遥·掌心的软陶女武神". This title is production metadata only; put no title or captions in the illustration.
+
+REFERENCES: Both supplied images are STYLE REFERENCES ONLY, showing this game's soft Japanese anime linework, gentle color shading, and coherent illustrated environments. Do NOT copy either depicted character, hairstyle, costume, star clip, body shape or balcony composition. Create the distinct character Tian Yuyao described below.
+
+SCENE:
+An early-spring rainy, cold MORNING in a modest Chinese bedroom of the mid-2000s. Tian Yuyao is alone, sitting naturally at her wooden desk, quietly working on a small polymer-clay figurine. Compose a cinematic medium-wide three-quarter view that clearly includes her face, both hands, the little figurine, and enough of her personal room to feel lived in. Her calm focused face and careful hands form the visual center. Natural seated anatomy, believable chair/desk height and contact, no floating limbs.
+
+TIAN YUYAO:
+An 18-year-old young woman with a softly androgynous, delicate oval face, relatively SMALL monolid eyes, subtle straight brows, a natural nose, narrow shoulders and slender ordinary adult proportions. She is visually distinct from the round-cheeked, large-eyed Su Yuqing and from the twin-ponytail Lin Xichen. Do not give her very large round anime eyes or a tiny child's proportions. Her expression is quiet, thoughtful and a little stubborn: gently lowered brows and attentive eyes as she checks her handiwork, not a broad smile or glamorous pose.
+Hair: nearly black with faint warm-brown remnants, a short, small SINGLE ponytail tied simply at the nape; soft loose strands around the face, not twin tails, not a long flowing ponytail. No star hairclip, no cat-ear headband, no elaborate accessories.
+Clothes: a plain opaque, loose cream long-sleeved home sweater and grey-blue long trousers. Comfortable, modest clothing suitable for a cold day, relaxed fabric and natural folds.
+
+ACTION AND KEY PROP:
+On the desk near her hands is a SMALL hand-crafted clay figurine, around palm-sized, not a life-size person. It is an original fantasy female warrior wearing full modest armor, holding a little clay sword. Crucially, the figurine has TWO unmistakable CAT EARS and ONE curved CAT TAIL extending visibly beside it, and NO WINGS attached. Its tiny sculpture material is matte pale grey clay, with simple modeled details, not shining real metal or a magical being.
+One of Tian's hands steadies the figurine's small base while the other carefully touches/adjusts the last cat ear with a small sculpting tool, keeping the ear silhouette readable. Hands should be anatomically clear; no extra fingers, fused tools or impossible grips. The sword, the two ears and the curved tail must all remain visible.
+A small pair of discarded clay wings lies flat and separate on the desk off to the side, showing her earlier rejected idea; they are clearly not attached to the figure. A few clay scraps and simple wooden sculpting tools are sufficient. Do not clutter the desk.
+
+ROOM:
+A normal mid-2000s desktop computer with a modest old-style monitor, keyboard and mouse sits farther along the desk. If its screen is seen, show only a faint period desktop/chat-window layout, with NO readable conversation, personal data or character portrait. A plain bookshelf holds books and a few tiny finished clay pieces. A standing mirror is angled to reflect a quiet patch of the room/furniture, not another person. Everything is plausible, tidy but lived in, neither luxury-modern nor an antique shack. No smartphone, tablet, ultrathin modern laptop, RGB gaming setup, modern branding or readable calendar year.
+Through the window, soft cold grey rainy daylight and wet neighborhood buildings; no sunset and no blue summer sky. A simple desk lamp supplies a small, gentle warm pool of light on the clay and hands, balancing the cool morning; the room should feel quietly personal, not gloomy or eerie.
+
+STYLE / COMPOSITION:
+Use the references' soft anime rendering throughout the person, furnishings and outdoors, no photoreal textures or 3D rendering. Subtle expressions, delicate lines, clean anatomy, restrained pastel color transitions. Place the face, hands and figurine safely away from the outer edges for later gentle video reframing; leave some natural background breathing room for a future name caption. Do not paint that caption now. Exactly ONE real person. No Su Yuqing, no additional visitors, no duplicated person in the mirror, no floating fantasy character. Cat ears and tail belong ONLY to the little clay figurine, never to Tian herself. No subtitles, logos, watermarks or UI overlays.

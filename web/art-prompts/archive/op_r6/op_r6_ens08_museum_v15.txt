@@ -1,0 +1,13 @@
+Use case: precise-object-edit. Clean up this existing anime visual-novel illustration without redesigning anything.
+Asset: OP-R6-ENS-08 国庆的博物馆门前 v15.
+
+Remove granular noise and tiny mottled patches from the five people's hair, faces and autumn clothes. Consolidate hair highlights into smooth locks and fabric shadows into tidy color areas while preserving real folds. Simplify fine cracks and tiny flecks in the stone paving, wall, roof tiles, tree leaves and background panels. Make the busy speckled leaf shadows on the ground and wall less fragmented, with cleaner larger light/shade shapes, keeping the sunny autumn dappled lighting. Retain the warm bright anime linework, depth and detail; no blanket blur, halos or photorealistic texture.
+
+LOCK THE EXACT APPROVED PEOPLE AND COMPOSITION:
+Screen far left: Zhang in dusty rose blouse and charcoal knee skirt, natural short hair, three-quarter back view, head naturally turned toward the left gate.
+Second from left: Fang in cream blouse and sage pinafore, natural short dark hair, adult face, head naturally oriented toward gate. Zhang and Fang are NOT holding hands; preserve their separated hands and original head/shoulder angles.
+Middle: Hu, tallest, in ochre overshirt and dark grey trousers, approved lean build and original unassuming face/profile, carrying backpack, walking toward gate. Keep his exact head/neck/shoulder proportions.
+Right rear: petite Su in pink cardigan, blue skirt and star hair clip, holding Lin's hand; Lin with twin ponytails, lavender shirt and navy skirt. Preserve the exact faces, head sizes, relative heights, gaze, connected handholding and footsteps.
+All five are ENTERING the museum, with Zhang/Fang leading, Hu in middle and Su/Lin behind. Keep the current camera, full-body framing, costumes, socks/shoes, bags, body shapes and walking queue. Do not make anyone younger or prettier, change head turns, add wigs, swap facial features or alter hand anatomy.
+
+Retain all architecture, visitors through the gate, coastal distance, trees, existing sky and museum name. Keep the sign text exactly: 叶族博物馆. No other lettering or watermark. Output the full same 16:9 view; noise/material cleanup only.

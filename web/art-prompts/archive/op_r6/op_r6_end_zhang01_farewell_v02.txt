@@ -1,0 +1,14 @@
+Edit the FIRST image only to create OP-R6-END-ZHANG-01《张思凡·挥别旧日》v02. This is a precise anatomy/proportion correction of Zhang Sifan, the ADULT MAN on the RIGHT in the light-blue short-sleeved shirt.
+
+Reference roles:
+Image 1 = the edit target, welfare-home farewell scene.
+Image 2 = approved Zhang Sifan identity and head-to-shoulder proportions, person in a yellow cap in the plaza. Do NOT copy the cap, costume or background.
+Image 3 = approved Zhang Sifan identity and delicate head/neck/shoulder construction, taller adult on the RIGHT of the birthday image. Do NOT copy the dress, other person or scene.
+
+Problem to correct: in Image 1 his head reads slightly small relative to the wide shirt shoulders/chest, and the neck/shoulder connection does not feel like the earlier approved illustrations. Restore the same elegant, gently androgynous anime adult proportions as the approved references. Enlarge his ENTIRE head (hair, skull and face together) modestly, approximately 8–10 percent, and subtly narrow his shoulder span/upper chest by about 5–7 percent. Bring the collar, neck and shoulder slopes into a natural anatomically connected relationship; modestly shorten the exposed neck as necessary. Make this an integrated drawing correction, not a pasted or detached enlarged head. Retain the same recognizable face, warm small smile, brown eyes and young adult maturity. No broader macho neck or bodybuilding shoulders, no baby face, no chibi proportions.
+
+Preserve his user-approved NORMAL handsome short dark hairstyle: softly side-swept with a little natural volume. No buzz cut, no flat-top, no cap, no wig. Keep his hair-top near the same vertical height, feet exactly grounded at their present positions, and overall height relationship: Dong Huohuo, the adult woman on his left, remains a little taller. The correction should change his head-to-shoulder balance rather than enlarge the whole man.
+
+Only make necessary local changes to Zhang's head, neck, collar, shoulder line and upper shirt. Keep his light-blue shirt, trousers, belt, wedding ring, gaze, hand resting near the child's shoulder, relaxed other arm, stance and shoes. Keep the woman and child EXACTLY unchanged in identity, hair, clothing, size, pose and expression. Preserve the existing whole frame, camera, courtyard, trees, metal gate, buildings, signs and lighting. Do not add anyone or anything, do not alter image text, do not crop.
+
+Match the clean soft anime visual novel rendering. Preserve crisp existing facial/clothing edges and full image clarity. No new grain, speckling, painterly noise, smoothing blur, photographic skin or 3D styling. Output one complete corrected landscape image at the same 16:9 aspect ratio, no annotation or comparison panels.

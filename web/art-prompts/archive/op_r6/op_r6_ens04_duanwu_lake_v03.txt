@@ -1,0 +1,14 @@
+Use case: identity-preserve.
+Asset: OP-R6-ENS-04《端午湖面》v03. One 16:9 anime illustration.
+
+INPUT is the EDIT TARGET. The user asks to change the four characters into a new coordinated set of clothes. Change their clothing ONLY, preserving all four faces, hair, star clip, physiques, proportions, poses, hands, paddle, boats, camera, daylight and the cleaned amusement-park background.
+
+NEW OUTFITS:
+1. SU, petite person in rear seat of the foreground orange kayak, touching water: a CREAM-WHITE short-sleeve sailor blouse with a muted BURGUNDY sailor collar edged in fine cream piping, a small matching burgundy neck ribbon, and a CHARCOAL-GREY neatly pleated skirt. The seated skirt remains naturally covered by the boat rim and her pose; no lifted hem or exposure. No long socks or tights. Preserve her current short hair and star hairclip.
+2. ZHANG, person waving in the more distant yellow pedal boat: wear the SAME cream-white/burgundy sailor blouse and charcoal pleated skirt as Su, appropriately fitted to Zhang's adult proportions. Keep waving arm, other hand, face and natural short hair exactly as in the target. No new wigs.
+3. FANG, foreground paddler: replace the ornate pale-pink flutter-sleeve dress with a modest ROSE-PINK knee-length shirt-dress. Small rounded collar, short lightly puffed sleeves, a few neat front buttons, a narrow matching fabric waist belt, and restrained pale lace edging at sleeve hems and skirt hem. Predominantly smooth rose-pink cloth, no dense all-over lace. Skirt drapes over seated knees and stays at the same hem coverage. Keep her exact paddle grip and shoulder/waist proportions.
+4. HU, seated beside Zhang in the pedal boat: a WHITE short-sleeve athletic polo with a narrow NAVY collar and navy sleeve-edge bands, DARK NAVY relaxed sports trousers, simple light trainers. No brand/logo. Keep the same tall lean build, face, sitting position and visible legs on pedals.
+
+This retains the novel's clothing categories for this outing (matching sailor outfits for Su/Zhang, pink lace-accented knee dress for Fang, sports casual for Hu). Exact new colours and cuts are user-directed design additions, not literal source details.
+
+Everything besides clothing must stay stable: all four identities, relative sizes and boat depth, clear hands, water contacts, background visitors and Ferris wheel. Preserve clean 2D anime contours and broad shaded colour areas; no added texture noise or photoreal material. No extra characters, added accessories, costume collage, text, watermark or border. Produce ONE full revised scene.

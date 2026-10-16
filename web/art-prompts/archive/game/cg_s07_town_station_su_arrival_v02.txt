@@ -1,0 +1,20 @@
+Asset: CG-S07-01《小城站前·初抵陌生城市》v02
+Use case: identity-preserve. One precise hair-only edit of an approved full scene.
+
+INPUT ROLES
+Image 1, cg_s07_town_station_su_arrival_v01: SOLE FULL-FRAME EDIT TARGET. This governs all staging, Su's face and body, gestures, suitcase, people, architecture and landscape. Do not rebuild the setting.
+Image 2, su_travel_guarded_v04_alpha_v01: approved PRIMARY SHORT-HAIR UNDER CAP reference. Transfer only its close cropped sides and clean nape to Su's turned head in image 1. Do not copy the frontal pose, face direction, proportions, glossy sprite finish or transparent background.
+Image 3, su_home_neutral_v09: fixed facial IDENTITY reference only. Retain the gentle oval teenage face, natural eye/nose/mouth/chin spacing. Its old bob is obsolete and must not be copied, nor its frontal pose, older body scale or checkerboard.
+Image 4, su_early_crewcut_reference_v02: secondary approved cropped-hair reference only. Confirm short close sides, but leave her cap on and preserve image 1's approved stature and gesture. Do not introduce a visible clip from this reference.
+
+CHANGE ONLY SU'S VISIBLE LOWER HAIR
+Su stands with her white rolling suitcase in the middle-right foreground, gazing to screen-left. Her screen-right hand is raised against the side of her cap; the other hand holds the suitcase handle. Below that cap and raised hand, image 1 still has a black bob curving around the ear and down toward her lower jaw/blue hood. REMOVE the hanging rounded lower hair and collar-level tips. Replace with close-to-head cropped short hair ending high around the ear and nape, as in image 2. Expose the visible lower ear and small neck area below/behind it, reconstructing appropriate skin or the existing scene where the bob was removed. No chin-length hair curtain, long black wedge down to the hoodie, or bob tucked behind the ear. Retain natural short fringe under the cap; no baldness.
+The raised hand partially overlaps the ear/hair: preserve every finger and its contact with the cap. Do not erase, shift, shorten or redraw the hand as part of the haircut, and do not change the cap shape or brim. The original-side single star clip remains naturally hidden by the cap. Do not put a new star on the cap or the other side.
+
+PRESERVE IDENTITY AND STAGING
+Keep exactly the existing side-face angle, gaze toward the unfamiliar streets, restrained uncertain expression, closed mouth and recognizable adolescent face. Keep her petite standing scale, modest shoulder width, short arms, pale blue hoodie, off-white top, dark jeans, white sneakers and navy backpack with straps. Keep the raised cap hand, the hand wrapped around the extended suitcase handle, both feet, wheels, pale hard-shell case and two cute cat stickers, pavement contact shadows and subtle reflections. She is paused and looking around, not walking, crying, smiling or talking to a new person. Do not enlarge her for facial detail.
+
+PRESERVE THE WHOLE APPROVED 2004 TOWN SQUARE
+Retain the right-hand two-storey station with its windows, stairs and entrance; the low old shop street on the left; wooded hills, varied trees, clouds, lamps, parked vehicles and bicycles; the damp gray paving and cool overcast daylight. Keep the motorcycle driver and customer on the left, central greeting pair, travelers at the station doorway and distant streets, and the distant lodging caller on the right in their existing poses. No added or removed people, new gaze toward Su, contact, crowd, or changes of architecture, age, weather or time. Match the current soft anime VN linework and integrated diffuse lighting; no brighter pasted-on sprite or photorealistic redraw.
+
+Output ONE complete wide illustration at the original aspect ratio and crop. No sheet, alternate views, close-up, additional artwork, UI, title, captions, watermark or borders. Su's visible lower hair is the single intended change; all gestures, character proportions and the whole square stay as approved.

@@ -1,0 +1,35 @@
+Use case: identity-preserve, precise-object-edit.
+Asset: CG-S04-02《杭州城站售票厅·向清洁阿姨问路》v03.
+Produce ONE full-scene hair-only revision of the existing approved illustration.
+
+Input roles:
+Image 1 cg_s04_ticket_hall_su_asking_cleaner_v02.png is the SOLE WHOLE-SCENE EDIT TARGET. Keep its entire two-person conversation, camera, positions and all details. Edit only the hair of the small girl holding a ticket near the center-right, just LEFT of the cleaning woman.
+Image 2 su_home_neutral_v09.png is the FIXED ORIGINAL FACIAL IDENTITY only: gentle teenage oval face, almond brown eyes with restrained iris size, small nose/mouth and natural lower-face/chin spacing. Do not import its bob, frontal pose, body size or checkerboard.
+Image 3 su_travel_guarded_v04_alpha_v01.png is the USER-APPROVED CAPPED SHORT-HAIR continuity reference. Adapt that short black hair beneath the cap to Image 1's existing three-quarter head angle, looking upward toward the woman. Do not import the sprite's full frontal pose, suitcase placement, neutral expression or transparent background.
+Image 4 su_early_crewcut_reference_v02.png is the approved overall early cropped-hair reference only. The cap stays on in this conversation, hiding the crown and the original-side star.
+
+Only change Su's hair:
+Remove the chin-length bob ends currently sticking down behind the near ear, along the back of the head and at the neck/hood. Replace them with closely cropped black hair hugging the temple and ear, and a naturally exposed nape; no long curved wisps at the jaw or collar.
+The visible fringe under the original cap is short, well above the brows, with just a few short tips rather than long curtains. She has the same freshly clipped crew cut as the approved travel design, concealed by the cap.
+Keep the cap exactly the same navy color, crown volume, brim shape, angle and height. Do not lift the cap or expose a high tuft. Do not make the scalp bald/gray.
+The single original-side star clip remains occluded UNDER the cap, exactly as in the established travel design. Do not add a star on the cap, expose it beside an ear or mirror it.
+Reconstruct only the small ear/neck, hood or hall regions genuinely uncovered by removal of the old bob.
+
+Lock identity, emotion and interaction:
+Keep Su's original face at the identical position, size and three-quarter upward angle. Her tentative eyes remain directed up and RIGHT toward the cleaning woman's face; the small lips stay just slightly parted as in Image 1, with the same shy, uncertain expression. Do not turn her frontal, enlarge her eyes, shorten her chin, infantilize her, make her grin or cry.
+Keep her approved petite body scale RELATIVE TO THE CLEANING WOMAN, queue rails and floor. No longer limbs, larger head, new pose or shifted feet.
+Her screen-left hand still grips the white suitcase handle; her other hand still holds the small paper ticket at the same chest height and angle for the woman to read. Preserve the paper, fingers, rod grip and all original contacts. No smartphone or new pointing gesture.
+Same light-blue open hooded jacket, ivory shirt, dark jeans, white shoes and dark school backpack/straps. Same large white suitcase at her outer left with two cute cat stickers, pale rounded corners, hardware and visible wheels, all resting on the original floor plane.
+
+Freeze the entire cleaning woman:
+Same approachable middle-aged woman on the right, practical low dark bun, modest adult facial proportions/age lines, calm gaze toward Su, blue work jacket and trousers, shoes, both hands on the wooden broom shaft. Same gentle head inclination, body size, hands, elbows, broom angle and straw head touching the floor.
+Do not redraw her identity, age, hairstyle, expression or style. Do not replace her with a young girl or elderly caricature. The two people remain together in this single shot.
+
+Freeze the hall and bystanders:
+Keep the left seated ticket clerk, the adult currently buying a ticket at that window, all queued adults/children, their clothes/bags and the distant travelers exactly in place and number. The left window must NOT gain a second Su.
+Preserve blue lower walls, glass ticket partitions, speaking holes, paper timetables and their existing indistinct writing, counter, queue rails, tiled floor and reflections, ceiling beams/fans/fluorescent lights, columns and rear daylit windows.
+Keep the same slightly anime visual-novel drawing style, simplified soft shading, cool station daylight and muted colors. No added realism, changed era, more deterioration, new modern devices or extra props.
+
+ONE opaque full image matching Image 1's 1672x941 16:9 framing. No camera movement, zoom/crop, new text, UI, closeup inset, sheet, split panel, watermark, border or transparency.
+Only the small visible hair area of Su is revised; preserve the rest as closely as possible.
+

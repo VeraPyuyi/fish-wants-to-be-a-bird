@@ -1,0 +1,9 @@
+Use case: identity-preserve
+Asset type: single expression variation for an existing 16:9 visual novel scene, CG-S02-01-E01 v01.
+Input image 1 is the EDIT TARGET and the exact approved composition. It is not a loose inspiration image.
+
+Primary request: edit ONLY the girl's facial expression from hesitation to quiet determination. This is the same instant and same shot in a sequence: she has decided to leave home. Make her brown eyes focus firmly forward, the eyebrows very slightly draw inward with resolve, and the small closed mouth settle into a neutral, gently firm line. Controlled, vulnerable determination, without smiling, rage, tears, or an exaggerated dramatic anime expression. Preserve her original face shape and identity. Keep the eyes' size, iris color, facial proportions, and head angle unchanged.
+
+Invariants: preserve the entire image outside the facial expression. Do not zoom, crop, reframe, move the camera, shift the head, or rescale the girl. Her approved petite height relative to the tall wooden door is locked. Keep her short black bob and small star hair clip, silhouette, body pose, hand positions, backpack, pale blue zip hoodie over a white shirt, dark jeans, and white sneakers exactly as in the reference. Keep the cute white suitcase, its handle, stickers, wheels, and floor contacts identical. Preserve the whole room, doorframe, door handle, sofa, television, air conditioner, dining furniture, plants, window view, cast shadows, perspective, lighting, colors, painterly anime rendering, and all object positions. The two frames will be switched in-place, so no background or body drift is acceptable.
+
+Output one complete frame matching the reference's aspect ratio and composition. No new objects, no extra people, no labels, no subtitles, no split-screen comparison, no expression sheet, no border, no watermark.

@@ -1,0 +1,12 @@
+Use case: precise-object-edit
+Asset type: OP-R6-END-SU-01 v08, full hospital scene for a visual novel ending.
+Input image 1 is the edit target.
+
+PRIMARY CHANGE: Mo Kong, the man in the RIGHT bed, must reach his RIGHT ARM farther to the left across the bed gap and hold Su Yuqing's hand ON TOP OF HER BED, securely supported by her white blanket. Change the actual arm pose, not just finger details.
+
+In the current image the handhold is over the narrow center bed seam, and his reaching forearm looks too short. MOVE the joined hands visibly to the LEFT of that seam, onto Su's blanket near her right-side-in-the-image hip. Aim for contact center around 42% of the image width and 74% of its height, clearly inside the LEFT mattress, roughly one adult hand-width left of the previous location. This is still a full scene, not a close-up.
+Redraw Mo's inner right arm from elbow through forearm and wrist: it extends diagonally leftward, has a longer visible forearm, and crosses above the bed gap before its hand reaches her mattress. Keep a relaxed slight bend at the elbow, with anatomically plausible adult arm lengths and gradual width taper into the wrist. His sleeve/upper arm can adjust slightly to accommodate this new reach; his torso stays in place. His hand must be in scale with his forearm and with his other hand on his own blanket.
+Su's inner LEFT arm draws back slightly to rest more comfortably on her own bed. Her smaller left hand lies palm-up on her blanket under his. Give both forearms realistic continuous connections; do not stretch a wrist or leave either hand floating.
+Preserve the approved gentle hand pose: Mo RIGHT hand BACK facing the viewer, four relaxed fingers toward lower left and THUMB on the near/lower edge, not on the upper edge. Su smaller upturned hand is visible below with softly curved fingertips. No interlacing, no clenched fingers. The joined hands and Su's wrist lightly indent the soft blanket.
+
+Preserve the characters' faces, expressions, hair, star clip, current body sizes, outfits, free hands, bed placement, pillows, curtain, window and lighting. Preserve the room and full wide framing. Only the two inner reaching arms, wrists, hand contact position and small local blanket folds need adjustment. Clean soft anime illustration, crisp natural hand outlines, smooth fabric shading with no grain. No text or watermark.

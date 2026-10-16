@@ -1,0 +1,15 @@
+Use case: identity-preserve.
+Edit the supplied image into OP-TIAN-01 v03, "天语遥·掌心的软陶女武神".
+
+The user APPROVED the face design in this input. Preserve its exact character identity: the straight brows, narrower eyes, defined but gentle nose and jaw, low blush, quiet focused expression and youthful, softly boyish appearance. Do not make the face rounder, softer, older, or more rugged.
+
+Requested change: make Tian Yuyao's OVERALL STATURE MORE PETITE relative to the existing desk and chair, while retaining natural 18-year-old proportions.
+- Reduce the character's apparent overall scale moderately, approximately 8–12 percent relative to the UNCHANGED furniture. The figure should no longer fill quite as much of the frame.
+- Narrow the shoulders and upper torso a little, make the back and waist less bulky, and make the arms and hands slightly more slender in proportion.
+- Lower the head and shoulder line a little in the seated position; reveal slightly more space above the hair and slightly more of the chair back behind the shoulder. Keep a believable seated relationship to the tabletop.
+- Scale the head harmoniously with the smaller body while preserving the approved facial features and proportions. No oversized chibi head, childlike anatomy, or artificially compressed limbs.
+- Keep the same cream loose long-sleeved sweater and grey-blue trousers. The sweater should have a smaller, more delicate underlying shoulder and torso silhouette, without becoming tight.
+- Maintain the same sculpting action. Make only the small elbow and hand-position adjustments needed for the smaller figure to naturally reach the SAME tabletop sculpture: one hand steadies its base and the other uses a fine tool on its cat ear. Preserve clear anatomy and believable contacts.
+
+LOCK EVERYTHING ELSE: small dark single ponytail and face-framing hair; the fixed camera and wide framing; desk, chair, room dimensions and perspective; computer, shelves, mirror, lamp, window, rain and lighting. Do not simulate the change by zooming out or shrinking the whole scene.
+The clay figure and tools remain at their original sizes and locations, with the sword, armor, two cat ears, curved tail, and no attached wings. The detached wings stay on the desk. Do not add or remove objects or people. Keep the established soft anime style. No captions or UI. Return one complete approximately 16:9 image.

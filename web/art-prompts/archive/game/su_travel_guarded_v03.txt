@@ -1,0 +1,26 @@
+Use case: identity-preserve, precise-object-edit.
+Asset: CH-SU-02 | 苏雨晴·离家出行立绘 v03 · 短手臂与可爱白箱.
+Produce exactly ONE revised full-body travel sprite.
+
+INPUT ROLES:
+Image 1, su_travel_guarded_v02, is the EDIT TARGET: keep this travel stance, cap, backpack, outfit, quiet expression and clean anime rendering.
+Image 2, su_home_neutral_v09_alpha_v01, is the user's APPROVED PETITE CHARACTER REFERENCE. Use it to preserve her recognizable face, small stature, and compact natural proportions. Do not add its visible hair clip on top of the cap.
+
+THE TWO REQUESTED CHANGES:
+A. SHORTER ARMS AND PETITE HANDS:
+The user says her hands/arms should be shorter. Shorten both arms modestly and visibly, approximately 8–10% along their natural upper-arm/forearm lengths, retaining plausible shoulders, elbows and wrists. Make the hands a little smaller, with shorter, softly rounded fingers rather than long mature fingers. Preserve five natural fingers and proper grips. The novel describes small, gently rounded hands; she is a short 15-year-old, not a baby or a chibi figure.
+For the hand on viewer-left, bring the forearm and wrist a little closer to her body and slightly higher, with a relaxed elbow. ADJUST THE TELESCOPING SUITCASE HANDLE HEIGHT AND ITS POSITION to meet the shortened arm; do not stretch her arm back to the original reach. Keep the hand actually wrapped over/around the black grip and both rods connected to the suitcase.
+For the hand on viewer-right, keep the backpack-strap grip near the chest, with a comfortable compact elbow bend, shortened arm lengths and a petite hand. Redraw only necessary sleeve folds so the jacket fits the revised arms naturally.
+
+B. A CUTER SUITCASE GROUNDED IN THE NOVEL:
+The source explicitly says a LARGE BRIGHT WHITE suitcase with cute Hello Kitty stickers. Keep it large and bright white, wheeled, standing beside her at viewer-left, with the same general silhouette and functional double-rod handle.
+Soften the current industrial trunk appearance: make the shell corners and edges gently more rounded; use smoother warm-white shell surfaces, finer simple hardware and less visually heavy corner protectors. Small ivory or extremely pale blush accents on the edge protectors are acceptable, but the case must remain overwhelmingly WHITE rather than pink.
+Make the two Hello Kitty stickers a little larger and more charming, with clear rounded sticker silhouettes, recognizable bows and small soft-pink accent details. The designs can have small decorative hearts immediately around the sticker motifs. Keep the sticker arrangement sparse and readable, not a crowded all-over pattern. The cute feeling should come from the rounded white shell and these stickers.
+Keep the case as a substantial suitcase, not a tiny children's case or a dollhouse prop. The wheels rest on the same floor plane as her shoes. No external plush toy, ribbons, dangling charms, oversized bow glued to the handle or extra luggage. The small cat plush is packed INSIDE the closed case, as in the source.
+
+PRESERVE:
+Her same chin-length black bob peeking below a plain dark navy baseball cap, which covers the star clip; dark-brown eyes and reserved expression. Her short natural stature and compact body must remain, do not make her legs or waist longer or her shoulders broader. Keep the pale mist-blue open hooded zip jacket, ivory crew-neck T-shirt, dark-indigo straight-leg jeans, ordinary white low-top shoes and dark navy two-strap school backpack. No changes to face, hair length, clothing design, season or general shading style.
+Keep clean colored outlines and softly simplified anime color shapes consistent with the references. Avoid photographic texture or highly glossy plastic rendering.
+
+OUTPUT:
+ONE isolated head-to-shoes character with the whole suitcase, cap and all wheels inside a portrait canvas of the same 1024x1536 proportions. Comfortable margins, no crop. Genuine transparent background with an actual alpha channel and antialiased edges: no painted checkerboard, solid-color backdrop, floor, street, cast shadow, text, captions, UI, watermarks, comparison panel or extra pose.

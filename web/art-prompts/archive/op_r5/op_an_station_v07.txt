@@ -1,0 +1,13 @@
+Use case: identity-preserve.
+Create OP-AN-01 v07, "安念·人海中的第一次相见".
+Image 1 (v05) is the BASE scene whose detail and every non-target element should be preserved.
+Image 2 (v06) is ONLY a reference for the most recent face of Fang Youyou, the slim person on the RIGHT with a backpack.
+The user wants Fang's face a little softer than image 2. Do not inherit image 2's unintended overall smoothing.
+
+Local edit ONLY Fang's face on the RIGHT of image 1:
+Use image 2's same adult face and soften it another modest step: reduce the dark inner-brow accents, use finer natural straight eyebrows, make the nose-side shading gentler and the cheek-to-jaw transition smoothly rounded. Give the chin a gentle curve and reduce angular edge emphasis. Keep enough lightly defined adult bone structure to remain recognizable, with attentive brown almond eyes and a warm, quiet, slightly shy smile toward An Nian. Avoid hard brow ridges, sharp dark nose lines or a stern jaw. Do not enlarge the eyes into a childlike face, add heavy blush, or make the expression sleepy. Keep this a refined gentle young adult face, not a different person.
+
+Preserve Fang's chin-length dark hair, angle/size of head, neck, posture, slim body, grey-blue long-sleeved top, dark trousers, backpack and hands from IMAGE 1.
+CRITICAL: Preserve An Nian on the LEFT from IMAGE 1, especially his faint but visible freshly shaved blue-grey stubble along the chin/lower jaw, his round face, soft full waist, smile, waving hand, black T-shirt, blue shorts, leg and shoe detail. Do not retouch or smooth his face.
+Preserve ALL remaining IMAGE 1 detail and linework: the other clothing folds, shoes, backpack seams, crowd, vehicles, station facade/signs, railings, trees, pavement/shadows, color and light, relative scale, ground positions and 16:9 camera crop.
+No global blur, no painterly smoothing pass, no added text or objects. Maintain the same soft anime visual novel style at full scene detail. Return one full horizontal scene, with only Fang's face softened.

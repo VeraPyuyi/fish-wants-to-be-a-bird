@@ -1,0 +1,9 @@
+Use case: precise-object-edit.
+Asset: BG-STREET-01 | 浙江城市街道·通用背景 v03, a reusable visual-novel background.
+Input image: the attached bg_street_v02 is the sole EDIT TARGET.
+Primary request: make the existing street trees visibly more lush and leafy.
+
+Change only the foliage of the existing trees: fuller, broader, denser crowns, richer layers of natural green leaves, fewer sparse gaps, especially the large tree near the center-right and the row along the left residential frontage. Let adjacent crowns softly overlap in places to suggest a pleasantly leafy established neighborhood. Preserve organic branch structure, varied leaf sizes, natural depth and the existing soft overcast illumination; leaf greens should remain restrained and believable in this scene. Do not turn the whole street into a closed canopy or obscure all the buildings. Leave enough open sky and clear views of the old apartment windows, entrance, right shopfronts and road depth. Keep the same tree trunks, positions and scale at ground level. No need for additional trees or new plants.
+
+Preserve the existing older apartment buildings, their worn grey-white facades and enclosed balconies, the railings, shops, awnings, steamers, bicycles, empty road and sidewalk, perspective, camera position, composition, lighting, weather and semi-realistic visual-novel painting style. The old building appearance is intentional and must not become newer or disappear behind leaves. Keep the foreground space clear for dialogue and characters. Do not add people, text, signage, props, flowers or modern objects.
+Produce ONE revised landscape image with the same aspect ratio and framing as the input.

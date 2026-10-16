@@ -1,0 +1,23 @@
+Use case: compositing, style-transfer.
+Asset: BG-RAIL-01《城站站台·准备上车》v04.
+ONE full 1672x941 landscape scene, coherent clean soft anime visual-novel illustration.
+
+INPUTS:
+Image 1 bg_platform_v03.png is the full-scene EDIT TARGET: keep wide camera, 2004 platform/train geography, crowd and boarding activity. It currently lacks the protagonist.
+Image 2 su_soft_anime_style_v02.png is the USER-CHOSEN canonical Su facial identity, soft fluffy pixie haircut, petite teenage proportions and new drawing style.
+Image 3 cg_s04_ticket_hall_su_asking_cleaner_v04.png is the USER-APPROVED travel-continuity reference: navy cap, hidden star clip, pale-blue hoodie/white shirt/dark trousers/white shoes, navy backpack, white double-cat-sticker suitcase and ticket. Use her and her props only, not this hall or the cleaner.
+
+STAGE SU NATURALLY AT THE TRAIN:
+Replace ONLY the burgundy-jacket adult woman who is currently waiting with a black rolling suitcase near the open carriage door at screen-right in image 1 with Su Yuqing and her WHITE cute suitcase. Remove that replaced woman's black case; do not add an extra duplicate waiting woman or leave her hands/legs.
+Su stands on this same platform plane just before the uniformed male railway attendant, awaiting her turn behind the man already on the steps. She is noticeably shorter than the adult attendant, a petite 15-year-old (roughly 149 cm), natural anime proportions, not chibi or a young child. Her hat crown must be below the attendant's head by a believable height difference; do not enlarge her to adult height.
+Natural three-quarter/side pose toward the attendant and open door, with face readable and eyes directed to the attendant/boarding entrance, NOT smiling at the viewer. Quiet wary determination at leaving home. Same soft face and warm brown eyes as image 2 adapted to this angle.
+Same navy cap concealing the star clip, short fluffy dark hair visible below its edges and exposed nape (no old crewcut, no chin bob). Pale-blue jacket, white top, dark pants, white shoes; one navy backpack worn properly on both shoulders.
+One hand naturally grips the extended handle of her single white rolling suitcase with two small cute cat stickers. Other hand holds a small paper train ticket near her torso. Keep arms modest and short, fingers and handle/ticket contacts credible.
+Both feet and suitcase wheels are grounded on the platform, clear of track gap and boarding steps. Match shared gray daylight, scale, perspective, soft contact shadows and nearby occlusions. No pasted figure, white outline or floor shadow from the removed adult. Do not put her or her case floating in the doorway.
+
+RESTYLE EVERYONE AND ENVIRONMENT TO IMAGE 2'S SOFT ANIME MEDIUM:
+Fine clean colored outlines, broad smooth colors, gentle cel-shading transitions and simplified material detail. Reduce old image's heavy oil-paint/granular texture, tiny canopy cracks, bark/cloth noise and photoreal grime. It should be a maintained older station, not a ruin.
+Keep the dark-green conventional train and cream stripe, its perspective/windows/curved roof and single open door with warm interior light and metal steps. The adult boarding man remains grasping the rail naturally; the navy-uniformed attendant stays beside the door, welcoming/calling passengers aboard. Keep left foreground adult relatives saying goodbye, distant travelers, one child with accompanying adult, bags, plant bed/trees/railings, concrete canopy and columns, distant track/signals/buildings and trolley.
+All adults are drawn in the same soft anime medium but keep mature facial/body proportions, distinct ages and clothes; no identical Su faces, no extra protagonist. Keep the established crowd distribution; this is one replacement, not a second new crowd.
+Preserve cool diffuse gray daylight and overcast sky, readable softer shadows, and warm carriage light. Lighten the old muddy material rendering only enough for clarity; no blue-sky sunshine, orange sunset, rain, lens blur or fantasy glow.
+No modern high-speed train, digital gates/screens, smartphones, new luggage trends, text, signs, logos, captions, UI, inset or watermark. One complete opaque 16:9 scene only, same camera as image 1.

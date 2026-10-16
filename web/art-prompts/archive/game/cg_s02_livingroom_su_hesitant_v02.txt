@@ -1,0 +1,22 @@
+Use case: identity-preserving compositing edit.
+Asset: CG-S02-01 | 客厅·离家前的停顿 v02.
+Generate exactly ONE corrected 16:9 scene.
+
+Image 1 is the EDIT TARGET: the previous living-room scene with Su Yuqing and the white suitcase.
+Image 2 is the approved EMPTY living room, only for recovering the original pixels/furniture behind the resized girl. Keep its exact architecture, door dimensions and camera.
+
+USER CORRECTION:
+Make Su Yuqing visibly shorter, with a convincing height relationship to the ENTRANCE DOOR. Her canonical standing height is 149 cm. The existing ordinary apartment door represents about 205 cm. She must read as a petite girl about THREE QUARTERS the height of the door when at the same depth. The previous image made her head almost reach the top of the door and her full silhouette taller than the door in the image. Correct this clearly.
+
+PHYSICAL PLACEMENT:
+Keep her in the SAME left-center open passage beside the door and left of the sofa. Set her a little farther back in this passage, adjacent to the door at nearly the same depth, so the height comparison is unambiguous. Keep the closed entrance door fully the same size.
+For the 1672×941 source canvas, use approximately these visual guides: the entrance runs from y=150 to y=715; the corrected girl's soles are near y=745–760; crown of her hair is near y=310–325. Her full standing silhouette is about 435 pixels tall, NOT the previous approximately 670 pixels. Her center remains near x=500. Treat these as composition guides rather than drawn annotations.
+Her head must sit well below the door lintel with a broad visible gap above it. Her shoulders must also fall visibly below the door's upper half. Do not make her tiny or childlike-chibi. Preserve a slender short teenager's natural full-body proportions, with the same head-to-body relationship and short natural arms.
+Resize the girl, backpack, suitcase body and telescoping handle coherently. The suitcase remains a substantial bright-white rolling case proportionate to her petite body, with the same two cute cat stickers. Shorten the handle to fit her relaxed hand grip. Put her shoe soles and all suitcase wheels on the SAME floor plane. Regenerate soft contact shadows at their corrected floor position.
+Keep her existing quiet three-quarter pause, one hand holding the suitcase and the other touching the backpack strap, and preserve her face identity, short black bob, star clip, pale blue zip hoodie, white shirt, navy jeans and white canvas shoes. No cap. Expression and outfit do not change.
+
+KEEP EVERYTHING ELSE:
+Preserve camera, full room framing, wall/door geometry, door handle location, sofa and cushions, plants, wooden floor, CRT TV/cabinet, old floor air conditioner, framed landscape, window/curtains and view, foreground dining table and chairs. Restore the formerly occluded area using Image 2. Do not lower or enlarge the door to fake her height. Do not shrink the entire room or move furniture. Do not crop or zoom the image.
+Match existing soft window daylight from the right and illustrated anime linework/shading. Draw a coherent person in the scene with grounded depth, not a pasted sprite. No photorealistic face/materials, no white outlines or halos, no body stretching/squashing, no extra characters or props.
+No text, dimension lines, ruler, captions, UI, logos, watermark, border or comparison panels.
+ONE finished opaque landscape image at the same full 16:9 framing.

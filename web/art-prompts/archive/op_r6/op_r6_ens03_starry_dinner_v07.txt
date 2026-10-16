@@ -1,0 +1,15 @@
+Use case: precise local anatomy correction. Asset OP-R6-ENS-03《星空下的晚餐》v07.
+
+Edit the supplied full wide dinner illustration. Correct ONLY the HANDEDNESS of Zhang's raised peace-sign hand. Zhang is the lavender-shirt laughing adult, fourth person from the left. Her raised hand is around x1105,y420, on the RIGHT side of her body in the image. This is her ANATOMICAL LEFT ARM.
+
+The existing palm faces the camera but its thumb is on the image-left side, which is a mirrored RIGHT HAND on a LEFT arm. Fix this exact mistake by HORIZONTALLY MIRRORING THE HAND ANATOMY ONLY, then naturally aligning its base to the unchanged wrist. Do not merely redraw the same wrong thumb position.
+
+Required final left palm facing the viewer:
+- The thumb base/thenar mound MUST be on the RIGHT EDGE OF THE PALM IN THE PICTURE, the edge closer to the glass bottle and the striped-shirt man. Thumb bends gently toward image-left over the folded fingers.
+- Ring and little fingers curl on the LEFT side of the palm, the side toward Zhang's lavender shirt/face. Give both distinct small folded knuckles.
+- Index and middle fingers remain extended in a V with correct natural webbing and proportions, exactly FIVE fingers total. The middle finger is slightly longer; two upright fingers, two curled fingers, one thumb.
+- The wrist stays at the original centre, aligned to the existing LEFT forearm, with continuous believable skin contours. The palm faces the camera clearly. No right-hand topology, extra fingers, broken joints or fused finger blobs.
+
+Keep the same overall hand size and position; the finger spread may change slightly to correct the anatomy. Retain the unchanged forearm, elbow and lavender cuff. Do not mirror the arm, person or whole scene.
+
+EVERYTHING ELSE IS LOCKED: Zhang's user-approved adult face, closed-eye laugh, head tilt against Fang's shoulder, short hair and all clothing; Fang in yellow, Su in pink, Lin in blue, Hu in navy stripes; all their faces and poses; tableware, food, bottle, chairs; house, sky, trees, bridge, lake reflections and clean drawing style. No reframe or new design, no noise. Return the entire same 16:9 illustration with the single palm topology corrected.

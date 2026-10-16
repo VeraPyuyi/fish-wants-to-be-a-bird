@@ -1,0 +1,14 @@
+Use case: precise-object-edit, identity-preserve.
+Asset: OP-ZHANG-ACT-02 v01, second motion keyframe: the wig has just been lifted off.
+Image 1 is the EDIT TARGET: the approved birthday shot with Zhang Sifan's two hands holding her golden wig at the sides.
+Image 2 is REFERENCE ONLY for Zhang Sifan's exact approved natural short dark hairstyle, face and the small neck/collar area exposed without the wig. Do not copy its clasped-hands pose.
+
+Continue the action from IMAGE 1. Change only the RIGHT adult Zhang Sifan's arms, hands, wig and newly revealed hair area:
+Her two hands keep hold of the two side edges of the SAME shoulder-length golden wig and lift it UP off her head, holding it above and slightly in front of her. Both elbows bend upward naturally, wrists relaxed. Show a readable small air gap between her natural-haired crown and the wig cap opening. Her natural soft short dark layered hair from IMAGE 2 is now fully visible: same length, fringe, volume and outline, not shaved or buzz-cut.
+The lifted golden wig is clearly ONE empty flexible hairpiece with a subtle dark inner cap, no face, no second head and no skin inside. Its golden strands hang naturally by gravity, ends falling to either side without attaching to the dark hair or hiding her face. Preserve the wig's golden colour, shoulder-length cut and general hairstyle; do not transform it into a hat, cloth or stiff helmet.
+Hands visibly grip opposite wig edges, with coherent fingers, and exactly two arms/two hands total. Remove the previous hands at ear level. Adjust only the necessary black sleeves/folds and newly exposed neck/collar. Do not keep a second golden wig on her head.
+
+Lock Zhang's gentle closed-eye smile, face, head position/angle/size, shoulders/body proportions, standing position and black/red dress design. Keep her head still so the lift reads as arm movement.
+Keep the LEFT Su Yuqing completely unchanged: face, gaze, star clip, black long ponytail wig over her shoulder, white/red outfit, hands and stance.
+Preserve IMAGE 1's approved clean anime scene and full landscape framing: grass groups and white flowers, stars/clouds, mountains/lake/reflections, container house, cake/candles, table, perspective, night blue and candlelight. No noise, grain, messy microtexture, blurring, extra objects or people, text, watermarks, borders or motion streaks.
+Return exactly one clear still keyframe, not a collage or motion sequence.

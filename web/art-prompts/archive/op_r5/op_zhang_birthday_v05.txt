@@ -1,0 +1,16 @@
+Use case: identity-preserve
+Asset: OP-ZHANG-01《张思凡·草地上的二十岁生日》v05.
+Input image: the supplied v04 birthday illustration is the EDIT TARGET. Return ONE image with exactly the same wide framing and composition.
+
+Only refine the face of the TALLER GOLDEN-BLONDE ADULT WOMAN on the RIGHT of the pair, Zhang Sifan. She is twenty, in a black-and-red gothic dress, eyes CLOSED, hands clasped, wishing by candlelight.
+The user now requests "slightly softer" after v04's stronger masculine facial features. This is a small retreat, not a return to the original delicate pointed face.
+Keep the somewhat longer oval face, substantial nose bridge/tip and moderately broad lower jaw established in v04, but:
+- Soften the eyebrows about one small step: slightly thinner and less dark, while retaining their straighter shape.
+- Ease the hard contour/shadow of the nose bridge and tip using gentler candlelit shading; keep the nose's underlying size and recognizable structure.
+- Slightly round and soften the lower jaw corners and chin contour. Keep a substantial rounded chin, not a tiny pointed chin.
+- Reduce contrast in brow and cheek shadows. Keep the same quiet, relaxed small smile and CLOSED eyes; her expression should feel a little gentler and less sharply drawn.
+The balance should be gentle feminine-androgynous styling with visible individual facial structure. Keep a young adult face, not a childish face. No beard, stubble, aging, caricature or hyperreal textures.
+
+Keep ABSOLUTELY UNCHANGED:
+Zhang's head angle, head size and position, golden shoulder-length wig, all clothing, body proportions, hands and pose. Su Yuqing on the LEFT: her face, dark long ponytail wig, star clip, red/white outfit, hands, scale and position. Entire sky, stars, lake, distant lights, grass, container house, table, cake, candles, lighting balance and camera framing.
+Maintain the existing soft clean anime visual-novel rendering, large cool-blue night and small circle of warm candlelight. Do not add text, labels, lyrics, objects, characters or watermark.

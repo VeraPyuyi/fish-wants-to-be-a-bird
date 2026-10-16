@@ -1,0 +1,15 @@
+Use case: precise-object-edit.
+Asset OP-R6-ENS-02 《一起把旧屋擦亮》 v08. One 16:9 visual-novel illustration.
+
+IMAGE 1 is the house-cleaning EDIT TARGET. IMAGE 2 is the approved COSTUME reference at the river.
+Change ONLY the clothes of ZHANG SIFAN: she is the small short-haired adult in the BACKGROUND AT THE WINDOW, raising her right hand to wipe the glass. The matching person in image 2 is crouching near the centre-right, wearing a dusty-pink top and ivory skirt.
+
+Replace Zhang's mint blouse and dark navy skirt in image 1 with the EXACT newly approved outfit from image 2:
+- soft dusty-pink short-sleeve cotton blouse, a simple modest round neckline with NO white contrast collar, lightly gathered short sleeves;
+- ivory / cream knee-length A-line cotton skirt with a simple waistband and soft folds;
+- retain her existing pale canvas shoes.
+Keep her same natural short hair, mature face, cheerful restrained expression, head size, raised cleaning hand, opposite arm, standing pose, leg lengths, foot points and small size at the distant window. Do not import the crouching pose or enlarge her. No wigs, makeup, new accessories or extra frills.
+
+Everything else in IMAGE 1 is LOCKED:
+Su foreground right in sky-blue dress, white knee socks and starclip holding the black cat; Fang left in cream blouse and knee-area sage skirt; Hu centre-left in terracotta polo and charcoal trousers holding the chair; Lin by the bed in lavender blouse and denim shorts with twin ponytails. Do not change their faces, hair, body size, clothes, hands, legs or poses. Preserve the exact room, furniture, basin, cloths, cleaning tools, windows, curtains, paintings, bed pawprints, shadows, floorboards and the floor margin under Su's shoes.
+Preserve the clean crisp softly coloured anime style and the clarity of image 1. Do not add grain, photographic texture, blur, new objects, text, collage or watermark. This is a one-person CLOTHING edit only. Produce exactly one full scene.

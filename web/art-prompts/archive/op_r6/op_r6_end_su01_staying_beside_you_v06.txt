@@ -1,0 +1,10 @@
+Use case: precise-object-edit
+Asset type: OP-R6-END-SU-01 v06, full hospital scene for an anime visual novel ending.
+Input image 1: exact full-scene edit target. Preserve its full composition and everything outside the small central hand contact area.
+Input image 2: USER-APPROVED HAND POSE. This is a magnified detail reference, NOT the new composition.
+
+Primary request: Replace ONLY the two joined hands at the lower center of image 1 with the anatomically corrected pose from image 2, scaled down naturally to fit the full scene. Return the FULL wide hospital image, not a close-up.
+Match the approved pose precisely: Su's small pale LEFT hand rests palm-up; Mo's larger warm RIGHT hand rests gently palm-down over it. Mo's four relaxed fingers extend toward the lower left, and his THUMB is separately visible on the NEAR/LOWER edge, as in image 2. The far uppermost digit is his little finger, NOT a thumb. Preserve this corrected right-hand topology. Keep Su's curved fingertips partially visible below. Two hands only, exactly two distinct wrists. Blend the approved hand contact into the two existing forearms, allowing a small wrist adjustment only so their contours connect smoothly. Their joined hands rest along the soft adjoining blanket edges. No tense fists and no interlaced fingers.
+
+Strict invariants from image 1: both faces and expressions; Su's current petite scale, long hair, star clip and oversized pale blue patient shirt; Mo's current face, hairstyle and blue-grey shirt; both torsos and arm positions; both FREE hands; pillows; parallel beds; blankets outside the immediate hand contact; curtains; window light; camera viewpoint, crop and the whole hospital background. Do NOT enlarge, shrink or redesign either character. Do NOT paste an oversized pair of hands into the scene. Only scale the hand-reference pose to the existing wrist widths.
+Style: retain the same clean soft anime finish with smooth light shadows, no texture noise, crisp slender hand contours. No text, no watermark. One full landscape frame matching image 1.

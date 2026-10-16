@@ -1,0 +1,13 @@
+Use case: precise-object-edit.
+Asset: CG-S04-01《杭州城站售票厅·窗口买票》v07.
+Edit the supplied full scene locally: ONLY correct the middle-aged cleaning woman's attention and sweeping action on the RIGHT side of the hall.
+
+She must NOT look toward Su, the ticket windows, other travelers or the viewer. Lower her chin and direct both eyes toward the floor immediately in front of her broom head. Give her a natural, modest forward lean, relaxed shoulders and a quiet concentrated neutral expression. She is occupied sweeping, not watching or waiting to talk.
+Keep both hands naturally holding the same wooden broom handle, adjusting wrists/elbows minimally to make an active sweeping stroke believable. Angle the broom slightly across the floor; its straw bristles remain in contact with the tiles near her existing feet. Weight stays balanced, feet on the same small patch of floor. No floating broom or impossible fingers. No need to add dirt, dust cloud, motion lines or extra cleaning tools.
+Preserve her recognizable middle-aged face, low dark bun, navy work jacket/trousers and dark shoes; retain the same height, screen-right location, clean soft anime style and light.
+
+FREEZE THE REST:
+Su remains by the left window facing the female clerk: identical face, navy cap, short hair, body-to-counter scale, hand on counter and other on suitcase handle, pale-blue hoodie, backpack and white two-cat suitcase.
+The clerk, queue and distant people do not move or change expression.
+Preserve the entire room, camera, framing, glass, printed boards, railings, lights, ceiling fans, floor tile lines, windows, colors and light. Do not restyle or relight, change signs, add a character or move the cleaner toward Su.
+Return exactly ONE opaque full-frame 1672x941 landscape image. Only the cleaning woman's downward gaze and small sweeping-pose adjustment should change; no closeup, inset, text, UI or watermark.

@@ -1,0 +1,32 @@
+Use case: style-transfer.
+Asset: BG-RAIL-01 | 旧式列车站台 v02 · 轻度动漫化.
+Produce exactly ONE revised 16:9 visual-novel background.
+
+INPUT ROLES:
+Image 1, bg_platform, is the existing EDIT TARGET and camera/layout input. Reuse this existing composition rather than create a new viewpoint.
+Image 2, bg_ticket_hall_v02, is ONLY the user's approved rail-station drawing-language reference: selective fine colored outlines, grouped painted light/shadow and restrained material texture in a cool grey/blue environment. Do not import its indoor ticket windows, rail barriers, timetable boards or walls into this outdoor platform.
+
+PRIMARY REQUEST:
+Repaint the SAME platform beside an older dark-green conventional passenger carriage as a moderately anime-styled narrative-game background for a story set in Zhejiang, China, in 2004. It depicts the moment of boarding a train after leaving home. Preserve the green carriage with its open door, the platform canopy and the existing strong depth perspective. This is an adapted story setting, not an exact reproduction of a specific station or coach model.
+
+RENDERING:
+Use selective fine dark green/grey outlines on carriage seams, window rims, roof edge, door frame, handrails, boarding steps, platform edges and canopy columns.
+Replace dense photoreal metal/grit/plaster texture and embossed grain with composed base-color areas and a few broad, softly painted signs of age. The carriage should stay an older used green train, but not become abandoned, rust-eaten or covered in new damage. Keep some gentle fading on its paint and cream stripe, no thousands of sharp scratches.
+Simplify the concrete canopy and paving into readable painted planes with restrained seams and wear patches. Softly paint the platform's faint damp sheen without puddles, glaring mirror reflections or camera-like wet-surface noise.
+Give the carriage and canopy two or three broad shadow/highlight groups, with modest reflected sky light. Lift the darkest areas slightly so the open doorway, steps and undercarriage remain readable while preserving the cool quiet mood.
+Retain subdued warm interior light through the windows and open doorway, as a small accent against the cool grey day. No orange sunset, dramatic sunlight, night scene or saturated cinematic grading.
+Paint the grey clouds as softly designed masses, the near foliage as irregular groups of leaves and shadow, and the distant tracks, poles and low buildings as softer drawn shapes. Keep convincing distance, not a flat cutout scene.
+The image must visibly read as a polished anime visual-novel background, not a photograph, 3D render, sketch, watercolor wash, children's cartoon or vector illustration.
+
+COMPOSITION AND PERIOD INVARIANTS:
+Preserve exactly the same camera, perspective and full landscape framing.
+The older dark green coach occupies the right side, with the same muted cream horizontal stripe, repeated rectangular windows and curved roof. Keep it a conventional locomotive-hauled passenger carriage, never a sleek modern high-speed train.
+The open carriage door remains at the right in the same position, with continuous frame, plausible hinges/handrail and connected boarding steps. Preserve the small view of the interior and its warm light; no person or shadow in the doorway.
+Keep the broad concrete platform canopy sweeping from upper-left towards the distance, the same simple round support columns and the left-side tree/plant bed and railing.
+Keep the clear central/left platform walking space and the same small luggage trolley far away. No extra trolley or luggage.
+Preserve the receding parallel railway tracks, existing small signals/poles, distant low buildings and faint hills in their relative locations. Keep the grey daytime sky and do not add rain streaks, new weather or a new skyline.
+Keep the lower quarter as calm platform and lower-carriage surfaces for dialogue. Do not add crucial objects there.
+No foreground people, conductor, waving crowd, protagonist, suitcases, toys or character reflections. Character performance will be handled separately.
+No readable station names, coach numbers, destination lettering, logos, advertising, QR codes, LED screens, electric ticket gates or modern high-speed-rail symbols. Tiny existing sign-like panels may remain as indistinct unlettered shapes. No UI, captions, watermark, borders or comparison panels.
+
+Output ONE complete 16:9 landscape image, identical overall framing to Image 1, no crop and no transparency.

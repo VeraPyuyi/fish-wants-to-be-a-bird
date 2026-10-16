@@ -1,0 +1,19 @@
+Use case: style-transfer.
+Asset: BG-RENT-01《小城出租屋·第一次拥有自己的房间》v04, Chinese 2D visual novel background, year 2004.
+
+Input image 1 is the edit target. Its room layout and historical content are accepted as the basis, but the USER REJECTED its overly realistic rendering. REDRAW the entire scene with a clearly visible, coherent 2D anime / Galgame background illustration treatment. This is an actual rendering-style change, not merely sharpening, blur, a color filter or minor texture adjustment.
+
+Keep exactly the same composition, perspective, small dimensions, one rear window, left bathroom and sink, old desk and single chair, wall cupboard, bare wooden bed, concrete floor, exposed bulb, late-afternoon direction of light, and the 2004 ordinary brick/concrete residential buildings through the window. No people, no additional props, no bed linen, no extra windows, no changed furniture positions or proportions, no luxury renovation.
+
+Rendering target:
+- Clearly hand-drawn, selective thin colored line art defines door/window frames, furniture edges and bathroom fixtures.
+- Simple readable flat base colors and two or three grouped shadow values. Soft painted gradients only where needed for the warm sunset. Use broad deliberate shapes of light and shadow rather than physically simulated lighting.
+- Walls become calm, mostly flat cream color fields with a few intentional brush marks. Remove realistic plaster pores, damp patches, mottled microscopic wear and photographic surface noise.
+- Wood uses simple warm ochre/brown shapes with a few drawn grain strokes; remove dense realistic wood grain, scratches, glossy material simulation and finely modeled bevels.
+- Concrete floor uses broad gray-beige color areas and a small number of chosen hand-drawn texture marks, not thousands of pores, cracks or speckles.
+- Through the window, simplify the tiled apartment facades and rails into readable architectural linework and flat colors; keep the era, density and number of buildings, omit excessive microdetail.
+- Bathroom tiles, taps and bed corners should read as clean illustrated forms, with restrained contact shadows, no ray-traced reflections or heavy ambient occlusion.
+- Use a calm, warm, emotionally welcoming anime-background palette with clear cream highlights and muted blue-gray shadow shapes. Maintain the humble low-rent room and evening mood. Avoid a uniform brown photographic film grade.
+
+Aim for the drawn visual language of a contemporary story-focused Chinese/Japanese 2D Galgame environment: credible architecture, clear stylization, fewer material details, graceful line economy. It should unmistakably be an animation background painting when viewed at full size. Not photoreal, not semi-realistic photographic paintover, not 3D render, not a gritty historical photograph, not oil painting, not chibi, not a cartoon with thick black outlines.
+Output ONE clean 16:9 full-frame illustration, ideally 1920x1080. No title, dialogue box, label, border, logo or watermark. Do not generate multiple alternatives.

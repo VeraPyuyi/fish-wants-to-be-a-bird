@@ -1,0 +1,16 @@
+In the FIRST image, REPAINT the facial features of the two leftmost characters to make them visibly more masculine, not just slightly darker shading. These are adults whose faces in this draft have become too round and youthful. The user explicitly requests stronger male-leaning facial structure.
+
+Target 1 ZHANG: far left, dusty-rose blouse, charcoal skirt, short dark hair, gesturing. Target 2 FANG: immediately to Zhang's right, sage pinafore over ivory blouse, short dark hair, canvas bag. Do not touch the central tall man or the two characters at right.
+
+Use reference 2, the approved lake scene, for the adult facial structure: central pink-dress paddler is FANG; left-rear waving sailor-clothed person is ZHANG. Reference 3 is the approved seaside image: second from left cooking is ZHANG, far-right person touching black shoulder-length wig is FANG. Use faces only, never transfer hairstyles, wigs or outfits.
+
+For both target faces, make a clear moderate change from the current museum draft:
+- Straight, slightly thicker eyebrows with a firmer brow-to-nose transition; no thin high arches.
+- Narrower horizontal almond eyes, smaller vertical eye opening, less large round anime-child eyes, restrained lashes.
+- A visibly defined straight nose bridge and a normal adult nose tip rather than a tiny dot nose.
+- Less rounded cheek fullness; slightly longer adult midface.
+- Straighter lower cheek contours, firmer jaw angle and a gently squared but softly rounded chin. Do not make a tiny pointy chin.
+- Preserve a calm kind expression. Both have a modest CLOSED-MOUTH smile, especially ZHANG: remove the open smiling mouth.
+The result should read as lean clean-shaven young-adult masculine faces with gentle expressions, distinct from the soft rounded face of Su at right. Keep their identities distinct: Zhang's face slightly longer and more relaxed; Fang's straighter brow/nose structure more composed. No facial hair, aging wrinkles, heavy makeup, extreme square jaws, angry expressions or overly handsome fashion-model stylization.
+
+KEEP their exact current natural short dark hair, head size, neck length, height, body proportions, feminine clothes, positions and gestures. Change no other face. Preserve every other part of image 1: clothes colours, hands, walking poses, bags, footwear, museum, sign, visitors, coast, trees and light. This revision is ONLY the two facial identities; procession/direction will be corrected separately later. Do not introduce image grain or blur. Maintain clean 2D anime outlines/cel shading. Deliver the full 16:9 scene, no closeup sheet, no panels or annotations.

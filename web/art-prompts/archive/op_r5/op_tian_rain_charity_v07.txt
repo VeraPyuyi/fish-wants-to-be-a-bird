@@ -1,0 +1,12 @@
+Use case: identity-preserve
+Asset: OP-TIAN-DUAL-01 v07, Tian Yuyao at the rainy donation/information booth, a wide 16:9 visual-novel scene.
+
+INPUT ROLES:
+Image 1 is the FULL-SCENE EDIT TARGET (v06). Keep this exact wide composition, camera, furniture, character placement and petite seated size.
+Image 2 is the USER-APPROVED FACE DESIGN (face study v04). Apply this approved facial design to Tian in image 1. Image 2 is ONLY a facial identity/feature reference, not an instruction to zoom in.
+
+Task: replace/refine ONLY the face of the small seated character on the right in image 1 to match image 2 at the correct reduced scene scale. Transfer the approved balance: soft short rounded cheeks/chin, natural straight brows, narrow single-lidded eyes looking left, defined but softly rendered nose, pale skin and calm restrained closed mouth. Match the approved face faithfully, without making it more masculine, more feminine, more stern, younger or older. Keep the smooth subtle facial shading from image 2, adapted to image 1's cool light.
+
+Strict spatial invariants: retain image 1's exact head size, hat position, hair silhouette, low ponytail, shoulder span, petite torso, body scale relative to tables/chair, seated posture and both hands pressing the leaflets. Do not enlarge the head to showcase the new face; do not move or resize the character. Blend the new face naturally with the existing ears/hair/neck and lighting, without seams or mismatched sharpness.
+
+All scene content stays unchanged: dark cap and thick coat, gray knit sweater and dark trousers; two joined folding tables, paper stacks and hanging abstract charity posters; canopy, rainy plaza, anonymous umbrella pedestrians and distant stage. Keep the original full-frame perspective, color palette, light and rain. Do not import the portrait framing, add new people or props, or modify the background. Preserve clean anime features, no additional grain or global blur. No captions, extra text, watermark or collage. Output ONE full wide 16:9 scene matching IMAGE 1, NOT a portrait.

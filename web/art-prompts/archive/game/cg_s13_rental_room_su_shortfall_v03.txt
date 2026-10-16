@@ -1,0 +1,28 @@
+Use case: identity-preserve, precise-object-edit.
+Asset: CG-S13-02《出租屋·难以开口》v03 — matching the approved short-haired rental-room scene.
+Create ONE full 16:9 anime visual-novel expression variant for individual user approval.
+
+INPUT ROLES:
+Image 1 su_home_neutral_v09.png: fixed original FACIAL IDENTITY for Su Yuqing only. Retain her gentle narrow oval face, horizontal brown almond eyes, restrained iris size, natural jaw taper and lower-face/chin spacing. Never import its old bob or portrait composition.
+Image 2 su_early_crewcut_reference_v02.png: USER-APPROVED early short-hair and petite-body design, supporting continuity only. Do not redraw or resize the accepted scene based on this front-facing pose.
+Image 3 cg_s13_rental_room_first_view_v04.png: SOLE WHOLE-SCENE EDIT TARGET, now explicitly USER-APPROVED. Its SHORT HAIR, star clip, complete bodies, exact body height and positions, clothing, props, both adults, room, camera and light are the scene baseline to PRESERVE.
+Image 4 cg_s13_rental_room_su_shortfall_v02.png: the USER-APPROVED earlier RENT-SHORTFALL emotion reference only. It tells you the hesitant expression and adults' listening expressions required for this dialogue. Do NOT import its outdated bob, old hair mass, scene geometry, body positions or old frame rendering.
+
+Task: edit Image 3 into the existing “difficult to admit the rent shortfall” moment by changing the small facial-expression areas, while retaining its newly approved short hair and all scene geometry. The result replaces the older long-haired emotion in Image 4.
+
+Su's expression must be the careful, slightly worried admission from Image 4:
+- Maintain Image 3's same head size, three-quarter angle and upward-right gaze toward the LANDLORD AT SCREEN-RIGHT.
+- Inner eyebrows subtly raised/drawn together, lids slightly tense; almond eyes and restrained irises, no enlarged round wet eyes.
+- Remove the satisfied closed-lip smile. Mouth slightly parted, small and hesitant, corners neutral or faintly lowered. She is searching for words as she admits she has only enough for one month's rent.
+- Do not show gratitude, happiness, relief, shock, crying or a large open mouth.
+- Keep the same gentle fifteen-year-old identity, discernible lower face and natural narrow jaw. Face remains in the scene's warm anime linework and simplified sunset shading; no pasted frontal portrait or photoreal skin.
+- Keep her exact SHORT BLACK HAIR from approved Image 3: same crown, short fringe, exposed ear and nape, without reintroducing any bob ends at the jaw. Freeze hair contour and ONE small cream star on the existing anatomical right temple / visible viewer-left side. No new tuft, longer fringe, missing star, mirrored clip or duplicate.
+
+Adults:
+Match the attentive rent-discussion expressions in Image 4. The RIGHT landlord closes her formerly cheerful speaking smile into a composed, mildly concerned listening mouth, warm and attentive, not scowling. Keep her identity, eyes/face proportions and head angle stable. The LEFT Zhang keeps her restrained gentle listening expression; adjust only if required to match Image 4. Preserve BOTH adults' exact heads/hair silhouettes, bodies, gestures, outfits, scale and positions from Image 3. No new gestures or reaction poses.
+
+STRICT INVARIANTS OF IMAGE 3:
+Keep Su's complete body proportions/height/stance and feet exactly in the accepted scene positions; this is no further height redesign. Same pale-blue hoodie, ivory shirt, dark jeans, white shoes and dark backpack straps. Her screen-left hand still holds the suitcase telescopic grip; screen-right hand still holds the ONE navy cap. Keep grip/contact geometry, cap shape and angle, all hands/fingers, sleeve folds, suitcase body/handle/wheels and original two cute cat illustrations.
+Freeze the whole room: bathroom door/sink/mirror on the left, wall/window/exterior old buildings, empty desk and chair, wall cupboard, bare wooden bed and boards, lamp, floor, doorway, perspective, camera, framing and warm sunset light/contact shadows.
+Change only the necessary facial expression drawing. No money, contract, key, new object, text, UI, watermark, checkerboard, inset, comparison layout, alternative picture or extra person. No background redesign, scale change or extra crop.
+ONE image, preserve Image 3's full 1672x941 composition and aspect.

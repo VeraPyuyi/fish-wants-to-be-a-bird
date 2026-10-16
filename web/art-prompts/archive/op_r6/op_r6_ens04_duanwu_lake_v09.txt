@@ -1,0 +1,18 @@
+Use case: precise local expression restoration.
+Asset OP-R6-ENS-04《端午湖面》v09.
+
+IMAGE 1 is the full illustration to EDIT, v08.
+IMAGE 2 is a diagnostic comparison of existing drawings: its TOP LEFT portrait labelled "Zhang v06" is the EXACT USER-APPROVED reference to restore. Ignore all other portraits in that comparison.
+IMAGE 3 is the full v06 composition, supporting reference for the SAME Zhang face only.
+
+Only edit Zhang's FACE in image 1, the small distant person at the LEFT of the yellow-roofed pedalboat, in a NAVY SAILOR TOP with her arm raised, face centre about (270,240) in the 1672x941 picture. DO NOT edit the large foreground pink-dress person or Hu seated beside Zhang.
+
+Make a clear, visible correction to Zhang's smile and eyes, matching the TOP-LEFT enlarged approved reference:
+- Replace the current round wide-open laughing mouth with the reference's smaller, narrower HORIZONTAL smile. Reduce the mouth opening height roughly by half, show a thin upper-teeth highlight and a much smaller dark opening. Keep warm happy upturned corners, but no large round open grin.
+- Reopen both eyes enough to show the brown pupils clearly beneath relaxed upper lids. The reference eyes are slightly narrow/half-open, not crescent-shaped laughing eyes and not winking. Match reference eye slant and brow position.
+- Retain the approved adult face shape and the reference's defined small nose and cheek-to-jaw structure. Do not make the cheeks rounder or more childlike.
+This is an adult person's friendly waving smile, not a child laughing loudly. Restore the reference exactly enough that the mouth and eye differences are visibly corrected at full-scene size.
+
+Keep Zhang's exact head SIZE, placement, mild tilt, short natural dark hair outline, neck/collar, body, sailor outfit, raised open hand and waving gesture. Do not zoom or enlarge the tiny person.
+
+LOCK everything else in IMAGE 1: Hu's just-approved face and seated body; Fang's face, pink lace dress and paddle grip; Su's face, star clip, sailor clothes and water-touching hand; all fingers and feet; both boats and canopy; cleaned smooth blue water with sparse highlights and contact rings; the amusement park, visitors, trees and sky. Do not reintroduce dense sparkle noise. No additional face retouching. No new framing, panels, annotations or text. Return ONE entire same 16:9 full scene, with only the small distant Zhang face corrected.

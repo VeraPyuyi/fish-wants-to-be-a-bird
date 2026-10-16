@@ -1,0 +1,23 @@
+Use case: ads-marketing / illustrated visual novel key art.
+Create ONE finished, polished 16:9 landscape promotional poster for the Chinese visual novel 《想要变成鹰的鱼》, ideally 2560×1440 or largest available landscape resolution. A new promotional composition derived from the approved reference character; not a screenshot mockup.
+
+REFERENCE ROLES:
+Image 1: strict protagonist identity, face, haircut, small body proportions, cream star hairclip, blue lightweight hooded jacket, white T-shirt, navy long trousers, white sneakers, and clean anime rendering reference. Keep this same recognizable Su Yuqing, a petite young teenager, depicted entirely ordinarily and non-sexually. Hair remains short as in image 1, no wig, no long hair, no adult glamorization.
+Image 2: supporting era, suitcase and town setting reference ONLY: 2004 Zhejiang small-city architecture and compact cream cat-sticker rolling suitcase; do not copy station scene or all other people into poster.
+Image 3: supporting palette and illustrated sky/water reference ONLY. Simplify its many fine reflections.
+
+ART DIRECTION:
+Professional Japanese-style narrative visual novel promotional key visual, clearly 2D anime illustration, fine confident contours, luminous flat cel shading with soft restrained gradients, clean surfaces, no granular noise, no photo texture, no 3D look. Delicate, hopeful yet a little wistful. Cream sunlight, pale blue sky, muted teal water, a little warm peach in clouds. Attractive carefully planned typography and spacious composition, not a generic collage.
+
+COMPOSITION:
+Full bleed landscape. Su Yuqing stands in the left third on a small-town riverside path, framed nearly full body with shoes fully visible and generous margins. She is small and slender consistent with reference, not tall or long-legged, and naturally scaled against waist-high stone riverside railing and distant adults. One hand loosely holds the compact suitcase handle, other naturally at her side. A light breeze lifts a few short hair tips and jacket edge. Slight three-quarter body, gentle earnest gaze turned toward the open sky on the right, a very faint hopeful smile, not a big grin. Preserve her brown eyes and round gentle face from reference 1 exactly. No hat so the star hairclip is visible. Correct hands, natural fingers, suitcase grounded with coherent shadow.
+
+The path and river lead into depth, with a few small discreet distant pedestrians on the left-bank promenade and low-rise early-2000s Chinese residential buildings, trees with varied silhouettes, a bicycle near a far wall. Do not make buildings ancient ruins; modest inhabited ordinary town of 2004, no modern skyscrapers or smartphones. The right half is broad airy sky and quiet water, with generous clear area for the title. A single distant eagle silhouette glides high over the river, subtle and anatomically credible. A small fish shape under the clear foreground river surface provides a restrained visual rhyme, not a magical creature and not flying. The whole poster is a symbolic promotional scene, no literal claim that it is a specific story event.
+
+TEXT must be exactly the following Chinese, sharp, correctly written, with no additional text:
+Main large title: “想要变成鹰的鱼”
+Smaller descriptor: “中文视觉小说 · 序章试玩”
+Small footer: “浏览器即玩”
+Place title in the open right half, preferably two artfully balanced lines “想要变成” then “鹰的鱼”, elegant expressive Chinese book-title lettering with ink-blue strokes and subtle warm highlights. Make “鹰的鱼” slightly larger. Clear negative space around title, no text across face or hands. Descriptor below in tidy restrained type, footer near lower right with ample safe margin. No website URL, no QR code, no logos, no watermark, no device frame, no buttons, no game text box. Do not include the original novel's former title.
+
+Prioritize character identity, legible exact title, emotional composition and very clean high-definition anime finish. Do not add other named cast, endings, tragedy spoilers, hospital or memorial imagery.

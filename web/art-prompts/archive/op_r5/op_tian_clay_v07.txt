@@ -1,0 +1,13 @@
+Use case: identity-preserve.
+Edit the supplied image into OP-TIAN-01 v07, "天语遥·掌心的软陶女武神".
+This is a very small facial refinement of v06. The user found this version a little too hard and asks for a softer appearance. Find a balanced midpoint: keep the distinctly boyish, refined facial structure, sharp attentive gaze and tiny rakish smile, but soften their intensity.
+
+Change ONLY the face within the same silhouette, angle, head size and framing:
+- Slightly reduce eyebrow thickness and darkness, particularly the dense inner brows. Keep them fairly straight, but ease their downward slant so the focus feels confident rather than stern.
+- Reduce the contrast of the nose bridge and side-of-nose shadow. Keep a clear, slender nose structure.
+- Gently soften the cheek-to-jaw transition and chin contour. Do not make the cheeks puffy, make the eyes bigger, or revert to a very round or delicate pointed doll face.
+- Soften the upper eyelid expression only a little, keeping the narrow eyes looking down toward the sculpture.
+- Preserve a tiny one-sided closed-mouth smile, restrained and slightly roguish, with a warmer, youthful feeling.
+The face remains the same 18-year-old character with a recognizable slender boyish appearance. No beard, no wrinkles, no age change, no exaggerated makeup or blush. A modest visible reduction in harshness, not a new face.
+
+STRICTLY PRESERVE current petite body proportions and position, shoulder width, neck, hair and short single ponytail, cream loose long-sleeved top, grey-blue trousers, both hands, tool grip and sculpting action. Leave ALL non-face content intact: camera and crop, desk, chair, room, rainy window, warm lamp, CRT computer, bookcase, empty mirror, bed and every tabletop object. The clay warrior keeps its armor, sword, cat ears and curled cat tail, no attached wings; two detached wings remain on the table. No new person, prop, text or UI. Same soft anime visual novel art style. Output one complete horizontal image with identical framing.

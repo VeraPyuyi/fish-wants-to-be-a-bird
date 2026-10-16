@@ -1,0 +1,23 @@
+Use case: compositing / identity-preserve.
+Asset: OP-FANG-DUAL-01《方莜莜·初到小城车站》v02.
+Make ONE corrected 16:9 full scene. The user has asked for exact LOCATION CONTINUITY with Su Yuqing's arrival at this railway station.
+
+Reference roles and priority:
+IMAGE 1 is the APPROVED CANONICAL STATION SCENE and the primary EDIT TARGET. Keep its camera angle, architecture, spatial layout and landmark positions. This is the same physical place at a later date.
+IMAGE 2 supplies ONLY Fang Youyou: her identifiable face, natural short layered dark hair, muted blue-grey short-sleeved shirt, straight navy trousers, light sneakers, compact navy suitcase and lowered mobile-phone gesture. IGNORE ALL OF IMAGE 2'S BACKGROUND. Do not use its relocated station, foreground shop, trees, planters or fences.
+
+Required scene edit:
+Use Image 1 as the actual spatial base, not merely aesthetic inspiration. Replace the small cap-wearing blue-jacket girl and her light mascot suitcase at centre-right with Fang from Image 2 arriving on foot: small warm smile, glance toward her friends outside frame, one hand pulling the small navy suitcase and the other holding a small early-2000s mobile phone down by her side. Preserve Fang's facial identity and clothing. She is about 160cm, slender and gently androgynous. Keep her at the original centre-right ground position with the same ground plane, only modestly taller in scale than the original cap-wearing girl, not a huge foreground fashion model. No star hair clip, cap or wig. Show complete body and both shoes, suitcase wholly visible, natural grips. Nearby adult bystanders must still be plausibly sized relative to her. Su and Zhang are outside this crop; no second version of the blue-jacket protagonist.
+
+LOCK THE FOLLOWING LANDMARKS FROM IMAGE 1:
+1. The modest cream two-storey railway building stays on the RIGHT half, shown from the SAME three-quarter angle and about the same distant size. Flat roof with thin antenna poles, the SAME rhythm/count of upper tall blue-grey rectangular windows, the SAME projecting flat ground-floor porch and TWO round windows near the entry. Do not recenter, redesign, widen or enlarge the building to fill the frame.
+2. Keep the wide shallow steps, black metal fence ALONG THE FRONT OF THE STATION and the black lamp posts with clusters of white spherical globes in their original positions.
+3. Keep the continuous LEFT-SIDE row of old low two-storey tile-roof shops/houses and shop awnings; preserve the relationship of that street to the station, including the small gable-roof annex between them. Do not add a right-foreground grocery shop, large sign, new foreground awning or crates. The meeting grocery shop is off screen; it does not need to be invented in this view.
+4. The green older small bus remains LEFT of the station, near the junction with the older street. The bicycle row stays along that same area. Keep the distant ordinary cars in the LEFT street.
+5. Preserve the wide OPEN grey paved square, wooded hills and mountain skyline, and needle-leaved tree at the far RIGHT edge. No foreground planters, fenced flower beds, extra railings crossing the square, or new large broad-leaved tree in the upper-right. This empty spatial extent is essential to recognizing the same station.
+
+Different date and mood:
+This is late spring 2004 about 11:20 in the morning, several months after Su's arrival. Replace wet reflective paving and heavy overcast weather with dry matte paving and soft mild late-morning daylight. Keep ground brick layout and all building shapes fixed; season changes do not alter architecture. Existing ordinary people may have lighter late-spring clothing and slightly different everyday poses, but keep the modest crowd scale and occupancy; it is not deserted. Fang is noticing friends coming to meet her, a restrained sense of relief, no grand greeting or new plot.
+
+Art direction:
+Keep clean soft-anime illustration throughout, thin controlled outlines, broad smooth painted/cel-shaded forms and gentle non-photoreal faces. LOW NOISE, no grain or micro-speckles on walls, pavement, clothes or foliage. Simplify textures without blurring geometry. Respect the approved character and architectural style; no photographic materials or 3D rendering. Preserve Image 1's large sky/left-side negative space for later text. No subtitle, name card, watermark, collage, border or new decorative lettering. Output one unified scene, not a diptych.

@@ -1,0 +1,19 @@
+Use case: identity-preserve and perspective correction.
+Revise this ONE attached cleaning-room group illustration into OP-R6-ENS-02《一起把旧屋擦亮》v05. The user asks for coherent character proportions and relative heights. All five facial identities, clothes, hairstyles, expressions and activities were already approved. Do not change their face designs.
+
+PHYSICAL HEIGHTS (not a lineup and not screen-height sorting):
+Pink dress Su holding cat: about150cm, smallest.
+Sage shirt Fang near left basin: about160cm.
+White blouse/twin ponytail Lin leaning over right bed: about160cm.
+Yellow shirt Zhang cleaning back window: about170cm.
+Navy sports shirt Hu moving chair: about189cm, tallest, but his approved lean build must remain.
+Correct projected scale according to each person's distance from the camera and feet on the SAME room floor. Do not line up head tops: Fang is leaning, Lin is bent over, and Zhang is far back.
+
+TARGETED CORRECTIONS:
+1. At the rear window, Zhang in yellow is currently oversized for that distant floor position. Reduce her WHOLE figure uniformly by about10%, anchored at the floor where her shoes stand. Head, torso, arms and legs must scale together; keep the exact approved face/hairstyle and slender adult proportions. Preserve her wiping-window action, allow the cloth contact point to move naturally with the smaller arm reach. She is the most distant human and should project smaller than the foreground people.
+2. Hu in navy is tall but currently does not read clearly enough as the tallest physical person relative to the closer 150/160cm people. Make at most a small3% uniform whole-figure height/scale adjustment around his existing floor contact point, without widening shoulders or chest, thickening limbs or elongating just the legs. Preserve his approved head shape, facial features, lean body and natural hand-to-chair contact. If needed shift the lightweight chair a few centimetres consistently with his hands.
+3. Preserve the relative physical sizes of foreground Su and Fang. Do not make Su extra tiny, chibi or short-legged; do not enlarge her head. Their different leaning/standing postures are natural. Keep Lin's bent posture and160cm physical scale at the bed; do not artificially raise her head to align it with Fang.
+4. REFRAME THE ENTIRE SCENE modestly wider so there is clear floor below all shoes and breathing room above Hu. The whole scene may occupy a slightly smaller area of the output; identities must stay unchanged. Unlike previous unsuccessful attempts, visibly show a band of floor below Su's nearest shoe, around5–7% of picture height. Keep her feet grounded, both shoes and soles complete. Do not squeeze or shorten her lower legs to create margin. No borders or artificial blank padding.
+
+Keep the same room and layout: right-hand bed, left bookcase and fridge, same window wall, deck and river outside, same cat and four pawprints, cleaning cloths and water basin. Keep five humans only. All objects share a coherent perspective and scale: normal chair, ordinary bed, adult-height doorway. Slightly wider camera framing is authorized; changing faces, outfits or décor is not.
+Clean soft anime rendering matching the reference, clear low-noise colour fields and linework, no granular floor texture or softened face details. No labels, text, watermarks, height charts or reference panels. Output a single 16:9 full illustration.

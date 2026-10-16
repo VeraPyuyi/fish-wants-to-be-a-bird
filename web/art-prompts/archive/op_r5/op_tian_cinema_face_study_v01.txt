@@ -1,0 +1,15 @@
+Use case: identity-preserve
+Asset: OP-TIAN-FACE-02 v01, Tian Yuyao cinema eyebrow-and-eye approval study.
+Input 1: cinema scene v05, the edit target and exact costume, hair, lighting, mask and gaze reference.
+Input 2: approved rain-scene facial study, the same character's identity reference, especially straight brows, narrow eyes and pale skin. Do NOT transfer its hat, coat or rainy setting.
+
+Create ONE close head-and-shoulders illustration of the masked person from input 1, with the whole head and low ponytail visible and plenty of pixels devoted to both eyebrows and eyes. This is an intentional new facial DESIGN STUDY, not just an enlargement of the existing small face. Camera at eye level; head and gaze still turned three quarters to the viewer's left as in the cinema image. White mask covers the nose, mouth and chin, with normal ear loops. Retain the soft gray high-neck dress collar. A softly simplified sunny cinema wall and poster colors behind the head provide continuity, with no readable new text.
+
+The user has repeatedly said the cinema face needs stronger boyish/masculine presentation. Make the requested upper-face design clearly readable here:
+- straight, naturally fuller eyebrows with broad untapered inner portions and mostly horizontal ends; lower brow-to-eye spacing, no delicate curved eyebrow arches;
+- slim horizontally elongated almond-shaped eyes, a firm clean upper eyelid, smaller iris partly covered by that lid, minimal lashes/highlights and no large rounded sparkle eyes;
+- a gently defined brow plane and a short indication of the upper nasal root above the mask, drawn with clean sparse anime lines, not heavy realistic shading;
+- composed, slightly sharp and guarded leftward gaze, rather than an angry scowl.
+Preserve a youthful, slim, pale and androgynous identity, and the same dark-brown bangs, temples, ear and low ponytail. The boyish quality should come from the visible facial design, not added beard, aging, broad shoulders or a new haircut. Keep the cheeks and visible temples softly shaped. Do not lower the mask to reveal the face. Do not make the person older, taller or muscular.
+
+Style: clear polished anime visual-novel art consistent with input 1; clean color planes and controlled soft shadows; no photographic skin pores, paper texture, grain, excessive hair micro-lines, blur on eyes, captions, watermarks or comparison panels. One single portrait, approximately square. Face large enough for approval of eyebrows and eye geometry.

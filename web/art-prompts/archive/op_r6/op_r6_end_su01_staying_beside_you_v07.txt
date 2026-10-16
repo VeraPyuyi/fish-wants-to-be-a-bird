@@ -1,0 +1,11 @@
+Use case: precise-object-edit
+Asset type: OP-R6-END-SU-01 v07, full hospital illustration for the story-ending video.
+Input image 1: EXACT full-scene edit target.
+
+Primary request: Correct the SCALE and transition of Mo Kong's clasping RIGHT hand relative to his adult forearm. Keep the already established gentle handholding pose and its correct right-hand anatomy.
+
+The clasping hand at the lower center is slightly undersized and short compared with his substantial forearm and his other hand resting on the blanket. Increase ONLY Mo's clasping right hand modestly, about 10–12% in length and palm breadth, using his other hand as an anatomical proportion guide while respecting perspective. Make the wrist slightly fuller and connect it to the forearm with a smooth gradual taper. Preserve the current elbow position and overall reaching direction. The result should read as one coherent adult man's arm, wrist and hand; not a small hand stuck onto a thick arm. Keep the adjustment restrained. Do not inflate the knuckles, enlarge both hands together, or make the hand monstrous.
+His right hand is viewed from the BACK; four relaxed fingers point toward the LOWER LEFT. His thumb remains on the NEAR/LOWER edge, beside Su's fingertips, NEVER on the upper edge. Keep the four fingers separated naturally and retain their approved relaxed curves.
+Su's smaller LEFT hand remains palm-up beneath his. Preserve Su's hand size and arm; make only minimal local contact/occlusion adjustments required by the slightly larger hand above. Their contact rests on the adjoining blanket edges. Two hands, two continuous wrists; no added fingers or interlacing.
+
+Strictly preserve all other parts: both faces and expressions, both character scales, Su long hair and star clip, Mo hair, all clothing, both FREE hands, body poses, bed placement, room, lighting, pillows and the overall composition. Return the full wide frame. Do not crop or zoom. Keep the same soft clean anime linework, smooth shadows and low-noise finish. No text or watermark.

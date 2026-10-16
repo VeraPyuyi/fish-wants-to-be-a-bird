@@ -1,0 +1,11 @@
+Use case: identity-preserve, local body-proportion continuity edit.
+Asset: OP-R6-END-HU-01 “胡玉牛·早春的告别” v03.
+
+Input 1 is the exact hillside funeral illustration to edit. Input 2 is the previously approved character-design reference of adult Lin Xichen (the woman on the LEFT with twin ponytails) and Su (on the right). Use only the clothed adult body proportions of Lin in Input 2 as reference.
+
+The user requests a CLEARER increase in Lin's fullness; the previous edit was too subtle. Edit ONLY LIN XICHEN: the leftmost of the three standing friends in the main group, dark twin ponytails, muted grey-green buttoned cardigan over a white collared shirt, navy long skirt, hands resting together.
+Give her a visibly fuller, rounded bust beneath the same opaque comfortably fitting cardigan, bringing her upper-torso silhouette into line with the adult Lin in reference 2. The fuller contour should be legible at normal full-scene viewing size, not merely a tiny change in fold shading. Let the front of the cardigan project naturally from the ribcage, with gentle broad folds falling below it. This is a consistent character-proportion correction in a solemn everyday scene.
+Keep the cardigan and shirt completely closed at their existing collars, with comfortable fabric ease and no exposed skin or stretched button gaps. Keep her waist and belly ordinary/slender; do NOT make her stomach larger. Preserve narrow shoulders, slim arms, height, standing position, exact bowed face, hairstyle, hand placement, skirt and shoes. Do not add glamour lighting, tight fabric, cleavage, large shoulder pads or a different pose. Match the reference's believable proportions, not caricature.
+
+Everything outside this limited cardigan/upper-torso shape is LOCKED. Keep all other six people, Su's corrected short bob and white clip, father and mother's grief gestures, faces, clothes, hands, scale, positions, grave, incense, cleaner anime-painted grass/earth, path, sea, hills, trees, framing and colors identical. Do not reintroduce Su's long chest hair, photographic grain, extra props or text. No zoom/crop change.
+Same respectful soft 2D anime illustration. Return ONE opaque full 16:9 frame with only adult Lin's clothed upper-body fullness increased.

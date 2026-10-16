@@ -1,0 +1,19 @@
+Asset: CG-S06-02《T136车厢·倚座入睡》v02
+Use case: identity-preserve. One precise hair-only edit to the approved sleeping scene.
+
+INPUT ROLES
+Image 1, cg_s06_train_su_asleep_v01: SOLE FULL-FRAME EDIT TARGET. Keep its sleeping pose, gently closed eyes, tilted head, all bodies, objects and complete carriage framing.
+Image 2, cg_s06_train_su_seated_v03: PRIMARY SAME-SCENE SHORT-HAIR REFERENCE. Match only the approved short sides and cropped nape beneath Su's navy cap, adapted to the tilted sleeping head in image 1. Do NOT copy its awake eyes, chin-on-hand pose or forward head position.
+Image 3, su_home_neutral_v09: fixed facial IDENTITY reference only: gentle oval teenage face, natural nose/mouth/chin proportions. Its old bob is obsolete. Do not import its long hair, frontal head angle, open eyes, standing pose or checkerboard.
+Image 4, su_early_crewcut_reference_v02: secondary approved cropped-hair reference, confirming short close sides. Keep the cap on in the sleeping scene; do not copy a visible clip or standing pose.
+
+REQUIRED LOCAL HAIRCUT CHANGE
+Su is asleep on the RIGHT bench. In image 1, a broad black bob curves from behind her visible ear down along the side/back of her neck to the blue hoodie. REMOVE the whole hanging lower bob, including the rounded lower mass behind the ear and the curled tips by the neck/hood. Replace it with very short close-to-head black hair ending high at the ear and nape, as in image 2. Her lower ear and neck behind/below it must be clearly exposed; fill removed-hair areas with anatomically correct neck skin or the existing blue seat as appropriate. No retained chin-length curtain, dark band to the collar, or rounded bob hiding behind her head. Short natural pointed hair edges are fine; no bald patch. Keep only short fringe beneath the unchanged cap.
+
+LOCK THE SLEEPING PERFORMANCE AND IDENTITY
+Keep Su's existing tilted side face, closed eyelids, relaxed closed mouth, cheek/jaw proportions and young age. Her head and upper back stay resting against the same upholstered seat, with the same mild upward chin angle and believable neck; do not move her head forward, raise the cap away from support, change her expression, wake her, or restore a hand under the chin. Both small hands remain relaxed over the navy backpack on her lap. Keep the petite seated scale, short bent arms, legs, pale blue hoodie, off-white top, dark jeans and white shoes. Preserve the upright white suitcase with two cat stickers immediately by her feet. Her approved original-side star clip remains naturally covered by the cap, with no extra clip on the hat or visible ear.
+
+LOCK THE REST OF IMAGE 1
+Keep both adults on the LEFT in their approved soft anime style: the woman reads her newspaper; the middle-aged man peels an egg over a paper bag. They continue their own activities without looking at or touching Su. Keep the blue benches and curtains, metal racks and bags, table, window, gray overcast sky, fields, hills, perspective, camera crop, diffuse lighting, colors, line weight and all contact positions. No new passenger, object, interaction, background redesign or change to the body pose. Preserve the complete wide image at the original aspect ratio.
+
+Output ONE full-frame illustration only, with Su's visible lower bob replaced by the approved short haircut. No sheet, alternative, close-up, lettering, UI, captions, watermark or border. No photorealistic or 3D redraw. Preserve the quiet ordinary sleep of the edit target.

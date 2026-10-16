@@ -1,0 +1,11 @@
+Use case: identity-preserve
+Asset: OP-TIAN-DUAL-02 v06, Tian Yuyao outside the cinema, full 16:9 scene.
+Image 1 is the FULL-SCENE EDIT TARGET (cinema v05).
+Image 2 is the USER-APPROVED EYEBROW/EYE DESIGN (cinema face study v06), to transfer into the person in image 1.
+The user explicitly approved image 2's balance of gentle, softly boyish androgyny. Match it closely, without making it harsher or rounder.
+
+Replace only the visible eyebrows and eyes ABOVE the person's mask in image 1 with the drawing and expression in image 2, adapted naturally to the existing small head and perspective:
+Softer relaxed brows with a little more space over the eyelids, gently tapered ends, elongated almond eyes with relaxed rounded transitions, the same calm leftward gaze and restrained iris highlights. Capture the approved gentle reserved expression, avoiding the low heavy pressing brows and narrow stern squint of the old full scene.
+Keep the eye color, pale skin and identity. This is application of an approved reference, not a new facial design proposal.
+
+LOCK THE REST OF IMAGE 1: exactly preserve head size, height and angle, bangs/low ponytail, mask coverage/outline/folds/ear loops, petite body and relationship to door/posters/bicycle, dress and sleeves, clasped hands, feet, light-blue flat shoes, ground contact and all background objects. Do NOT enlarge the face or person. Do NOT transfer image 2's portrait camera or shoulders into the scene. Retain clean anime color planes, sunshine and original 16:9 composition, cinema signage/crowd/tree/bicycle. No texture, grain, blur, extra objects, text or watermark. Output only the complete wide cinema scene.

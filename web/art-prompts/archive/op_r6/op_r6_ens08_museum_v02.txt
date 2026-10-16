@@ -1,0 +1,17 @@
+Edit the FIRST image (five friends at a museum gate), reconstructing ONLY the faces of the TWO LEFTMOST people so they are visibly a little more masculine and adult, consistent with their previously approved identities.
+
+TARGETS in the museum image:
+- ZHANG: far-left short-haired person, dusty-rose blouse and charcoal skirt, gesturing with one hand. Face centred roughly 33% across, 26% down.
+- FANG: second from left, ivory blouse under sage-green pinafore dress, canvas shoulder bag. Face centred roughly 43% across, 29% down.
+Both current faces are too round, round-eyed and childlike. A slight cosmetic shading change is not sufficient: redraw the eye/brow shapes, nose and lower-face contours to restore the adult likenesses.
+
+REFERENCE 2 is the approved seaside lunch. ZHANG is second from left in a teal blouse cooking the fish; FANG is far right in a cream blouse and coral skirt, wearing a black shoulder-length wig. Use their approved FACES only. Do not copy their seaside clothes or hair lengths.
+REFERENCE 3 is FANG's approved pink-dress park portrait, another face reference.
+
+ZHANG: make the face a slightly longer oval with less puffed round cheeks, subtly straighter cheek-to-jaw planes and a soft squared adult jaw, retaining a rounded chin. Use flatter moderately defined brows, horizontally narrower almond-shaped brown eyes with restrained eyelashes, a more readable nose bridge and tip. Change the current open-mouth smile to a small relaxed closed-mouth smile like the approved seaside face. Keep youthful-adult warmth, not a child face or an exaggerated handsome male model. No beard, wrinkles or severe expression.
+FANG: restore the straight brow/nose relationship, more restrained narrow eyes, slightly longer midface, and firmer lower cheek/jaw contour of the references. Reduce the round eyes, tiny nose and round baby cheeks. Keep a gentle closed-mouth smile, softly rounded chin and calm adult appearance. Her face should remain different from Zhang's, not copied from Su. No beard or harsh angular jaw.
+
+Male-leaning facial structure should be unmistakably stronger than in the current museum image, but still gentle and harmonious with feminine everyday clothing. Do NOT change their identities, skin tones, hairstyles, head sizes or head-to-body proportions. Keep both existing NATURAL dark short hairstyles in the museum image; do not add Fang's seaside wig or Zhang's birthday wig.
+
+LOCK EVERYTHING ELSE to the FIRST image: the other three faces (tall HU in ochre at centre, small SU in pink at right-centre, LIN with twin ponytails at far right), all five outfits, bodies, gestures, hand positions, walking poses, bags, feet, museum gate and readable Chinese sign, visitors, trees, paving, lighting and framing. This pass is a face-only revision; do not rearrange the procession or fix other details yet.
+Use the same clean soft 2D anime linework and cel shading, no added grain, heavy makeup, realistic pores or dark contour shadows. Deliver a single complete 16:9 museum scene, not a cropped face sheet or comparison collage.

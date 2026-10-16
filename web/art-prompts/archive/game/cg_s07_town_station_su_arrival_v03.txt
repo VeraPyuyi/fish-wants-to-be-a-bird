@@ -1,0 +1,22 @@
+Asset: CG-S07-01《小城站前·初抵陌生城市》v03
+Use case: identity-preserve / precise-object-edit. ONE hand-anatomy and cap-contact repair to this full scene.
+
+INPUT ROLES
+Image 1, cg_s07_town_station_su_arrival_v02: the SOLE FULL-FRAME EDIT TARGET. Keep its existing cropped short hair, recognizable Su, body scale, luggage, people, buildings and complete wide composition. The raised hand on the screen-right side of her head is broken and MUST be redrawn; do not preserve that hand's current position or bad overlap.
+Image 2, su_home_neutral_v09: fixed FACIAL IDENTITY reference only. Retain the original gentle oval adolescent face and natural facial proportions, adapted to image 1's small leftward side view. Its old bob, pose, body scale and checkerboard are not to be copied.
+Image 3, su_early_crewcut_reference_v02: approved SHORT-HAIR continuity reference only. Preserve the already-short visible hair in image 1, keeping the cap on. Do not add a visible clip or copy the standing reference pose.
+
+USER CORRECTION
+The raised hand intersects the head/hair/neck instead of clearly holding the cap. Reconstruct this hand and its wrist/forearm connection as one anatomically natural small hand pressing gently on the OUTSIDE of the cap, with unambiguous surface contact and occlusion.
+
+REPAIR THE RAISED ARM AND HAND
+Su stands in the middle-right foreground, facing screen-left, suitcase in the other hand. Move her raised hand UP out of the rear neck/ear area and onto the exterior SIDE PANEL of the navy cap, just ABOVE the visible ear. The hand should read as holding down her cap against a light breeze, not scratching her neck or adjusting hair.
+Draw a small relaxed palm outside the head silhouette. Show the index and middle fingertips gently pressing the visible cap fabric above the ear, with the remaining fingers naturally curved together along its surface. Use one coherent five-finger hand, fingers visually distinct as appropriate to the angle, with no duplicate digits, fused skin lumps or finger ends inside the head. The thumb rests along the OUTER lower cap seam, never within the ear, hair, skull or neck. A tiny cap-cloth contact shadow is sufficient; no deep indentation.
+Make the layer order unmistakable: foreground fingers and hand, cap fabric immediately behind them, then the separate ear/hair/neck below. Keep the visible ear and short nape contour unobstructed below the hand. No strip of hair or neck passing through a finger or between fused fingers. There must be a continuous outline from hand through wrist into the blue sleeve cuff.
+Allow a SMALL upward/outward elbow adjustment and natural forearm rotation to reach this higher contact without stretching. Preserve her short upper-arm and forearm proportions, modest shoulder position and petite body. The wrist stays gently aligned with the forearm rather than sharply bent or detached. Do not lock the bad lower hand pose; repair the whole local raised-arm chain only as much as needed. Do not create an extra hand left at the neck.
+
+LOCK EVERYTHING ELSE
+Keep Su's current face angle, leftward gaze, closed mouth, quiet uncertainty, short cropped black hair, cap crown/brim shape and position, head size, height relative to the square and other adults, and all other body positioning. Do not turn her face toward camera, change expression, enlarge her, regrow a bob, move the cap or expose/add the naturally hidden original-side star clip.
+Keep the OTHER hand wrapped around the suitcase handle, navy backpack and straps, pale blue hoodie, off-white top, jeans, shoes, upright pale suitcase with two cat stickers, wheels and pavement contact/reflections. Preserve the entire town-square image: motorcycle pair on the left, central greeting pair, doorway travelers, lodging caller on the right, low station, old shops, vehicles, bicycles, hills, trees, gray sky, damp paving, camera, crop, soft anime linework and cool daylight. No new or removed people, objects, interaction, motion or weather.
+
+Output ONE complete wide illustration only, same aspect ratio and framing. This is a targeted repair of the raised hand and necessary wrist/arm anatomy, NOT a redesign. No comparison sheet, close-up, alternate image, UI, title, lettering, watermark, border, photorealistic redraw or 3D rendering.

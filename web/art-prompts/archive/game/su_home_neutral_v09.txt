@@ -1,0 +1,17 @@
+Use case: identity-preserve, precise-object-edit.
+Asset: CH-SU-01 | 苏雨晴·离家前基础立绘 v09 · 身形更矮小.
+The attached su_home_neutral_v08 image is the sole EDIT TARGET.
+User request: this version of Su Yuqing still needs to be a little shorter.
+
+Make a focused ANATOMICAL PROPORTION edit, not a change of camera or overall image scaling:
+- Make her visibly a little shorter and more petite by modestly shortening both thighs and lower legs, approximately 8%, and the torso about 3–4%. The intent is roughly 5–6% less total standing height at the SAME head size.
+- Keep the head's actual size, facial identity and face shape, shoulder width, slim build, hand size and shoe size essentially unchanged. Adjust the arm lengths very subtly to remain natural relative to the shortened torso and thighs. Keep the casual loose fit and natural joints, with properly redrawn clothing folds, not a vertically squeezed image.
+- Keep feet at the same lower baseline and horizontal placement as the input, so the crown of her head ends slightly lower in the canvas. Keep full-body framing and empty margins. Do NOT simply shrink the entire character uniformly.
+She remains the same short, naturally proportioned 15-year-old character (about 149 cm in the story), not a younger child, not chibi, not a big-headed cartoon. Her body should look compact and short rather than long-legged.
+
+Preserve everything else from v08:
+The same quiet, reserved expression; dark-brown eyes; chin-length inward-curving black bob, bangs and ivory star clip on viewer-left; existing slightly anime-style colored linework and clean shaded color shapes.
+The exact same pale mist-blue open zip-front hooded casual jacket, ivory/white crew-neck T-shirt, dark-indigo straight-leg jeans and plain white low-top lace-up shoes. Keep the same jacket hood, cuffs, hem, pockets and zipper; preserve the original garment design and color. Both arms rest down by her sides and both hands are visible. No cap, bag, luggage, other accessory, makeup or change in expression.
+Do not add curves, broaden the torso, enlarge the eyes or make her skin more photorealistic. Only the requested shorter natural body proportions and necessary fold/joint adjustments should change.
+
+Output ONE isolated full-body sprite on a portrait canvas matching 1024x1536 proportions. Genuine transparent background with actual alpha, clean antialiased silhouette. No painted checkerboard, solid color backdrop, street, floor or cast shadow; no text, scale ruler, second figure, labels, UI or watermark.

@@ -1,0 +1,31 @@
+Use case: style-transfer.
+Asset: BG-STATION-01 | 杭州城站售票大厅 v02 · 轻度动漫化.
+Generate exactly ONE revised visual-novel background.
+
+INPUT ROLES:
+Image 1, bg_ticket_hall, is the EDIT TARGET and exact approved camera, architecture and prop layout.
+Image 2, bg_street_v05, is ONLY an approved drawing-language reference: fine selective colored contours, clear painted color masses and restrained material detail. Do not import its trees, buildings, shops or outdoor layout into the hall.
+
+PRIMARY REQUEST:
+Repaint this SAME old railway ticket hall as a moderately anime-styled, hand-painted narrative-game background for a story set in Hangzhou in 2004. Keep its identity, recognizable architecture and quiet camera view. This is a story adaptation environment, not a claim of exact historical architectural reconstruction.
+
+RENDERING:
+Use fine dark teal/grey and warm-grey outlines selectively on ticket-window frames, round speaking holes, counter edges, queue rail joints, paper timetable borders, pillars and ceiling beams.
+Replace dense photographic wall speckles, scratches and plaster grain with a few broad softly painted wear patches and faded blue/ivory base colors. The hall must still look older and used, not freshly renovated; keep the existing degree of age through faded colors, modest worn edges and a few larger irregular patches rather than thousands of sharp little chips.
+Compose walls, ceiling and floor with restrained painted light/shadow families. Simplify the floor's mirror-like photographic texture into broad soft reflections of the rails and windows, retaining floor seams and depth. No puddles, glittering polished showroom or gritty noise.
+Draw metal rails with clear continuous silhouettes and narrow, controlled highlights; avoid chrome glare, tangled crossings or melted joins.
+Use the existing cool fluorescent light plus diffuse grey daylight at the far end. Lift the darkest foreground shadows slightly so the counter and rail shapes remain comfortably readable. Keep the hall's cool-blue/grey atmosphere; no golden sunbeams, night lighting, neon or new weather.
+Keep nearby architectural lines more defined and far-end detail softer. The result should visibly read as an anime visual-novel background, while preserving credible everyday proportions and perspective. Not a photograph, 3D render, flat vector cartoon, sketch, fantasy hall or children's illustration.
+
+EXACT COMPOSITION INVARIANTS:
+Preserve the same landscape framing, shorter-person eye-height and strong diagonal depth towards the back-right windows.
+The long row of glass ticket windows stays along the left wall, with the same dark narrow counter, small round speaking apertures, lower pass-through openings and existing small booth hardware.
+Keep the high paper timetable panels above the windows and the existing large paper tables behind the glass. Represent their content as pale row/column grids and tiny indistinct dark marks, not legible schedules, readable lettering or invented destination names. No accurate train data is being shown here.
+Keep the blue lower walls/columns and faded ivory upper walls, the same ceiling beams, tube fluorescent fixtures and old ceiling fans.
+Preserve the bank of tubular metal queue barriers across the middle/right foreground, with the same orderly parallel lanes, upright supports and floor attachment points. Keep enough passage space on the right and open floor in the nearest foreground.
+Preserve the large far-end windows and the same indistinct ordinary buildings and greenery outside.
+Only retain the few tiny distant anonymous human shapes already present near the far window, softly painted and without recognizable faces or detailed costumes. No new foreground people, clerk close-up, protagonist, suitcase, bags or additional crowd. Character staging will be handled separately.
+The lower quarter stays calm enough for dialogue; do not add important readable details there.
+
+No modern self-service ticket machines, touchscreens, smartphone displays, QR codes, modern high-speed-rail branding, giant LED boards or contemporary retail advertising. No additional furniture, new props, text labels, captions, UI, watermarks, borders or comparison panels.
+Output ONE complete 16:9 landscape background, same full framing as Image 1, no crop and no transparency.

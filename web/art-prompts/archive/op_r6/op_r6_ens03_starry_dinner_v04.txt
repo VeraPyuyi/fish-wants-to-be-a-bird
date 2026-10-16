@@ -1,0 +1,12 @@
+Use case: identity-preserve.
+Asset: OP-R6-ENS-03 "星空下的晚餐" v04. Make ONE localized face correction in IMAGE 1, the full 16:9 nighttime dinner scene.
+
+TARGET: Zhang Sifan is the FOURTH person from the left, in a lavender open shirt over white, leaning her head on the yellow-shirt person's shoulder, laughing with CLOSED eyes and holding up a V-sign. Her face is near 56% of image width and 35% of height. Do not edit the yellow-shirt person.
+
+IDENTITY REFERENCE: Use ONLY the LEFTMOST face in IMAGE 2 (the pink-collared shirt portrait). That is the user-approved Zhang Sifan. Ignore the other two faces. Transfer this exact distinct young-adult face to the target's laughing expression and tilted head.
+
+Reconstruct Zhang's facial proportions, not just the line weights: replace the current short round childlike cheek/chin silhouette with the approved slightly longer adult oval, clear but gentle jaw taper, natural chin length and recognizable adult nose/mouth spacing. Carry the reference's moderately masculine brow/nose structure while keeping the face youthful, kind and expressive. Make the adult facial shape visibly distinguishable from the petite girl in the pink dress. Do not create a new rugged face, aged wrinkles, stubble, a very long pointed chin or an exaggerated broad jaw.
+
+PRESERVE Zhang's joyful OPEN-MOUTH smile and CLOSED laughing eyes. Her short natural hair, head tilt and head-on-shoulder contact, normal neck, existing head/body scale, lavender clothes, seated pose and two-finger V-sign remain. Fit the reference face inside the same overall head size with only the small silhouette adjustment required for the longer adult lower face. No enlarged head or neck extension.
+
+EVERYTHING ELSE stays exactly as image 1: Fang in yellow, Hu at far right, Lin at left, Su in pink, their approved faces/expressions/poses; all five clothes, body sizes, hands, food/cucumbers, cups, plates, bottle, chopsticks, wooden table/chairs, stars, river lights, house and clean drawing quality. No new texture, grain, lighting change, added people/props/text, zoom or crop. Output a single complete full scene, not a face sheet.

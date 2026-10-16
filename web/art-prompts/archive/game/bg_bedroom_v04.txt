@@ -1,0 +1,21 @@
+Use case: style-transfer.
+Asset: BG-HOME-01《苏雨晴的卧室·离家前的收拾》v04, ONE landscape background in the new soft anime visual-novel style.
+
+INPUTS:
+Image 1 bg_bedroom_v03.png is the WHOLE-FRAME edit target and sole room/prop composition reference. Keep its framing, perspective, furniture placement, all story props, clean well-maintained condition and gentle daytime illumination.
+Image 2 bg_livingroom_v04.png is the user-approved NEW DRAWING STYLE reference only: clear thin warm linework, clean broad colors, soft anime shading, simplified pleasant wooden furniture and warm/cool balance. Transfer this rendering language to the bedroom, not the room, door, TV, furnishings, sunbeam pattern or camera from image 2.
+
+PRIMARY CHANGE:
+Repaint this same comfortable 2004 Hangzhou teenage bedroom as a clean soft anime visual-novel background. Reduce photographic material detail and painterly grain substantially: wood uses sparse gentle strokes and broad honey-colored planes, walls are smooth ivory, bedding has a few deliberate drawn folds instead of dense small wrinkles, plush fur is soft shaped color areas rather than individual hairs. Delicate colored outlines, readable shapes, soft cel-shading transitions; no photo texture overlay, glossy 3D render, camera blur, vector icon flatness or children's-book caricature. The family is financially comfortable; the room should feel cared for and attractive, not shabby, dilapidated or luxurious.
+
+EXACT STAGING TO KEEP:
+Door edge at far left; wooden desk and chair on left with lamp, book stacks, small round clock, pencil holders and photo; tall bookcase behind it with books, basket, framed group photo, plant and small toys. Large central window, tied pale blue curtains and light ivory sheers, quiet residential view outside.
+Wooden bed at right with pale blue/ivory slightly rumpled bedding. Keep the large cherished brown teddy bear with its muted pink bow and the three smaller plush companions on the bed. Retain the existing floor book stack and small cat plush next to the bed, before it is packed.
+Retain the SAME SINGLE open white suitcase in the lower-right foreground, its shell size, lid angle, folded clothes, hinges and small hardware; no added case or markings on the inside. Preserve the clear center-left floor area.
+Keep the right wardrobe edge and both wall pictures in their existing positions; keep pictures and book spines loosely illustrated, no readable new text. Do not redesign or remove key objects.
+
+LIGHT AND EMOTION:
+Same quiet daytime moment as image 1, soft window daylight and subtle warm desk-lamp pool. Gently readable and light, with soft contact shadows grounding furniture, suitcase and toys. Do not turn it into sunset or night, or copy the living-room's strong diagonal sunbeams. Preserve the calm room in which packing is underway, a bittersweet departure mood. Style softness does not mean a fantasy setting.
+
+No live people, added characters, new objects, extra toys/clutter, readable lettering, smartphone, laptop, modern gadgets, logo, title, UI, watermark, comparison panels or inset. Do not change the camera or zoom.
+Output exactly ONE opaque full-frame 1672x941 landscape illustration.

@@ -1,0 +1,9 @@
+Use case: precise-object-edit.
+Asset: OP-R6-ENS-05《暮色里的烤鱼火堆》v03, one 16:9 anime scene.
+
+The provided image is the EDIT TARGET. Preserve the entire composition and all five people. Their costumes are now the user's chosen continuity design: Lin ivory blouse/lavender skirt, Hu grey T-shirt/dark olive trousers, Zhang dusty-pink top/ivory skirt, Fang blue-grey blouse/navy skirt, Su white short-sleeved shirt/apricot pinafore. Preserve these clothes, hair, faces, physiques, seated poses, expressions, food, supported plates, firelight and twilight.
+
+PRIMARY precise correction: DELETE ONLY the unsupported horizontal white plate floating directly in front of centre Zhang's abdomen, between her bent arms. It is the plate above her ivory skirt, while both her hands are occupied holding the cooked fish head near her mouth. Restore uninterrupted dusty-pink blouse fabric underneath the removed plate. Keep both existing hands and the fish head EXACTLY where they are. Do not add another hand, arm, replacement plate, table or any other object. The four other characters' correctly supported plates stay as they are.
+
+SECONDARY surface cleanup: reduce speckled high-frequency textures on river, grass and rocks into simpler clean anime painted shapes. River should have fewer broad restrained highlights; rocks smooth shaded facets; grass larger leaf masses. Preserve the objects, perspective, sunset, warm fire illumination and crisp facial/hair linework. No global blur or washed-out faces. No added grain or photorealistic materials.
+Maintain all five identities, relative sizes, clothes and the same relaxed gathering. No text, border or collage. Produce ONE revised image.

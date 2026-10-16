@@ -1,0 +1,17 @@
+Use case: identity-preserve
+Asset: OP-ZHANG-01《张思凡·草地上的二十岁生日》v04.
+Input image: the supplied v03 illustration is the EDIT TARGET. Produce ONE revised landscape illustration with the same framing.
+
+Edit only the face of Zhang Sifan, the TALLER GOLDEN-BLONDE ADULT WOMAN on the RIGHT of the pair. She is twenty, wearing a black-and-red gothic dress and clasping her hands with CLOSED EYES to make a birthday wish. The dark-haired shorter person to her left must stay exactly unchanged.
+
+The user reviewed v03 and requested noticeably more masculine facial features for Zhang's individual design. The previous edit was too subtle. Make this new change clearly visible at the existing wide framing, while retaining her feminine styling and gentle, quiet expression:
+- Change the very narrow tapered lower face into a moderately longer and more substantial oval face with a distinctly broader lower jaw and a rounded, wider chin. Keep it natural and youthful, without exaggeration.
+- Make the brows visibly thicker, straighter and less highly arched; retain the relaxed brow angle and softly CLOSED eyelids.
+- Make the nose visibly more prominent: a longer, broader, clearly defined bridge and a fuller rounded tip. Integrate the planes using simple anime lines and warm candlelit shadows.
+- Slightly strengthen the cheek and brow contours. Her face should be visibly different from Su's small, round, delicate face.
+- Preserve the downward head angle and gentle closed-mouth smile, without anger, strain or a stern expression.
+Keep her identity as a young adult woman. No beard, moustache, stubble, aging lines, hyperreal skin or caricature. Do not alter her makeup, costume or bodily proportions. Facial anatomy and nose/jaw shape are the requested edits; do not use a mere darker color pass as a substitute.
+
+Keep unchanged: golden shoulder-length wig, position and scale of the head, black-and-red dress, clasped hands, body and pose. Entire Su Yuqing figure including face, ivory star clip, black long ponytail wig, red/white costume, gesture, size and position. Keep all background details, sky, stars, lake, distant lights, grass, container house, table, cake and candles. No cropping, zoom, added characters or objects.
+Preserve the soft clean anime visual-novel style, cool deep-blue night and small warm circle of candlelight. The revised facial features must fit the existing candlelight without seams.
+No text, lyrics, labels or watermark.

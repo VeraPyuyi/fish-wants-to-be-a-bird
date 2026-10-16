@@ -1,0 +1,23 @@
+Use case: style-transfer.
+Asset: CG-S04-02《杭州城站售票厅·向清洁阿姨问路》v04.
+Produce exactly ONE full 1672x941 landscape illustration in the new cohesive soft anime visual-novel style.
+
+INPUT ROLES:
+Image 1 cg_s04_ticket_hall_su_asking_cleaner_v03.png is the whole-scene EDIT TARGET. Keep this later two-person conversation composition: Su center-right holding her ticket and suitcase, cleaning woman to her right; window queue behind them. NOT the earlier window-purchase composition.
+Image 2 cg_s04_ticket_hall_su_at_window_v07.png is the USER-APPROVED SAME-HALL/style/cleaner continuity reference. Use its clean anime architecture, blue/cream palette and the cleaning woman's recognizable middle-aged face, low bun and work clothes. Do not copy that earlier scene's bent sweeping pose, Su's counter position or camera.
+Image 3 su_soft_anime_style_v02.png is the highest-priority canonical SU FACE/HAIR/rendering reference. Its soft small face, rounded warm brown eyes, dark soft pixie haircut and clean gentle cel shading replace image 1's older face and bob. Do not copy the front-facing studio pose, smile or white background.
+
+STORY AND GESTURES:
+This moment occurs AFTER ticket purchase, when Su cannot find the gate and the cleaner has paused work to offer help. Both remain clearly visible together in image 1's positions. The cleaner is NOW engaging with Su, looking gently down toward her face, a calm attentive expression and subtly softened closed mouth. She holds her broom at rest with both hands and its bristles on the floor. This change from the earlier sweeping shot is intentional narrative progression; do not keep her ignoring Su in this later conversation.
+Su looks UP directly toward the cleaner's face, slightly hesitant and anxious, not at the viewer or the ticket clerk. Her small mouth can be faintly parted as she asks for directions, no cheerful grin or tears. One hand keeps hold of the white suitcase grip, the other holds the single paper train ticket naturally at chest height, as in image 1. Preserve both hand contacts and finger plausibility; ticket remains small and without invented readable text.
+
+SU CONTINUITY:
+The same petite fifteen-year-old and body height relative to the taller middle-aged cleaner, queue rails and case; keep her frame position, head/body size, shoulder width, short arms and exact floor contacts from image 1. Do not make her taller or a small child.
+Use image 3's soft facial identity adapted to the upward three-quarter head angle. Keep the existing navy cap. Beneath it replace the old neck-length/bob ends with the canonical fluffy short side hair, short fringe and exposed nape; no old shaved crewcut, no strands hanging toward hoodie collar. Star clip remains hidden under the cap as in the established travel shots; no new visible star.
+Same pale-blue hoodie, white shirt, dark trousers, white shoes, single dark backpack and white double-cat-sticker suitcase with pale corners, extended twin rods, hardware and wheels.
+
+ALL CHARACTERS / ENVIRONMENT:
+Use matching fine clean anime contours, simplified smooth colors and gentle shaded shapes throughout Su, middle-aged cleaner, adult clerk, queued adults and child, and the hall. Cleaner retains mature facial proportions and adult stature, no Su-like doll face. Copy her character design from image 2 while adapting to image 1's upright helping pose and closer view.
+Retain original camera, glass ticket windows, circular speaking holes, printed timetable blocks, counters, blue lower walls, stainless railings, floor perspective, ceiling beams/fans/lights and distant windows. Preserve crowd placement, numbers and distinct adult/child silhouettes. No duplicate Su or missing cleaner.
+Reduce dense marble, clothing and wall texture noise and excessive reflective floor detail, matching image 2's clean illustrated hall and cool diffuse daylight. Maintain ordinary 2004 railway-station furnishings, no modern kiosks, smartphones or new signs.
+No added props, camera move, crop, inset, UI, captions, watermark or readable new lettering. ONE opaque full-scene image only.

@@ -1,0 +1,23 @@
+Use case: illustration-story
+Asset: OP-HU-01《胡玉牛·雨天厨房里的面点》v01, one landscape 16:9 visual-novel opening illustration.
+Create ONE new illustration with TWO characters naturally integrated into a modest Chinese shared-apartment kitchen in early summer 2004.
+
+Reference roles:
+Image 1 is Su Yuqing's established face/identity and soft-anime style reference. Preserve her recognizable round delicate face, warm brown eyes, black hair and single pale ivory star hair clip.
+Image 2 is the approved shared-apartment kitchen for continuity of rendering, simple off-white cabinetry, tile, matte counter and everyday atmosphere ONLY. Do NOT copy Fang Youyou into this picture. This is an EARLIER scene; do NOT use the pink dress or later chin-length hairstyle seen in image 2.
+
+Scene:
+A rainy Friday afternoon, after work, preparing food for dinner. Hu Yuniu is in the foreground at the worktop, carefully pinching fine pleats into ONE normal-sized dumpling. The oversized-seeming hands are actually broad, work-worn adult hands, lightly dusted with flour, using a precise delicate gesture. A wooden board holds a little dough, a small rolling pin, a partially visible plate of neat pleated dumplings and a few small shumai. An ordinary metal steamer on the stove gives off gentle steam. Show a normal domestic quantity of food at realistic scale.
+Su stands just to the side and slightly behind Hu, watching the hands and dumpling with quiet curiosity and appreciation. Both are visible, including both faces. They do not look at the viewer. This is the moment before Hu notices Su watching; no spoken conversation pose, no feeding or plate-handoff action.
+
+Hu Yuniu:
+A tall, broad-shouldered, sturdy adult, at least 180cm, with a broad square-rounded face, relatively large ears, short neat dark hair, and a light blue-grey clean-shaven beard shadow along the lower cheeks and chin. No long beard. Plain muted blue-grey short-sleeved T-shirt and dark everyday trousers, no apron. Strong stocky build and substantial arms without exaggerated bodybuilder muscles. An attentive, soft, gentle expression, eyes lowered to the dumpling. Convey kindness through relaxed brow and careful action; do not depict a scary, aggressive, comic, or elderly figure. Render the face in the SAME soft anime language as Su, but clearly different mature features, head shape and eyes.
+
+Su Yuqing:
+Petite and slender, about 150cm, substantially smaller than Hu in height, shoulder width and hands. Same identity and star clip as image 1. For this early-summer point, fluffy black natural short hair with side strands covering most of the ears, ending around the earlobes and a soft short nape; longer than the departure-stage reference but NOT a chin-length bob or long wig. Wear a simple loose pale-blue short-sleeved collared shirt and dark navy casual trousers, fully dressed ordinary home clothing. The precise shirt is a costume design supplement for a scene where the text does not specify the clothes; no dress borrowed from the later summer scene.
+Hands relaxed together near her waist, simply watching; keep the hands separate and anatomically clear.
+
+Composition and light:
+Wide medium two-person shot, enough space around their heads and the working hands. Hu is the foreground focus, Su remains clearly recognizable beside and slightly behind. Both stand on the same floor; natural height and perspective difference, neither on furniture or floating. Counter sits at a plausible height for Hu. Establish the apartment with a modest rain-streaked window, overcast soft grey-blue afternoon light, and gentle warm indoor light on the hands, food and faces. It is still daylight, NOT night. Clean, lived-in, ordinary 2004 kitchen; simple metal steamer, tile and basic cabinets, not a designer show kitchen, not a derelict old shack.
+Clean soft Japanese anime visual-novel illustration, expressive linework, simple gentle cel-shading with lightly painterly background. Less realistic texture, no photographic skin or hyper-detailed grime. Faces and environment share the same style, light direction and contact shadows. Warm, quiet feeling of care and belonging.
+No other characters, text, lyrics, logos, watermarks, modern smart appliances, phones, exaggerated food, extra fingers or merged hands.

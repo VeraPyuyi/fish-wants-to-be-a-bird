@@ -1,0 +1,23 @@
+Asset: CG-S06-02《T136车厢·倚座入睡》v01
+Use case: identity-preserve, localized sleeping-pose variant for a visual novel.
+Input image 1: cg_s06_train_su_seated_v02.png is the approved EDIT TARGET and the definitive style/composition/character reference. Use this exact version, whose left and right characters have already been brought into a coherent anime style.
+
+REQUEST
+Create ONE full-frame 16:9 sleeping variant of the same shot. Change only Su Yuqing on the RIGHT from awake and chin-on-hand to having fallen asleep while leaning back against her blue bench backrest. It will follow the awake picture in the game. Do not create a sheet, alternate crops, animated frames, a comparison panel or another image.
+
+PRECISE POSE CHANGE
+Her eyes are gently closed, with the same face shape and eyelid placement. Her mouth is softly closed and relaxed; her expression conveys ordinary exhausted rest after a stressful journey. Her head has tilted back slightly and the back of her head/cap is visibly supported by the existing blue upholstered backrest behind her. Keep her neck natural and her chin only mildly raised; no exaggerated bent neck, unsupported floating head or deep sideways slump. Her shoulders relax and her upper back settles against the seat. She stays upright in the same seated place, not lying along the bench, leaning on a person or leaning against the window glass.
+
+Lower the hand that was supporting her chin so that both small hands/forearms now loosely secure the navy backpack on her lap. Keep the backpack in its existing lap position and size. Use believable short bent forearms, distinct natural fingers and relaxed wrists. Retain her petite teenage frame, short limbs and seated leg position. Keep the white suitcase upright immediately beside her feet, its handle retracted and its two cat stickers unchanged. Her knees, shoes and suitcase placement should align with the approved awake image.
+
+LOCKED IDENTITY / STYLE
+Keep the exact recognizable Su Yuqing design from the reference: petite 15-year-old, 149 cm standing height represented by the same seated scale, youthful anime face, chin-length black bob, navy cap still worn securely, pale blue zip hoodie, off-white shirt, dark straight jeans and white sneakers. Do not lengthen hair, enlarge her body, change clothes, remove her cap, change her face into another character or show an adult build. Use exactly the same clean fine linework, softly simplified skin and fabric shading, and restrained 2D anime visual-novel rendering as the approved reference.
+
+LOCKED SCENE
+Preserve the entire background, original framing, lens/perspective, horizon, blue seats and curtains, table, window, rack, floor, countryside and overcast gray daylight. Preserve BOTH LEFT ADULT PASSENGERS unchanged in their approved anime style, positions and scale: the woman reading her newspaper and the man quietly peeling an egg. Do not redraw them in a realistic style. They continue their own activities and do not look at or interact with Su. Add no other passenger. Keep all object locations and the existing diffuse light consistent so that a later dissolve does not reveal a shifted carriage.
+
+MOOD / EXCLUSIONS
+Quiet, everyday, fully clothed travel sleep. No new emotional event, romance, touching by another person, dramatic tears, blush, drool, open mouth, cartoon sleep symbols, glowing effects or beauty-shot lighting. No camera movement, composition change, weather change, photorealism, 3D render, added text, subtitles, UI, watermark or border. This is a restrained pose and expression difference in the same shot, not a new scene.
+
+SOURCE NOTE
+The source sequence is awake travel and thoughts of parents, then drowsiness, then her head leaning backward against the seat while she sleeps (original source line 149). The reminder to get off comes later. This picture covers sleeping before that reminder, with the young male passenger remaining outside the frame. The approved backpack position is retained for continuity with the current game script.

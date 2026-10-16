@@ -1,0 +1,16 @@
+Use case: identity-preserve.
+Edit image 1 into OP-AN-01 v02, "安念·人海中的第一次相见". Preserve the approved scene composition and make ONLY the following two character corrections.
+
+REFERENCE ROLES:
+Image 1 is the edit target: railway station scene, An Nian on the LEFT in black T-shirt and blue shorts, Fang Youyou on the RIGHT holding a backpack.
+Image 2 is the identity reference for FANG: ONLY the taller LEFT person in the grey-green T-shirt in that kitchen image. The right-hand star-clip character in image 2 is someone else and must NOT be copied or added.
+
+CORRECTION 1 — AN NIAN, left man:
+Make his face visibly rounder: fuller soft cheeks, a less tapering jaw, a gently rounded chin. He is an ordinary somewhat chubby young adult, not a lean athletic man. Add a modest but unmistakable softness around his waist and belly beneath the black T-shirt; slightly fuller upper arms and thighs consistent with that build. The shirt should hang naturally over the rounded abdomen. Keep shoulders unmuscular and proportions believable; do not make him huge, obese, much older or taller. Preserve his small eyes, short dark hair, faint fresh-shave stubble, cheerful slightly shy greeting smile, raised hand and natural other hand. Keep EXACTLY the existing modest height difference from Fang, ground positions, poses, black short-sleeve top and blue beach shorts. No caricature.
+
+CORRECTION 2 — FANG YOUYOU, right figure:
+Reestablish the recognizable adult facial identity of the LEFT person in image 2: less round cheeks, slightly more elongated gentle oval face, fairly straight and defined eyebrows, narrower mature brown eyes, a clearer slender nose bridge and a subtly firmer jaw. Match that approved face's gentle androgynous/boyish bone structure while keeping a warm, shy expression. The current target version looks too young, round-faced and large-eyed. Do NOT copy the younger star-clip girl's face.
+Keep Fang's CURRENT chin-length black hair from image 1: this scene is a year later than the kitchen reference, so do NOT shorten the hair back to the reference haircut. Keep head angle, gaze toward An Nian, tentative smile, slim adult build, modest grey-blue long-sleeved top, dark trousers, backpack and both hands/straps in their existing positions. No beard or extra makeup, no aging lines; not an exaggerated square masculine face.
+
+STRICT INVARIANTS:
+Unchanged 16:9 framing, camera, positions of both characters, relative height, foot contact, distance between people, clothing colors, backpack, gesture, lighting, station building, signage, every background passenger and vehicle, trees, paving and shadows. Do not redesign the setting, add text or move furniture/objects. Do not add any main character. Preserve soft anime visual novel rendering for both people and the setting. Facial revisions should remain integrated with the original angle and light. All hands and visible fingers remain anatomically coherent. Return one complete horizontal illustration.

@@ -1,0 +1,10 @@
+Use case: precise-object-edit / compositing.
+Asset: OP-R6-ENS-03 星空下的晚餐 v08, a full wide anime illustration for an existing private ending video.
+
+Input image 1 is the EXACT FULL-SCENE EDIT TARGET. Input image 2 is the USER-APPROVED LEFT-PALM ANATOMY REFERENCE only.
+
+Change just the small raised V-sign hand of the laughing adult in the lavender shirt, fourth person from the left. The hand is at roughly 66% of canvas width, 44% of canvas height (around x1108,y416 in the 1672x941 target). Replace that incorrect hand with the anatomically LEFT hand shown in image 2, reduced to the original small full-scene hand size and naturally connected to the existing wrist and forearm. Keep the original raised forearm's length, thickness, position and lavender cuff.
+
+CRITICAL ORIENTATION: palm faces the camera. The thumb ROOT and thenar mound are on the SCREEN-RIGHT side of this palm, next to the index finger. Thumb crosses leftward over folded ring and little fingers. Extended middle finger is screen-left and slightly longer; extended index finger screen-right. Two folded fingers are on screen-left. Five fingers total. Use the exact handedness and finger topology of image 2, never mirror it. Discard the original hand anatomy in image 1, which incorrectly has the thumb on the opposite side. Match the natural relaxed V separation of the approved study. Allow a very small wrist-angle adjustment only if needed for a continuous natural join.
+
+Keep unchanged: all five identities and faces, the lavender-shirt character's adult facial structure, eyes-closed open laugh, head tilt resting toward the yellow-shirt companion, all head/body proportions, all other hands, outfits, tableware, chairs, river bridge, starry sky and warm lighting. Keep the original full-wide 16:9 framing and clean soft anime linework. No grain, no extra fingers, no pasted crop border, no enlarged hand, no duplicate hand, no anatomy labels, no text, no inset. Output the complete full dinner illustration, not a closeup.

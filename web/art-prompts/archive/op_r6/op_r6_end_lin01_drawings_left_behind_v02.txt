@@ -1,0 +1,9 @@
+Use case: precise-object-edit.
+Asset: OP-R6-END-LIN-01, v02, a 16:9 anime visual-novel ending-video illustration.
+Input image 1 is the exact EDIT TARGET. Preserve its composition, camera, layout and character identity. Make ONLY these two corrections:
+
+1. OUTSIDE THE WINDOW: remove snow from the seaside town roofs, ground and distant hills. Replace snowy roof coverings with ordinary muted slate blue/grey tiles, and snowy hills with muted green winter vegetation. Preserve the architecture, pale walls, blue sea, harbor, sky/clouds and daylight reflections. The town has no snow. IMPORTANT: The winter mountain village PAINTING HELD IN SU'S HANDS must KEEP its snow and its exact Chinese title “家”. Do not change this painting or the warm landscape drawings on the bed.
+
+2. Simplify fabric microtextures into clean anime painted surfaces: ivory sweater, blue blanket at the right foot of the bed and blue floor rug. Remove dense knitted fibers and grain, use smooth colors, broad cel-painted shadows and a few simple fold/knit cues. Preserve fabric shapes, garment fit, blanket drape/fringe silhouette, colors and soft sunlight. Do not globally blur the image.
+
+Invariants: keep Su Yuqing's face, thoughtful downcast expression, dark chin/nape bob, white star clip, petite proportions, seated pose, hands holding the picture and finger count, ivory sweater, slate blue trousers, slippers and grounded feet. Keep the bed, stacks of paintings, open cabinet, shelves, curtain, props, window framing and sea view spatially unchanged. Maintain the quiet waiting mood. Do not introduce anyone else or change the weather to rain. No new lettering, no watermarks. Retain the same crisp soft anime linework and fully opaque landscape framing.

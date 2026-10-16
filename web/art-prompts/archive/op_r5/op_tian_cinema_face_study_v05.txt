@@ -1,0 +1,9 @@
+Use case: identity-preserve
+Asset: OP-TIAN-FACE-02 v05, Tian Yuyao cinema portrait, gentler upper-face revision.
+The attached v04 is the edit target. The user has repeatedly requested a softer face, and the previous revisions changed too little. Deliberately REDRAW THE BROW AND EYELID GEOMETRY so the result is visibly gentler, rather than nearly identical or merely less opaque.
+
+Replace the heavy straight brows with natural, noticeably slimmer brows, roughly one quarter less visual thickness, softly tapered inner ends, and a very gentle natural contour that stays mostly straight. Relax their low pressing position by lifting the inner portion a small but visible amount. No sharp inward/downward brow angle.
+Ease the half-lidded sideways squint: open the eyelids modestly, while retaining an elongated almond eye proportion, so the gaze is quietly attentive and shy rather than stern or dismissive. Use fine soft-brown eyelid strokes, smooth rounded eye corners and less weight at the outer tips. Keep irises and eye color consistent, no doll-like enlargement, glitter, long lashes or makeup.
+Soften brow-plane and inner-eye shadows to clean pale color. The desired feeling is a gentle, reserved, youthful androgynous person with subtle boyish features. Preserve identity, but prioritize the requested visible softening of expression over exact preservation of the existing brow/eye shapes. Maintain the leftward gaze.
+
+Do not alter anything else: white mask still covers nose, mouth and chin; preserve mask folds/loops, hair and low ponytail, face silhouette/head angle, pale skin, gray high-neck collar, shoulders, sunny cinema background and square crop. No aging, stubble, blush, new objects, texture/grain, facial blur, text or watermark. One clean anime portrait.

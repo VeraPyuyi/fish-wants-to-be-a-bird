@@ -1,0 +1,26 @@
+Use case: identity-preserve
+Asset type: ONE full-frame illustration revision for the visual novel 想要变成鹰的鱼.
+Production identifier CG-S11-03《白石路·失落的脚步》v03, metadata only. Do not paint a title or UI.
+Primary request: shorten ONLY Su Yuqing's visible ear/nape hair beneath her navy cap in IMAGE 1 to the approved early cropped haircut. This is a minimal continuity edit of the approved walking scene.
+
+INPUT ROLES
+IMAGE 1 cg_s11_street_su_sad_walk_v02.png is the SOLE complete edit target. Preserve its approved original snack-street camera, environment, small walking figure, exact stride and luggage placement, head angle, scale and sunset light.
+IMAGE 2 su_travel_guarded_v04_alpha_v01.png is supporting reference ONLY for close-cropped black hair around ear and nape beneath the cap. Do not copy its frontal standing pose, expression, body scale, bright lighting or luggage placement.
+IMAGE 3 su_home_neutral_v09.png provides fixed FACIAL IDENTITY ONLY: soft narrow youthful oval face, natural restrained eyes and small nose/mouth/chin proportions. Its bob is obsolete: do NOT copy its long hair, front-facing neutral expression, standing pose or height.
+IMAGE 4 su_early_crewcut_reference_v02.png is auxiliary cropped-HAIR reference ONLY, not a replacement face, pose, costume or body.
+
+PRECISE LOCAL CHANGE
+In image 1 Su is the small figure walking toward frame-right in the lower center-right of the street. Remove long black hair pieces behind the near ear and at the nape that hang toward the hoodie collar. Replace with natural close-fitting short black hair following the skull under the cap, leaving a clear ear edge and neck side. Match image 2's approved cropped cap hair at the EXISTING downturned walking head angle.
+No bob tail, jaw/collar-length hair, ponytail, bald patch or exposed shaved scalp. Keep her cap body, brim and front fringe unchanged; do not shrink/enlarge head, lengthen neck or rotate face toward camera. Her star clip remains naturally covered by the cap, not added to the hat or wrong side.
+
+LOCK THE EXISTING PERFORMANCE / ANATOMY
+Preserve the exact same petite teenage body, short arms, narrow shoulders and modest figure scale at the same road depth. Keep her lowered head, open downcast eyes, closed subdued mouth and tired sloping shoulders: quiet disappointment while continuing to walk. No smile, tears, exaggerated agony, closed eyes, running, falling, raised head or looking at a shop.
+Keep the exact small walking step: frame-right forward foot grounded, other foot following with the original slight heel lift, ordinary bent joints and existing weight distribution. Do not enlarge stride, change leg lengths, shift the figure upward or make her pose still.
+The hand nearest the suitcase continues gripping its extended double-rail handle, naturally angled back to the same closed off-white case at her side/rear. Preserve wrist, fingers, grip, case tilt and wheels touching the same road plane. Her other small hand remains lowered beside her body. No hand to pocket, paper, money, food or wiping face.
+Keep the ONE closed navy backpack worn on her shoulders and the ONE closed case with TWO cat stickers, corner guards, seams and handles. Same pale-blue hoodie, off-white top, dark trousers, white sneakers and navy cap. Do not add or remove garments, duplicate bag/case, change case size or sticker design.
+
+LOCK THE APPROVED STREET
+Preserve the whole wide framing and original road perspective. The left 大众小吃 sign/shop/cooking counter/diners/motorcycle, right 便民商店 sign/shop/bicycle/red-clad woman, existing trees of varied shape, sidewalk, apartments, barred windows, overhead wires, car, ordinary pedestrians and evening colors stay in their original positions. Preserve existing sign text exactly as drawn; no added labels, recruitment notice or new readable text.
+Nobody newly watches, follows or helps Su. Do not change any stall into the upcoming noodle shop, add a proprietor interacting with her or redesign the street. The rejected earlier street composition is NOT an input.
+Keep original sunset direction, contact shadows, skin/clothing low contrast and illustration style shared with the street. No isolated bright sprite, halo, photo-real skin, grain, glossy 3D or chibi. Preserve the same gently anime-stylized Chinese visual-novel illustration.
+Return exactly ONE complete image at the original wide framing and dimensions. No crop, zoom, new background, UI, watermark, border, inset or comparison panel. The only intended revision is the visible ear/nape haircut; preserve all other approved elements as closely as possible.

@@ -1,0 +1,15 @@
+Use case: identity-preserve
+Asset: OP-TIAN-DUAL-02 v03, Tian Yuyao outside the cinema.
+
+Input 1 is the EDIT TARGET, cinema v02. Its petite body proportions, overall art style and composition are approved. Preserve them exactly.
+Input 2 is the APPROVED FACIAL IDENTITY study v04. Use ONLY its eyebrows and eyes as a reference. Do not bring its cap, coat, portrait framing, materials or background into the cinema image.
+
+Requested edit: Correct ONLY Tian's visible eyebrows and eyes ABOVE THE WHITE MASK in input 1. In v02 the eyes became too large and round and the brows too soft/arched.
+- Restore the naturally straight moderately substantial brows seen in input 2, with a clear but not angry brow angle.
+- Restore narrow horizontal single-lidded eyes, restrained iris size, minimally accented lashes and the sharp observant sideways glance from input 2.
+- Keep the softened boyish character balance already approved in input 2. No doll-like rounded eyes, sparkling oversized irises or arched delicate brows, but also no new scowl or exaggerated aggression.
+- Keep the head tilt, eye direction toward left, pale skin, hair and all visible face placement from input 1. Adapt the referenced brows/eyes to the correct small scene scale and sunny lighting.
+
+All other pixels/scene structure should remain as close to input 1 as possible: same white mask securely covering nose/mouth/chin, no removing or lowering it; same ponytail and bangs; same head size, compact stature, shoulder width, body scale, hands, pose and foot contact positions. Keep the light-gray high-neck calf-length dress, powder-blue flat shoes, clean matte anime material rendering, entrance, people, bicycle, posters, tree, signs, pavement, camera and daylight exactly as they are. Do not reintroduce realistic fine texture from input 2. Do not enlarge the character or change costume, soften the whole image, add grain, captions or watermark.
+
+Output ONE full WIDE 16:9 cinema scene matching input 1, with ONLY the brows/eyes restored. No close-up, collage or side-by-side panel.

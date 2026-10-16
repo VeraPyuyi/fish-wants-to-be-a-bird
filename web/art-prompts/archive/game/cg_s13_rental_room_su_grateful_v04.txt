@@ -1,0 +1,18 @@
+Use case: identity-preserve
+Asset: CG-S13-03《出租屋·谢谢你，张阿姨》v04 — ONE finished 16:9 anime visual novel scene.
+
+INPUT 1 is the PRIMARY facial-identity reference: the approved black-bob teenage character. INPUT 2 is the SCENE EDIT TARGET: retain this complete rental-room picture and revise only the central girl's face. Output the entire second scene, never the first image's standing portrait or checker backdrop.
+
+The goal is a clearly recognizable match to the face in INPUT 1, expressed in the gratitude scene. The central girl's current face in INPUT 2 still looks too round and young. Reconstruct her facial features using INPUT 1 rather than preserving this remaining childlike drift:
+- Match the slim soft-oval face and gently tapered jaw; give the chin and area below the mouth the same natural length as the reference. Reduce the puffed lower cheeks. Keep a soft teenage chin, never a sharp adult V-jaw.
+- Match the reference's horizontally elongated almond eyes and restrained iris size. Relative to INPUT 2, make the eyes noticeably less tall (roughly one fifth less vertical opening) and the brown irises moderately smaller, retaining clear pupils and natural whites. Draw the characteristic calmer upper lids from INPUT 1; no round doll eyes or oversized glossy catchlights.
+- Restore the reference's nose-to-mouth spacing and normal mid/lower-face balance. Use a small, warm, slightly parted smile with relaxed mouth corners, not a wide childlike grin. Natural gentle warmth on the cheeks, not round blush circles.
+- Keep her age and identity exactly as INPUT 1: a petite fifteen-year-old, neither a small child nor a mature adult. The likeness change should be clear when compared with INPUT 2, not just a tiny recoloring.
+
+She is still thanking the taller woman at SCREEN-LEFT: keep the head gently turned toward screen-left, tilted up just as needed, with BOTH pupils aimed at that woman's face. Preserve the intimate, relieved gratitude and slight three-quarter/front view; do not make her look at the viewer or the right-side landlord.
+
+Keep the same chin-length black bob, fringe, head scale and neck attachment. Retain the single small cream star hair clip at the established far SCREEN-LEFT fringe/temple visible in INPUT 2, on her anatomical right side. It must sit against a real lock of hair just slightly INSIDE the far hair edge, not balanced on the silhouette line; tuck one small point under a hair strand while keeping the star recognizable. Follow the hair's curvature with mild foreshortening. Never disappear, float, duplicate or move to the near screen-right ear.
+
+Render the revised face with the scene's warm sunset lighting and coherent hand-drawn anime linework, clean facial shapes and soft color shadows. Use the identity of INPUT 1, not photoreal texture, heavy portrait shading or its neutral expression. It should feel drawn as part of the same scene.
+
+Freeze the rest of INPUT 2: body height relative to the doors and both women, stance, shoulders, arms, hands, legs, clothing, backpack, white shoes, the white cute two-cat suitcase and handle in the screen-left hand, the navy cap in the screen-right hand; both adult women including faces, poses and clothing; room geometry, bathroom, window view, table/chair, inset cupboard, bare wooden bed, lamp, sunset, shadows, camera and crop. No new object, written text, watermark, borders, split view, collage, or separate portrait. Only the central girl's facial drawing is being refined.

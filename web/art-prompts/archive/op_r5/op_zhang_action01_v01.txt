@@ -1,0 +1,15 @@
+Use case: precise-object-edit, identity-preserve.
+Asset: OP-ZHANG-ACT-01 v01, first motion keyframe: hands reaching the wig edges.
+The single input is the approved clean birthday-night EDIT TARGET. This must look like the very next frame in the SAME shot.
+
+Change ONLY the RIGHT adult Zhang Sifan's arm/hand pose and the small sleeve/hair areas physically affected by that action. She has just finished wishing and now gently raises BOTH hands from her chest to the two sides of her golden wig, preparing to remove it.
+Each hand lightly grips the wig edge just above/behind its corresponding ear. Fingertips curl naturally under the hair edge, thumbs support the edge, wrists remain relaxed. Her elbows bend naturally outward and remain near shoulder/chest height; the shoulders stay relaxed. The action should read as two hands poised to lift a wig, not praying, stretching, pulling ears or posing for a photograph.
+There must be exactly TWO arms and TWO hands total. Completely remove the former clasped hands from the chest and restore the black fabric/folds underneath. Preserve the black lace-trimmed sleeves, adjusting their folds only to fit the raised arms. Hands should be anatomically coherent with visible contact, without fingers fused into hair.
+The golden wig remains fully on the head in this first keyframe: preserve its shoulder-length colour, outline, bangs and volume. Do NOT lift it yet, reveal short dark hair, add a loose wig prop, or depict multiple action stages.
+
+Lock her existing soft adult face, closed eyes, gentle smile, head position/angle/size, body proportions, standing position, black/red dress and candlelit shading. Do not enlarge her.
+The LEFT Su Yuqing is completely unchanged: same face, gaze, star hair clip, long black ponytail wig over her shoulder, white/red clothes, hands, stance and scale.
+
+Keep the entire background and composition fixed: approved clean anime linework and contiguous colour planes, recognizable grouped grass and white flowers, smooth blue sky, original stars/clouds, mountains, lamps and water reflections, container house, cake, candles, wooden table and all light levels.
+No film grain, paper texture, noisy speckles, muddy repainting, global blur, sharpening halos, photorealism, new details, extra people, text, labels, borders, watermarks or split panels.
+Output one landscape illustration matching the original full framing.

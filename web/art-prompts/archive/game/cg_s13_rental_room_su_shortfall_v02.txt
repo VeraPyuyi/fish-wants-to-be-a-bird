@@ -1,0 +1,17 @@
+Use case: identity-preserve
+Asset: CG-S13-02《出租屋·难以开口》v02 — ONE 16:9 anime visual novel scene.
+
+INPUT1 is the FIXED original facial identity of Su Yuqing.
+INPUT2 is the ONLY complete-scene EDIT TARGET: Su admitting that she cannot afford the rent. Return this whole scene.
+INPUT3 is the APPROVED first-room-view image of the same person at the same rightward angle. Use ONLY the central girl's facial proportions and head scale for continuity. Do NOT copy her satisfied smile or either adult's smiling expression.
+
+Correct ONLY the central girl's facial structure in INPUT2 to match the fixed teenager in INPUT1 and the approved face in INPUT3, retaining her existing hesitant emotion. Her current eye openings are too round and tall, the irises too large, and the lower face too short/soft:
+1. Recover horizontally almond-shaped eyes with normal whites and restrained brown irises, like INPUT1 and INPUT3. Clearly reduce excess eye height and iris size instead of retaining the childlike round-eyed construction.
+2. Bring the cheeks and jaw to the original slender soft-oval shape, gently tapered toward a natural teenage chin. Restore appropriate nose-to-mouth and mouth-to-chin space. Do not make her older, taller or sharply angular.
+3. Preserve the worried, careful upward glance toward the LANDLORD AT SCREEN-RIGHT. Her inner eyebrows are subtly raised/drawn together, upper lids slightly tense. The mouth is slightly parted with neutral or faintly lowered corners, as she falters in admitting she only has one month's rent. She is NOT smiling, relaxed or already grateful. No crying, tears, huge wet eyes, shock, wide open mouth, blushing circles or lip biting.
+
+Keep the head angle, gaze direction, hair silhouette, chin-length black bob and neck attachment of INPUT2. She remains the same petite fifteen-year-old with the same head scale as INPUT3. Keep ONE cream star clip in the exact established physical side, visibly attached to the screen-left temple hair above the ear, as in INPUT2 and INPUT3. It must not disappear, mirror, duplicate, float or relocate.
+
+Render her corrected face naturally in INPUT2's coherent warm hand-drawn anime linework, soft simplified colors and sunset illumination. Use INPUT1 for identity, not its neutral expression, frontal standing pose, portrait shading or checkerboard background.
+
+FREEZE the rest of INPUT2. BOTH adult women keep their existing restrained listening expressions, facial identities, hair, gestures, clothing and positions; do not restore the cheerful smiles of INPUT3. Keep all three bodies, relative heights to each other and doors, Su's short arms, stance and feet, hoodie/tee/trousers/shoes, backpack, her screen-left hand on the white cute two-cat suitcase handle, her screen-right hand holding the single navy cap, all case wheels. Keep bathroom, window view, desk/chair, inset cupboard, bare wooden bed, lamp, floor, shadows, sunlight, camera and crop. No new object, money, contract, key, written text, watermark, comparison layout or new story action. One complete scene with only Su's facial consistency corrected and the original rent-shortfall emotion retained.

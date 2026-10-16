@@ -1,0 +1,18 @@
+Use case: identity-preserve
+Asset type: one full-frame 16:9 visual-novel scene revision.
+Edit image 1, the approved scene after Su Yuqing has taken off her navy cap while walking with the noodle-shop owner. Update only Su's hairstyle to the approved close-cropped haircut.
+
+Input roles:
+Image 1 is the complete edit target: preserve the scene, poses and both expressions.
+Image 2 is the approved early short-hair design. Use its naturally short black crown, closely trimmed sides and clear ears/nape, adapted to image 1's lowered three-quarter head angle.
+Image 3 supplies fixed facial identity only. Its older chin-length hair and frontal neutral expression are not used.
+
+Su is the smaller fictional teenage girl on the left of the woman owner, near the center-right of the street. Replace the chin-length black bob with the compact short haircut from image 2. Keep a natural softly textured short crown and short forehead fringe, clear ear contours, and a clean short nape ending well above the hoodie. Preserve her existing head size, facial silhouette, eye shape, nose, mouth, neck and slightly lowered head direction. Keep the single small cream star hairclip on the same anatomical right temple, visible at the viewer-left side of her head in this shot.
+
+Keep Su's quiet hesitant expression: open eyes turned slightly downward, a lightly parted mouth and restrained warm cheeks. Retain the owner's existing brief, gentle surprise as she looks toward Su. Neither person's facial emotion or gesture is being redesigned.
+
+The one navy cap stays in Su's hand at the upper thigh/lower abdomen, gripped near its crown as in image 1. Preserve its crown, brim, orientation and the hand's contact. Her other hand continues holding the extended handle of the closed cream suitcase with two cat stickers, rolling at her side and behind. Keep the one worn navy backpack, pale-blue hoodie, off-white shirt, dark trousers and white sneakers. Preserve both women's positions, relative stature, walking step, arms, legs, feet, luggage wheels and ground shadows.
+
+Keep the woman's short brown hair, brown cardigan, beige collar, blue-grey apron, dark trousers, black shoes and relaxed arms. Preserve the original street camera, left snack shop, right convenience shop, tiled buildings, trees, wires, motorcycle, bicycle, diners, vendor and ordinary passersby. Retain their activity and placement, the soft evening light and cohesive anime-painted style.
+
+Return one complete illustration at the original wide framing, with only Su's haircut intentionally revised and the existing single star clip retained. No new objects or gestures, interface, captions, watermark or comparison panels.

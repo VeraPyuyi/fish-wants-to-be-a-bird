@@ -1,0 +1,20 @@
+Use case: precise-object-edit
+Asset type: OP-R6-END-MO-01 v02 — 莫空·带着语默回家.
+Input image 1 is the EXACT edit target.
+
+Make ONLY these two revisions:
+1. Widen the camera framing modestly, about 10–12%, so BOTH characters and ALL of their shoes are completely visible. In particular, restore Mo's forward shoe and sole, with a comfortable strip of path below the lowest shoe (about 5% of the image height). Preserve the same walking direction, perspective, parent/daughter height relationship and ground contact. It should feel like the camera stepped back slightly, not like the characters were pasted smaller into an unchanged foreground.
+2. Redraw the ENVIRONMENT in a clean soft ANIME background style that matches the characters. Visibly simplify the over-detailed foliage, ground, stone and water.
+
+ENVIRONMENT TREATMENT:
+Trees and shrubs use clear grouped leaf masses in a few harmonious greens, with sparse readable leaf accents rather than thousands of tiny sunlit dots. Grass uses soft grouped silhouettes and only occasional blades. Retain a restrained scattering of white flowers, remove the dense tiny sparkles.
+Stone steps, memorial stone and retaining rocks have simple clean shapes and a few broad shadows. Remove gritty rock pores, mottled noise and fragmented speckled surfaces.
+The downhill path has smooth muted cream-grey color and broad soft tree shadows, no gravel texture. The wood railing has simple cel-shaded planes without photographic bark or wood grain.
+The sea has broad calm blue bands and just a few gently drawn distant ripples. Remove densely glittering water specks. The coast and small distant houses read as restrained simple anime silhouettes.
+Keep the same sea, green hillside, path, single discreet memorial, blue sky and gentle daylight. No photorealistic depth-of-field blur, watercolor grain, film grain, oversharpening halos or flattened vector-icon look. Clear polished visual-novel illustration, delicate clean outlines and smooth light shading.
+
+CHARACTER INVARIANTS:
+Keep Mo Kong's exact face, dark short hairstyle, mature subdued expression, charcoal jacket and grey shirt.
+Keep Mo Yumo's same face, adolescent appearance, dark twin ponytails, ivory blouse, grey cardigan, muted blue skirt, dark leggings and canvas shoes.
+Preserve his hand resting gently on her head, her lowered gaze, both poses, clothing and relative body sizes. Do not redesign, beautify, de-age or resize either person independently. Do not add a star hair clip.
+Return ONE full landscape scene with unclipped feet and a visibly more simplified anime environment. No text, watermark or additional people.

@@ -1,0 +1,15 @@
+Use case: identity-preserve
+Asset: OP-ZHANG-01《张思凡·草地上的二十岁生日》v06.
+Input 1 is the v05 illustration to edit. Input 2 is the earlier v03 version, supplied ONLY as a reference for softer facial rendering. Produce one wide scene based on input 1, not a comparison sheet.
+
+The user has twice asked to soften the recently strengthened facial structure. Make a genuinely visible softening to the FACE of Zhang Sifan, the taller ADULT WOMAN with the GOLDEN SHOULDER-LENGTH WIG on the RIGHT. Preserve her individual longer oval face and a nose slightly more prominent than Su's, but move the face visibly toward the gentleness of input 2.
+Specific changes relative to input 1:
+- Reduce the dark, heavy brow ridge shading. Give her medium-fine, softly straight brows, not thick block-like or deeply slanted brows.
+- Remove the strong carved/sharp shadow along the bridge of the nose. Show the bridge primarily with a delicate line and soft light; keep a gently rounded nose tip.
+- Smooth the sharply defined jaw into a softly rounded oval. Slightly fill the cheeks and round the chin, without shortening the whole face or making it a tiny pointed chin.
+- Reduce contrast on cheek and chin contours, matching the soft anime face rendering used elsewhere in the scene.
+- Retain CLOSED eyes, downward head angle, and a warm, subtle closed-mouth smile. The face should communicate warmth first, with restrained mature structure, not angular severity.
+She remains a twenty-year-old woman with feminine styling and a distinct face. No stubble, aging, hyperreal texture or caricature.
+
+Make no other changes: same head size and position, exact golden wig, dress, body, hands and pose. Su on the left must remain unchanged including her face, eyes, star hair clip, long ponytail wig, white/red outfit and proportions. The sky, lake, distant lights, container house, grass, table, cake and candles, wide camera framing and cool-night/warm-candlelight balance remain as input 1.
+Do not add text, lyrics, labels, objects or characters.

@@ -1,0 +1,25 @@
+Use case: identity-preserve
+Asset type: ONE full-frame illustration revision for the visual novel 想要变成鹰的鱼.
+Production identifier CG-S10-02《公路边废屋·蜷身入睡》v02, metadata only. Do not paint title, UI or labels.
+Primary request: change ONLY the side/back hair below Su Yuqing's navy cap in IMAGE 1 to the approved early short haircut, retaining the already-approved side-sleeping scene.
+
+INPUT ROLES
+IMAGE 1 cg_s10_night_su_curled_asleep_v01.png is the SOLE complete edit target. Preserve the entire existing wide night image, sleeping pose, head direction, body and suitcase scale, background, props, lighting and composition.
+IMAGE 2 su_travel_guarded_v04_alpha_v01.png is a supporting reference ONLY for close-fitting short black hair around the ears and nape under the navy cap. Do not copy its standing pose, facial expression, bright lighting, body proportions or luggage placement.
+IMAGE 3 su_home_neutral_v09.png supplies fixed FACIAL IDENTITY ONLY: soft narrow youthful oval face, natural small nose/mouth/chin spacing and restrained features. Its bob is obsolete and must NOT be copied. Do not transfer the open eyes, frontal expression, standing posture or height.
+IMAGE 4 su_early_crewcut_reference_v02.png is an auxiliary cropped-HAIR reference ONLY; do not replace the target face, costume, pose or body.
+
+PRECISE HAIR EDIT
+Su is curled asleep in the lower-left foreground. Keep her exact tilted head and cap position. Remove the longer black hair behind her visible ear and along the nape toward the hoodie, replacing it with short hair closely following the skull and exposing the ear/back-neck boundary naturally. Match image 2's approved cropped cap hair from the EXISTING sideways sleeping head angle. No dangling bob lobe, jaw-length locks, collar-length tail, ponytail, bald patch or bare shaved scalp. Preserve her cap body, brim, existing short front fringe, head size and cheek position on the support. The star clip remains naturally hidden under the cap; do not add it outside the cap or on the wrong side.
+
+LOCK THE SLEEP PERFORMANCE
+Her eyes stay gently CLOSED, mouth softly closed, brow quietly tired, without tears, smile, drool, cartoon sleeping symbols or dream imagery. Do not wake her, rotate her face toward camera or change her recognizable age and face shape.
+Keep her compact small side-lying curl and short limbs exactly as shown, head toward the left and bent legs/shoes toward the right. Preserve the existing cheek-to-forearm/backpack contact, both arms hugging the ONE closed navy backpack against her chest, the visible hand and sleeve arrangement, the torso/hip support against the flat suitcase and adjacent ground, the folded knees and grounded shoes. Do not add hands or unhide currently occluded limbs. Preserve ordinary anatomy without changing the approved support arrangement.
+Same pale-blue hoodie over off-white shirt, dark trousers, white sneakers and navy cap. No new clothing, exposed body or adult/infant proportions.
+
+LOCK THE CASE AND SETTING
+The ONE white hard-shell suitcase stays CLOSED and FLAT in its existing exact orientation, width, depth, position and apparent proportions. Keep the two cat stickers on the upper broad face, corner guards, seams, side handles and lowered pull handle. This existing case arrangement is approved; do not shrink, enlarge, stand it upright, open it, relocate the stickers or introduce a second case, cushion, mattress or blanket.
+Preserve the wooden wall, closed locked door with visible rusty latch/padlock, roof, moss, bare roadside ground, empty bus stop, road, wires, varied trees, distant petrol station, car and small distant adults exactly in their existing positions and roles. No additional person, animal, nearby passerby, food, wrapper, money, phone, bedding, rescue or approaching figure.
+Keep the same deep blue-gray night and muted light shared by her face, hands, clothes, bag and case. No brighter portrait lighting, self-lit skin, halo, new spotlight, weather change or dawn. Preserve the existing sky rather than adding or removing celestial details.
+Maintain the same gently anime-stylized 2D visual-novel rendering, soft shadows and restrained linework; no photoreal pores, camera grain, glossy 3D or chibi.
+Return exactly ONE finished full wide image at the original dimensions/framing. No crop, zoom, inset, comparison sheet, border or watermark. The only intended revision is the visible ear/nape hair; preserve all other approved visual elements as closely as possible.

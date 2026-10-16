@@ -1,0 +1,9 @@
+Use case: precise-object-edit.
+Asset: OP-ZHANG-DUAL-01《张思凡·中央广场初遇》v03.
+User-approved invariants: the clean cel-shaded background quality, character, pose, clothing, face and composition of v02.
+
+Image 1 is the edit target v02. Image 2 is older v01, supplied ONLY to identify the foreground tree as a pine and show its general branch structure. Do not copy the old image's photographic microtexture.
+
+Change ONLY the foliage of the ONE LARGE FOREGROUND TREE behind Zhang Sifan from broad leaves back into a mature PINE TREE. Keep the thick trunk, position and major branches from image 1. Replace the rounded broadleaf canopy with unmistakable pine branch silhouettes and long slender needle tufts: open, horizontally layered irregular branches supporting grouped fanlike sprays of needles, varying naturally in density. The needle groups must be expressed as SIMPLE CLEAN DRAWN SHAPES with sparse essential lines and two-or-three-tone cel shading, not thousands of individual speckles. No rounded oak/maple leaves on this foreground pine. Preserve the sunny morning and canopy shade direction. Let a few pale sky gaps remain among the irregular pine clusters.
+
+Everything else must remain exactly as in image 1: same face, hair, yellow cap, hands, proportions, clothes, stance and screen position; same smooth illustrated bark and ground; same jewelry shop, buildings, clock tower and background pedestrians; same distant trees and shrubbery. Do not change background trees into pines. No character retouching or movement. No added objects, captions, text, logos, grain, photoreal texture, blur, noise or watermark. Preserve the 16:9 framing and the clear anime finish already approved by the user.

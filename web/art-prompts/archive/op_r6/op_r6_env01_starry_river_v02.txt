@@ -1,0 +1,12 @@
+Use case: identity-preserve / environment-preserving cleanup.
+Asset: OP-R6-ENV-01 v02, "Starry Riverbank", opening environment illustration for a visual-novel ending film.
+Input image 1 is the EXACT APPROVED EDIT TARGET. Keep its scene, camera, composition and quiet emotional atmosphere.
+
+Primary request: A selective cleanup of overly fine visual texture into a cleaner softly drawn 2D ANIME background. Preserve the beautiful starry night, gently rippling river, foreground grasses, far-bank tree line and distant low mountain layers. This is not a new landscape.
+
+SKY: Keep the prominent bright stars at their existing positions and retain enough smaller stars to read as a rich natural starry night. Remove only the dense faint pinprick grit and incidental scattered noise between meaningful stars. Preserve smooth navy-blue sky gradients and the overall placement of cloud wisps; simplify frayed cloud micro-edges into calm painted shapes. No giant moon, galaxy, nebula, shooting stars or new celestial objects. Do NOT erase the stars as if all points were noise.
+WATER: Retain the existing broad bands of blue, horizontal ripples, luminous reflected paths and near/far perspective. Consolidate excessive tiny broken glitter fragments, repetitive hairline striations and gritty pixel-like flecks into fewer clean, gently broken horizontal strokes. Keep the river alive with small movement, not a mirror, a glowing solid stripe or a flat solid colour.
+GRASS: Preserve the large distinctive bending blades and the whole sloping foreground-bank silhouette. Group the hundreds of tiny overlapping stems into clear clumps and smooth shaded blue-green shapes, keeping selected individual blades at the water's edge. Do not remove the foreground, change its height or make it a featureless black mass.
+FAR BANK: Preserve all mountain and tree-line silhouettes and their depth separation. Clean only accidental granular smudges.
+
+Keep framing, horizon height, palette, dark/bright balance and all main spatial relationships unchanged. Crisp intentional contours where needed, gentle atmospheric gradients elsewhere. Do not globally brighten, darken, blur or over-sharpen. No photorealistic wet texture, film grain, paper grain, painterly stipple, random white flecks, added people, animals, buildings, boats, roads, titles or watermarks. Exactly one complete wide 16:9 illustration at the highest supported landscape resolution.

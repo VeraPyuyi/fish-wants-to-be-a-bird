@@ -1,0 +1,8 @@
+Use case: precise-object-edit.
+Edit the provided dinner illustration for a CLEAN-UP PASS ONLY. Keep the exact full 16:9 composition and all five people.
+
+Remove the accumulated granular noise and tiny jagged mottled patches. Clean up all five people's hair into clear coherent dark locks and smooth highlight shapes; keep the existing hairstyles and hair lengths. Simplify tiny blotchy fabric texture on shirts, skirts, socks and trousers while retaining meaningful folds. Reduce noisy wood grain on the dining table/chairs, dense foliage flecks and small broken speckles in the river reflections. Make the sky smoothly shaded while retaining the deliberate stars and warm riverside lights. The finished picture should look like a clean, crisp anime visual novel illustration with tidy outlines and smooth color areas, not blurred, over-sharpened or photorealistic.
+
+CRITICAL LOCKS: preserve the exact facial identities, face shapes, expressions, head/body sizes, relative heights, clothing designs and colors, all poses and contact points. Preserve the correct LEFT-palm V gesture of the laughing adult in lavender: thumb root on SCREEN-RIGHT, folded ring and little fingers on SCREEN-LEFT, longer upright middle finger on SCREEN-LEFT and index finger on SCREEN-RIGHT. This hand was meticulously corrected and must be kept exactly, with the same scale and wrist join. Preserve every other hand and the objects they hold. Preserve the shoulder lean and eyes-closed laugh, star hair clip, twin tails, table setting, architecture, bridge, framing and warm light.
+
+Do not redesign faces, hands or outfits. No added objects, text or watermarks. Return the complete cleaned full image.

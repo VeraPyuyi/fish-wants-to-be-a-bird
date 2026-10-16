@@ -1,0 +1,26 @@
+Use case: illustrated-character-scene.
+Create ONE 16:9 horizontal visual-novel opening illustration:
+OP-AN-01 v01, "安念·人海中的第一次相见" (An Nian — First Meeting in the Crowd).
+
+REFERENCE ROLES:
+Image 1 is the approved kitchen illustration. The TALLER person ON THE LEFT in the grey-green T-shirt is FANG YOUYOU. Use that person's recognizable adult face: brown eyes, straight brows, slender clear nose and gently defined jaw, a gentle androgynous appearance. In this new scene Fang's BLACK hair has grown to CHIN LENGTH (June 2005), rather than the short ear-length hair in the older reference. Do NOT copy the younger person on the right, her pink dress or star hairclip into this scene.
+Image 2 is a STYLE REFERENCE ONLY: clean delicate linework, soft anime shading, gentle colors, natural anime eyes. Do not copy that character's face, hairstyle, star clip or blue hoodie. Su Yuqing is NOT present.
+
+SCENE AND EMOTION:
+June 2005, a little after 5:15 PM outside the exit of Hangzhou's Chengzhan railway station. It is an ordinary bright early-summer late afternoon, not sunset or nighttime. Two young adults recognize one another amid arriving passengers. The warm moment should feel slightly awkward, hopeful and human, with a quiet sense of finally closing the distance after talking online. They have not exchanged photographs before this meeting.
+
+AN NIAN, main featured character, on the LEFT:
+A round-faced, somewhat chubby Chinese young adult man, ordinary and approachable. About 170 cm, only modestly taller than Fang (roughly 160 cm): the height difference is about 8–10 cm on the same ground plane, NOT a giant beside a tiny child. Soft belly and thicker upper arms, not muscular. Short ordinary dark hair (a design choice), small eyes, faint freshly shaved blue-grey stubble along chin/jaw. Black plain short-sleeved T-shirt, blue casual beach shorts ending near the knees, ordinary casual shoes. His face is joyful and slightly shy, smiling naturally, not a glamour-model face or a mocking caricature. He raises ONE hand in a relaxed greeting toward Fang; the other hand hangs naturally. All fingers anatomically coherent.
+
+FANG YOUYOU, on the RIGHT:
+Keep the approved adult face from the LEFT person of reference 1. Slim, narrow shoulders, slightly shorter than An Nian, still an adult figure. Black chin-length hair, fine straight slightly tousled locks at the jaw; no ponytail or hair accessory. Modest light grey-blue long-sleeved casual top and dark straight trousers, everyday closed shoes. The clothing is neutral and opaque. A simple backpack is held close in front, as she has just come through the crowd. She has stopped and turned her head and shoulders toward An Nian after hearing him call her nickname. Her expression is quietly surprised, recognizing him, with a small tentative smile. Show a readable three-quarter view of her face rather than the back of her head. Keep her facial structure distinct from Su's large-eyed round face.
+
+COMPOSITION:
+Eye-level medium-wide two-person shot, showing both from head to at least below the knees, ideally full figures grounded on the same plaza paving. They stand a few steps apart with open breathing space between them, at similar depth. An Nian's waving hand and Fang's bag have clear silhouettes, no overlapping body parts. Both bodies belong naturally in the station scene with consistent perspective, contact shadows and sunlight. Reserve a quiet upper region away from faces for later editorial name text, but generate NO actual character-name text or subtitle.
+
+ENVIRONMENT:
+A plausible maintained Chinese big-city railway-station exit circa 2005: pale grey tiled or stone facade, simple covered exit, glass doors, metal queue barriers and broad paved approach. It should feel functional and relatively modern for 2005, not a ruined rural station, not a modern high-speed-rail glass terminal. Architecture and background layout are an illustrative design, not an exact architectural reconstruction. Include a moderate stream of background passengers with ordinary jackets, shirts, cloth bags and luggage, a few waiting people and a distant pedal passenger tricycle near the curb. Background people have varied clothing and sizes, are softly detailed and do not stare at the main pair. No smartphones, QR codes, high-speed trains or contemporary giant LED screens. Keep signage subdued without prominent legible text.
+
+STYLE:
+Match the references' soft anime visual-novel character rendering consistently for both characters AND the scenery. Gentle simplified shapes, restrained texture, clean lines and coherent painterly light; avoid photoreal skin, photographic background, over-detailed material grain or 3D render appearance. Warm ivory sunlight with cooler blue-grey shade, atmospheric depth and a subtle sense of passing crowd motion without actual motion blur over the leads.
+Exactly two identifiable foreground characters, An Nian and Fang Youyou. No Su Yuqing, no kitchen objects, no photo collage, no milk tea, no fantasy symbolism, no sexualized framing. Produce a single polished illustration, no panels, no border, no title, no UI.

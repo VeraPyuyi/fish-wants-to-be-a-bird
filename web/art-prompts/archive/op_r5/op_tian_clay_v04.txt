@@ -1,0 +1,10 @@
+Use case: identity-preserve.
+Edit the supplied OP-TIAN-01 v03 illustration into v04, "天语遥·掌心的软陶女武神". Make exactly two restrained adjustments.
+
+1. SHARPER GAZE. Preserve Tian Yuyao's approved face shape, nose, jaw, age and identity, but make the eyes feel distinctly more incisive and determined. Slightly narrow the upper eyelids, use a cleaner and more angular upper-eye line, and lower the inner ends of the straight eyebrows just a little. Keep the pupils clearly directed downward at the small sculpture with alert, concentrated focus. The expression should be cool and quietly resolute, not sleepy, smiling, enraged or exaggerated. Do not change the chin or cheek shape, enlarge the eyes or add makeup.
+
+2. ONLY A TINY EXTRA REDUCTION IN STATURE. The supplied version is already much smaller than the original. Now make the figure only a little more petite, roughly a 2–4 percent visual adjustment relative to the fixed furniture, NOT another large reduction. Let the head and shoulder line settle just a few pixels lower, the shoulder/back silhouette a touch narrower, and the arms subtly more delicate. Keep the head-to-body proportions natural and adult. Do not make the figure childlike or chibi. Keep the figure nearly the same size as in this input; the difference must be a small refinement.
+
+Preserve the dark short single ponytail, loose cream sweater, grey-blue trousers, seated position, tool-holding action and the other hand stabilizing the little figure. Only minimally adjust the elbows if needed for natural contact. Preserve all fingers and hand anatomy.
+
+LOCK the complete environment and object scale: desk, chair, computer, bookcase, mirror, bed, rainy window, lighting, camera and crop. The clay statue remains at the same position and size, with armor, sword, two cat ears, a curved cat tail, and no attached wings. Keep the separate pair of clay wings lying on the desk. Do not scale the whole room, zoom out, change style, add objects, add people, or add text. Return one complete horizontal image with the same approximately 16:9 composition and soft anime rendering.

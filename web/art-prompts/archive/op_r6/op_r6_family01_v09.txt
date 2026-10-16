@@ -1,0 +1,10 @@
+Use case: identity-preserve
+Edit target: the attached eight-person courtyard memorial portrait, OP-R6-FAMILY-01 v08. Output v09.
+Only change TIAN YUYAO: seated at the FAR RIGHT of the FRONT ROW, cream long-sleeved top, slate blue trousers, dark canvas shoes, dark low single ponytail. The user asks that this character look MORE PETITE and PHYSICALLY FRAIL.
+
+Make Tian's seated body modestly but clearly smaller relative to the bench and the other people: narrow shoulders and torso, slightly lower head/shoulder level, slimmer forearms and legs, small hands. Keep a coherent adult head/body proportion; no oversized childlike head. Preserve the same seat position, natural connection of hips and legs, and plausible feet near the ground. Do not shrink the bench or enlarge anybody else.
+Her existing cream shirt should now hang a little looser, with gently dropped shoulders and sleeves loosely surrounding her wrists. Slightly hunched/tired posture, softened drooping shoulders. Make the visible skin paler and less rosy, with very subtle under-eye shadows, tired half-lowered eyelids and a small closed, subdued mouth with little or no smile. Quiet frailty and exhaustion, with a gentle composed expression, no grotesque emaciation or dramatic distress.
+Preserve Tian's already established slightly masculine youthful facial identity, narrow eye shape and soft rounded chin, natural dark hair and low ponytail. Do not replace her face with another character or turn her into a little child.
+
+LOCK ALL OTHER SEVEN PEOPLE exactly as the input: Zhang and Fang's newly differentiated faces, Hu and Mo faces, An, Su, Lin, all clothes, hairstyles, expressions, body sizes and poses. Keep eight people, the two-row layout, courtyard, bench, light, camera, headroom and shoe margins.
+Maintain the clean denoised anime style: sharp intentional outlines, smooth coherent colors, no grain, blotchy textures, blurry faces or rough plaster. Do not add text, medical equipment, objects, borders or panels. Output only the entire same 16:9 portrait with the single targeted Tian edit.

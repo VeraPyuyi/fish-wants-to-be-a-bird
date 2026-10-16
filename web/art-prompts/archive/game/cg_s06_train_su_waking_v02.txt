@@ -1,0 +1,20 @@
+Asset: CG-S06-03《T136车厢·初醒到站》v02
+Use case: identity-preserve. One localized haircut edit to the already approved waking scene.
+
+INPUT ROLES
+Image 1, cg_s06_train_su_waking_v01: SOLE FULL-FRAME EDIT TARGET. Keep Su's approved waking face, exact eye opening, parted lips, upright head direction, hands and body pose. Keep the complete carriage.
+Image 2, cg_s06_train_su_seated_v03: approved SAME-SCENE SHORT-HAIR reference only. Match its cropped ear/nape outline beneath the navy cap, adapting to the more frontal three-quarter head in image 1. Do NOT copy its sideward gaze, contemplative expression, chin-on-hand or seated head position.
+Image 3, su_home_neutral_v09: fixed facial IDENTITY only: gentle oval teenage face and natural eye/nose/mouth/chin relationships. Its old bob is obsolete. Do not copy its long hair, neutral expression, frontal portrait pose, body or checkerboard.
+Image 4, su_early_crewcut_reference_v02: secondary approved short-hair reference only, confirming close short sides and cropped fringe. Keep the cap on and do not import a visible clip or standing pose.
+
+THE ONLY REQUESTED CHANGE: REMOVE THE OLD LOWER BOB
+Su is the petite girl on the RIGHT, just awakened and holding her backpack. Image 1 still has a thick rounded black bob hanging behind her visible ear down toward the blue hoodie, plus longer ends beside the lower cheek/jaw. Remove those hanging lower sections completely, on both visible sides of her head. Replace them with close-to-head cropped short hair ending at the upper ear/high nape as in image 2. Clearly expose the lower ear, neck below/behind it and the gap above the hoodie. Restore the appropriate skin or existing blue bench where long hair was removed. No curtain beside the chin, rounded jaw-length black mass, curled collar-level tips or bob tucked behind an ear. Keep a natural short fringe under the same cap; not bald, not a new hair color.
+
+PRESERVE THE APPROVED WAKING PERFORMANCE
+Her face is already user-approved: preserve precisely its gentle three-quarter angle toward the foreground aisle, gaze direction, eye opening, slight dawning surprise, lifted brows and small parted mouth. Do not close or narrow her eyes, add stronger surprise, change her face shape, make her smile or revert to a sleepy leaning-back face. Maintain the same small nose, natural lower-face length and teenage identity. Her head stays just clear of the backrest, body slightly upright/forward, hips on the same seat. Keep both small hands separately holding the upper backpack, short bent forearms, petite seated scale, knees and visible shoes. No chin support, rubbing eyes, adjusting the hat, stretching or standing.
+
+PRESERVE CLOTHES, PROPS AND THE ENTIRE SHOT
+Keep the navy cap position/shape and its tilt, pale blue zip hoodie, off-white top, jeans, white shoes, navy backpack on her lap and upright white suitcase with two cat stickers by her feet. The original-side single star clip remains naturally under the cap; no new clip on the hat or exposed ear.
+Keep the left adults and their approved soft anime rendering: the woman reads her newspaper and the middle-aged man peels an egg over his paper bag. They are ordinary passengers occupied with their own activities, not the caller. No other character, reaching hand or interaction. Keep blue benches, curtains, rack and luggage, folding table, window, cloudy rural fields and hills, muted daylight, shadows, line weight, camera, perspective and full landscape crop unchanged. The scene remains one coherent illustrated visual-novel shot.
+
+Output ONE full-frame illustration at the original aspect ratio, with the old lower bob replaced by approved short hair. No alternative image, sheet, montage, close-up, title, UI, subtitle, watermark, border, photorealistic redraw or 3D rendering. Hair length is the only intended change; the existing approved waking expression and hands must remain.

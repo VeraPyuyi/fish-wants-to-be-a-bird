@@ -1,0 +1,19 @@
+Use case: identity-preserve
+Asset: OP-HU-01《胡玉牛·雨天厨房里的面点》v03.
+Create ONE revision of IMAGE 1, the kitchen scene. IMAGE 2 is ONLY a hair-shape reference for Su. Keep the full 16:9 scene.
+
+Make these three corrections visibly effective:
+
+A. REDRAW Hu Yuniu's facial silhouette, the large adult on the LEFT.
+The current long, narrow, pointed handsome face is incorrect. Give Hu a genuinely BROAD SQUARE-ROUNDED face: substantially wider cheek planes, fuller cheeks, a lower jaw almost as wide as the cheekbones, and a SHORT BROAD rounded chin. Increase the mid-face/lower-face width by roughly a fifth while preserving the existing head position and looking-down angle. Make the visible ears distinctly larger and rounder, natural for a broad-faced adult. Keep the neat dark hair, light blue-grey beard shadow, calm lowered eyes and gentle modest smile. Strong and kind, not menacing, elderly, comic or photorealistic. Use the scene's soft anime facial linework. Hu's face has NOT been approved, so a clear facial-shape revision is required, not just darker shading.
+
+B. REDRAW Su's ear-covering side hair, the small character on the RIGHT.
+Her FACE, eyes, star clip, bangs, head angle and size stay unchanged.
+Use the fuller side-hair panels of IMAGE 2 as the SHAPE reference, but SHORTEN their bottom ends to earlobe level for this earlier story period. The hair should fall in FRONT of and hide most of the currently exposed ear, especially the visible ear at viewer-right. Only a tiny lower earlobe may peek out. Both sides must have an unmistakably fuller, longer covering silhouette. Do not tuck the hair behind her ears. Keep a short soft nape. It is NOT the chin-length hairstyle of image 2; do not copy its outfit or its face.
+
+C. Replace the ROUND BUN BETWEEN HU'S HANDS with a clearly sideways HALF-MOON JIAOZI.
+Match the crescent shape of the corrected dumplings already on the plate. The held dumpling must have a visibly elongated half-moon body with two pointed ends and a pleated seam along the TOP CURVED EDGE. Show that curved seam side-on to the viewer. Hu supports it with one hand and pinches the edge with the other. Adjust fingertips as needed for this precise action, retaining natural hands and fingers.
+Do not gather all dough into a round top knot. Not a bun, not a soup dumpling. Keep normal small dumpling scale.
+The plate's half-moon dumplings and open-top small shumai are already correct and MUST remain unchanged.
+
+Preserve all else: two characters and their placement, height and shoulder proportions, clothing, Su's expression and face, working-arm positions apart from necessary fingertips, counter, board, steamer, bowls, rolling pin, rain window, kitchen, warm afternoon lighting and camera framing. No new objects or characters. No text, labels, watermark or comparison layout.

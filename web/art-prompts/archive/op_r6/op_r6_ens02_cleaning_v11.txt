@@ -1,0 +1,10 @@
+Use case: identity-preserve
+Asset: OP-R6-ENS-02 "一起把旧屋擦亮" v11, full 16:9 group illustration for a visual novel ending movie.
+Image 1 is the EDIT TARGET: a cleaned five-person room illustration.
+Image 2 is the user's APPROVED Hu Yuniu face. It is the final identity reference, not an optional inspiration.
+
+Make ONE localized correction in image 1: replace only the facial anatomy of Hu Yuniu, the tall adult in the brick-red polo at centre-left holding the wooden chair, with the exact approved face of image 2. Both images already have nearly the same rightward three-quarter head direction. Faithfully transfer the approved smaller horizontal eyes, low rounded nose, broad rounded-square cheek/jaw shape, blunt rounded chin and reserved closed-mouth smile. The approved face is ordinary, warm and slightly awkward. Do not substitute a handsome pointed-chin face, round youthful eyes or an idol nose.
+
+Scale the reference face to the EXISTING head and body, not its large portrait size. Preserve Hu's hair silhouette, head position, normal neck length, shoulder width, lean tall physique, total height, both hands, arms, shirt, trousers and pose holding the chair. Only change his internal face geometry and the minimal cheek/jaw contour needed to match reference 2. Maintain the original room lighting and natural facial integration. No oversized head, no neck stretching, no broadening of his torso.
+
+Strict invariants: absolutely preserve the other four people and cat: Fang on the left in ivory blouse and sage skirt, Zhang at the rear window in mint top/navy skirt, petite Su holding the black cat in the blue dress and white socks, and Lin at the right in lavender blouse/denim shorts. Do not transfer Hu's face to any other character. All other facial identities, hair, outfits, poses, relative heights, hands, foot margins, furniture, window layout, floor, shadows, props and the cat pawprints on the bed stay as in image 1. Preserve the wide full-scene framing and the clean simplified textures. No added noise, no new small grain, no heavier realism, no new text or objects. Return only the single revised full scene, no portrait or panels.

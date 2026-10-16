@@ -1,0 +1,30 @@
+Use case: style-transfer.
+Asset: BG-HOME-02 | 苏家客厅 v03 · 轻度动漫化.
+Produce exactly ONE revised visual-novel background.
+
+INPUT ROLES:
+Image 1, bg_livingroom_v02, is the EDIT TARGET and the exact approved living-room composition, furniture layout and prop reference.
+Image 2, bg_bedroom_v03, is the user's newly APPROVED drawing, palette and daylight reference for the SAME family home. Match its moderate anime background illustration, readable warm honey-colored wood, soft ivory walls and pale-blue textiles. The user has explicitly approved this brighter, warmer lighting. Do not copy its bedroom furniture, teddy bears, books on the floor or suitcase into the living room.
+
+PRIMARY REQUEST:
+Redraw the SAME living room with a slightly stronger anime visual-novel painting language, consistent with the approved bedroom. Keep it a tidy, comfortable, financially well-off but ordinary Hangzhou family home in 2004. The whole room must look illustrated and deliberately drawn, not a photograph or photorealistic 3D interior.
+
+DRAWING AND LIGHT:
+Define structural edges with selective fine warm-brown and grey-blue colored lines: door panels, furniture joints, table and chair edges, the CRT television casing, air-conditioner slats and window frames. Use coherent base colors and two or three broad painted light/shadow groups, with soft gradients where they make sense.
+Greatly simplify dense wood-grain microtexture, plaster grain, upholstery fibers and photographic surface noise. Keep readable drawn wood seams and occasional restrained grain marks, not swirling/embossed texture. Paint the sofa fabric and cushions with clean soft forms; reduce mirror-like gloss on the large tabletop to a broad softly painted window reflection.
+Match the approved bedroom's gentle warm daylight and clarity, balanced by pale-blue curtains and a grey-white daytime sky outside. Keep shadows comfortably readable, quiet domestic warmth and clear illustrated depth. No orange sunset, saturated yellow filter, theatrical sunbeams or change to night. The small ceiling lamp remains the existing modest fixture.
+The result should be detailed and believable enough for an emotional visual novel, not a flat vector cartoon, sketch, watercolor wash, childish room or fantasy scene.
+
+STRICT INVARIANTS:
+Preserve the exact same camera, perspective, landscape crop and architecture.
+The closed wooden entrance door stays at left with its ordinary peephole, handle and locks; the small shoe cabinet and potted plant remain far left. The existing wall hook and single hanger remain in their positions; do not scatter hangers on the floor.
+The light oatmeal sofa stays center-left, side-on, with its two blue-grey cushions and plant behind it. Preserve the small wood coffee table and its modest potted plant.
+The thick curved-screen CRT television stays at the rear on its matching wooden cabinet. Keep it visibly a bulky CRT with its screen off, not a flat-screen panel. Keep the existing simple player in the shelf. No logos or readable branding.
+The beige early-2000s floor-standing air conditioner stays beside the television near the right window, with simple physical grille slats; do not replace it with a modern smart unit. Preserve the small plant above it.
+Keep the existing framed landscape on the rear wall. Keep the large right-side window, its pale-blue curtains and white sheers, and the same ordinary residential glimpse outside.
+Preserve the large wooden dining/writing table in the right foreground and the same chairs, including the front-right chair edge. Maintain sensible table thickness, intact connected chair/table legs and the current empty tabletop for the story's later writing moment. No paper, pen or keys in this reusable background: those are handled by a separate close-up.
+Keep the same broad clear passage across the lower-left floor toward the entrance door and the calm lower quarter for dialogue and character placement. Do not add objects to this passage.
+Keep clean maintained ivory walls and ceiling, intact honey-toned wood furniture, coordinated wood flooring and the same tidy material comfort. No poverty cues, new stains, scorch marks, overturned furniture or damage. The emotional tension will be conveyed by narrative and sound.
+
+No people, character silhouettes, suitcase, toys, additional furniture, readable lettering, captions, UI, logos, watermarks, extra frame or comparison panels. No smartphones, flat-screen televisions, LED strips, laptops or contemporary smart-home devices.
+Generate ONE full 16:9 landscape image with the same complete framing as Image 1. No cropping, borders or transparency.

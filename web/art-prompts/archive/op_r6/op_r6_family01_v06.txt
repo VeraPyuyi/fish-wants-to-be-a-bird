@@ -1,0 +1,18 @@
+Edit IMAGE 1 (eight-person family portrait) to OP-R6-FAMILY-01 v06. The user requests a further clear change: Zhang and Fang must look more like young adult men in facial structure while retaining their feminine outfits, and Hu must look more plain, reserved and slightly socially awkward, distinctly different from Mo. Keep the drawing kind and natural.
+IMAGE2 is the approved close-up identity baseline (left Zhang, middle Fang, right Hu). It is the baseline, but the user's NEW request strengthens Zhang/Fang's masculine facial structure and changes Hu's expression.
+IMAGE3 is Hu's earlier approved sofa scene, useful for his ordinary broad rounded face; do not import its clothes.
+
+Make visible changes in these three FACE AREAS:
+ZHANG — BACK ROW SECOND FROM LEFT, rose blouse. Give a clearly young-adult masculine-androgynous face: straighter stronger brow bones, narrower almond eyes, more definite nose bridge and longer nose tip, flatter cheeks and a firmer lower jaw. Preserve his more open, lively gaze and slightly asymmetric friendly closed smile. No beard, no makeup, no dark ageing lines. Keep a longer oval face than Fang, without creating a sharp pointed chin.
+FANG — FRONT ROW FAR LEFT, ivory blouse / sage skirt. More masculine adult face too: low flat eyebrows, elongated level eyes with less round iris showing, a clearly drawn straight nose, and a shorter, broader softly squared jaw. Quiet almost-level smile. Keep this distinction from Zhang: more compact face and calm horizontal eyes versus Zhang's longer face and more open expression. Do NOT simply give both the same face. The feminine collars and skirts must remain, but must not cause the face to be drawn as a soft childlike girl.
+
+HU — BACK ROW FAR RIGHT, ochre polo. Mo is the blue-shirt man beside him and is NOT to be edited. Make Hu clearly different from Mo through face shape AND expression:
+- Face wider at the cheeks and lower jaw, cheeks softly full, short blunt rounded chin, no long V-shaped face.
+- Nose modest and broad with a rounded tip, ears rounded and a bit more visible, small straightforward eyes with gently flat upper lids.
+- Eyebrows plain, straight and relaxed, no jaunty tilt or charming confident arch.
+- Remove the charismatic smiling smirk. Mouth small and almost straight, lips gently closed, only the slightest shy warmth; gaze earnest, a little stiff and reserved, like someone awkwardly posing for a group photo. 木讷、老实、温厚，略拘谨。Not blank, stupid, angry, depressed or elderly.
+- Preserve faint chin stubble and natural short hair. No handsome idol jaw or polished model features.
+Keep his approved tall LEAN body and head-to-shoulder scale, do not make him muscular.
+
+LOCK EVERYTHING ELSE: exactly eight people; An back-left, Mo blue shirt back centre-right, Su tiny pink dress front centre-left, Lin twin ponytails front centre-right, Tian cream top front-right — their faces and hair stay exactly as IMAGE1. Keep all bodies, clothes, hands, two-row placement, head sizes, bench, courtyard, light, 16:9 camera, top headroom and bottom shoe margin unchanged. The only revisions are these three faces and their facial expressions; keep neck attachment natural.
+Render the facial construction clearly at this full-scene scale. Do not blur or soften the whole image. Clean crisp anime contour and eye lines, smooth broad shaded areas, no grain, speckles or gritty skin texture. Output only the complete courtyard portrait, no panels, text or labels.

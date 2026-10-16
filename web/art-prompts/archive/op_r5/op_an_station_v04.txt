@@ -1,0 +1,12 @@
+Use case: identity-preserve.
+Edit the supplied scene into OP-AN-01 v04, "安念·人海中的第一次相见".
+
+User direction: FANG YOUYOU, the person on the RIGHT holding the backpack, should look a little more boyish / masculine in facial structure. Make a small but clearly readable adjustment ONLY to this person's face:
+- Slightly thicken and straighten the eyebrows, keeping a calm, relaxed brow rather than an angry frown.
+- Give the nose bridge and small nose tip a little more structural definition; do not just paint a dark shadow.
+- Make the cheek-to-jaw contour a touch straighter and the lower jaw a little less delicately tapered. Keep the chin modest and gently rounded, not a long point or a heavy square jaw.
+- Keep the existing attentive brown almond eyes open naturally, but reduce overly curved/feminine eyelash emphasis. Do not make the eyes drowsy or squinting.
+Retain the same youthful adult identity, gentle shy smile and warm expression. The result is a clear, refined, slightly boyish face, not rugged, old, angry or caricatured. Do not add facial hair, wrinkles, makeup, or broad muscular features. This is an incremental adjustment, not a gender-identity change or a new character.
+
+STRICTLY LOCK everything outside Fang's face:
+Fang's chin-length black hair and head angle, head size, neck, slender body, grey-blue long-sleeved top, dark trousers, backpack, hand placement, stance and current height. An Nian on the LEFT remains exactly as supplied, including face, softly round build, black T-shirt, blue shorts, raised hand, other hand and smile. Keep both people's scale and location, foot contact, the entire station exterior, crowd, signs, vehicles, trees, paving, lighting, colors, shadows and framing. No new text, objects or people. Preserve the current soft anime visual novel style. Output one complete horizontal scene at the same framing.

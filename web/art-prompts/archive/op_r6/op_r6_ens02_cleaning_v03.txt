@@ -1,0 +1,19 @@
+Use case: identity-preserve. Revise the FIRST attached image only, producing a single 16:9 full scene named OP-R6-ENS-02《一起把旧屋擦亮》v03. This is a limited correction of three items. Do not redesign the scene.
+
+INPUT ROLES:
+Image 1: target cleaning scene, five people in the container cabin.
+Image 2: approved ZHANG SIFAN identity, main person with yellow cap in the plaza. Use FACE IDENTITY only, no cap/outfit/environment import.
+Image 3: approved HU YUNIU body/identity, main person in navy shirt at amusement park. Use his slim-tall proportions only, no environment import.
+
+ABSOLUTE IDENTITY LOCKS: The user explicitly approved the three faces in Image 1: foreground-right pink dress SU YUQING holding a black cat; foreground-left sage shirt FANG YOUYOU with hand near nose; right beside bed white blouse/twin ponytails LIN XICHEN. Retain these THREE faces, expressions, eye shapes, hair, head sizes, body proportions, poses and clothes exactly as in Image 1. Do not “improve” or redraw their identities. Keep Su's single ivory star clip and near-jaw hair. Fang's dark full-length trousers must remain trousers.
+
+CHANGE 1 — ZHANG'S FACE:
+The person in the pale yellow T-shirt at the BACK wiping the window is adult Zhang, NOT another Su. Match the exact approved face from Image 2: gently elongated oval face, natural straight eyebrows, moderately narrow brown eyes, proportionate irises, clearly but softly drawn nose bridge and adult chin/neck. Reduce the current round childlike cheeks and large round-eyed impression. Use a gentle small CLOSED-mouth smile similar to the reference rather than the target's large open smile. Keep soft androgynous warmth; no harsh jaw, stubble or severe expression. Preserve natural dark short hair (no cap or wig), current wiping action, location, yellow shirt and dark cropped trousers. The facial correction must be visibly apparent in the whole frame; do not make another barely changed copy of the target.
+
+CHANGE 2 — HU'S UPPER BODY:
+The navy sports-shirt person moving the chair in the middle-left is Hu. Bring shoulder width, chest and upper arms back to Image 3's approved tall, moderately slender silhouette. Gently narrow the outer shoulder/torso profile about 10-12 percent while maintaining his standing height, natural head size and arm reach. Keep face/hair unchanged. Keep navy shirt with pale shoulder stripes, trousers, both hands grasping the SAME chair and coherent wrist/forearm anatomy. Do not make him muscular, wider, shorter or skeletal.
+
+CHANGE 3 — FRAME MARGIN:
+The current frame clips Su's shoe tips and Fang's foreground shoe. Pull the view slightly back and expand the composition downward, showing both of Su's shoes COMPLETE, with a clear strip of floor at least 4 percent of image height below the lowest shoe. Also include Fang's foreground shoe fully. Keep the top of Hu's hair fully in frame. Do not simply compress/stretch feet or shorten legs. Preserve all relative room positions, scale hierarchy and door/bed perspective. Keep 16:9 overall; a modest wider framing is allowed only for this necessary margin.
+
+Everything else remains: exactly five people, same furnishings and layout, white bed on right with four dark cat pawprints, fridge/bookcase left, sliding glass doors behind, meadow/river view, Su holding the small black cat, cloths and basin. Maintain warm summer daylight, smooth clean anime cel-painted surfaces, crisp lines and clear faces. Do not introduce grain, stippling, dense wood texture, blurred facial features or photographic materials. No text, watermark or reference panels. One full illustration, highest available clarity.

@@ -1,0 +1,32 @@
+Asset: CG-S10-03《公路边废屋·噩梦初醒》v01
+Use case: identity-preserve
+Asset type: ONE full-frame waking expression/pose variant for a visual novel.
+
+INPUTS
+Image 1, cg_s10_night_su_curled_asleep_v01.png: APPROVED EDIT TARGET. This defines the actual location, full frame, camera, night light and CURRENT FLAT SUITCASE position, size and design. Change Su's pose and expression locally; preserve this stage.
+Image 2, cg_s10_night_su_huddled_v01.png: supporting reference ONLY for her recognizable open-eye anime face, petite seated body, travel clothes, cap and backpack. Do NOT copy its upright suitcase; the case must remain flat as in Image 1. Do not merely reuse its neutral, tearless expression.
+
+STORY MOMENT
+Su Yuqing has just woken from a distressing dream while sleeping outside the locked wooden shed. She is now awake, quietly shaken and cold. TWO thin tear tracks are visible on her cheeks. She gathers her small body inward to steady herself. This is a real-world waking reaction at the same location; depict no contents of the dream and no other event.
+
+ACTING AND PHYSICAL SUPPORT
+From the curled sleeping state in Image 1, she has pushed herself into a LOW, slightly hunched seated position on the SAME flat, closed suitcase. Her hips/outer thigh visibly rest on the broad upper surface; she remains close to the same wooden wall. Her knees stay naturally bent and tucked toward her body, with her lower legs and white shoes supported partly by the ground beside the case. Maintain realistic body support, short limbs, compact proportions and clear contact shadows. Do not raise the case into a chair, make her hover, stand her up, kneel her upright or put her back on an upright case.
+
+Her head is slightly lowered, turned enough toward the foreground to read her face, with eyes now OPEN and looking downward toward the near ground. Eyelids are tired and brows draw together a little from lingering fear and hurt. Add one delicate translucent tear trail down EACH cheek from the lower eyelid, with only a tiny restrained highlight. Keep the underlying same face shape, small chin and black bob; do not turn her into a different character. Her lips are closed or only faintly parted with an unsteady breath, not an open-mouthed cry. Her expression is vulnerable and trying to collect herself, with a trace of resolve underneath. No smile, theatrical glare, rage, bright cheerful alertness, streams spraying from eyes, heavy red face, sweat icons or glossy beauty makeup.
+
+One small hand rests gently over her upper chest, over the hoodie/top just below the collarbone, fingers naturally touching the fabric as she steadies her breathing. The other short bent arm draws the same navy backpack close against her lower chest/abdomen and tucked knees. Her shoulders curl inward and the held backpack/arm help form a protective, self-comforting posture. Hands and wrists remain anatomically clear; no extra hands, enlarged forearms, fused fingers, grabbing the throat, flailing, pointing or stretching. The bag stays intact with its existing dark navy color, size, zippers and handle, never duplicated or turned into a pillow.
+
+LOCKED LUGGAGE AND CHARACTER
+Preserve the FLAT suitcase from Image 1 exactly where it is on the ground, same physical size, broad upper face, two partly visible cute cat stickers, rounded corners, closed seams, wheel/handle details and retracted pull handle. Su may naturally obscure more of its upper surface as she sits up. Do not rotate it upright, move it across the scene, open it, add another case, enlarge it or change its shape/design.
+
+Same fully clothed petite 15-year-old Su Yuqing, 149 cm standing-height design expressed by the same small figure relative to the tall shed door. Preserve chin-length black bob, navy cap still worn securely, pale blue zip hoodie, off-white top, dark straight full-length jeans and ordinary white sneakers. Keep the established youthful anime facial proportions and short limbs. No removal/addition of clothing, costume/age/body redesign, longer hair, makeup, adult build or chibi simplification.
+
+LOCKED FRAME, SET AND LIGHT
+Preserve Image 1's whole 16:9 landscape, perspective, camera distance, shed roof and planks, CLOSED door, clearly LOCKED rusty hasp/padlock, moss, bare ground, road, unoccupied bus stop, trees/wires, distant small petrol station, its parked car, fixtures and tiny existing people. Nothing in the background is responding to Su. The station figures remain occupied with their own tasks far away; no one looks toward, approaches or helps her. Do not add another person, reaching hand, shadow figure, animal, headlights event, text, signage, captions, UI, border or watermark.
+
+Keep the existing cool blue-gray night and subtle distant gas-station illumination, shared low-light values on her face, clothes and luggage. The tear highlights are small and plausible under that existing light, not glowing lines. Same fine 2D anime VN linework and softly grouped shadows, integrated contact with the setting. No photoreal skin, dramatic studio spotlight, halo, brighter daytime character, grain or glossy 3D. Do not change the weather, sky, season or time: no sunrise, moon, extra stars, fog, rain, puddles or new nearby light source.
+
+Do not add a blanket, mat, cushion, pillow, stool, sleeping bag, food, phone, bandage, injury, dream scene or shed interior. The only supports are her existing flat suitcase, the ground and nearby wall. Keep the figure naturally small in the wide frame; no camera crop or enlargement for the tear detail. A later approved game camera can supply closer framing without new art.
+
+OUTPUT AND SOURCE
+Produce exactly ONE localized waking pose/expression edit with the entire existing composition preserved, no comparison sheet, insets, variations or additional frames. The original source at lines 334–335 explicitly gives two tear trails, a hand to the chest, and gathering her body close in fear after waking. The low seated pose and exact backpack support are staging interpretations that connect to the approved sleeping image. This picture starts with the current script's sentence about waking with tears, not the earlier dream sentence. The user must approve this single new image before runtime integration or another image.
