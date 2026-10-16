@@ -1,0 +1,18 @@
+WebGAL 4.6.4 modifications, MPL-2.0.
+Reproduce with python3 prepare_patch.py from the SHA256-locked cinematic runtime.
+Tests: node test_saves.mjs; node test_player.mjs.
+
+The original end command reset and persisted a null automatic continue slot.
+It now only cancels scheduled autosaving and flushes pending storage operations.
+The ending command captures a pre-video checkpoint; video/replay state is not
+autosaved. Manual quick slot 0 is shown in Load. A missing automatic continue
+slot falls back to an existing manual quick slot without deleting either.
+
+Ordered immutable save writes and read barriers prevent stale UI reads and
+deferred writes changing meaning. Loading stops auto/fast-forward. Saving from
+title or ending is blocked. Explicit user-requested save clearing remains valid.
+Pagehide dismisses the ending through its owner callback so BFCache cannot
+restore a blocking video perform whose player DOM was already removed.
+
+Story text, branch logic, approved images, all audio/video media and the game
+save namespace are unchanged. No user storage is migrated or deleted.

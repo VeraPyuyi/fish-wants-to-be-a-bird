@@ -7,7 +7,7 @@
     try {
       const url = new URL(value, location.href);
       if (url.origin === location.origin && /\/game\/(?:config\.txt$|scene\/.*\.txt$|template\/|userStyleSheet\.css$)/.test(url.pathname)) {
-        url.searchParams.set('v', 'r4-20261016-cinematic01');
+        url.searchParams.set('v', 'r4-20261016-saveaudit01');
         return url.href;
       }
     } catch {}
